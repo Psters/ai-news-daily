@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "category": "国外新闻",
+    "title": "OpenClaw March Update: Free AI Agents Turned Into Full Automation System",
+    "source": "AI News March 2026",
+    "summary": "OpenClaw 相关的重要更新，免费 AI Agent 转型为全自动化系统，支持跨本地和云端模型部署。",
+    "reason": "OpenClaw 相关的重要更新，免费 AI Agent 转型为全自动化系统",
+    "url": "https://juliangoldie.com/ai-news-march-2026/",
+    "date": "2026-03-20"
+  },
+  {
+    "id": 2,
+    "category": "国外新闻",
+    "title": "NVIDIA Unveils NemoClaw: Run OpenClaw Agents with Single-Command",
+    "source": "AI News Briefs",
+    "summary": "NVIDIA 发布 NemoClaw，一键运行 OpenClaw Agent，支持跨本地和云端模型，解决传统部署复杂问题。",
+    "reason": "NVIDIA 发布 NemoClaw，一键运行 OpenClaw Agent，跨本地和云端模型",
+    "url": "https://radicaldatascience.wordpress.com/2026/03/16/ai-news-briefs-bulletin-board-for-march-2026/",
+    "date": "2026-03-20"
+  },
+  {
+    "id": 3,
+    "category": "国外新闻",
+    "title": "Claude Skills: Build Your First AI Marketing Team in 16 Minutes",
+    "source": "AI-Weekly",
+    "summary": "Claude Skills 实战教程，16分钟构建 AI 营销团队，展示 AI Agent 在营销领域的应用潜力。",
+    "reason": "Claude Skills 实战教程，16分钟构建 AI 营销团队",
+    "url": "https://ai-weekly.ai/newsletter-03-03-2026/",
+    "date": "2026-03-20"
+  },
+  {
+    "id": 4,
+    "category": "国内新闻",
+    "title": "小米发布三款 MiMo-V2 大模型，万亿参数追投160亿",
+    "source": "AI NEWS - AIBase",
+    "summary": "小米发布三款自研大模型 MiMo-V2-Pro、MiMo-V2-Omni 和 MiMo-V2-TTS，万亿参数大模型在全球竞争中展现技术实力。",
+    "reason": "小米全面进军 AI，万亿参数大模型展现技术实力",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026-03-20"
+  },
+  {
+    "id": 5,
+    "category": "国内新闻",
+    "title": "蚂蚁数科发布"蚁天鉴2.0-龙虾卫士"AI安全防护体系",
+    "source": "AI NEWS - AIBase",
+    "summary": "蚂蚁数科发布 AI 安全防护体系，应对自主执行型 AI（如 OpenClaw）在企业应用中引发的权限越界、记忆污染等安全风险。",
+    "reason": "应对 OpenClaw 等自主执行型 AI 的安全风险",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026-03-20"
+  },
+  {
+    "id": 6,
+    "category": "国内新闻",
+    "title": "阶跃AI桌面端正式上线 StepClaw，一键"领养"桌面级AI智能体",
+    "source": "AI NEWS - AIBase",
+    "summary": "阶跃星辰推出桌面AI助手 StepClaw，基于 OpenClaw 优化，零门槛部署，Windows/Mac 双端支持，解决传统AI部署复杂问题。",
+    "reason": "基于 OpenClaw 优化，零门槛部署，Windows/Mac 双端支持",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026-03-20"
+  }
+]

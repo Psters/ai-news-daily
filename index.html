@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="AI News Daily - 每日AI前沿动态追踪">
-    <title>AI News Daily | 2026.03.20</title>
+    <title>AI News Daily</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
@@ -14,12 +14,12 @@
     <header class="hero">
         <div class="container">
             <div class="meta">
-                <span class="date">2026.03.20</span>
+                <span class="date" id="current-date">加载中...</span>
                 <span class="separator">·</span>
                 <span class="tag">AI 前沿动态</span>
             </div>
             <h1 class="title">AI News Daily</h1>
-            <p class="subtitle">Anthropic 的 Claude 登顶 App Store，Pentagon 争议引爆舆论</p>
+            <p class="subtitle">每日 AI 前沿动态追踪，自动更新</p>
         </div>
     </header>
 
@@ -27,119 +27,28 @@
         <div class="container">
             <section class="summary">
                 <div class="summary-card">
-                    <div class="summary-number">10</div>
+                    <div class="summary-number" id="news-count">-</div>
                     <div class="summary-label">条新闻</div>
                 </div>
                 <div class="summary-card">
-                    <div class="summary-number">3</div>
-                    <div class="summary-label">个热点事件</div>
+                    <div class="summary-number" id="category-count">-</div>
+                    <div class="summary-label">个分类</div>
                 </div>
                 <div class="summary-card">
-                    <div class="summary-number">#1</div>
-                    <div class="summary-label">App Store 排名</div>
+                    <div class="summary-number" id="update-time">-</div>
+                    <div class="summary-label">最后更新</div>
                 </div>
             </section>
 
-            <article class="news-item featured">
-                <div class="news-meta">
-                    <span class="news-source">Quartz</span>
-                    <span class="news-date">2026-03-20</span>
-                </div>
-                <h2 class="news-title">Anthropic's AI products are destabilizing software</h2>
-                <p class="news-excerpt">Anthropic 的 AI 产品正在重塑工程师的工作方式，并使其成为 Pentagon 对峙的核心。Claude 登顶 App Store，用户从 ChatGPT 转向 Anthropic。</p>
-                <div class="news-tags">
-                    <span class="tag-item">Anthropic</span>
-                    <span class="tag-item">Claude</span>
-                    <span class="tag-item">Pentagon</span>
-                </div>
-                <a href="https://qz.com/anthropic-claude-ai-business-revenue-pentagon-openai-chatgpt" class="news-link" target="_blank">阅读全文 →</a>
-            </article>
-
-            <div class="news-grid">
-                <article class="news-item">
-                    <div class="news-meta">
-                        <span class="news-source">CNN</span>
-                        <span class="news-date">2026-03-03</span>
-                    </div>
-                    <h3 class="news-title">Claude 突然成为最受欢迎的 iPhone 应用</h3>
-                    <p class="news-excerpt">Anthropic 的 Claude 在 Pentagon 争议后突然成为最受欢迎的 iPhone 应用。</p>
-                    <a href="https://www.cnn.com/2026/03/03/tech/anthropic-claude-ai-app-pentagon" class="news-link" target="_blank">阅读全文 →</a>
-                </article>
-
-                <article class="news-item">
-                    <div class="news-meta">
-                        <span class="news-source">CNBC</span>
-                        <span class="news-date">2026-03-04</span>
-                    </div>
-                    <h3 class="news-title">国防科技公司停止使用 Claude</h3>
-                    <p class="news-excerpt">多家国防科技公司告诉员工停止使用 Anthropic 的 Claude，并转向其他 AI 模型。</p>
-                    <a href="https://www.cnbc.com/2026/03/04/pentagon-blacklist-anthropic-defense-tech-claude.html" class="news-link" target="_blank">阅读全文 →</a>
-                </article>
-
-                <article class="news-item">
-                    <div class="news-meta">
-                        <span class="news-source">TechCrunch</span>
-                        <span class="news-date">2026-03-01</span>
-                    </div>
-                    <h3 class="news-title">Claude 登顶 App Store 排名</h3>
-                    <p class="news-excerpt">Anthropic 的 Claude 在 Pentagon 争议后登顶 App Store 排名。</p>
-                    <a href="https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/" class="news-link" target="_blank">阅读全文 →</a>
-                </article>
-
-                <article class="news-item">
-                    <div class="news-meta">
-                        <span class="news-source">New York Times</span>
-                        <span class="news-date">2026-03-07</span>
-                    </div>
-                    <h3 class="news-title">OpenAI 和 Anthropic 的竞争变得个人化</h3>
-                    <p class="news-excerpt">关于 Pentagon 合同的争议显示了硅谷两家最强大的 AI 公司领导者之间的竞争。</p>
-                    <a href="https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html" class="news-link" target="_blank">阅读全文 →</a>
-                </article>
-
-                <article class="news-item">
-                    <div class="news-meta">
-                        <span class="news-source">Business Insider</span>
-                        <span class="news-date">2026-02</span>
-                    </div>
-                    <h3 class="news-title">Claude 登顶 App Store，ChatGPT 用户转向 Anthropic</h3>
-                    <p class="news-excerpt">OpenAI 获得了 Pentagon 合同，引发反弹，部分用户转向 Anthropic 的 Claude。</p>
-                    <a href="https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2" class="news-link" target="_blank">阅读全文 →</a>
-                </article>
-
-                <article class="news-item">
-                    <div class="news-meta">
-                        <span class="news-source">Bloomberg</span>
-                        <span class="news-date">2026-03-10</span>
-                    </div>
-                    <h3 class="news-title">Anthropic 为 AI 带来了新东西：拒绝的权力</h3>
-                    <p class="news-excerpt">Anthropic PBC 是一家避免被单一大型科技公司支持的公司，正在撼动 AI 业务。</p>
-                    <a href="https://www.bloomberg.com/opinion/articles/2026-03-10/anthropic-has-brought-something-new-to-ai-the-power-to-say-no" class="news-link" target="_blank">阅读全文 →</a>
-                </article>
-
-                <article class="news-item">
-                    <div class="news-meta">
-                        <span class="news-source">Reuters</span>
-                        <span class="news-date">2026-03-02</span>
-                    </div>
-                    <h3 class="news-title">美国国务院转向 OpenAI</h3>
-                    <p class="news-excerpt">三个美国内阁机构周一开始停止使用 Anthropic 的 AI 产品，加入军方指导员工使用其他模型。</p>
-                    <a href="https://www.reuters.com/business/us-treasury-ending-all-use-anthropic-products-says-bessent-2026-03-02/" class="news-link" target="_blank">阅读全文 →</a>
-                </article>
-
-                <article class="news-item">
-                    <div class="news-meta">
-                        <span class="news-source">Blog</span>
-                        <span class="news-date">2026-03</span>
-                    </div>
-                    <h3 class="news-title">Anthropic Claude 新闻汇总</h3>
-                    <p class="news-excerpt">关于工业规模 AI 滥用的指控引发了高风险争议，Anthropic 正处于 Pentagon 争议的中心。</p>
-                    <a href="https://blog.mean.ceo/anthropic-claude-news-march-2026/" class="news-link" target="_blank">阅读全文 →</a>
-                </article>
+            <div id="news-container" class="news-container">
+                <!-- 新闻内容将通过 JavaScript 动态加载 -->
+                <div class="loading">加载中...</div>
             </div>
 
             <footer class="footer">
-                <p>数据来源：Tavily Search API | 生成时间：2026-03-20 09:57 UTC</p>
-                <p>本页面由 AI 自动生成，用于演示前端设计能力</p>
+                <p>数据来源：Tavily Search API</p>
+                <p>本页面由 AI 自动生成，数据实时更新</p>
+                <p><a href="https://github.com/Psters/ai-news-daily" target="_blank">GitHub</a></p>
             </footer>
         </div>
     </main>

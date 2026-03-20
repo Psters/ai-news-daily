@@ -1,10 +1,149 @@
-// AI News Daily - Interactive Features
+// AI News Daily - Dynamic News Loader
 // Date: 2026-03-20
 
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('🤖 AI News Daily loaded');
+    console.log('🤖 AI News Daily loading...');
+    
+    // 更新当前日期
+    const currentDate = new Date();
+    const dateElement = document.getElementById('current-date');
+    if (dateElement) {
+        dateElement.textContent = currentDate.toLocaleDateString('zh-CN', {
+            year: 'numeric',
+            month: '2-digit',
+            day: '2-digit'
+        }).replace(/\//g, '.');
+    }
+    
+    // 更新最后更新时间
+    const updateTimeElement = document.getElementById('update-time');
+    if (updateTimeElement) {
+        updateTimeElement.textContent = currentDate.toLocaleTimeString('zh-CN', {
+            hour: '2-digit',
+            minute: '2-digit'
+        });
+    }
+    
+    // 加载新闻数据
+    loadNews();
+});
+
+// 加载新闻数据
+async function loadNews() {
+    try {
+        const response = await fetch('news.json');
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        
+        const news = await response.json();
+        displayNews(news);
+        updateStats(news);
+        
+        console.log(`✅ Loaded ${news.length} news items`);
+    } catch (error) {
+        console.error('❌ Failed to load news:', error);
+        displayError();
+    }
+}
+
+// 显示新闻
+function displayNews(news) {
+    const container = document.getElementById('news-container');
+    if (!container) return;
+    
+    // 清空加载提示
+    container.innerHTML = '';
+    
+    // 按分类分组
+    const categories = {};
+    news.forEach(item => {
+        if (!categories[item.category]) {
+            categories[item.category] = [];
+        }
+        categories[item.category].push(item);
+    });
+    
+    // 渲染新闻
+    Object.keys(categories).forEach(category => {
+        const categorySection = document.createElement('section');
+        categorySection.className = 'news-category';
+        
+        const categoryTitle = document.createElement('h2');
+        categoryTitle.className = 'category-title';
+        categoryTitle.textContent = category;
+        categorySection.appendChild(categoryTitle);
+        
+        const newsGrid = document.createElement('div');
+        newsGrid.className = 'news-grid';
+        
+        categories[category].forEach((item, index) => {
+            const newsItem = createNewsItem(item, index);
+            newsGrid.appendChild(newsItem);
+        });
+        
+        categorySection.appendChild(newsGrid);
+        container.appendChild(categorySection);
+    });
     
     // 添加滚动动画
+    addScrollAnimation();
+}
+
+// 创建新闻项
+function createNewsItem(item, index) {
+    const article = document.createElement('article');
+    article.className = 'news-item';
+    article.style.animationDelay = `${index * 0.1}s`;
+    
+    article.innerHTML = `
+        <div class="news-meta">
+            <span class="news-source">${escapeHtml(item.source)}</span>
+            <span class="news-date">${item.date}</span>
+        </div>
+        <h3 class="news-title">${escapeHtml(item.title)}</h3>
+        <p class="news-excerpt">${escapeHtml(item.summary)}</p>
+        <div class="news-tags">
+            <span class="tag-item">${escapeHtml(item.category)}</span>
+        </div>
+        <a href="${escapeHtml(item.url)}" class="news-link" target="_blank" rel="noopener noreferrer">
+            阅读全文 →
+        </a>
+    `;
+    
+    return article;
+}
+
+// 更新统计信息
+function updateStats(news) {
+    const newsCount = document.getElementById('news-count');
+    const categoryCount = document.getElementById('category-count');
+    
+    if (newsCount) {
+        newsCount.textContent = news.length;
+    }
+    
+    if (categoryCount) {
+        const categories = new Set(news.map(item => item.category));
+        categoryCount.textContent = categories.size;
+    }
+}
+
+// 显示错误
+function displayError() {
+    const container = document.getElementById('news-container');
+    if (!container) return;
+    
+    container.innerHTML = `
+        <div class="error">
+            <p>❌ 加载新闻失败</p>
+            <p>请稍后刷新页面重试</p>
+        </div>
+    `;
+}
+
+// 添加滚动动画
+function addScrollAnimation() {
     const observerOptions = {
         threshold: 0.1,
         rootMargin: '0px 0px -50px 0px'
@@ -27,72 +166,14 @@ document.addEventListener('DOMContentLoaded', () => {
         item.style.transition = 'all 0.6s ease';
         observer.observe(item);
     });
-    
-    // 添加点击跟踪
-    const links = document.querySelectorAll('.news-link');
-    links.forEach(link => {
-        link.addEventListener('click', (e) => {
-            const source = link.closest('.news-item').querySelector('.news-source').textContent;
-            const title = link.closest('.news-item').querySelector('.news-title').textContent;
-            console.log(`📊 News clicked: ${source} - ${title}`);
-        });
-    });
-    
-    // 添加平滑滚动
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener('click', function (e) {
-            e.preventDefault();
-            const target = document.querySelector(this.getAttribute('href'));
-            if (target) {
-                target.scrollIntoView({
-                    behavior: 'smooth',
-                    block: 'start'
-                });
-            }
-        });
-    });
-    
-    // 添加键盘导航
-    document.addEventListener('keydown', (e) => {
-        if (e.key === 'ArrowDown') {
-            const nextItem = document.querySelector('.news-item:hover + .news-item');
-            if (nextItem) {
-                nextItem.focus();
-            }
-        } else if (e.key === 'ArrowUp') {
-            const prevItem = document.querySelector('.news-item:hover');
-            if (prevItem && prevItem.previousElementSibling) {
-                prevItem.previousElementSibling.focus();
-            }
-        }
-    });
-    
-    // 添加打印时间
-    const footer = document.querySelector('.footer');
-    if (footer) {
-        const timestamp = new Date().toLocaleString('zh-CN', {
-            timeZone: 'Asia/Shanghai',
-            year: 'numeric',
-            month: '2-digit',
-            day: '2-digit',
-            hour: '2-digit',
-            minute: '2-digit',
-            second: '2-digit'
-        });
-        const timeElement = document.createElement('p');
-        timeElement.textContent = `页面加载时间: ${timestamp}`;
-        timeElement.style.marginTop = '0.5rem';
-        timeElement.style.fontSize = '0.75rem';
-        timeElement.style.color = 'var(--color-text-muted)';
-        footer.appendChild(timeElement);
-    }
-    
-    // 性能监控
-    if ('performance' in window) {
-        const loadTime = performance.now();
-        console.log(`⚡ Page load time: ${loadTime.toFixed(2)}ms`);
-    }
-});
+}
+
+// HTML 转义
+function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+}
 
 // 添加暗色模式切换（可选功能）
 function toggleDarkMode() {
@@ -109,3 +190,11 @@ function toggleDarkMode() {
         document.body.classList.add('light-mode');
     }
 })();
+
+// 性能监控
+if ('performance' in window) {
+    window.addEventListener('load', () => {
+        const loadTime = performance.now();
+        console.log(`⚡ Page load time: ${loadTime.toFixed(2)}ms`);
+    });
+}
