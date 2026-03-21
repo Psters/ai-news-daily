@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "category": "国外新闻",
-    "title": "OpenClaw March Update: Free AI Agents Turned Into Full Automation System",
-    "source": "AI News March 2026",
-    "summary": "OpenClaw 相关的重要更新，免费 AI Agent 转型为全自动化系统，支持跨本地和云端模型部署。",
-    "reason": "OpenClaw 相关的重要更新，免费 AI Agent 转型为全自动化系统",
-    "url": "https://juliangoldie.com/ai-news-march-2026/",
-    "date": "2026-03-20"
+    "category": "AI趋势",
+    "title": "March 2026 AI技术新闻汇总：模型、基础设施与行业应用全景",
+    "source": "VT Netzwelt",
+    "summary": "2026年3月AI领域迎来重大突破：智能体AI从实验室走向实际应用，模型发布速度加快，硬件基础设施持续升级，地缘政治影响AI战略，MLOps工具链日趋成熟。医疗、金融、零售、制造业成为最大受益行业。",
+    "reason": "全面了解当前AI发展趋势，为战略决策提供参考",
+    "url": "https://www.vtnetzwelt.com/ai-development/latest-ai-technology-news-roundup-march-2026/",
+    "date": "2026年03月21日"
   },
   {
     "id": 2,
-    "category": "国外新闻",
-    "title": "NVIDIA Unveils NemoClaw: Run OpenClaw Agents with Single-Command",
-    "source": "AI News Briefs",
-    "summary": "NVIDIA 发布 NemoClaw，一键运行 OpenClaw Agent，支持跨本地和云端模型，解决传统部署复杂问题。",
-    "reason": "NVIDIA 发布 NemoClaw，一键运行 OpenClaw Agent，跨本地和云端模型",
-    "url": "https://radicaldatascience.wordpress.com/2026/03/16/ai-news-briefs-bulletin-board-for-march-2026/",
-    "date": "2026-03-20"
+    "category": "AI突破",
+    "title": "2026年3月AI重大突破：技术与社会影响深度解析",
+    "source": "Julian Goldie",
+    "summary": "AI在政府系统中的角色引发重大辩论，企业裁员潮与AI发展并存，AI成本持续下降，全球AI竞争加剧，创业公司加速创新，职场格局正在重塑。本文深入分析AI技术突破对社会的深远影响。",
+    "reason": "洞察AI发展的社会影响，理解技术变革对组织的意义",
+    "url": "https://juliangoldie.co.uk/ai-news-march-2026/",
+    "date": "2026年03月21日"
   },
   {
     "id": 3,
-    "category": "国外新闻",
-    "title": "Claude Skills: Build Your First AI Marketing Team in 16 Minutes",
-    "source": "AI-Weekly",
-    "summary": "Claude Skills 实战教程，16分钟构建 AI 营销团队，展示 AI Agent 在营销领域的应用潜力。",
-    "reason": "Claude Skills 实战教程，16分钟构建 AI 营销团队",
-    "url": "https://ai-weekly.ai/newsletter-03-03-2026/",
-    "date": "2026-03-20"
+    "category": "基础设施",
+    "title": "Meta AI基础设施扩张：收购与投资布局AI未来",
+    "source": "Medium",
+    "summary": "Meta持续扩张AI基础设施，包括数据中心和高性能计算资源，用于训练和运行大型AI模型。企业采用AI服务需关注基础设施成本和计算能力限制对供应商定价和产品可用性的影响。",
+    "reason": "了解AI基础设施发展动态，为技术选型提供参考",
+    "url": "https://medium.com/@stephen.stanley777/ai-daily-update-17-03-2026-278babddba86",
+    "date": "2026年03月21日"
   },
   {
     "id": 4,
-    "category": "国内新闻",
-    "title": "小米发布三款 MiMo-V2 大模型，万亿参数追投160亿",
-    "source": "AI NEWS - AIBase",
-    "summary": "小米发布三款自研大模型 MiMo-V2-Pro、MiMo-V2-Omni 和 MiMo-V2-TTS，万亿参数大模型在全球竞争中展现技术实力。",
-    "reason": "小米全面进军 AI，万亿参数大模型展现技术实力",
+    "category": "企业动态",
+    "title": "雷军亮剑：小米三年豪掷600亿突围AI，SU7升级加价涨粉两不误",
+    "source": "AIBase",
+    "summary": "小米在造车与AI领域双线发力，通过高额投入构建竞争壁垒。雷军宣布今年AI研发投入超160亿元，未来三年累计将达600亿元。小米自研大模型已跻身全球第一梯队，新一代SU7全系标配HAD系统。",
+    "reason": "国内AI大厂战略布局，了解竞争格局",
     "url": "https://news.aibase.com/zh/news",
-    "date": "2026-03-20"
+    "date": "2026年03月21日"
   },
   {
     "id": 5,
-    "category": "国内新闻",
-    "title": "蚂蚁数科发布"蚁天鉴2.0-龙虾卫士"AI安全防护体系",
-    "source": "AI NEWS - AIBase",
-    "summary": "蚂蚁数科发布 AI 安全防护体系，应对自主执行型 AI（如 OpenClaw）在企业应用中引发的权限越界、记忆污染等安全风险。",
-    "reason": "应对 OpenClaw 等自主执行型 AI 的安全风险",
+    "category": "技术突破",
+    "title": "阿里千问Qwen3.5刷新国产模型纪录，跻身全球第一梯队",
+    "source": "AIBase",
+    "summary": "阿里巴巴千问Qwen3.5-Max-Preview模型在LMArena盲测榜单中以1464分刷新国产模型纪录，多项评测超越GPT5.4、Claude4.5及Grok4.1等海外顶尖模型，标志着中国自研大模型正式跻身全球第一梯队。",
+    "reason": "国产大模型重大突破，值得关注的技术进展",
     "url": "https://news.aibase.com/zh/news",
-    "date": "2026-03-20"
+    "date": "2026年03月21日"
   },
   {
     "id": 6,
-    "category": "国内新闻",
-    "title": "阶跃AI桌面端正式上线 StepClaw，一键"领养"桌面级AI智能体",
-    "source": "AI NEWS - AIBase",
-    "summary": "阶跃星辰推出桌面AI助手 StepClaw，基于 OpenClaw 优化，零门槛部署，Windows/Mac 双端支持，解决传统AI部署复杂问题。",
-    "reason": "基于 OpenClaw 优化，零门槛部署，Windows/Mac 双端支持",
+    "category": "产品发布",
+    "title": "Cursor发布Composer 2编程模型：性能直追GPT-5，价格仅为其几分之一",
+    "source": "AIBase",
+    "summary": "Cursor推出第二代自研编程大模型Composer2，性能大幅提升，在内部评测中表现优异，直接对标GPT和Claude。其定价策略极具竞争力，旨在挑战OpenAI等底层模型供应商，标志着AI编程工具领域竞争加剧。",
+    "reason": "AI编程工具竞争白热化，开发者工具选型参考",
     "url": "https://news.aibase.com/zh/news",
-    "date": "2026-03-20"
+    "date": "2026年03月21日"
   }
 ]
