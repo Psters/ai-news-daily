@@ -1,62 +1,62 @@
 [
   {
-    "id": 1,
-    "category": "AI趋势",
-    "title": "March 2026 AI技术新闻汇总：模型、基础设施与行业应用全景",
-    "source": "VT Netzwelt",
-    "summary": "2026年3月AI领域迎来重大突破：智能体AI从实验室走向实际应用，模型发布速度加快，硬件基础设施持续升级，地缘政治影响AI战略，MLOps工具链日趋成熟。医疗、金融、零售、制造业成为最大受益行业。",
-    "reason": "全面了解当前AI发展趋势，为战略决策提供参考",
-    "url": "https://www.vtnetzwelt.com/ai-development/latest-ai-technology-news-roundup-march-2026/",
-    "date": "2026年03月21日"
+    "id": "en-1",
+    "category": "国外",
+    "title": "NVIDIA 发布 NemoClaw：一键运行 AI Agent 跨本地和云端模型",
+    "source": "Radical Data Science",
+    "summary": "NVIDIA 发布开源 NemoClaw，让开发者可以通过单一命令运行 OpenClaw agents，支持跨本地和云端模型的无缝切换，解决了自动代理需要手动设置模型、工具和环境的问题。",
+    "reason": "NVIDIA 作为 AI 硬件龙头，开源 NemoClaw 将极大降低 Agent 开发门槛，值得关注。",
+    "url": "https://radicaldatascience.wordpress.com/2026/03/19/ai-news-briefs-bulletin-board-for-march-2026/",
+    "date": "2026年03月22日"
   },
   {
-    "id": 2,
-    "category": "AI突破",
-    "title": "2026年3月AI重大突破：技术与社会影响深度解析",
-    "source": "Julian Goldie",
-    "summary": "AI在政府系统中的角色引发重大辩论，企业裁员潮与AI发展并存，AI成本持续下降，全球AI竞争加剧，创业公司加速创新，职场格局正在重塑。本文深入分析AI技术突破对社会的深远影响。",
-    "reason": "洞察AI发展的社会影响，理解技术变革对组织的意义",
-    "url": "https://juliangoldie.co.uk/ai-news-march-2026/",
-    "date": "2026年03月21日"
+    "id": "en-2",
+    "category": "国外",
+    "title": "Grok AI 推出视频生成功能，X.AI 持续扩展 AI 能力",
+    "source": "Mean CEO Blog",
+    "summary": "X.AI 在 2026 年 3 月为 Grok AI 增加了视频生成能力，这是继文本生成、图像生成后的又一重要突破。同时，Grok 模型也在持续迭代升级。",
+    "reason": "视频生成是 AI 领域的热点赛道，Grok 入局意味着竞争格局进一步加剧。",
+    "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/",
+    "date": "2026年03月22日"
   },
   {
-    "id": 3,
-    "category": "基础设施",
-    "title": "Meta AI基础设施扩张：收购与投资布局AI未来",
-    "source": "Medium",
-    "summary": "Meta持续扩张AI基础设施，包括数据中心和高性能计算资源，用于训练和运行大型AI模型。企业采用AI服务需关注基础设施成本和计算能力限制对供应商定价和产品可用性的影响。",
-    "reason": "了解AI基础设施发展动态，为技术选型提供参考",
-    "url": "https://medium.com/@stephen.stanley777/ai-daily-update-17-03-2026-278babddba86",
-    "date": "2026年03月21日"
+    "id": "en-3",
+    "category": "国外",
+    "title": "特朗普政府与 Anthropic 冲突升级，AI 伦理与国家安全博弈",
+    "source": "Champaign Magazine",
+    "summary": "特朗普政府要求联邦机构停止与 Anthropic 合作，原因是 Anthropic 拒绝无限制地向五角大楼提供 AI 技术。国防部长将 Anthropic 列为\"供应链风险\"。这反映了 AI 伦理与国家安全的深刻矛盾。",
+    "reason": "这是 AI 治理领域的重要事件，标志着科技公司与政府在 AI 军事化问题上的正面冲突。",
+    "url": "https://champaignmagazine.com/2026/03/08/ai-by-ai-weekly-top-5-march-2-8-2026/",
+    "date": "2026年03月22日"
   },
   {
-    "id": 4,
-    "category": "企业动态",
-    "title": "雷军亮剑：小米三年豪掷600亿突围AI，SU7升级加价涨粉两不误",
+    "id": "cn-1",
+    "category": "国内",
+    "title": "雷军宣布：小米三年豪掷 600 亿突围 AI",
     "source": "AIBase",
-    "summary": "小米在造车与AI领域双线发力，通过高额投入构建竞争壁垒。雷军宣布今年AI研发投入超160亿元，未来三年累计将达600亿元。小米自研大模型已跻身全球第一梯队，新一代SU7全系标配HAD系统。",
-    "reason": "国内AI大厂战略布局，了解竞争格局",
+    "summary": "小米在造车与 AI 领域双线发力，今年 AI 研发投入超 160 亿元，未来三年累计将达 600 亿元。小米自研大模型已跻身全球第一梯队，新一代小米 SU7 全系标配 HAD 系统，搭载 XLA 认知大模型。",
+    "reason": "小米的 AI 战略布局显示了中国科技巨头在 AI 领域的决心和投入力度。",
     "url": "https://news.aibase.com/zh/news",
-    "date": "2026年03月21日"
+    "date": "2026年03月22日"
   },
   {
-    "id": 5,
-    "category": "技术突破",
-    "title": "阿里千问Qwen3.5刷新国产模型纪录，跻身全球第一梯队",
-    "source": "AIBase",
-    "summary": "阿里巴巴千问Qwen3.5-Max-Preview模型在LMArena盲测榜单中以1464分刷新国产模型纪录，多项评测超越GPT5.4、Claude4.5及Grok4.1等海外顶尖模型，标志着中国自研大模型正式跻身全球第一梯队。",
-    "reason": "国产大模型重大突破，值得关注的技术进展",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026年03月21日"
+    "id": "cn-2",
+    "category": "国内",
+    "title": "全球首个藏语大语言模型 DeepZang 发布",
+    "source": "IT之家",
+    "summary": "藏语 AI 时代正式开启：全球首个藏语大语言模型 DeepZang 发布，这标志着少数民族语言在 AI 领域取得重要突破，为藏语使用者提供了智能化的语言服务。",
+    "reason": "这是 AI 多元化、普惠化的重要进展，体现了技术对不同语言文化的包容性。",
+    "url": "https://www.ithome.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
+    "date": "2026年03月22日"
   },
   {
-    "id": 6,
-    "category": "产品发布",
-    "title": "Cursor发布Composer 2编程模型：性能直追GPT-5，价格仅为其几分之一",
+    "id": "cn-3",
+    "category": "国内",
+    "title": "腾讯 QClaw 正式公测：微信远程操控 PC 的 AI 助手",
     "source": "AIBase",
-    "summary": "Cursor推出第二代自研编程大模型Composer2，性能大幅提升，在内部评测中表现优异，直接对标GPT和Claude。其定价策略极具竞争力，旨在挑战OpenAI等底层模型供应商，标志着AI编程工具领域竞争加剧。",
-    "reason": "AI编程工具竞争白热化，开发者工具选型参考",
+    "summary": "腾讯 AI 助手 QClaw 结束内测正式开放公测，用户可自由下载使用。产品核心功能由数字形象\"🦞\"代表，能总结聊天、起草回复、安排会议、撰写文档等，无需邀请码即可体验。",
+    "reason": "腾讯在 AI 助手赛道的又一动作，与微信生态的结合值得关注。",
     "url": "https://news.aibase.com/zh/news",
-    "date": "2026年03月21日"
+    "date": "2026年03月22日"
   }
 ]
