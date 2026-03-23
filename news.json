@@ -2,61 +2,61 @@
   {
     "id": "en-1",
     "category": "国外",
-    "title": "NVIDIA 发布 NemoClaw：一键运行 AI Agent 跨本地和云端模型",
-    "source": "Radical Data Science",
-    "summary": "NVIDIA 发布开源 NemoClaw，让开发者可以通过单一命令运行 OpenClaw agents，支持跨本地和云端模型的无缝切换，解决了自动代理需要手动设置模型、工具和环境的问题。",
-    "reason": "NVIDIA 作为 AI 硬件龙头，开源 NemoClaw 将极大降低 Agent 开发门槛，值得关注。",
-    "url": "https://radicaldatascience.wordpress.com/2026/03/19/ai-news-briefs-bulletin-board-for-march-2026/",
-    "date": "2026年03月22日"
+    "title": "Morgan Stanley 警告：2026 年 AI 将迎来重大突破，但世界尚未准备好",
+    "source": "Fortune",
+    "summary": "Morgan Stanley 预测"变革性 AI"将在 2026 年上半年出现，成为强大的通缩力量。AI 工具能以人类工作成本的一小部分复制人类工作，但大多数国家和企业还未做好应对准备。",
+    "reason": "顶级投行的 AI 预测，具有重要战略参考价值，值得企业决策层关注。",
+    "url": "https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/",
+    "date": "2026年03月23日"
   },
   {
     "id": "en-2",
     "category": "国外",
-    "title": "Grok AI 推出视频生成功能，X.AI 持续扩展 AI 能力",
-    "source": "Mean CEO Blog",
-    "summary": "X.AI 在 2026 年 3 月为 Grok AI 增加了视频生成能力，这是继文本生成、图像生成后的又一重要突破。同时，Grok 模型也在持续迭代升级。",
-    "reason": "视频生成是 AI 领域的热点赛道，Grok 入局意味着竞争格局进一步加剧。",
-    "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/",
-    "date": "2026年03月22日"
+    "title": "NVIDIA 发布开源 NemoClaw，一键运行 AI Agent 跨本地和云端模型",
+    "source": "Radical Data Science",
+    "summary": "NVIDIA 发布开源 NemoClaw，让开发者可以通过单一命令运行 OpenClaw agents，支持跨本地和云端模型的无缝切换，解决了自动代理需要手动设置模型、工具和环境的问题。",
+    "reason": "NVIDIA 作为 AI 硬件龙头，开源 NemoClaw 将极大降低 Agent 开发门槛，推动 AI 自主代理生态发展。",
+    "url": "https://radicaldatascience.wordpress.com/2026/03/16/ai-news-briefs-bulletin-board-for-march-2026/",
+    "date": "2026年03月23日"
   },
   {
     "id": "en-3",
     "category": "国外",
-    "title": "特朗普政府与 Anthropic 冲突升级，AI 伦理与国家安全博弈",
-    "source": "Champaign Magazine",
-    "summary": "特朗普政府要求联邦机构停止与 Anthropic 合作，原因是 Anthropic 拒绝无限制地向五角大楼提供 AI 技术。国防部长将 Anthropic 列为\"供应链风险\"。这反映了 AI 伦理与国家安全的深刻矛盾。",
-    "reason": "这是 AI 治理领域的重要事件，标志着科技公司与政府在 AI 军事化问题上的正面冲突。",
-    "url": "https://champaignmagazine.com/2026/03/08/ai-by-ai-weekly-top-5-march-2-8-2026/",
-    "date": "2026年03月22日"
+    "title": "AI 模型价格战升级：0.25 美元/百万 token 的高性能模型涌现",
+    "source": "The Neuron / YouTube",
+    "summary": "最新一批 AI 模型以极低价格提供惊人性能，每百万 token 仅需 0.25 美元，号称性能超越 GPT-5。AI 推理成本正在快速下降，让更多企业能够负担得起智能化升级。",
+    "reason": "AI 推理成本持续下降，将加速企业 AI 应用落地，值得技术决策者关注。",
+    "url": "https://www.youtube.com/watch?v=LQrq3NSBlQU",
+    "date": "2026年03月23日"
   },
   {
     "id": "cn-1",
     "category": "国内",
-    "title": "雷军宣布：小米三年豪掷 600 亿突围 AI",
-    "source": "AIBase",
-    "summary": "小米在造车与 AI 领域双线发力，今年 AI 研发投入超 160 亿元，未来三年累计将达 600 亿元。小米自研大模型已跻身全球第一梯队，新一代小米 SU7 全系标配 HAD 系统，搭载 XLA 认知大模型。",
-    "reason": "小米的 AI 战略布局显示了中国科技巨头在 AI 领域的决心和投入力度。",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026年03月22日"
+    "title": "中国 AI 2026：技术突破与场景落地的双重变革",
+    "source": "央视网",
+    "summary": "DeepSeek 标志着中国 AI 技术路线分化突破。AI 正向智能体 AI 加速演进，具备自主性、能举一反三和长期记忆。日均 Token 消耗从 1000 亿跃升至 30 万亿，一年半增长 300 多倍，应用落地加速。",
+    "reason": "央视权威解读中国 AI 发展方向，技术路线清晰，应用数据扎实，值得深度关注。",
+    "url": "https://news.cctv.cn/2026/01/28/ARTIEvCAzmKkHNEUbwOAS6et260128.shtml",
+    "date": "2026年03月23日"
   },
   {
     "id": "cn-2",
     "category": "国内",
-    "title": "全球首个藏语大语言模型 DeepZang 发布",
-    "source": "IT之家",
-    "summary": "藏语 AI 时代正式开启：全球首个藏语大语言模型 DeepZang 发布，这标志着少数民族语言在 AI 领域取得重要突破，为藏语使用者提供了智能化的语言服务。",
-    "reason": "这是 AI 多元化、普惠化的重要进展，体现了技术对不同语言文化的包容性。",
-    "url": "https://www.ithome.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
-    "date": "2026年03月22日"
+    "title": "AI 领域重磅：华为昇腾910C量产、百度发布多模态模型、特斯拉 FSD 获 L4 许可",
+    "source": "软盟资讯",
+    "summary": "华为昇腾910C AI芯片全面量产，单卡算力达1.5P FLOPS；百度推出"文心-视觉"多模态模型，超越 DALL-E 3 和 Midjourney V7；特斯拉 FSD V13 成为首获中国 L4 级商用许可的外资车企。",
+    "reason": "三大技术突破集中爆发，标志着中国 AI 硬件与算法的全球竞争力显著提升。",
+    "url": "https://news.softunis.com/54045.html",
+    "date": "2026年03月23日"
   },
   {
     "id": "cn-3",
     "category": "国内",
-    "title": "腾讯 QClaw 正式公测：微信远程操控 PC 的 AI 助手",
-    "source": "AIBase",
-    "summary": "腾讯 AI 助手 QClaw 结束内测正式开放公测，用户可自由下载使用。产品核心功能由数字形象\"🦞\"代表，能总结聊天、起草回复、安排会议、撰写文档等，无需邀请码即可体验。",
-    "reason": "腾讯在 AI 助手赛道的又一动作，与微信生态的结合值得关注。",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026年03月22日"
+    "title": "2026 年 AI 深度嵌入日常生活：从数字伴侣到自动驾驶",
+    "source": "世界互联网大会",
+    "summary": "AI 已深度嵌入数字生活每个角落：Meta 的 AI 聊天机器人、微软 Copilot、谷歌 AI 模式搜索。Waymo 在多城市部署超过 2500 辆无人车，特斯拉、Uber 也在测试自动驾驶出租车。",
+    "reason": "AI 从"技术可行"走向"社会需要"，2026 年或成为 AI 消费终端大规模普及的关键年份。",
+    "url": "https://cn.wicinternet.org/2026-01/13/content_38534441.htm",
+    "date": "2026年03月23日"
   }
 ]
