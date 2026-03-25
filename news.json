@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260324-001",
+    "id": "20260325-001",
     "category": "国外新闻",
-    "title": "NVIDIA GTC 2026：黄仁勋发布Feynman架构，预言所有SaaS公司将消失",
-    "source": "InfoQ / TechBang",
-    "summary": "NVIDIA CEO黄仁勋在GTC 2026上发布采用台积电1.6nm制程、引入光通信技术的下一代Feynman架构，并发布Groq 3 LPU语言处理器加速器。他预言所有SaaS公司将消失，Token成本将达到全球最低，2027年营收将达到1万亿美元。",
-    "reason": "这是AI硬件领域的重磅新闻，标志着NVIDIA在AI芯片领域的又一次革命性突破，对整个AI产业生态将产生深远影响。",
-    "url": "https://www.infoq.cn/article/2026-03-huang-renxun-gtc-speech",
-    "date": "2026年03月24日"
+    "title": "NVIDIA发布NemoClaw：一键运行OpenClaw Agents",
+    "source": "NVIDIA News",
+    "summary": "NVIDIA发布NemoClaw，这是一个可以一键运行OpenClaw agents的运行时环境，支持本地和云端模型。Running autonomous agents通常需要手动设置模型、工具和环境，而NemoClaw提供了一致的运行环境，解决了数据流向控制问题。",
+    "reason": "这是NVIDIA在AI Agent领域的重要布局，为开发者提供了更便捷的Agent运行环境，对AI Agent生态发展有重要推动作用。",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-nemoclaw",
+    "date": "2026年03月25日"
   },
   {
-    "id": "20260324-002",
+    "id": "20260325-002",
     "category": "国外新闻",
-    "title": "Google DeepMind发布AlphaEvolve：编码代理首次发现全新数学结构",
-    "source": "工业智能算网",
-    "summary": "2026年3月6日，Google DeepMind发布AlphaEvolve，这是一个由Gemini驱动的编码代理系统，首次在理论计算机科学领域发现多个长期开放的数学结构与算法。在图论中的NP-hard子问题上找到了比现有最佳算法快37%的方案，在矩阵乘法优化领域发现了仅需O(n^2.37)复杂度的新变体。",
-    "reason": "这是AI在科学研究领域的重大突破，展示了AI不仅能够应用已有知识，还能发现全新的数学结构和算法，推动科学前沿发展。",
-    "url": "https://gyznsw.cn/2026/03/15/2026-03-15-AI%E6%8A%80%E6%9C%AF%E6%B7%B1%E5%BA%A6%E8%A7%82%E5%AF%9F-2026%E5%B9%B43%E6%9C%88/",
-    "date": "2026年03月24日"
+    "title": "ByteDance发布DeerFlow 2.0：多智能体框架开源",
+    "source": "GitHub / Radical Data Science",
+    "summary": "ByteDance发布DeerFlow 2.0，一个开源的多智能体框架，每个AI agent在自己的隔离环境中运行任务。DeerFlow 2.0让开发者可以通过协调多个agents来运行复杂工作流，而不是依赖单一过载的模型。",
+    "reason": "多智能体框架是AI Agent发展的重要方向，DeerFlow 2.0的开源为开发者提供了新的技术选择，对AI Agent技术演进有重要意义。",
+    "url": "https://github.com/bytedance/deer-flow",
+    "date": "2026年03月25日"
   },
   {
-    "id": "20260324-003",
+    "id": "20260325-003",
     "category": "国外新闻",
-    "title": "Morgan Stanley预警：2026年上半年将迎来重大AI突破",
-    "source": "Fortune",
-    "summary": "Morgan Stanley警告称，2026年上半年将迎来重大AI突破，而世界大多数国家尚未做好准备。分析师指出，AI技术的快速发展将对各行业产生深远影响，企业和政府需要加快适应步伐。",
-    "reason": "顶级金融机构的预警反映了AI技术突破的紧迫性和重要性，对企业和个人的战略规划具有重要参考价值。",
-    "url": "https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/",
-    "date": "2026年03月24日"
+    "title": "Meta测试AI购物研究功能，与ChatGPT和Gemini竞争",
+    "source": "Business Standard",
+    "summary": "Meta开始在AI聊天机器人中测试购物研究功能，寻求与OpenAI的ChatGPT和Google的Gemini中的类似功能竞争。这是Meta在AI助手商业化方面的重要尝试。",
+    "reason": "AI购物助手是AI商业化的重要方向，Meta的入局将加剧竞争，推动AI应用场景的拓展和创新。",
+    "url": "https://www.business-standard.com/technology/tech-news/meta-tests-shopping-research-feature-in-ai-tool-to-rival-chatgpt-gemini-126030300140_1.html",
+    "date": "2026年03月25日"
   },
   {
-    "id": "20260324-004",
+    "id": "20260325-004",
     "category": "国内新闻",
-    "title": "华为昇腾910C AI芯片实现全面量产，标志国产AI硬件关键突破",
+    "title": "华为昇腾910C AI芯片实现全面量产，国产AI硬件迈出关键一步",
     "source": "软盟资讯",
-    "summary": "华为昇腾910C AI芯片实现全面量产，单卡算力达1.5P FLOPS，能效比3.2TFLOPS/W，采用7nm+工艺，支持混合精度计算。该芯片已在百度、腾讯、阿里数据中心部署测试，年产能预计50万片，标志国产AI硬件迈出关键一步。",
+    "summary": "华为昇腾910C AI芯片实现全面量产，单卡算力达1.5P FLOPS，能效比3.2TFLOPS/W，采用7nm+工艺，支持混合精度计算。该芯片已在百度、腾讯、阿里数据中心部署测试，年产能预计50万片。",
     "reason": "这是国产AI芯片的重大突破，对于打破国外技术垄断、推动国内AI产业发展具有里程碑意义。",
     "url": "https://news.softunis.com/54045.html",
-    "date": "2026年03月24日"
+    "date": "2026年03月25日"
   },
   {
-    "id": "20260324-005",
+    "id": "20260325-005",
     "category": "国内新闻",
-    "title": "黄仁勋GTC 2026演讲解读：Token成本全球最低，2027营收将达1万亿",
-    "source": "UniFuncs",
-    "summary": "黄仁勋在GTC 2026演讲中宣布，NVIDIA将实现Token成本全球最低，预计2027年营收将达到1万亿美元。他强调Feynman架构已在路上，所有SaaS公司将消失。演讲展示了NVIDIA在AI硬件和生态系统建设上的战略布局。",
-    "reason": "黄仁勋的预言对AI行业未来发展具有重要启示，SaaS模式的变革将深刻影响软件产业格局。",
-    "url": "https://unifuncs.com/s/zLs9GkaB",
-    "date": "2026年03月24日"
+    "title": "百度发布文心视觉多模态模型，超越DALL-E 3和Midjourney V7",
+    "source": "软盟资讯",
+    "summary": "百度推出"文心-视觉"多模态模型，支持图像生成、视频理解及3D场景重建，在权威评测中超越DALL-E 3和Midjourney V7，展现中国AI在多模态领域的技术实力。",
+    "reason": "这是中国AI在多模态领域的重要突破，标志着国产AI模型在图像生成领域已达到国际领先水平。",
+    "url": "https://news.softunis.com/54045.html",
+    "date": "2026年03月25日"
   },
   {
-    "id": "20260324-006",
+    "id": "20260325-006",
     "category": "国内新闻",
-    "title": "2026全球开发者先锋大会3月27日召开：聚焦AI落地",
-    "source": "解放日报",
-    "summary": "2026全球开发者先锋大会将于3月27日至29日在上海徐汇西岸国际会展中心举办。大会核心主旨为"产业出题，科技答题"，旨在打通产研融合瓶颈，聚焦科学智能、Agent智能体、端侧AI、具身智能、AI+视频等核心能力突破，推动AI技术落地产业链各环节。",
-    "reason": "这是中国AI产业的重要盛会，汇聚全球开发者，推动AI技术从概念到产业落地，值得关注。",
-    "url": "https://www.jfdaily.com/wx/detail.do?id=1068743",
-    "date": "2026年03月24日"
+    "title": "OpenClaw开源项目引发生态争夺，多家巨头推出Agent解决方案",
+    "source": "积墨AI",
+    "summary": "OpenClaw的开源发布在中国AI生态中掀起轩然大波，多家巨头迅速基于该项目推出自有Agent解决方案，展开激烈的生态争夺。这反映了AI Agent领域的竞争加剧和开源生态的重要性。",
+    "reason": "OpenClaw开源项目引发巨头争夺，反映了AI Agent赛道的火热程度，对国内AI生态发展具有重要影响。",
+    "url": "https://jimo.studio/blog/2026-03-14-ai-news-summary/",
+    "date": "2026年03月25日"
   }
 ]
