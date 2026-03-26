@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260325-001",
+    "id": 1,
     "category": "国外新闻",
-    "title": "NVIDIA发布NemoClaw：一键运行OpenClaw Agents",
+    "title": "NVIDIA 发布开源 NemoClaw：一键运行 OpenClaw Agents",
     "source": "NVIDIA News",
-    "summary": "NVIDIA发布NemoClaw，这是一个可以一键运行OpenClaw agents的运行时环境，支持本地和云端模型。Running autonomous agents通常需要手动设置模型、工具和环境，而NemoClaw提供了一致的运行环境，解决了数据流向控制问题。",
-    "reason": "这是NVIDIA在AI Agent领域的重要布局，为开发者提供了更便捷的Agent运行环境，对AI Agent生态发展有重要推动作用。",
+    "summary": "NVIDIA 发布开源 NemoClaw，支持通过单条命令在本地和云端模型间运行 OpenClaw 智能体。解决了自主智能体通常需要跨模型、工具和环境进行手动设置的问题，提供了统一的数据流控制方式。",
+    "reason": "NVIDIA 在 AI 智能体领域的重大布局，将大幅降低智能体开发和部署门槛。",
     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-nemoclaw",
-    "date": "2026年03月25日"
+    "date": "2026年03月26日"
   },
   {
-    "id": "20260325-002",
+    "id": 2,
     "category": "国外新闻",
-    "title": "ByteDance发布DeerFlow 2.0：多智能体框架开源",
-    "source": "GitHub / Radical Data Science",
-    "summary": "ByteDance发布DeerFlow 2.0，一个开源的多智能体框架，每个AI agent在自己的隔离环境中运行任务。DeerFlow 2.0让开发者可以通过协调多个agents来运行复杂工作流，而不是依赖单一过载的模型。",
-    "reason": "多智能体框架是AI Agent发展的重要方向，DeerFlow 2.0的开源为开发者提供了新的技术选择，对AI Agent技术演进有重要意义。",
+    "title": "ByteDance 发布 DeerFlow 2.0：多智能体框架开源",
+    "source": "Radical Data Science",
+    "summary": "字节跳动发布 DeerFlow 2.0 开源系统，每个 AI 智能体在独立隔离环境中运行任务。这是一个多智能体框架，允许通过协调智能体运行复杂工作流，而非使用单一过载模型。",
+    "reason": "多智能体协作是 AI Agent 发展的重要方向，字节跳动的开源贡献值得关注。",
     "url": "https://github.com/bytedance/deer-flow",
-    "date": "2026年03月25日"
+    "date": "2026年03月26日"
   },
   {
-    "id": "20260325-003",
+    "id": 3,
     "category": "国外新闻",
-    "title": "Meta测试AI购物研究功能，与ChatGPT和Gemini竞争",
-    "source": "Business Standard",
-    "summary": "Meta开始在AI聊天机器人中测试购物研究功能，寻求与OpenAI的ChatGPT和Google的Gemini中的类似功能竞争。这是Meta在AI助手商业化方面的重要尝试。",
-    "reason": "AI购物助手是AI商业化的重要方向，Meta的入局将加剧竞争，推动AI应用场景的拓展和创新。",
-    "url": "https://www.business-standard.com/technology/tech-news/meta-tests-shopping-research-feature-in-ai-tool-to-rival-chatgpt-gemini-126030300140_1.html",
-    "date": "2026年03月25日"
+    "title": "Apple Siri AI 动态：智能助手新进展",
+    "source": "AI News",
+    "summary": "苹果在 Siri AI 方面持续发力，结合 NVIDIA、OpenAI Sora 等技术动态，智能助手领域竞争加剧。AI 正在重塑人机交互方式。",
+    "reason": "苹果在 AI 领域的战略布局对整个行业生态有重要影响。",
+    "url": "https://www.youtube.com/watch?v=kX3JAXTLZoE",
+    "date": "2026年03月26日"
   },
   {
-    "id": "20260325-004",
+    "id": 4,
     "category": "国内新闻",
-    "title": "华为昇腾910C AI芯片实现全面量产，国产AI硬件迈出关键一步",
-    "source": "软盟资讯",
-    "summary": "华为昇腾910C AI芯片实现全面量产，单卡算力达1.5P FLOPS，能效比3.2TFLOPS/W，采用7nm+工艺，支持混合精度计算。该芯片已在百度、腾讯、阿里数据中心部署测试，年产能预计50万片。",
-    "reason": "这是国产AI芯片的重大突破，对于打破国外技术垄断、推动国内AI产业发展具有里程碑意义。",
-    "url": "https://news.softunis.com/54045.html",
-    "date": "2026年03月25日"
+    "title": "阿里宣布 AI 战略商业目标：五年千亿美金",
+    "source": "量子位",
+    "summary": "阿里巴巴宣布 AI 战略商业目标：未来五年，云和 AI 商业化收入突破 1000 亿美元。这标志着国内科技巨头对 AI 商业化的坚定信心和大规模投入。",
+    "reason": "国内科技巨头 AI 战略的明确表态，对行业投资和发展方向有重要指引作用。",
+    "url": "https://www.qbitai.com/",
+    "date": "2026年03月26日"
   },
   {
-    "id": "20260325-005",
+    "id": 5,
     "category": "国内新闻",
-    "title": "百度发布文心视觉多模态模型，超越DALL-E 3和Midjourney V7",
-    "source": "软盟资讯",
-    "summary": "百度推出"文心-视觉"多模态模型，支持图像生成、视频理解及3D场景重建，在权威评测中超越DALL-E 3和Midjourney V7，展现中国AI在多模态领域的技术实力。",
-    "reason": "这是中国AI在多模态领域的重要突破，标志着国产AI模型在图像生成领域已达到国际领先水平。",
-    "url": "https://news.softunis.com/54045.html",
-    "date": "2026年03月25日"
+    "title": "Claude Code Auto Mode 重磅上线：AI 终于\"自己开车\"了",
+    "source": "AIBase",
+    "summary": "Claude Code Auto Mode 正式上线，AI 可以自主执行任务，彻底告别每一步手动确认。这标志着 AI 编程工具进入自动化新时代。",
+    "reason": "AI 编程工具的重大突破，开发者效率将大幅提升，值得关注和学习。",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026年03月26日"
   },
   {
-    "id": "20260325-006",
+    "id": 6,
     "category": "国内新闻",
-    "title": "OpenClaw开源项目引发生态争夺，多家巨头推出Agent解决方案",
-    "source": "积墨AI",
-    "summary": "OpenClaw的开源发布在中国AI生态中掀起轩然大波，多家巨头迅速基于该项目推出自有Agent解决方案，展开激烈的生态争夺。这反映了AI Agent领域的竞争加剧和开源生态的重要性。",
-    "reason": "OpenClaw开源项目引发巨头争夺，反映了AI Agent赛道的火热程度，对国内AI生态发展具有重要影响。",
-    "url": "https://jimo.studio/blog/2026-03-14-ai-news-summary/",
-    "date": "2026年03月25日"
+    "title": "千问 AI 打车正式上线：一句话搞定叫车",
+    "source": "AIBase",
+    "summary": "千问 AI 打车功能正式上线，用户只需一句话即可完成选车、选地点、选时间等操作。打车软件迎来新对手，AI 正在重塑日常出行体验。",
+    "reason": "AI 应用落地日常生活场景，展示了大模型在实用场景中的巨大潜力。",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026年03月26日"
   }
 ]
