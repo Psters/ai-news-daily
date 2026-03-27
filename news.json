@@ -2,61 +2,61 @@
   {
     "id": 1,
     "category": "国外新闻",
-    "title": "NVIDIA 发布开源 NemoClaw：一键运行 OpenClaw Agents",
+    "title": "NVIDIA 发布 NemoClaw：一键运行 OpenClaw 智能体",
     "source": "NVIDIA News",
-    "summary": "NVIDIA 发布开源 NemoClaw，支持通过单条命令在本地和云端模型间运行 OpenClaw 智能体。解决了自主智能体通常需要跨模型、工具和环境进行手动设置的问题，提供了统一的数据流控制方式。",
-    "reason": "NVIDIA 在 AI 智能体领域的重大布局，将大幅降低智能体开发和部署门槛。",
+    "summary": "NVIDIA 发布开源框架 NemoClaw，提供单命令运行时，支持在本地和云端模型中运行 OpenClaw 自主智能体。解决了智能体编排中跨模型、工具和环境手动设置的痛点，统一控制数据流向。",
+    "reason": "NVIDIA 生态整合，智能体编排重要进展",
     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-nemoclaw",
-    "date": "2026年03月26日"
+    "date": "2026年03月27日"
   },
   {
     "id": 2,
     "category": "国外新闻",
-    "title": "ByteDance 发布 DeerFlow 2.0：多智能体框架开源",
-    "source": "Radical Data Science",
-    "summary": "字节跳动发布 DeerFlow 2.0 开源系统，每个 AI 智能体在独立隔离环境中运行任务。这是一个多智能体框架，允许通过协调智能体运行复杂工作流，而非使用单一过载模型。",
-    "reason": "多智能体协作是 AI Agent 发展的重要方向，字节跳动的开源贡献值得关注。",
-    "url": "https://github.com/bytedance/deer-flow",
-    "date": "2026年03月26日"
+    "title": "摩根士丹利：2026 年上半年将出现重大 AI 突破",
+    "source": "Fortune",
+    "summary": "摩根士丹利警告 2026 年上半年将出现重大 AI 突破，大多数人还未准备好。分析指出这可能涉及 GPT-5 或其他大型模型的关键进展，将对各行业产生深远影响。",
+    "reason": "顶级投行预测，行业趋势判断",
+    "url": "https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/",
+    "date": "2026年03月27日"
   },
   {
     "id": 3,
     "category": "国外新闻",
-    "title": "Apple Siri AI 动态：智能助手新进展",
-    "source": "AI News",
-    "summary": "苹果在 Siri AI 方面持续发力，结合 NVIDIA、OpenAI Sora 等技术动态，智能助手领域竞争加剧。AI 正在重塑人机交互方式。",
-    "reason": "苹果在 AI 领域的战略布局对整个行业生态有重要影响。",
-    "url": "https://www.youtube.com/watch?v=kX3JAXTLZoE",
-    "date": "2026年03月26日"
+    "title": "字节跳动开源 DeerFlow 2.0：多智能体编排框架",
+    "source": "GitHub / Radical Data Science",
+    "summary": "字节跳动开源 DeerFlow 2.0，多智能体框架，每个 AI 代理在隔离环境中运行任务。支持复杂工作流的协调代理，让多个智能体协同完成复杂任务而非单一过载模型。",
+    "reason": "国内大厂开源，智能体编排重要进展",
+    "url": "https://github.com/bytedance/deer-flow",
+    "date": "2026年03月27日"
   },
   {
     "id": 4,
     "category": "国内新闻",
-    "title": "阿里宣布 AI 战略商业目标：五年千亿美金",
-    "source": "量子位",
-    "summary": "阿里巴巴宣布 AI 战略商业目标：未来五年，云和 AI 商业化收入突破 1000 亿美元。这标志着国内科技巨头对 AI 商业化的坚定信心和大规模投入。",
-    "reason": "国内科技巨头 AI 战略的明确表态，对行业投资和发展方向有重要指引作用。",
-    "url": "https://www.qbitai.com/",
-    "date": "2026年03月26日"
+    "title": "Anthropic 报告：AI 未导致失业潮，真正的危机是技能鸿沟",
+    "source": "AIBase",
+    "summary": "Anthropic 发布报告揭示，AI 目前并未导致大规模失业潮，真正的危机是"技能鸿沟"——能够使用 AI 的人与不会使用 AI 的人之间的差距正在扩大。",
+    "reason": "权威报告，AI 影响深度分析",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026年03月27日"
   },
   {
     "id": 5,
     "category": "国内新闻",
-    "title": "Claude Code Auto Mode 重磅上线：AI 终于\"自己开车\"了",
+    "title": "谷歌发布 TurboQuant：LLM 键值缓存压缩 6 倍，速度提升 8 倍",
     "source": "AIBase",
-    "summary": "Claude Code Auto Mode 正式上线，AI 可以自主执行任务，彻底告别每一步手动确认。这标志着 AI 编程工具进入自动化新时代。",
-    "reason": "AI 编程工具的重大突破，开发者效率将大幅提升，值得关注和学习。",
+    "summary": "谷歌重磅发布 TurboQuant，LLM 键值缓存内存压缩 6 倍、速度提升 8 倍，零精度损失且无需训练。大幅降低大模型部署成本，提升推理效率。",
+    "reason": "技术突破，大模型优化关键进展",
     "url": "https://news.aibase.com/zh/news",
-    "date": "2026年03月26日"
+    "date": "2026年03月27日"
   },
   {
     "id": 6,
     "category": "国内新闻",
-    "title": "千问 AI 打车正式上线：一句话搞定叫车",
+    "title": "钉钉悟空 AI 发布：企业级"数字员工"双击即用",
     "source": "AIBase",
-    "summary": "千问 AI 打车功能正式上线，用户只需一句话即可完成选车、选地点、选时间等操作。打车软件迎来新对手，AI 正在重塑日常出行体验。",
-    "reason": "AI 应用落地日常生活场景，展示了大模型在实用场景中的巨大潜力。",
+    "summary": "钉钉悟空 AI 正式发布，定位为企业级"数字员工"，支持双击即用。旨在帮助企业快速部署 AI 能力，提升办公效率，降低 AI 应用门槛。",
+    "reason": "企业 AI 落地，办公智能化进展",
     "url": "https://news.aibase.com/zh/news",
-    "date": "2026年03月26日"
+    "date": "2026年03月27日"
   }
 ]
