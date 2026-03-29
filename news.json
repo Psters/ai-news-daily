@@ -2,61 +2,61 @@
   {
     "id": 1,
     "category": "国外新闻",
-    "title": "NVIDIA 发布 NemoClaw：一键运行 OpenClaw 智能体",
-    "source": "NVIDIA News",
-    "summary": "NVIDIA 发布开源框架 NemoClaw，提供单命令运行时，支持在本地和云端模型中运行 OpenClaw 自主智能体。解决了智能体编排中跨模型、工具和环境手动设置的痛点，统一控制数据流向。",
-    "reason": "NVIDIA 生态整合，智能体编排重要进展",
-    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-nemoclaw",
-    "date": "2026年03月27日"
+    "title": "ByteDance 发布 DeerFlow 2.0：多智能体隔离环境框架",
+    "source": "Radical Data Science",
+    "summary": "字节跳动开源 DeerFlow 2.0，这是一个多智能体框架，每个 AI agent 在独立的隔离环境中运行任务。通过协调多个 agent 而非单一过载模型来完成复杂工作流，为 AI 应用架构提供了新思路。",
+    "reason": "多智能体系统是 AI 应用的重要方向，DeerFlow 2.0 的隔离环境设计解决了安全性和稳定性问题，对企业级 AI 部署有参考价值。",
+    "url": "https://radicaldatascience.wordpress.com/2026/03/26/ai-news-briefs-bulletin-board-for-march-2026/",
+    "date": "2026年03月29日"
   },
   {
     "id": 2,
     "category": "国外新闻",
-    "title": "摩根士丹利：2026 年上半年将出现重大 AI 突破",
-    "source": "Fortune",
-    "summary": "摩根士丹利警告 2026 年上半年将出现重大 AI 突破，大多数人还未准备好。分析指出这可能涉及 GPT-5 或其他大型模型的关键进展，将对各行业产生深远影响。",
-    "reason": "顶级投行预测，行业趋势判断",
-    "url": "https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/",
-    "date": "2026年03月27日"
+    "title": "NVIDIA 发布 OpenClaw NemoClaw：一键运行跨环境 Agent",
+    "source": "NVIDIA News",
+    "summary": "NVIDIA 推出开源 NemoClaw，支持用单一命令在本地和云端模型上运行 OpenClaw agents。解决了自主 agent 部署需要跨模型、工具和环境手动配置的问题，提供了数据流控制的一致性方案。",
+    "reason": "直接相关！NemoClaw 降低了 Agent 部署门槛，让 OpenClaw 生态更易用，值得关注技术进展。",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-nemoclaw",
+    "date": "2026年03月29日"
   },
   {
     "id": 3,
     "category": "国外新闻",
-    "title": "字节跳动开源 DeerFlow 2.0：多智能体编排框架",
-    "source": "GitHub / Radical Data Science",
-    "summary": "字节跳动开源 DeerFlow 2.0，多智能体框架，每个 AI 代理在隔离环境中运行任务。支持复杂工作流的协调代理，让多个智能体协同完成复杂任务而非单一过载模型。",
-    "reason": "国内大厂开源，智能体编排重要进展",
-    "url": "https://github.com/bytedance/deer-flow",
-    "date": "2026年03月27日"
+    "title": "OpenAI IPO 与 Sora 关闭：AI 行业重大动态",
+    "source": "YouTube AI News",
+    "summary": "AI 新闻 March 2026 显示，OpenAI 启动 IPO 进程，同时 Sora 视频生成服务面临关闭。这标志着 AI 公司从技术突破转向商业化落地，行业进入新阶段。此外，AI 成本下降和全球竞争加剧也成为重要趋势。",
+    "reason": "OpenAI IPO 是行业里程碑事件，标志着 AI 公司商业化进程加速。Sora 关闭则反映技术成熟度与商业可行性的平衡挑战。",
+    "url": "https://www.youtube.com/watch?v=ZmtnyMVqnC4",
+    "date": "2026年03月29日"
   },
   {
     "id": 4,
     "category": "国内新闻",
-    "title": "Anthropic 报告：AI 未导致失业潮，真正的危机是技能鸿沟",
-    "source": "AIBase",
-    "summary": "Anthropic 发布报告揭示，AI 目前并未导致大规模失业潮，真正的危机是"技能鸿沟"——能够使用 AI 的人与不会使用 AI 的人之间的差距正在扩大。",
-    "reason": "权威报告，AI 影响深度分析",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026年03月27日"
+    "title": "扎克伯格设定硬指标：Meta 80% 工程师必须使用 AI",
+    "source": "IT之家",
+    "summary": "Meta 要求 80% 的中高级工程师在工作中大量使用 AI 工具，特别是在编程等任务中。这是科技巨头首次为 AI 使用设定量化指标，反映了 AI 从'可选工具'变为'必备技能'的趋势。",
+    "reason": "企业 AI 应用的风向标。当巨头开始设定硬性指标，意味着 AI 工具已成为工程师的基础能力要求，而非加分项。",
+    "url": "https://www.ithome.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
+    "date": "2026年03月29日"
   },
   {
     "id": 5,
     "category": "国内新闻",
-    "title": "谷歌发布 TurboQuant：LLM 键值缓存压缩 6 倍，速度提升 8 倍",
-    "source": "AIBase",
-    "summary": "谷歌重磅发布 TurboQuant，LLM 键值缓存内存压缩 6 倍、速度提升 8 倍，零精度损失且无需训练。大幅降低大模型部署成本，提升推理效率。",
-    "reason": "技术突破，大模型优化关键进展",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026年03月27日"
+    "title": "国产骨科手术机器人 ROPA6：AI 5-10 分钟完成手术规划",
+    "source": "IT之家",
+    "summary": "ROPA6 平台集成 AI 智能规划、高精度导航与机械臂，可适配髋、膝、脊柱等六大术式。AI 系统能在 5-10 分钟内基于 CT 数据完成三维重建与手术规划，术中通过亚毫米级定位实现精准操作。标志着国产骨科手术机器人从单点辅助迈向全场景平台化。",
+    "reason": "AI 在医疗领域的实际落地案例。手术规划和精准操作的结合，展示了 AI 在专业场景的价值，而非停留在概念层面。",
+    "url": "https://www.ithome.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
+    "date": "2026年03月29日"
   },
   {
     "id": 6,
     "category": "国内新闻",
-    "title": "钉钉悟空 AI 发布：企业级"数字员工"双击即用",
-    "source": "AIBase",
-    "summary": "钉钉悟空 AI 正式发布，定位为企业级"数字员工"，支持双击即用。旨在帮助企业快速部署 AI 能力，提升办公效率，降低 AI 应用门槛。",
-    "reason": "企业 AI 落地，办公智能化进展",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026年03月27日"
+    "title": "美团王兴：力争成为本地生活服务 AI 入口",
+    "source": "IT之家",
+    "summary": "王兴表示美团已持续投入三年，自研 LongCat 大模型全量开放。目标是将美团打造为本地生活服务需求的重要 AI 入口。这标志着互联网平台从'连接服务'向'AI 驱动服务'的战略转型。",
+    "reason": "本地生活是高频场景，AI 入口之争意味着用户交互方式的根本变化。美团、抖音等平台的 AI 战略将重塑行业格局。",
+    "url": "https://www.ithome.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
+    "date": "2026年03月29日"
   }
 ]
