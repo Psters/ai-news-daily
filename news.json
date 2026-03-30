@@ -2,61 +2,61 @@
   {
     "id": 1,
     "category": "国外新闻",
-    "title": "ByteDance 发布 DeerFlow 2.0：多智能体隔离环境框架",
+    "title": "ByteDance 发布 DeerFlow 2.0：开源多智能体框架",
     "source": "Radical Data Science",
-    "summary": "字节跳动开源 DeerFlow 2.0，这是一个多智能体框架，每个 AI agent 在独立的隔离环境中运行任务。通过协调多个 agent 而非单一过载模型来完成复杂工作流，为 AI 应用架构提供了新思路。",
-    "reason": "多智能体系统是 AI 应用的重要方向，DeerFlow 2.0 的隔离环境设计解决了安全性和稳定性问题，对企业级 AI 部署有参考价值。",
+    "summary": "字节跳动推出 DeerFlow 2.0，这是一个开源的多智能体框架，每个 AI agent 在独立的隔离环境中运行任务，通过协调的 agent 来完成复杂工作流，而不是依赖一个过载的模型。",
+    "reason": "多智能体系统是 AI 发展的重要方向，DeerFlow 2.0 的开源将推动 AI Agent 技术的普及和创新。",
     "url": "https://radicaldatascience.wordpress.com/2026/03/26/ai-news-briefs-bulletin-board-for-march-2026/",
-    "date": "2026年03月29日"
+    "date": "2026年03月30日"
   },
   {
     "id": 2,
     "category": "国外新闻",
-    "title": "NVIDIA 发布 OpenClaw NemoClaw：一键运行跨环境 Agent",
-    "source": "NVIDIA News",
-    "summary": "NVIDIA 推出开源 NemoClaw，支持用单一命令在本地和云端模型上运行 OpenClaw agents。解决了自主 agent 部署需要跨模型、工具和环境手动配置的问题，提供了数据流控制的一致性方案。",
-    "reason": "直接相关！NemoClaw 降低了 Agent 部署门槛，让 OpenClaw 生态更易用，值得关注技术进展。",
-    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-nemoclaw",
-    "date": "2026年03月29日"
+    "title": "NVIDIA 发起 Nemotron 模型推理挑战赛",
+    "source": "Kaggle",
+    "summary": "NVIDIA 在 Kaggle 上发起 Nemotron 模型推理挑战赛，旨在帮助 AI 社区更好地衡量在结构化任务上的进展，并更一致地比较不同方法的效果。",
+    "reason": "推理能力是大模型的核心竞争力之一，基准测试的标准化将推动 AI 推理能力的持续提升。",
+    "url": "https://radicaldatascience.wordpress.com/2026/03/26/ai-news-briefs-bulletin-board-for-march-2026/",
+    "date": "2026年03月30日"
   },
   {
     "id": 3,
     "category": "国外新闻",
-    "title": "OpenAI IPO 与 Sora 关闭：AI 行业重大动态",
-    "source": "YouTube AI News",
-    "summary": "AI 新闻 March 2026 显示，OpenAI 启动 IPO 进程，同时 Sora 视频生成服务面临关闭。这标志着 AI 公司从技术突破转向商业化落地，行业进入新阶段。此外，AI 成本下降和全球竞争加剧也成为重要趋势。",
-    "reason": "OpenAI IPO 是行业里程碑事件，标志着 AI 公司商业化进程加速。Sora 关闭则反映技术成熟度与商业可行性的平衡挑战。",
-    "url": "https://www.youtube.com/watch?v=ZmtnyMVqnC4",
-    "date": "2026年03月29日"
+    "title": "AI 行业三月重大事件：裁员、成本下降与全球竞争",
+    "source": "Reddit AI SEO Insider",
+    "summary": "AI News March 2026 总结了 AI 行业的重要趋势：企业裁员成为 AI 新闻的一部分、AI 成本持续下降、全球 AI 竞争加剧、初创企业加速创新。",
+    "reason": "这些趋势反映了 AI 行业正在从 hype 阶段进入务实发展阶段，对从业者有重要的参考价值。",
+    "url": "https://www.reddit.com/r/AISEOInsider/comments/1rp92zx/ai_news_march_2026_everything_that_happened_in/",
+    "date": "2026年03月30日"
   },
   {
     "id": 4,
     "category": "国内新闻",
-    "title": "扎克伯格设定硬指标：Meta 80% 工程师必须使用 AI",
+    "title": "Meta 要求 80% 中高级工程师必须使用 AI",
     "source": "IT之家",
-    "summary": "Meta 要求 80% 的中高级工程师在工作中大量使用 AI 工具，特别是在编程等任务中。这是科技巨头首次为 AI 使用设定量化指标，反映了 AI 从'可选工具'变为'必备技能'的趋势。",
-    "reason": "企业 AI 应用的风向标。当巨头开始设定硬性指标，意味着 AI 工具已成为工程师的基础能力要求，而非加分项。",
+    "summary": "扎克伯格为 Meta 员工设立「硬指标」：80% 的中高级工程师需要在工作中使用 AI。Meta 已经为部分岗位设定具体要求，例如在编程等任务中必须大量依赖 AI 工具。",
+    "reason": "这标志着 AI 正在从「可选工具」变成企业的「必备技能」，对国内企业的人才培养有重要启示。",
     "url": "https://www.ithome.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
-    "date": "2026年03月29日"
+    "date": "2026年03月30日"
   },
   {
     "id": 5,
     "category": "国内新闻",
-    "title": "国产骨科手术机器人 ROPA6：AI 5-10 分钟完成手术规划",
+    "title": "维基百科明确拒绝 AI 直接撰写条目",
     "source": "IT之家",
-    "summary": "ROPA6 平台集成 AI 智能规划、高精度导航与机械臂，可适配髋、膝、脊柱等六大术式。AI 系统能在 5-10 分钟内基于 CT 数据完成三维重建与手术规划，术中通过亚毫米级定位实现精准操作。标志着国产骨科手术机器人从单点辅助迈向全场景平台化。",
-    "reason": "AI 在医疗领域的实际落地案例。手术规划和精准操作的结合，展示了 AI 在专业场景的价值，而非停留在概念层面。",
+    "summary": "维基百科向直接用 AI 撰写条目说「不」，但仍允许 AI 润色和翻译。维基百科社区认为，AI 生成的内容缺乏真人表达的独特性和温度。",
+    "reason": "这反映了内容平台对 AI 生成内容的态度分化，对内容创作者和平台运营者有参考价值。",
     "url": "https://www.ithome.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
-    "date": "2026年03月29日"
+    "date": "2026年03月30日"
   },
   {
     "id": 6,
     "category": "国内新闻",
-    "title": "美团王兴：力争成为本地生活服务 AI 入口",
+    "title": "国产骨科手术机器人 ROPA6 实现全场景平台化",
     "source": "IT之家",
-    "summary": "王兴表示美团已持续投入三年，自研 LongCat 大模型全量开放。目标是将美团打造为本地生活服务需求的重要 AI 入口。这标志着互联网平台从'连接服务'向'AI 驱动服务'的战略转型。",
-    "reason": "本地生活是高频场景，AI 入口之争意味着用户交互方式的根本变化。美团、抖音等平台的 AI 战略将重塑行业格局。",
+    "summary": "ROPA6 平台集 AI 智能规划、高精度导航与机械臂于一体，可适配髋、膝、脊柱等六大术式。其 AI 系统能在 5-10 分钟内基于 CT 数据完成三维重建与手术规划，术中通过亚毫米级定位实现精准操作。",
+    "reason": "国产医疗 AI 从单点辅助迈向全场景平台化，标志着医疗 AI 应用进入新阶段。",
     "url": "https://www.ithome.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
-    "date": "2026年03月29日"
+    "date": "2026年03月30日"
   }
 ]
