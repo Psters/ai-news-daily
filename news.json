@@ -1,62 +1,62 @@
 [
   {
-    "id": 1,
-    "category": "国外新闻",
-    "title": "ByteDance 发布 DeerFlow 2.0：开源多智能体框架",
+    "id": "20260331-01",
+    "category": "国外",
+    "title": "AI News Briefs BULLETIN BOARD for March 2026",
     "source": "Radical Data Science",
-    "summary": "字节跳动推出 DeerFlow 2.0，这是一个开源的多智能体框架，每个 AI agent 在独立的隔离环境中运行任务，通过协调的 agent 来完成复杂工作流，而不是依赖一个过载的模型。",
-    "reason": "多智能体系统是 AI 发展的重要方向，DeerFlow 2.0 的开源将推动 AI Agent 技术的普及和创新。",
+    "summary": "ByteDance 发布 DeerFlow 2.0 开源系统，每个 AI agent 在隔离环境中运行任务；NVIDIA 推出 Nemotron Model Reasoning Challenge；Anaconda 与 NVIDIA 合作扩展 GPU 环境；NVIDIA 发布开源 NemoClaw 运行时环境",
+    "reason": "多智能体框架和开源工具的重要进展，展示了 AI 技术在工程化和商业化方面的快速迭代",
     "url": "https://radicaldatascience.wordpress.com/2026/03/26/ai-news-briefs-bulletin-board-for-march-2026/",
-    "date": "2026年03月30日"
+    "date": "2026年03月31日"
   },
   {
-    "id": 2,
-    "category": "国外新闻",
-    "title": "NVIDIA 发起 Nemotron 模型推理挑战赛",
-    "source": "Kaggle",
-    "summary": "NVIDIA 在 Kaggle 上发起 Nemotron 模型推理挑战赛，旨在帮助 AI 社区更好地衡量在结构化任务上的进展，并更一致地比较不同方法的效果。",
-    "reason": "推理能力是大模型的核心竞争力之一，基准测试的标准化将推动 AI 推理能力的持续提升。",
-    "url": "https://radicaldatascience.wordpress.com/2026/03/26/ai-news-briefs-bulletin-board-for-march-2026/",
-    "date": "2026年03月30日"
-  },
-  {
-    "id": 3,
-    "category": "国外新闻",
-    "title": "AI 行业三月重大事件：裁员、成本下降与全球竞争",
-    "source": "Reddit AI SEO Insider",
-    "summary": "AI News March 2026 总结了 AI 行业的重要趋势：企业裁员成为 AI 新闻的一部分、AI 成本持续下降、全球 AI 竞争加剧、初创企业加速创新。",
-    "reason": "这些趋势反映了 AI 行业正在从 hype 阶段进入务实发展阶段，对从业者有重要的参考价值。",
+    "id": "20260331-02",
+    "category": "国外",
+    "title": "AI News March 2026: Everything That Happened In One Insane Week",
+    "source": "Reddit AI Community",
+    "summary": "2026年3月的 AI 新闻集中在：裁员潮、成本下降、全球竞争加剧、创业公司加速、职业变革等议题，揭示了 AI 对企业重组和经济格局的深远影响",
+    "reason": "洞察 AI 行业发展趋势的重要信号，特别是成本下降和全球竞争对行业格局的重塑",
     "url": "https://www.reddit.com/r/AISEOInsider/comments/1rp92zx/ai_news_march_2026_everything_that_happened_in/",
-    "date": "2026年03月30日"
+    "date": "2026年03月31日"
   },
   {
-    "id": 4,
-    "category": "国内新闻",
-    "title": "Meta 要求 80% 中高级工程师必须使用 AI",
-    "source": "IT之家",
-    "summary": "扎克伯格为 Meta 员工设立「硬指标」：80% 的中高级工程师需要在工作中使用 AI。Meta 已经为部分岗位设定具体要求，例如在编程等任务中必须大量依赖 AI 工具。",
-    "reason": "这标志着 AI 正在从「可选工具」变成企业的「必备技能」，对国内企业的人才培养有重要启示。",
-    "url": "https://www.ithome.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
-    "date": "2026年03月30日"
+    "id": "20260331-03",
+    "category": "国外",
+    "title": "AI-Weekly for Tuesday, March 3, 2026 - Issue 206",
+    "source": "AI-Weekly",
+    "summary": "Claude Code 16分钟构建 AI 营销团队教程；用 Claude Code 替代 n8n 的实践；5个比 GPT-5 更聪明更便宜的 AI 模型；0.25美元/百万token的魔法模型",
+    "reason": "实用工具和成本优化的前沿实践，展示了 AI 工具的快速普及和成本下降趋势",
+    "url": "https://ai-weekly.ai/newsletter-03-03-2026/",
+    "date": "2026年03月31日"
   },
   {
-    "id": 5,
-    "category": "国内新闻",
-    "title": "维基百科明确拒绝 AI 直接撰写条目",
-    "source": "IT之家",
-    "summary": "维基百科向直接用 AI 撰写条目说「不」，但仍允许 AI 润色和翻译。维基百科社区认为，AI 生成的内容缺乏真人表达的独特性和温度。",
-    "reason": "这反映了内容平台对 AI 生成内容的态度分化，对内容创作者和平台运营者有参考价值。",
-    "url": "https://www.ithome.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
-    "date": "2026年03月30日"
+    "id": "20260331-04",
+    "category": "国内",
+    "title": "AI最新资讯_人工智能新闻头条_AI行业动态",
+    "source": "AIBase",
+    "summary": "百度贴吧\"纯 AI 自治社区\"爆火；企业微信 CLI 正式开源，AI 获授权调用日程与文档等7大能力；昆仑万维发布2026 AGI战略，三大SOTA模型震撼登场；谷歌为Anthropic打造专属AI算力基地；上海已发布超150款备案大模型",
+    "reason": "国内 AI 生态的重要进展，特别是企业微信开源 CLI 和大模型备案数量，反映中国 AI 产业加速发展",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026年03月31日"
   },
   {
-    "id": 6,
-    "category": "国内新闻",
-    "title": "国产骨科手术机器人 ROPA6 实现全场景平台化",
-    "source": "IT之家",
-    "summary": "ROPA6 平台集 AI 智能规划、高精度导航与机械臂于一体，可适配髋、膝、脊柱等六大术式。其 AI 系统能在 5-10 分钟内基于 CT 数据完成三维重建与手术规划，术中通过亚毫米级定位实现精准操作。",
-    "reason": "国产医疗 AI 从单点辅助迈向全场景平台化，标志着医疗 AI 应用进入新阶段。",
-    "url": "https://www.ithome.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
-    "date": "2026年03月30日"
+    "id": "20260331-05",
+    "category": "国内",
+    "title": "AI人工智能-每日最新AI新闻&文章聚合",
+    "source": "AI导航",
+    "summary": "每日AI新闻资讯多渠道聚合，提供最新的人工智能资讯、技术动态、行业分析、深度报告和开源项目推荐",
+    "reason": "AI 资讯聚合平台的发展，反映了信息爆炸时代对高质量 AI 内容筛选的需求",
+    "url": "https://www.ainav.cn/news/",
+    "date": "2026年03月31日"
+  },
+  {
+    "id": "20260331-06",
+    "category": "国内",
+    "title": "人工智能消息与行业资讯动态 - OFweek",
+    "source": "OFweek人工智能网",
+    "summary": "AI 行业最新动态，包括技术突破、产品发布、政策法规、投融资等多维度资讯",
+    "reason": "传统科技媒体对 AI 领域的持续关注，说明 AI 已成为科技产业的核心议题",
+    "url": "https://www.ofweek.com/ai/CATList-201700-8100-ai.html",
+    "date": "2026年03月31日"
   }
 ]
