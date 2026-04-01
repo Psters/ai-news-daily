@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260331-01",
+    "id": "1",
+    "category": "国外",
+    "title": "AI News March 2026: Everything That Happened In One Insane Week",
+    "source": "Reddit - AISEOInsider",
+    "summary": "2026年3月的AI新闻周展示了AI能力的快速提升。许多构建者正在测试自动化研究、营销和运营任务的工作流。本月AI新闻还凸显了AI如何影响企业重组，并揭示了AI经济学的重要转变。创始人们正在分享构建自动化AI驱动业务的策略。",
+    "reason": "全面梳理了2026年3月AI领域的重要动态，涵盖AI能力提升、企业应用、经济学变化等核心议题。",
+    "url": "https://www.reddit.com/r/AISEOInsider/comments/1rp92zx/ai_news_march_2026_everything_that_happened_in/",
+    "date": "2026年04月01日"
+  },
+  {
+    "id": "2",
     "category": "国外",
     "title": "AI News Briefs BULLETIN BOARD for March 2026",
     "source": "Radical Data Science",
-    "summary": "ByteDance 发布 DeerFlow 2.0 开源系统，每个 AI agent 在隔离环境中运行任务；NVIDIA 推出 Nemotron Model Reasoning Challenge；Anaconda 与 NVIDIA 合作扩展 GPU 环境；NVIDIA 发布开源 NemoClaw 运行时环境",
-    "reason": "多智能体框架和开源工具的重要进展，展示了 AI 技术在工程化和商业化方面的快速迭代",
-    "url": "https://radicaldatascience.wordpress.com/2026/03/26/ai-news-briefs-bulletin-board-for-march-2026/",
-    "date": "2026年03月31日"
+    "summary": "字节跳动发布DeerFlow 2.0开源系统，每个AI代理在独立环境中运行任务；NVIDIA推出Nemotron模型推理挑战赛；Anaconda扩展GPU环境支持开放模型；NVIDIA发布开源NemoClaw，可单命令运行OpenClaw代理。",
+    "reason": "涵盖多个重要技术发布：字节跳动的多代理框架、NVIDIA的推理基准测试和工具链更新，对开发者极具价值。",
+    "url": "https://radicaldatascience.wordpress.com/2026/03/30/ai-news-briefs-bulletin-board-for-march-2026/",
+    "date": "2026年04月01日"
   },
   {
-    "id": "20260331-02",
-    "category": "国外",
-    "title": "AI News March 2026: Everything That Happened In One Insane Week",
-    "source": "Reddit AI Community",
-    "summary": "2026年3月的 AI 新闻集中在：裁员潮、成本下降、全球竞争加剧、创业公司加速、职业变革等议题，揭示了 AI 对企业重组和经济格局的深远影响",
-    "reason": "洞察 AI 行业发展趋势的重要信号，特别是成本下降和全球竞争对行业格局的重塑",
-    "url": "https://www.reddit.com/r/AISEOInsider/comments/1rp92zx/ai_news_march_2026_everything_that_happened_in/",
-    "date": "2026年03月31日"
-  },
-  {
-    "id": "20260331-03",
+    "id": "3",
     "category": "国外",
     "title": "AI-Weekly for Tuesday, March 3, 2026 - Issue 206",
     "source": "AI-Weekly",
-    "summary": "Claude Code 16分钟构建 AI 营销团队教程；用 Claude Code 替代 n8n 的实践；5个比 GPT-5 更聪明更便宜的 AI 模型；0.25美元/百万token的魔法模型",
-    "reason": "实用工具和成本优化的前沿实践，展示了 AI 工具的快速普及和成本下降趋势",
+    "summary": "本期推荐包括：Claude Code构建AI营销团队的教程、用Claude Code替代n8n的实践、比GPT-5更智能更便宜的5个新AI模型、无代码构建AI代理和应用的2小时大师课、每百万Token仅需0.25美元的AI模型等。",
+    "reason": "精选了AI工具和实践教程，Claude Code生态和低成本AI模型的趋势值得关注。",
     "url": "https://ai-weekly.ai/newsletter-03-03-2026/",
-    "date": "2026年03月31日"
+    "date": "2026年04月01日"
   },
   {
-    "id": "20260331-04",
+    "id": "4",
     "category": "国内",
-    "title": "AI最新资讯_人工智能新闻头条_AI行业动态",
-    "source": "AIBase",
-    "summary": "百度贴吧\"纯 AI 自治社区\"爆火；企业微信 CLI 正式开源，AI 获授权调用日程与文档等7大能力；昆仑万维发布2026 AGI战略，三大SOTA模型震撼登场；谷歌为Anthropic打造专属AI算力基地；上海已发布超150款备案大模型",
-    "reason": "国内 AI 生态的重要进展，特别是企业微信开源 CLI 和大模型备案数量，反映中国 AI 产业加速发展",
+    "title": "科技公司大佬众口一词改口风：大裁员都怪AI",
+    "source": "BBC News 中文",
+    "summary": "在特朗普第二次就职典礼上亮相的科技巨头们（马克·祖克柏、杰夫·贝佐斯、桑达尔·皮查伊、埃隆·马斯克）纷纷将裁员归咎于AI。BBC深度报道了AI对就业的冲击，以及企业如何利用AI作为裁员的理由。",
+    "reason": "揭示科技巨头将AI作为裁员借口的真相，探讨AI对就业市场的实际影响。",
+    "url": "https://www.bbc.com/zhongwen/topics/cpydz218gddt/trad",
+    "date": "2026年04月01日"
+  },
+  {
+    "id": "5",
+    "category": "国内",
+    "title": "小米 MiMo-V2-Pro 霸榜 Text Arena，ChatGPT-5.2 首次独立证明数学猜想",
+    "source": "AIBase AI News",
+    "summary": "小米MiMo-V2-Pro在Text Arena排行榜全球第五；ChatGPT-5.2首次独立证明数学猜想，开启'氛围证明'时代；阿里Qwen 3.6 Plus预览版登陆OpenRouter，100万上下文免费；DeepMind之父哈萨比斯警告超级AI或导致人类灭绝。",
+    "reason": "涵盖国产模型突破、前沿研究进展和行业领袖观点，代表当前AI发展的三个关键维度。",
     "url": "https://news.aibase.com/zh/news",
-    "date": "2026年03月31日"
+    "date": "2026年04月01日"
   },
   {
-    "id": "20260331-05",
+    "id": "6",
     "category": "国内",
-    "title": "AI人工智能-每日最新AI新闻&文章聚合",
-    "source": "AI导航",
-    "summary": "每日AI新闻资讯多渠道聚合，提供最新的人工智能资讯、技术动态、行业分析、深度报告和开源项目推荐",
-    "reason": "AI 资讯聚合平台的发展，反映了信息爆炸时代对高质量 AI 内容筛选的需求",
-    "url": "https://www.ainav.cn/news/",
-    "date": "2026年03月31日"
-  },
-  {
-    "id": "20260331-06",
-    "category": "国内",
-    "title": "人工智能消息与行业资讯动态 - OFweek",
-    "source": "OFweek人工智能网",
-    "summary": "AI 行业最新动态，包括技术突破、产品发布、政策法规、投融资等多维度资讯",
-    "reason": "传统科技媒体对 AI 领域的持续关注，说明 AI 已成为科技产业的核心议题",
-    "url": "https://www.ofweek.com/ai/CATList-201700-8100-ai.html",
-    "date": "2026年03月31日"
+    "title": "联合国成立人工智能科学专家组推进安全治理",
+    "source": "UN News",
+    "summary": "联合国秘书长古特雷斯宣布成立人工智能问题独立国际科学小组，由40位全球顶级专家组成。古特雷斯强调，AI正在'以光速发展'，亟需建立基于科学和真知的全球共识。联合国人权高专呼吁将国际人权框架应用于AI系统。",
+    "reason": "全球AI治理的重要里程碑，联合国层面推动AI安全治理和国际协调。",
+    "url": "https://news.un.org/zh/tags/rengongzhineng",
+    "date": "2026年04月01日"
   }
 ]
