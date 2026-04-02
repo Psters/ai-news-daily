@@ -1,62 +1,62 @@
 [
   {
-    "id": "1",
-    "category": "国外",
-    "title": "AI News March 2026: Everything That Happened In One Insane Week",
-    "source": "Reddit - AISEOInsider",
-    "summary": "2026年3月的AI新闻周展示了AI能力的快速提升。许多构建者正在测试自动化研究、营销和运营任务的工作流。本月AI新闻还凸显了AI如何影响企业重组，并揭示了AI经济学的重要转变。创始人们正在分享构建自动化AI驱动业务的策略。",
-    "reason": "全面梳理了2026年3月AI领域的重要动态，涵盖AI能力提升、企业应用、经济学变化等核心议题。",
-    "url": "https://www.reddit.com/r/AISEOInsider/comments/1rp92zx/ai_news_march_2026_everything_that_happened_in/",
-    "date": "2026年04月01日"
-  },
-  {
-    "id": "2",
-    "category": "国外",
-    "title": "AI News Briefs BULLETIN BOARD for March 2026",
+    "id": "20260402-01",
+    "category": "国际",
+    "title": "ByteDance 发布 DeerFlow 2.0：多智能体框架",
     "source": "Radical Data Science",
-    "summary": "字节跳动发布DeerFlow 2.0开源系统，每个AI代理在独立环境中运行任务；NVIDIA推出Nemotron模型推理挑战赛；Anaconda扩展GPU环境支持开放模型；NVIDIA发布开源NemoClaw，可单命令运行OpenClaw代理。",
-    "reason": "涵盖多个重要技术发布：字节跳动的多代理框架、NVIDIA的推理基准测试和工具链更新，对开发者极具价值。",
-    "url": "https://radicaldatascience.wordpress.com/2026/03/30/ai-news-briefs-bulletin-board-for-march-2026/",
-    "date": "2026年04月01日"
+    "summary": "ByteDance 发布开源系统 DeerFlow 2.0，每个 AI 智能体在独立环境中运行任务。这是一个多智能体框架，通过协调的智能体运行复杂工作流，而不是依赖一个过载的模型。",
+    "reason": "多智能体协作是 AI 进化的重要方向，DeerFlow 2.0 提供了新的架构范式。",
+    "url": "https://github.com/bytedance/deer-flow",
+    "date": "2026-04-02"
   },
   {
-    "id": "3",
-    "category": "国外",
-    "title": "AI-Weekly for Tuesday, March 3, 2026 - Issue 206",
-    "source": "AI-Weekly",
-    "summary": "本期推荐包括：Claude Code构建AI营销团队的教程、用Claude Code替代n8n的实践、比GPT-5更智能更便宜的5个新AI模型、无代码构建AI代理和应用的2小时大师课、每百万Token仅需0.25美元的AI模型等。",
-    "reason": "精选了AI工具和实践教程，Claude Code生态和低成本AI模型的趋势值得关注。",
-    "url": "https://ai-weekly.ai/newsletter-03-03-2026/",
-    "date": "2026年04月01日"
+    "id": "20260402-02",
+    "category": "国际",
+    "title": "NVIDIA 推出 NemoClaw：单命令运行 OpenClaw 智能体",
+    "source": "NVIDIA News",
+    "summary": "NVIDIA 发布开源 NemoClaw，可使用单命令运行时在本地和云模型上运行 OpenClaw 智能体。解决了运行自主智能体通常需要跨模型、工具和环境手动设置的问题。",
+    "reason": "降低智能体部署门槛，推动 AI Agent 生态发展。",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-nemoclaw",
+    "date": "2026-04-02"
   },
   {
-    "id": "4",
+    "id": "20260402-03",
+    "category": "国际",
+    "title": "世界模型五大分类：AMI Labs 和 World Labs 融资超 10 亿美元",
+    "source": "Radical Data Science",
+    "summary": "AMI Labs 和 World Labs 都在\"世界模型\"概念上融资超过 10 亿美元，但该术语涵盖五种不同方法：JEPA、空间智能、学习仿真、物理 AI 基础设施和主动推理。",
+    "reason": "世界模型是 AI 下一个前沿，但这轮融资揭示了概念多样化带来的投资挑战。",
+    "url": "https://x.com/zhuokaiz/status/2032201769053212682",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "20260402-04",
     "category": "国内",
-    "title": "科技公司大佬众口一词改口风：大裁员都怪AI",
-    "source": "BBC News 中文",
-    "summary": "在特朗普第二次就职典礼上亮相的科技巨头们（马克·祖克柏、杰夫·贝佐斯、桑达尔·皮查伊、埃隆·马斯克）纷纷将裁员归咎于AI。BBC深度报道了AI对就业的冲击，以及企业如何利用AI作为裁员的理由。",
-    "reason": "揭示科技巨头将AI作为裁员借口的真相，探讨AI对就业市场的实际影响。",
-    "url": "https://www.bbc.com/zhongwen/topics/cpydz218gddt/trad",
-    "date": "2026年04月01日"
+    "title": "AI 热潮冲击科技巨头碳中和承诺：天然气用量激增",
+    "source": "IT之家",
+    "summary": "人工智能的飞速发展正让科技巨头的碳中和承诺变得愈发困难。谷歌、微软等公司的温室气体排放量不降反升，数据中心电力需求激增，导致对天然气的依赖加剧。",
+    "reason": "AI 发展与气候责任的平衡成为关键议题，影响企业战略和政策制定。",
+    "url": "https://www.ithome.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
+    "date": "2026-04-02"
   },
   {
-    "id": "5",
+    "id": "20260402-05",
     "category": "国内",
-    "title": "小米 MiMo-V2-Pro 霸榜 Text Arena，ChatGPT-5.2 首次独立证明数学猜想",
-    "source": "AIBase AI News",
-    "summary": "小米MiMo-V2-Pro在Text Arena排行榜全球第五；ChatGPT-5.2首次独立证明数学猜想，开启'氛围证明'时代；阿里Qwen 3.6 Plus预览版登陆OpenRouter，100万上下文免费；DeepMind之父哈萨比斯警告超级AI或导致人类灭绝。",
-    "reason": "涵盖国产模型突破、前沿研究进展和行业领袖观点，代表当前AI发展的三个关键维度。",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026年04月01日"
+    "title": "智能体\"管阀千问\"升级供水管网运维模式",
+    "source": "国际科技创新中心",
+    "summary": "园区企业株洲南方阀门股份有限公司成功研发出泵管阀系统 AI 智能体\"管阀千问\"，可系统性破解水锤引发的管网瞬态压力波动、管道漏点精准定位、多工况调度响应滞后等长期困扰供水行业的痛点问题。",
+    "reason": "AI 在垂直行业的深度应用，解决传统工业痛点。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "date": "2026-04-02"
   },
   {
-    "id": "6",
+    "id": "20260402-06",
     "category": "国内",
-    "title": "联合国成立人工智能科学专家组推进安全治理",
-    "source": "UN News",
-    "summary": "联合国秘书长古特雷斯宣布成立人工智能问题独立国际科学小组，由40位全球顶级专家组成。古特雷斯强调，AI正在'以光速发展'，亟需建立基于科学和真知的全球共识。联合国人权高专呼吁将国际人权框架应用于AI系统。",
-    "reason": "全球AI治理的重要里程碑，联合国层面推动AI安全治理和国际协调。",
-    "url": "https://news.un.org/zh/tags/rengongzhineng",
-    "date": "2026年04月01日"
+    "title": "材料领域 AI 智能体 MatChat 2.0 发布",
+    "source": "国际科技创新中心",
+    "summary": "中国科学院东莞材料科学与技术研究所发布国内首个专注于材料科学领域的 AI 智能体全新升级版 MatChat 2.0，在知识库规模、推理能力、响应效率以及场景覆盖等核心维度均实现了显著提升。",
+    "reason": "科学领域的 AI 智能体专业化趋势，为科研提供新工具。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "date": "2026-04-02"
   }
 ]
