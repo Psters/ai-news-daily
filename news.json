@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026040301",
+    "id": "2026040401",
     "category": "国外",
-    "title": "字节跳动开源 DeerFlow 2.0：多智能体编排框架",
+    "title": "March 2026 was one of the WILDEST months in AI history",
+    "source": "YouTube",
+    "summary": "2026年3月是AI历史上最疯狂的月份之一，该视频汇总了所有重要动态，帮助观众快速了解行业全局。",
+    "reason": "月度总结类内容有助于系统性把握AI发展趋势和关键事件。",
+    "url": "https://www.youtube.com/watch?v=pLrEzbgxvT4",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "2026040402",
+    "category": "国外",
+    "title": "ByteDance releases DeerFlow 2.0 multi-agent framework",
     "source": "Radical Data Science",
-    "summary": "ByteDance 发布 DeerFlow 2.0，这是一个开源系统，每个 AI 代理在其独立的环境中运行任务。DeerFlow 2.0 是一个多代理框架，允许您通过协调代理来运行复杂的工作流，而不是使用一个过载的模型。",
-    "reason": "多智能体框架是当前 AI 的发展热点，DeerFlow 2.0 为中国企业开源实践提供了重要参考。",
-    "url": "https://github.com/bytedance/deer-flow",
-    "date": "2026年04月03日"
+    "summary": "字节跳动开源DeerFlow 2.0，一个多智能体框架，每个AI Agent在隔离环境中运行任务，通过协调Agent而非单一过载模型来运行复杂工作流。",
+    "reason": "多智能体协作是AI Agent领域的重要进展，国内大厂的开源动作值得关注。",
+    "url": "https://radicaldatascience.wordpress.com/2026/03/30/ai-news-briefs-bulletin-board-for-march-2026/",
+    "date": "2026-04-04"
   },
   {
-    "id": "2026040302",
+    "id": "2026040403",
     "category": "国外",
-    "title": "NVIDIA 发布 NemoClaw 运行时框架",
+    "title": "NVIDIA unveils open NemoClaw to run OpenClaw agents",
     "source": "NVIDIA News",
-    "summary": "NVIDIA 推出开源 NemoClaw，可使用单命令运行时在本地和云模型之间运行 OpenClaw 代理。运行自主代理通常需要跨模型、工具和环境进行手动设置，而没有一致的方式来控制数据流向。",
-    "reason": "NVIDIA 进入 AI Agent 编排领域，为 Agent 开发提供统一的运行时环境，降低了开发门槛。",
+    "summary": "英伟达发布开源NemoClaw，可使用单命令运行时跨本地和云模型运行OpenClaw Agent，解决了跨模型、工具和环境的手动配置问题。",
+    "reason": "英伟达入局Agent运行时生态，对OpenClaw生态是重要利好。",
     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-nemoclaw",
-    "date": "2026年04月03日"
+    "date": "2026-04-04"
   },
   {
-    "id": "2026040303",
-    "category": "国外",
-    "title": "世界模型的五大类别分类",
-    "source": "Twitter/X",
-    "summary": "AMI Labs 和 World Labs 都在\"世界模型\"领域筹集了超过 10 亿美元，但该术语涵盖了五种不同的方法：JEPA、空间智能、学习仿真、物理 AI 基础设施和主动推理。",
-    "reason": "世界模型是 AI 的下一个前沿，理解其不同技术路径对把握 AI 发展方向至关重要。",
-    "url": "https://x.com/zhuokaiz/status/2032201769053212682",
-    "date": "2026年04月03日"
-  },
-  {
-    "id": "2026040304",
+    "id": "2026040404",
     "category": "国内",
-    "title": "字节跳动火山引擎开放 Seedance 2.0 API 申请",
-    "source": "AIBase",
-    "summary": "字节跳动火山引擎 4 月 2 日开放 Seedance 2.0 多模态视频生成模型的普通 API 申请，标志着该模型从限量测试走向广泛开放。该模型支持文字、图片、音频、视频四种输入，能实现角色一致性、导演级镜头控制和物理模拟。",
-    "reason": "多模态视频生成是 AI 的杀手级应用，Seedance 2.0 的开放将为内容创作带来革命性变化。",
-    "url": "https://news.aibase.com/zh/news/26788",
-    "date": "2026年04月03日"
+    "title": "微软加速打造自研尖端AI模型，目标明年具备最先进图文、音频处理能力",
+    "source": "IT之家",
+    "summary": "微软正加速研发自研AI模型，计划在2027年具备业界领先的图文、音频处理能力，开启'AI自主化'总攻。",
+    "reason": "科技巨头的自研模型动向直接影响AI竞争格局，值得持续关注。",
+    "url": "https://www.ithome.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
+    "date": "2026-04-04"
   },
   {
-    "id": "2026040305",
+    "id": "2026040405",
     "category": "国内",
-    "title": "美团开源 LongCat-AudioDiT：刷新音色克隆 SOTA",
-    "source": "AIBase",
-    "summary": "美团 LongCat 团队发布并开源了 LongCat-AudioDiT 模型，采用端到端架构，直接在波形潜空间建模，摒弃了传统 TTS 系统中的梅尔频谱中间表征，有效减少了信息损耗与误差累积，显著提升了零样本语音克隆的性能。",
-    "reason": "语音克隆技术突破，端到端架构简化了流程并提升了性能，开源将加速技术普及。",
-    "url": "https://news.aibase.com/zh/news/26786",
-    "date": "2026年04月03日"
+    "title": "阿里巴巴图像生成与编辑统一模型Wan2.7-Image正式发布",
+    "source": "IT之家",
+    "summary": "阿里巴巴发布Wan2.7-Image统一模型，针对AI生图中的审美疲劳、色彩失控等痛点，带来更具'活人感'的人物生成、精准色彩控制及超长文本渲染能力。",
+    "reason": "国内大模型在多模态生成领域的持续突破，视觉生成能力快速提升。",
+    "url": "https://www.ithome.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
+    "date": "2026-04-04"
   },
   {
-    "id": "2026040306",
+    "id": "2026040406",
     "category": "国内",
-    "title": "智谱推出 GLM-5V-Turbo：为 AI 编程安上眼睛",
+    "title": "谷歌Gemma 4正式开源：31B参数性能直逼头部大模型",
     "source": "AIBase",
-    "summary": "智谱 AI 发布 GLM-5V-Turbo 大模型，专为视觉编程设计。该模型突破纯文本局限，具备原生多模态能力，可直接理解设计稿和网页截图。开发者上传草图或界面截图后，模型能自动生成可运行的前端代码。",
-    "reason": "视觉编程将大幅降低前端开发门槛，实现从设计稿到代码的自动化，提升开发效率。",
-    "url": "https://news.aibase.com/zh/news/26773",
-    "date": "2026年04月03日"
+    "summary": "谷歌发布Gemma 4开源模型，31B参数版本采用Apache 2.0协议，性能直逼头部大模型。同时谷歌发布Gemini API新定价策略，推理服务按需计费。",
+    "reason": "开源大模型持续推出，降低开发者使用门槛，推动AI民主化。",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026-04-04"
   }
 ]
