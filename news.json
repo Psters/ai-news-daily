@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026040401",
+    "id": "20260405-001",
     "category": "国外",
-    "title": "March 2026 was one of the WILDEST months in AI history",
-    "source": "YouTube",
-    "summary": "2026年3月是AI历史上最疯狂的月份之一，该视频汇总了所有重要动态，帮助观众快速了解行业全局。",
-    "reason": "月度总结类内容有助于系统性把握AI发展趋势和关键事件。",
-    "url": "https://www.youtube.com/watch?v=pLrEzbgxvT4",
-    "date": "2026-04-04"
+    "title": "白宫推进首项重大联邦 AI 法案",
+    "source": "Reuters",
+    "summary": "白宫正在推进今年内的首项重大联邦 AI 法律，凸显人工智能在经济和战场中日益增长的作用。报道称无人机干扰了亚马逊等公司的运营，显示出 AI 技术的广泛影响。",
+    "reason": "关注 AI 政策法规动态，了解美国政府如何监管 AI 技术。",
+    "url": "https://www.reuters.com/technology/artificial-intelligence/artificial-intelligencer-white-house-pushes-first-big-federal-ai-law-this-year-2026-03-25/",
+    "date": "2026年04月05日"
   },
   {
-    "id": "2026040402",
+    "id": "20260405-002",
     "category": "国外",
-    "title": "ByteDance releases DeerFlow 2.0 multi-agent framework",
-    "source": "Radical Data Science",
-    "summary": "字节跳动开源DeerFlow 2.0，一个多智能体框架，每个AI Agent在隔离环境中运行任务，通过协调Agent而非单一过载模型来运行复杂工作流。",
-    "reason": "多智能体协作是AI Agent领域的重要进展，国内大厂的开源动作值得关注。",
-    "url": "https://radicaldatascience.wordpress.com/2026/03/30/ai-news-briefs-bulletin-board-for-march-2026/",
-    "date": "2026-04-04"
+    "title": "摩根士丹利预警 2026 年 AI 突破性进展",
+    "source": "Yahoo Finance",
+    "summary": "摩根士丹利发出警告，预测 2026 年将迎来重大 AI 突破。这一预警引发市场关注，投资者正密切关注 AI 领域的下一步发展。",
+    "reason": "金融巨头的预警信号，值得关注 AI 投资和产业发展趋势。",
+    "url": "https://finance.yahoo.com/news/morgan-stanley-warns-ai-breakthrough-072000084.html",
+    "date": "2026年04月05日"
   },
   {
-    "id": "2026040403",
+    "id": "20260405-003",
     "category": "国外",
-    "title": "NVIDIA unveils open NemoClaw to run OpenClaw agents",
-    "source": "NVIDIA News",
-    "summary": "英伟达发布开源NemoClaw，可使用单命令运行时跨本地和云模型运行OpenClaw Agent，解决了跨模型、工具和环境的手动配置问题。",
-    "reason": "英伟达入局Agent运行时生态，对OpenClaw生态是重要利好。",
-    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-nemoclaw",
-    "date": "2026-04-04"
+    "title": "2026 年 3 月 AI 趋势：五大核心叙事",
+    "source": "Medium",
+    "summary": "文章总结了 2026 年 AI 领域的五大叙事：代理式 AI 正在接管企业工作流、开放权重模型正在民主化一切、物理 AI 和机器人技术正迎来时刻、科学发现被 AI 实验室伙伴加速、治理正在跟上。NIST 宣布 AI Agent 标准倡议，围绕行业主导标准、开源协议开发、代理安全和身份研究三大支柱。",
+    "reason": "深度分析 2026 年 AI 发展趋势，涵盖代理式 AI、开放模型、机器人等关键领域。",
+    "url": "https://medium.com/@Micheal-Lanham/what-is-the-next-big-thing-in-ai-as-of-march-2026-07acda2458dc",
+    "date": "2026年04月05日"
   },
   {
-    "id": "2026040404",
+    "id": "20260405-004",
     "category": "国内",
-    "title": "微软加速打造自研尖端AI模型，目标明年具备最先进图文、音频处理能力",
-    "source": "IT之家",
-    "summary": "微软正加速研发自研AI模型，计划在2027年具备业界领先的图文、音频处理能力，开启'AI自主化'总攻。",
-    "reason": "科技巨头的自研模型动向直接影响AI竞争格局，值得持续关注。",
-    "url": "https://www.ithome.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
-    "date": "2026-04-04"
-  },
-  {
-    "id": "2026040405",
-    "category": "国内",
-    "title": "阿里巴巴图像生成与编辑统一模型Wan2.7-Image正式发布",
-    "source": "IT之家",
-    "summary": "阿里巴巴发布Wan2.7-Image统一模型，针对AI生图中的审美疲劳、色彩失控等痛点，带来更具'活人感'的人物生成、精准色彩控制及超长文本渲染能力。",
-    "reason": "国内大模型在多模态生成领域的持续突破，视觉生成能力快速提升。",
-    "url": "https://www.ithome.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
-    "date": "2026-04-04"
-  },
-  {
-    "id": "2026040406",
-    "category": "国内",
-    "title": "谷歌Gemma 4正式开源：31B参数性能直逼头部大模型",
+    "title": "亚马逊、英伟达集体入局！印度 AI 新星 Sarvam 开启 3.5 亿美元巨额融资",
     "source": "AIBase",
-    "summary": "谷歌发布Gemma 4开源模型，31B参数版本采用Apache 2.0协议，性能直逼头部大模型。同时谷歌发布Gemini API新定价策略，推理服务按需计费。",
-    "reason": "开源大模型持续推出，降低开发者使用门槛，推动AI民主化。",
+    "summary": "印度 AI 初创公司 Sarvam 正在进行 3.5 亿美元融资，亚马逊和英伟达等科技巨头集体入局，显示国际资本对 AI 领域的持续看好。",
+    "reason": "关注全球 AI 投资动态，亚马逊和英伟达的投资动向具有风向标意义。",
     "url": "https://news.aibase.com/zh/news",
-    "date": "2026-04-04"
+    "date": "2026年04月05日"
+  },
+  {
+    "id": "20260405-005",
+    "category": "国内",
+    "title": "谷歌 Gemma 4 正式开源：Apache 2.0 协议加持，31B 参数性能直逼头部大模型",
+    "source": "AIBase",
+    "summary": "谷歌发布 Gemma 4 开源大模型，采用 Apache 2.0 协议，31B 参数版本性能直逼头部商业大模型。同时谷歌发布 Gemini API 新定价策略，推理服务按需计费。",
+    "reason": "开源大模型的重要进展，Apache 2.0 协议意味着商业友好，值得关注。",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026年04月05日"
+  },
+  {
+    "id": "20260405-006",
+    "category": "国内",
+    "title": "小米 MiMo 大模型首推 Token 套餐：最低 39 元起",
+    "source": "AIBase",
+    "summary": "小米推出 MiMo 大模型 Token 套餐，最低 39 元起，开创了大模型商业化新模式。这一创新定价策略可能影响整个行业的商业模式。",
+    "reason": "国内大模型商业化的新尝试，Token 套餐模式值得关注。",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026年04月05日"
   }
 ]
