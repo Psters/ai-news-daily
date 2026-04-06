@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260405-001",
+    "id": "20260406-001",
     "category": "国外",
-    "title": "白宫推进首项重大联邦 AI 法案",
-    "source": "Reuters",
-    "summary": "白宫正在推进今年内的首项重大联邦 AI 法律，凸显人工智能在经济和战场中日益增长的作用。报道称无人机干扰了亚马逊等公司的运营，显示出 AI 技术的广泛影响。",
-    "reason": "关注 AI 政策法规动态，了解美国政府如何监管 AI 技术。",
-    "url": "https://www.reuters.com/technology/artificial-intelligence/artificial-intelligencer-white-house-pushes-first-big-federal-ai-law-this-year-2026-03-25/",
-    "date": "2026年04月05日"
+    "title": "谷歌 2026 年 3 月 AI 新闻汇总：Gemini 3 Flash 推出",
+    "source": "LinkedIn",
+    "summary": "谷歌在 2026 年 3 月发布了多项 AI 更新，包括 Gemini 3 Flash 模型的推出，以及 10 个帮助坚持新年决心的 Gemini 提示词。文章还回顾了 Gemini 3 可以做的 15 件事例。",
+    "reason": "谷歌 AI 产品的最新进展，Gemini 3 Flash 的推出值得关注。",
+    "url": "https://www.linkedin.com/pulse/latest-ai-news-we-announced-march-2026-google-3nqce",
+    "date": "2026年04月06日"
   },
   {
-    "id": "20260405-002",
+    "id": "20260406-002",
     "category": "国外",
-    "title": "摩根士丹利预警 2026 年 AI 突破性进展",
-    "source": "Yahoo Finance",
-    "summary": "摩根士丹利发出警告，预测 2026 年将迎来重大 AI 突破。这一预警引发市场关注，投资者正密切关注 AI 领域的下一步发展。",
-    "reason": "金融巨头的预警信号，值得关注 AI 投资和产业发展趋势。",
-    "url": "https://finance.yahoo.com/news/morgan-stanley-warns-ai-breakthrough-072000084.html",
-    "date": "2026年04月05日"
+    "title": "2026 年迄今为止最大的 AI 故事：OpenClaw 收购潮",
+    "source": "TechCrunch",
+    "summary": "文章回顾了 2026 年至今最重要的 AI 故事，包括 AI 助手应用 OpenClaw 的爆火、被 OpenAI 收购，以及基于 OpenClaw 构建的 AI 代理社交网络 Moltbook 被 Meta 收购。黄仁勋表示英伟达将减少对 OpenAI 和 Anthropic 的依赖。",
+    "reason": "AI 行业的重大并购事件，OpenClaw 的爆火和收购潮反映了 AI Agent 领域的热度。",
+    "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+    "date": "2026年04月06日"
   },
   {
-    "id": "20260405-003",
+    "id": "20260406-003",
     "category": "国外",
-    "title": "2026 年 3 月 AI 趋势：五大核心叙事",
-    "source": "Medium",
-    "summary": "文章总结了 2026 年 AI 领域的五大叙事：代理式 AI 正在接管企业工作流、开放权重模型正在民主化一切、物理 AI 和机器人技术正迎来时刻、科学发现被 AI 实验室伙伴加速、治理正在跟上。NIST 宣布 AI Agent 标准倡议，围绕行业主导标准、开源协议开发、代理安全和身份研究三大支柱。",
-    "reason": "深度分析 2026 年 AI 发展趋势，涵盖代理式 AI、开放模型、机器人等关键领域。",
-    "url": "https://medium.com/@Micheal-Lanham/what-is-the-next-big-thing-in-ai-as-of-march-2026-07acda2458dc",
-    "date": "2026年04月05日"
+    "title": "AI 状态报告 - Q2 2026",
+    "source": "YouTube",
+    "summary": "这是一份关于 AI 行业 2026 年第二季度状态的深度分析视频，涵盖技术发展、市场趋势、投资动态等多个维度。",
+    "reason": "季度性的 AI 行业综述，有助于全面了解行业发展趋势。",
+    "url": "https://www.youtube.com/watch?v=LZeMZgJszKU",
+    "date": "2026年04月06日"
   },
   {
-    "id": "20260405-004",
+    "id": "20260406-004",
     "category": "国内",
-    "title": "亚马逊、英伟达集体入局！印度 AI 新星 Sarvam 开启 3.5 亿美元巨额融资",
+    "title": "AI 最新资讯汇总：Sarvam 融资、小米 MiMo Token 套餐",
     "source": "AIBase",
-    "summary": "印度 AI 初创公司 Sarvam 正在进行 3.5 亿美元融资，亚马逊和英伟达等科技巨头集体入局，显示国际资本对 AI 领域的持续看好。",
-    "reason": "关注全球 AI 投资动态，亚马逊和英伟达的投资动向具有风向标意义。",
+    "summary": "AIBase 汇总了最新的 AI 新闻，包括印度 AI 新星 Sarvam 获得 3.5 亿美元融资（亚马逊、英伟达入局）、小米 MiMo 大模型推出 Token 套餐（39 元起）、美的集团转型 AI 科技巨头（日均 1.3 万个智能体在线）等。",
+    "reason": "国内 AI 行业的综合新闻，涵盖融资、商业化、应用等多个维度。",
     "url": "https://news.aibase.com/zh/news",
-    "date": "2026年04月05日"
+    "date": "2026年04月06日"
   },
   {
-    "id": "20260405-005",
+    "id": "20260406-005",
     "category": "国内",
-    "title": "谷歌 Gemma 4 正式开源：Apache 2.0 协议加持，31B 参数性能直逼头部大模型",
-    "source": "AIBase",
-    "summary": "谷歌发布 Gemma 4 开源大模型，采用 Apache 2.0 协议，31B 参数版本性能直逼头部商业大模型。同时谷歌发布 Gemini API 新定价策略，推理服务按需计费。",
-    "reason": "开源大模型的重要进展，Apache 2.0 协议意味着商业友好，值得关注。",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026年04月05日"
+    "title": "当 AI 智能体开始上岗：2026 年春天里，三个中国人的兴奋与恐惧",
+    "source": "BBC News 中文",
+    "summary": "BBC 中文报道了 2026 年春天，AI 智能体在中国开始上岗的真实故事，记录了三个普通人的兴奋与恐惧。文章还提到研究者警告 AI 玩具可能误读幼儿情绪并做出不当反应。",
+    "reason": "关注 AI 技术在中国普通人的实际应用和心理影响，具有人文关怀。",
+    "url": "https://www.bbc.com/zhongwen/topics/cpydz218gddt/trad",
+    "date": "2026年04月06日"
   },
   {
-    "id": "20260405-006",
+    "id": "20260406-006",
     "category": "国内",
-    "title": "小米 MiMo 大模型首推 Token 套餐：最低 39 元起",
-    "source": "AIBase",
-    "summary": "小米推出 MiMo 大模型 Token 套餐，最低 39 元起，开创了大模型商业化新模式。这一创新定价策略可能影响整个行业的商业模式。",
-    "reason": "国内大模型商业化的新尝试，Token 套餐模式值得关注。",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026年04月05日"
+    "title": "联合国成立 AI 科学专家组，推进全球 AI 安全治理",
+    "source": "UN News",
+    "summary": "联合国宣布成立人工智能问题独立国际科学小组，40 位全球顶级专家将首次举行会议。秘书长古特雷斯强调亟需建立基于科学和真知的全球共识。联合国人权高专呼吁将国际人权框架应用于 AI 系统。",
+    "reason": "全球 AI 治理的重要进展，联合国的举措值得关注。",
+    "url": "https://news.un.org/zh/tags/rengongzhineng",
+    "date": "2026年04月06日"
   }
 ]
