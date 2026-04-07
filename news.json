@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260406-001",
+    "id": "2026040701",
     "category": "国外",
-    "title": "谷歌 2026 年 3 月 AI 新闻汇总：Gemini 3 Flash 推出",
+    "title": "谷歌 Gemini 3 Flash 发布并快速推广",
     "source": "LinkedIn",
-    "summary": "谷歌在 2026 年 3 月发布了多项 AI 更新，包括 Gemini 3 Flash 模型的推出，以及 10 个帮助坚持新年决心的 Gemini 提示词。文章还回顾了 Gemini 3 可以做的 15 件事例。",
-    "reason": "谷歌 AI 产品的最新进展，Gemini 3 Flash 的推出值得关注。",
+    "summary": "谷歌在2026年3月推出了Gemini 3 Flash模型，谷歌员工分享了开发过程和应用案例，包括帮助用户实现新年决心等实用功能",
+    "reason": "Gemini 3 Flash 是谷歌最新的轻量级模型，快速推广值得关注",
     "url": "https://www.linkedin.com/pulse/latest-ai-news-we-announced-march-2026-google-3nqce",
-    "date": "2026年04月06日"
+    "date": "2026年04月07日"
   },
   {
-    "id": "20260406-002",
+    "id": "2026040702",
     "category": "国外",
-    "title": "2026 年迄今为止最大的 AI 故事：OpenClaw 收购潮",
+    "title": "2026年最大AI事件回顾：OpenClaw被收购",
     "source": "TechCrunch",
-    "summary": "文章回顾了 2026 年至今最重要的 AI 故事，包括 AI 助手应用 OpenClaw 的爆火、被 OpenAI 收购，以及基于 OpenClaw 构建的 AI 代理社交网络 Moltbook 被 Meta 收购。黄仁勋表示英伟达将减少对 OpenAI 和 Anthropic 的依赖。",
-    "reason": "AI 行业的重大并购事件，OpenClaw 的爆火和收购潮反映了 AI Agent 领域的热度。",
+    "summary": "2026年AI行业最大新闻之一：vibe-coded AI助手OpenClaw被OpenAI收购，其创建者Peter Steinberger加入OpenAI。基于OpenClaw构建的AI代理社交网络Moltbook也被Meta收购",
+    "reason": "OpenClaw的收购标志着AI代理生态系统的整合趋势",
     "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
-    "date": "2026年04月06日"
+    "date": "2026年04月07日"
   },
   {
-    "id": "20260406-003",
+    "id": "2026040703",
     "category": "国外",
-    "title": "AI 状态报告 - Q2 2026",
-    "source": "YouTube",
-    "summary": "这是一份关于 AI 行业 2026 年第二季度状态的深度分析视频，涵盖技术发展、市场趋势、投资动态等多个维度。",
-    "reason": "季度性的 AI 行业综述，有助于全面了解行业发展趋势。",
-    "url": "https://www.youtube.com/watch?v=LZeMZgJszKU",
-    "date": "2026年04月06日"
+    "title": "OpenAI推动政策以抵消AI影响",
+    "source": "Bloomberg Technology",
+    "summary": "OpenAI正在积极推动政策制定，旨在减轻AI对社会的潜在负面影响，强调AI发展的责任与可持续性",
+    "reason": "AI政策制定是行业发展的重要风向标",
+    "url": "https://www.youtube.com/watch?v=1O5Qo3qi3iM",
+    "date": "2026年04月07日"
   },
   {
-    "id": "20260406-004",
+    "id": "2026040704",
     "category": "国内",
-    "title": "AI 最新资讯汇总：Sarvam 融资、小米 MiMo Token 套餐",
+    "title": "印度AI新星Sarvam获得3.5亿美元巨额融资",
     "source": "AIBase",
-    "summary": "AIBase 汇总了最新的 AI 新闻，包括印度 AI 新星 Sarvam 获得 3.5 亿美元融资（亚马逊、英伟达入局）、小米 MiMo 大模型推出 Token 套餐（39 元起）、美的集团转型 AI 科技巨头（日均 1.3 万个智能体在线）等。",
-    "reason": "国内 AI 行业的综合新闻，涵盖融资、商业化、应用等多个维度。",
+    "summary": "印度AI初创公司Sarvam开启3.5亿美元融资轮，亚马逊、英伟达等科技巨头集体入局，显示国际资本对印度AI市场的重视",
+    "reason": "巨额融资反映全球AI投资热点转移至新兴市场",
     "url": "https://news.aibase.com/zh/news",
-    "date": "2026年04月06日"
+    "date": "2026年04月07日"
   },
   {
-    "id": "20260406-005",
+    "id": "2026040705",
     "category": "国内",
-    "title": "当 AI 智能体开始上岗：2026 年春天里，三个中国人的兴奋与恐惧",
+    "title": "AI智能体上岗：中国用户的兴奋与恐惧",
     "source": "BBC News 中文",
-    "summary": "BBC 中文报道了 2026 年春天，AI 智能体在中国开始上岗的真实故事，记录了三个普通人的兴奋与恐惧。文章还提到研究者警告 AI 玩具可能误读幼儿情绪并做出不当反应。",
-    "reason": "关注 AI 技术在中国普通人的实际应用和心理影响，具有人文关怀。",
+    "summary": "2026年春天，AI智能体开始进入职场，三位中国用户分享了他们对AI替代工作的兴奋与恐惧，反映了AI普及带来的社会心理变化",
+    "reason": "AI对就业的影响是社会关注的焦点话题",
     "url": "https://www.bbc.com/zhongwen/topics/cpydz218gddt/trad",
-    "date": "2026年04月06日"
+    "date": "2026年04月07日"
   },
   {
-    "id": "20260406-006",
+    "id": "2026040706",
     "category": "国内",
-    "title": "联合国成立 AI 科学专家组，推进全球 AI 安全治理",
-    "source": "UN News",
-    "summary": "联合国宣布成立人工智能问题独立国际科学小组，40 位全球顶级专家将首次举行会议。秘书长古特雷斯强调亟需建立基于科学和真知的全球共识。联合国人权高专呼吁将国际人权框架应用于 AI 系统。",
-    "reason": "全球 AI 治理的重要进展，联合国的举措值得关注。",
-    "url": "https://news.un.org/zh/tags/rengongzhineng",
-    "date": "2026年04月06日"
+    "title": "阿里千问3.6Plus登顶全球模型调用量榜首",
+    "source": "量子位",
+    "summary": "阿里千问3.6Plus日调用量超万亿，登顶全球模型调用量榜首。同时发布Qwen3.5-Omni多模态模型，能力超越Gemini-3.1 Pro",
+    "reason": "国产大模型在调用量和多模态能力上取得突破",
+    "url": "https://www.qbitai.com/",
+    "date": "2026年04月07日"
   }
 ]
