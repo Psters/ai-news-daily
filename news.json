@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026040701",
+    "id": "2026040801",
     "category": "国外",
-    "title": "谷歌 Gemini 3 Flash 发布并快速推广",
-    "source": "LinkedIn",
-    "summary": "谷歌在2026年3月推出了Gemini 3 Flash模型，谷歌员工分享了开发过程和应用案例，包括帮助用户实现新年决心等实用功能",
-    "reason": "Gemini 3 Flash 是谷歌最新的轻量级模型，快速推广值得关注",
-    "url": "https://www.linkedin.com/pulse/latest-ai-news-we-announced-march-2026-google-3nqce",
-    "date": "2026年04月07日"
+    "title": "Salesforce将Slackbot升级为全功能AI代理",
+    "source": "AIFOD",
+    "summary": "Salesforce推出Slack的重大更新，增加了30项AI驱动的新功能，将Slackbot升级为功能齐全的AI代理，旨在将Slack转变为企业级AI协作平台",
+    "reason": "企业协作平台AI化是重要趋势",
+    "url": "https://af.net/realtime/salesforce-transforms-slackbot-into-full-ai-agent-with-30-new-features/",
+    "date": "2026年04月08日"
   },
   {
-    "id": "2026040702",
+    "id": "2026040802",
     "category": "国外",
-    "title": "2026年最大AI事件回顾：OpenClaw被收购",
-    "source": "TechCrunch",
-    "summary": "2026年AI行业最大新闻之一：vibe-coded AI助手OpenClaw被OpenAI收购，其创建者Peter Steinberger加入OpenAI。基于OpenClaw构建的AI代理社交网络Moltbook也被Meta收购",
-    "reason": "OpenClaw的收购标志着AI代理生态系统的整合趋势",
-    "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
-    "date": "2026年04月07日"
+    "title": "特斯拉展示Optimus类人机器人工厂",
+    "source": "YouTube",
+    "summary": "特斯拉展示其Optimus类人机器人生产过程，展示先进的AI技术和制造流程，探讨机器人技术与特斯拉自动驾驶技术的协同效应",
+    "reason": "人形机器人量产是AI硬件化的重要里程碑",
+    "url": "https://af.net/realtime/inside-teslas-ai-robot-factory-building-the-optimus-humanoid-step-by-step/",
+    "date": "2026年04月08日"
   },
   {
-    "id": "2026040703",
+    "id": "2026040803",
     "category": "国外",
-    "title": "OpenAI推动政策以抵消AI影响",
-    "source": "Bloomberg Technology",
-    "summary": "OpenAI正在积极推动政策制定，旨在减轻AI对社会的潜在负面影响，强调AI发展的责任与可持续性",
-    "reason": "AI政策制定是行业发展的重要风向标",
-    "url": "https://www.youtube.com/watch?v=1O5Qo3qi3iM",
-    "date": "2026年04月07日"
+    "title": "微软发布下一代Copilot革新企业AI应用",
+    "source": "TechRadar",
+    "summary": "微软发布下一代Copilot，将先进的AI功能融入Microsoft 365和Azure等企业应用，重点提升生产力、安全性和企业级AI采用率",
+    "reason": "企业级AI应用是微软的战略重点",
+    "url": "https://af.net/realtime/microsoft-launches-next-gen-copilot-to-transform-enterprise-ai-adoption/",
+    "date": "2026年04月08日"
   },
   {
-    "id": "2026040704",
+    "id": "2026040804",
     "category": "国内",
-    "title": "印度AI新星Sarvam获得3.5亿美元巨额融资",
-    "source": "AIBase",
-    "summary": "印度AI初创公司Sarvam开启3.5亿美元融资轮，亚马逊、英伟达等科技巨头集体入局，显示国际资本对印度AI市场的重视",
-    "reason": "巨额融资反映全球AI投资热点转移至新兴市场",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026年04月07日"
+    "title": "OpenAI投资多智能体协同架构公司Isara",
+    "source": "新浪看点",
+    "summary": "OpenAI投资AI初创公司Isara，点燃全球AI圈对大规模多智能体协同架构的关注。Isara的核心技术是从'孤立工具'到'协同团队'的范式革命",
+    "reason": "多智能体协同是AI领域的下一个万亿级风口",
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019041mne.html?from=tech",
+    "date": "2026年04月08日"
   },
   {
-    "id": "2026040705",
+    "id": "2026040805",
     "category": "国内",
-    "title": "AI智能体上岗：中国用户的兴奋与恐惧",
-    "source": "BBC News 中文",
-    "summary": "2026年春天，AI智能体开始进入职场，三位中国用户分享了他们对AI替代工作的兴奋与恐惧，反映了AI普及带来的社会心理变化",
-    "reason": "AI对就业的影响是社会关注的焦点话题",
-    "url": "https://www.bbc.com/zhongwen/topics/cpydz218gddt/trad",
-    "date": "2026年04月07日"
+    "title": "联想天禧Claw开启内测：预装海量Skill",
+    "source": "新浪看点",
+    "summary": "联想版'龙虾'天禧Claw正式开启内测，预装海量Skill，引入'端-边-云'一体架构，由AI原生OS进一步接管人机交互流程",
+    "reason": "硬件厂商下场养虾，AI智能体生态进一步扩展",
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019041mne.html?from=tech",
+    "date": "2026年04月08日"
   },
   {
-    "id": "2026040706",
+    "id": "2026040806",
     "category": "国内",
-    "title": "阿里千问3.6Plus登顶全球模型调用量榜首",
-    "source": "量子位",
-    "summary": "阿里千问3.6Plus日调用量超万亿，登顶全球模型调用量榜首。同时发布Qwen3.5-Omni多模态模型，能力超越Gemini-3.1 Pro",
-    "reason": "国产大模型在调用量和多模态能力上取得突破",
-    "url": "https://www.qbitai.com/",
-    "date": "2026年04月07日"
+    "title": "麻省理工教授：AI可取代理财顾问但缺信义义务",
+    "source": "新浪看点",
+    "summary": "MIT金融与法律专家表示，AI能够提供专业理财建议，未来有望取代人类理财顾问。但与人类顾问不同，AI对客户不承担信义义务，存在法律灰色地带",
+    "reason": "AI在金融服务中的应用与伦理边界问题",
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019041mne.html?from=tech",
+    "date": "2026年04月08日"
   }
 ]
