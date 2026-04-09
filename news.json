@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026040801",
+    "id": "20260409-01",
     "category": "国外",
-    "title": "Salesforce将Slackbot升级为全功能AI代理",
-    "source": "AIFOD",
-    "summary": "Salesforce推出Slack的重大更新，增加了30项AI驱动的新功能，将Slackbot升级为功能齐全的AI代理，旨在将Slack转变为企业级AI协作平台",
-    "reason": "企业协作平台AI化是重要趋势",
-    "url": "https://af.net/realtime/salesforce-transforms-slackbot-into-full-ai-agent-with-30-new-features/",
-    "date": "2026年04月08日"
+    "title": "Meta 发布首个超级智能团队模型 Muse Spark",
+    "source": "Reuters",
+    "summary": "Meta Platforms 周三发布了 Muse Spark，这是其去年组建的高成本超级智能团队推出的首个 AI 模型。Meta 在去年以 143 亿美元交易聘请 Scale AI CEO Alex Wang，并为部分工程师提供数亿美元薪酬包，试图在去年 Llama 4 模型表现不佳后重返 AI 世界顶尖行列。",
+    "reason": "Meta 重返 AI 竞赛的关键举措，巨额投入显示超级智能战略的重要性",
+    "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/meta-unveils-first-ai-model-superintelligence-team-2026-04-08/",
+    "date": "2026年04月09日"
   },
   {
-    "id": "2026040802",
+    "id": "20260409-02",
     "category": "国外",
-    "title": "特斯拉展示Optimus类人机器人工厂",
-    "source": "YouTube",
-    "summary": "特斯拉展示其Optimus类人机器人生产过程，展示先进的AI技术和制造流程，探讨机器人技术与特斯拉自动驾驶技术的协同效应",
-    "reason": "人形机器人量产是AI硬件化的重要里程碑",
-    "url": "https://af.net/realtime/inside-teslas-ai-robot-factory-building-the-optimus-humanoid-step-by-step/",
-    "date": "2026年04月08日"
+    "title": "白宫发布国家人工智能政策框架",
+    "source": "Consumer Finance Monitor",
+    "summary": "3 月 20 日，白宫发布了《国家人工智能政策框架》，这是美国在 AI 治理方面的重要政策文件。该框架涵盖了 AI 立法建议，对金融服务业等领域的 AI 应用产生深远影响。",
+    "reason": "美国 AI 政策重大更新，将影响全球 AI 监管走向",
+    "url": "https://www.consumerfinancemonitor.com/2026/04/08/the-white-houses-national-policy-framework-for-artificial-intelligence-what-it-means-and-what-comes-next/",
+    "date": "2026年04月09日"
   },
   {
-    "id": "2026040803",
+    "id": "20260409-03",
     "category": "国外",
-    "title": "微软发布下一代Copilot革新企业AI应用",
-    "source": "TechRadar",
-    "summary": "微软发布下一代Copilot，将先进的AI功能融入Microsoft 365和Azure等企业应用，重点提升生产力、安全性和企业级AI采用率",
-    "reason": "企业级AI应用是微软的战略重点",
-    "url": "https://af.net/realtime/microsoft-launches-next-gen-copilot-to-transform-enterprise-ai-adoption/",
-    "date": "2026年04月08日"
+    "title": "Salesforce 推出 Slackbot 重大更新：30 项 AI 功能",
+    "source": "Marketing Profs",
+    "summary": "Salesforce 宣布对 Slackbot 进行重大更新，将其转变为自主工作助手，新增 30 个 AI 功能。该系统现在能够在工作流中更智能地协作，提升企业生产力。",
+    "reason": "企业 AI 助手领域的重要进展，AI 正在深度集成到日常工作流中",
+    "url": "https://www.marketingprofs.com/opinions/2026/54505/ai-update-april-3-2026-ai-news-and-views-from-the-past-week",
+    "date": "2026年04月09日"
   },
   {
-    "id": "2026040804",
+    "id": "20260409-04",
     "category": "国内",
-    "title": "OpenAI投资多智能体协同架构公司Isara",
-    "source": "新浪看点",
-    "summary": "OpenAI投资AI初创公司Isara，点燃全球AI圈对大规模多智能体协同架构的关注。Isara的核心技术是从'孤立工具'到'协同团队'的范式革命",
-    "reason": "多智能体协同是AI领域的下一个万亿级风口",
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019041mne.html?from=tech",
-    "date": "2026年04月08日"
+    "title": "智元机器人官宣 4 月 7 日开启 AI 发布周",
+    "source": "网易",
+    "summary": "具身智能赛道即将迎来定义物理世界 AI 的「智元时刻」。2026 年 4 月 3 日，智元（AGIBOT）官宣，将于 4 月 7 日开启「智元 AI 发布周」（AGIBOTAIWeek），聚焦物理 AI 技术突破。",
+    "reason": "国内具身智能领军企业的重要发布，物理 AI 成为新焦点",
+    "url": "https://www.163.com/dy/article/KPJJP0UD05568W0A.html",
+    "date": "2026年04月09日"
   },
   {
-    "id": "2026040805",
+    "id": "20260409-05",
     "category": "国内",
-    "title": "联想天禧Claw开启内测：预装海量Skill",
-    "source": "新浪看点",
-    "summary": "联想版'龙虾'天禧Claw正式开启内测，预装海量Skill，引入'端-边-云'一体架构，由AI原生OS进一步接管人机交互流程",
-    "reason": "硬件厂商下场养虾，AI智能体生态进一步扩展",
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019041mne.html?from=tech",
-    "date": "2026年04月08日"
+    "title": "RoboChallenge 发布首份具身智能年度报告",
+    "source": "量子位",
+    "summary": "全球首个具身智能大规模真机评测平台 RoboChallenge 发布首份年度报告，基于数万次真机测试数据，揭示当前视觉-语言-动作模型在真实物理环境中的能力边界。报告显示，即使在最佳模型中，整体成功率也仅约 50%，说明具身智能仍有巨大提升空间。",
+    "reason": "具身智能领域首个大规模真机评测基准，为行业提供重要参考",
+    "url": "https://www.qbitai.com/2026/01/374597.html",
+    "date": "2026年04月09日"
   },
   {
-    "id": "2026040806",
+    "id": "20260409-06",
     "category": "国内",
-    "title": "麻省理工教授：AI可取代理财顾问但缺信义义务",
-    "source": "新浪看点",
-    "summary": "MIT金融与法律专家表示，AI能够提供专业理财建议，未来有望取代人类理财顾问。但与人类顾问不同，AI对客户不承担信义义务，存在法律灰色地带",
-    "reason": "AI在金融服务中的应用与伦理边界问题",
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019041mne.html?from=tech",
-    "date": "2026年04月08日"
+    "title": "国家药监局发布「人工智能+药品监管」实施意见",
+    "source": "群益期货",
+    "summary": "国家药监局发布《关于「人工智能+药品监管」的实施意见》，推动 AI 技术在药品监管领域的应用，提升监管效率和精准度。",
+    "reason": "AI 在医疗监管领域的重要政策突破，AI+医疗持续深化",
+    "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle?ContentId=C26040200493",
+    "date": "2026年04月09日"
   }
 ]
