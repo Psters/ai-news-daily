@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260409-01",
+    "id": "2026041001",
     "category": "国外",
-    "title": "Meta 发布首个超级智能团队模型 Muse Spark",
-    "source": "Reuters",
-    "summary": "Meta Platforms 周三发布了 Muse Spark，这是其去年组建的高成本超级智能团队推出的首个 AI 模型。Meta 在去年以 143 亿美元交易聘请 Scale AI CEO Alex Wang，并为部分工程师提供数亿美元薪酬包，试图在去年 Llama 4 模型表现不佳后重返 AI 世界顶尖行列。",
-    "reason": "Meta 重返 AI 竞赛的关键举措，巨额投入显示超级智能战略的重要性",
-    "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/meta-unveils-first-ai-model-superintelligence-team-2026-04-08/",
-    "date": "2026年04月09日"
+    "title": "2026年3月AI新闻综述：突破与争斗、预测与恐惧",
+    "source": "PTech Partners",
+    "summary": "企业AI预算持续增长，Anthropic研究显示AI智能体能力远超当前职场任务覆盖范围。文章回顾了2026年3月AI领域的关键突破、监管博弈和行业预测。",
+    "reason": "系统性月度回顾，帮助把握AI行业整体趋势",
+    "url": "https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears/",
+    "date": "2026年04月10日"
   },
   {
-    "id": "20260409-02",
+    "id": "2026041002",
     "category": "国外",
-    "title": "白宫发布国家人工智能政策框架",
-    "source": "Consumer Finance Monitor",
-    "summary": "3 月 20 日，白宫发布了《国家人工智能政策框架》，这是美国在 AI 治理方面的重要政策文件。该框架涵盖了 AI 立法建议，对金融服务业等领域的 AI 应用产生深远影响。",
-    "reason": "美国 AI 政策重大更新，将影响全球 AI 监管走向",
-    "url": "https://www.consumerfinancemonitor.com/2026/04/08/the-white-houses-national-policy-framework-for-artificial-intelligence-what-it-means-and-what-comes-next/",
-    "date": "2026年04月09日"
+    "title": "Google 3月AI新闻汇总：Gemini 3 Flash发布",
+    "source": "Google LinkedIn",
+    "summary": "Google发布Gemini 3 Flash模型，介绍了10个帮助保持新年决心的Gemini提示词。Gemini 3模型在学习能力、构建能力和规划能力方面表现突出。",
+    "reason": "大厂最新产品动态，了解Google AI战略方向",
+    "url": "https://www.linkedin.com/pulse/latest-ai-news-we-announced-march-2026-google-3nqce",
+    "date": "2026年04月10日"
   },
   {
-    "id": "20260409-03",
+    "id": "2026041003",
     "category": "国外",
-    "title": "Salesforce 推出 Slackbot 重大更新：30 项 AI 功能",
-    "source": "Marketing Profs",
-    "summary": "Salesforce 宣布对 Slackbot 进行重大更新，将其转变为自主工作助手，新增 30 个 AI 功能。该系统现在能够在工作流中更智能地协作，提升企业生产力。",
-    "reason": "企业 AI 助手领域的重要进展，AI 正在深度集成到日常工作流中",
-    "url": "https://www.marketingprofs.com/opinions/2026/54505/ai-update-april-3-2026-ai-news-and-views-from-the-past-week",
-    "date": "2026年04月09日"
+    "title": "2026年迄今最大AI故事盘点",
+    "source": "TechCrunch",
+    "summary": "AI行业持续涌现重大新闻：OpenAI收购vibe-coded AI助手应用OpenClaw，Meta收购AI Agent社交网络Moltbook。行业经历大规模收购、独立开发者成功、产品隐私争议以及存在主义危险的合同谈判。",
+    "reason": "行业并购动态，了解AI市场格局变化",
+    "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+    "date": "2026年04月10日"
   },
   {
-    "id": "20260409-04",
+    "id": "2026041004",
     "category": "国内",
-    "title": "智元机器人官宣 4 月 7 日开启 AI 发布周",
-    "source": "网易",
-    "summary": "具身智能赛道即将迎来定义物理世界 AI 的「智元时刻」。2026 年 4 月 3 日，智元（AGIBOT）官宣，将于 4 月 7 日开启「智元 AI 发布周」（AGIBOTAIWeek），聚焦物理 AI 技术突破。",
-    "reason": "国内具身智能领军企业的重要发布，物理 AI 成为新焦点",
-    "url": "https://www.163.com/dy/article/KPJJP0UD05568W0A.html",
-    "date": "2026年04月09日"
+    "title": "千问App上线Wan2.7视频模型：几句话搞定视频编辑和动作续写",
+    "source": "AIBase",
+    "summary": "千问App推出Wan2.7视频模型，用户只需几句话就能完成视频编辑和动作续写，大幅降低视频制作门槛。",
+    "reason": "国产视频生成模型突破，了解AI视频创作工具进展",
+    "url": "https://news.aibase.com/zh/news/26850",
+    "date": "2026年04月10日"
   },
   {
-    "id": "20260409-05",
+    "id": "2026041005",
     "category": "国内",
-    "title": "RoboChallenge 发布首份具身智能年度报告",
-    "source": "量子位",
-    "summary": "全球首个具身智能大规模真机评测平台 RoboChallenge 发布首份年度报告，基于数万次真机测试数据，揭示当前视觉-语言-动作模型在真实物理环境中的能力边界。报告显示，即使在最佳模型中，整体成功率也仅约 50%，说明具身智能仍有巨大提升空间。",
-    "reason": "具身智能领域首个大规模真机评测基准，为行业提供重要参考",
-    "url": "https://www.qbitai.com/2026/01/374597.html",
-    "date": "2026年04月09日"
+    "title": "千问3.6正式发布：100万长上下文，硬刚Claude Code",
+    "source": "AIBase",
+    "summary": "通义千问3.6正式发布，支持100万token长上下文窗口，对标Claude Code的代码生成能力。通义实验室同时发布Qwen3.6-Plus，AI编程进入'靠谱'时代。",
+    "reason": "国产大模型突破，长上下文能力接近国际顶尖水平",
+    "url": "https://news.aibase.com/zh/news/26810",
+    "date": "2026年04月10日"
   },
   {
-    "id": "20260409-06",
+    "id": "2026041006",
     "category": "国内",
-    "title": "国家药监局发布「人工智能+药品监管」实施意见",
-    "source": "群益期货",
-    "summary": "国家药监局发布《关于「人工智能+药品监管」的实施意见》，推动 AI 技术在药品监管领域的应用，提升监管效率和精准度。",
-    "reason": "AI 在医疗监管领域的重要政策突破，AI+医疗持续深化",
-    "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle?ContentId=C26040200493",
-    "date": "2026年04月09日"
+    "title": "北京市新增15款已完成登记的生成式人工智能服务",
+    "source": "AIBase",
+    "summary": "北京市新增15款完成登记的生成式AI服务，监管合规化持续推进。AI监管沙盒模式在韩国光州落地，打造'不受监管的AI示范城市'。",
+    "reason": "AI监管政策动态，了解行业合规要求",
+    "url": "https://news.aibase.com/zh/news/26846",
+    "date": "2026年04月10日"
   }
 ]
