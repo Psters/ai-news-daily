@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026041001",
+    "id": "2026041101",
     "category": "国外",
-    "title": "2026年3月AI新闻综述：突破与争斗、预测与恐惧",
-    "source": "PTech Partners",
-    "summary": "企业AI预算持续增长，Anthropic研究显示AI智能体能力远超当前职场任务覆盖范围。文章回顾了2026年3月AI领域的关键突破、监管博弈和行业预测。",
-    "reason": "系统性月度回顾，帮助把握AI行业整体趋势",
-    "url": "https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears/",
-    "date": "2026年04月10日"
+    "title": "Qwen-3-Coder-Next 量化技术突破：让大模型运行在笔记本上",
+    "source": "Radical Data Science",
+    "summary": "量化技术让 800 亿参数的模型体积缩小 4 倍、速度提升 2 倍，仅损失 5-10% 的精度。这意味着强大的 AI 模型可以在普通笔记本电脑上运行。",
+    "reason": "量化技术是让大模型普及的关键技术，大幅降低了硬件门槛。",
+    "url": "https://ngrok.com/blog/quantization",
+    "date": "2026年04月11日"
   },
   {
-    "id": "2026041002",
+    "id": "2026041102",
     "category": "国外",
-    "title": "Google 3月AI新闻汇总：Gemini 3 Flash发布",
-    "source": "Google LinkedIn",
-    "summary": "Google发布Gemini 3 Flash模型，介绍了10个帮助保持新年决心的Gemini提示词。Gemini 3模型在学习能力、构建能力和规划能力方面表现突出。",
-    "reason": "大厂最新产品动态，了解Google AI战略方向",
-    "url": "https://www.linkedin.com/pulse/latest-ai-news-we-announced-march-2026-google-3nqce",
-    "date": "2026年04月10日"
+    "title": "World Labs 发布 Marble 1.1：3D 环境生成质量大幅提升",
+    "source": "World Labs",
+    "summary": "Marble 1.1 改进了光照和对比度，显著减少了视觉伪影。Plus 版本支持创建更大、更复杂的环境。",
+    "reason": "3D 内容生成是 AI 的重要应用方向，质量提升对游戏、VR 等行业意义重大。",
+    "url": "https://marble.worldlabs.ai/",
+    "date": "2026年04月11日"
   },
   {
-    "id": "2026041003",
+    "id": "2026041103",
     "category": "国外",
-    "title": "2026年迄今最大AI故事盘点",
-    "source": "TechCrunch",
-    "summary": "AI行业持续涌现重大新闻：OpenAI收购vibe-coded AI助手应用OpenClaw，Meta收购AI Agent社交网络Moltbook。行业经历大规模收购、独立开发者成功、产品隐私争议以及存在主义危险的合同谈判。",
-    "reason": "行业并购动态，了解AI市场格局变化",
-    "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
-    "date": "2026年04月10日"
+    "title": "华尔街 CEO 召开紧急会议讨论 Anthropic AI 风险",
+    "source": "Bloomberg Technology",
+    "summary": "金融界对 Anthropic 最新发布的 AI 模型表示担忧，特别关注网络安全风险和潜在的经济影响。",
+    "reason": "金融界对 AI 风险的关注反映了 AI 技术的快速发展和潜在影响。",
+    "url": "https://www.youtube.com/watch?v=zuO-R4gk5DM",
+    "date": "2026年04月11日"
   },
   {
-    "id": "2026041004",
+    "id": "2026041104",
     "category": "国内",
-    "title": "千问App上线Wan2.7视频模型：几句话搞定视频编辑和动作续写",
+    "title": "阿里 HappyHorse 模型横扫全球榜单，视频生成进入高分时代",
     "source": "AIBase",
-    "summary": "千问App推出Wan2.7视频模型，用户只需几句话就能完成视频编辑和动作续写，大幅降低视频制作门槛。",
-    "reason": "国产视频生成模型突破，了解AI视频创作工具进展",
-    "url": "https://news.aibase.com/zh/news/26850",
-    "date": "2026年04月10日"
+    "summary": "阿里匿名模型 HappyHorse 在多项视频生成评测中超越 Seedance 2.0，成为行业黑马。",
+    "reason": "国内视频生成模型的突破性进展，显示了中国在 AI 领域的竞争力。",
+    "url": "https://news.aibase.com/zh/news/26912",
+    "date": "2026年04月11日"
   },
   {
-    "id": "2026041005",
+    "id": "2026041105",
     "category": "国内",
-    "title": "千问3.6正式发布：100万长上下文，硬刚Claude Code",
+    "title": "腾讯云 QClaw V2 发布：开启多 Agent 协同新时代",
     "source": "AIBase",
-    "summary": "通义千问3.6正式发布，支持100万token长上下文窗口，对标Claude Code的代码生成能力。通义实验室同时发布Qwen3.6-Plus，AI编程进入'靠谱'时代。",
-    "reason": "国产大模型突破，长上下文能力接近国际顶尖水平",
-    "url": "https://news.aibase.com/zh/news/26810",
-    "date": "2026年04月10日"
+    "summary": "腾讯云发布 QClaw V2，支持多个 AI Agent 协同工作，提升复杂任务处理能力。",
+    "reason": "多 Agent 协同是 AI 发展的重要方向，腾讯的布局值得关注。",
+    "url": "https://news.aibase.com/zh/news/26984",
+    "date": "2026年04月11日"
   },
   {
-    "id": "2026041006",
+    "id": "2026041106",
     "category": "国内",
-    "title": "北京市新增15款已完成登记的生成式人工智能服务",
+    "title": "五部门印发《人工智能+教育行动计划》，国家将开发全学段 AI 慕课资源",
     "source": "AIBase",
-    "summary": "北京市新增15款完成登记的生成式AI服务，监管合规化持续推进。AI监管沙盒模式在韩国光州落地，打造'不受监管的AI示范城市'。",
-    "reason": "AI监管政策动态，了解行业合规要求",
-    "url": "https://news.aibase.com/zh/news/26846",
-    "date": "2026年04月10日"
+    "summary": "国家五部门联合发布行动计划，将在全国范围内开发涵盖各学段的 AI 教育资源。",
+    "reason": "国家层面的 AI 教育布局，将对人才培养产生深远影响。",
+    "url": "https://news.aibase.com/zh/news/27023",
+    "date": "2026年04月11日"
   }
 ]
