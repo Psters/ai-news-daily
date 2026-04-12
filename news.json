@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026041101",
+    "id": "2026041201",
     "category": "国外",
-    "title": "Qwen-3-Coder-Next 量化技术突破：让大模型运行在笔记本上",
-    "source": "Radical Data Science",
-    "summary": "量化技术让 800 亿参数的模型体积缩小 4 倍、速度提升 2 倍，仅损失 5-10% 的精度。这意味着强大的 AI 模型可以在普通笔记本电脑上运行。",
-    "reason": "量化技术是让大模型普及的关键技术，大幅降低了硬件门槛。",
-    "url": "https://ngrok.com/blog/quantization",
-    "date": "2026年04月11日"
+    "title": "AI News March 2026: The Wildest Week In Artificial Intelligence",
+    "source": "Julian Goldie",
+    "summary": "2026年3月被称为AI领域最疯狂的一周，多个重大突破同时爆发。文章讨论了智能成本的变革，以及AI自动化系统在研究、营销和内部运营中的应用。多个AI Agent系统正在被测试用于全自动化工作流程。",
+    "reason": "成本变革是AI普及的关键，智能成本的大幅下降将推动AI应用爆发式增长。",
+    "url": "https://juliangoldie.com/ai-news-march-2026/",
+    "date": "2026年04月12日"
   },
   {
-    "id": "2026041102",
+    "id": "2026041202",
     "category": "国外",
-    "title": "World Labs 发布 Marble 1.1：3D 环境生成质量大幅提升",
-    "source": "World Labs",
-    "summary": "Marble 1.1 改进了光照和对比度，显著减少了视觉伪影。Plus 版本支持创建更大、更复杂的环境。",
-    "reason": "3D 内容生成是 AI 的重要应用方向，质量提升对游戏、VR 等行业意义重大。",
-    "url": "https://marble.worldlabs.ai/",
-    "date": "2026年04月11日"
+    "title": "AI-Weekly: Claude Code Skills引爆AI营销自动化",
+    "source": "AI Weekly",
+    "summary": "AI-Weekly第206期重点介绍了Claude Code Skills如何帮助用户在16分钟内构建AI营销团队。同时报道了多个新的AI模型，它们比GPT-5更智能且更便宜，包括每百万Token仅需0.25美元的神奇模型。",
+    "reason": "AI营销自动化工具的普及将改变企业营销方式，成本降低是趋势。",
+    "url": "https://ai-weekly.ai/newsletter-03-03-2026/",
+    "date": "2026年04月12日"
   },
   {
-    "id": "2026041103",
+    "id": "2026041203",
     "category": "国外",
-    "title": "华尔街 CEO 召开紧急会议讨论 Anthropic AI 风险",
-    "source": "Bloomberg Technology",
-    "summary": "金融界对 Anthropic 最新发布的 AI 模型表示担忧，特别关注网络安全风险和潜在的经济影响。",
-    "reason": "金融界对 AI 风险的关注反映了 AI 技术的快速发展和潜在影响。",
-    "url": "https://www.youtube.com/watch?v=zuO-R4gk5DM",
-    "date": "2026年04月11日"
+    "title": "Google 3月AI新闻汇总：Gemini 3 Flash全面推送",
+    "source": "Google LinkedIn",
+    "summary": "Google发布了3月份的AI新闻汇总，重点包括Gemini 3 Flash的全面推送、Gemini在帮助用户保持新年决心方面的10个实用提示，以及Gemini 3的15个应用案例展示其学习、构建和规划能力。",
+    "reason": "Gemini 3的全面推送标志着Google在AI助手领域的进一步布局。",
+    "url": "https://www.linkedin.com/pulse/latest-ai-news-we-announced-march-2026-google-3nqce",
+    "date": "2026年04月12日"
   },
   {
-    "id": "2026041104",
+    "id": "2026041204",
     "category": "国内",
-    "title": "阿里 HappyHorse 模型横扫全球榜单，视频生成进入高分时代",
+    "title": "AIBase：全球AI最新资讯平台",
     "source": "AIBase",
-    "summary": "阿里匿名模型 HappyHorse 在多项视频生成评测中超越 Seedance 2.0，成为行业黑马。",
-    "reason": "国内视频生成模型的突破性进展，显示了中国在 AI 领域的竞争力。",
-    "url": "https://news.aibase.com/zh/news/26912",
-    "date": "2026年04月11日"
+    "summary": "AIBase提供全球AI最新资讯、人工智能新闻头条、大语言模型动态。涵盖机器学习、深度学习、AGI等前沿科技，每日更新AI行业趋势分析，是一站式获取权威AI资讯的平台。",
+    "reason": "国内AI资讯平台的兴起，反映了国内对AI信息需求的快速增长。",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026年04月12日"
   },
   {
-    "id": "2026041105",
+    "id": "2026041205",
     "category": "国内",
-    "title": "腾讯云 QClaw V2 发布：开启多 Agent 协同新时代",
-    "source": "AIBase",
-    "summary": "腾讯云发布 QClaw V2，支持多个 AI Agent 协同工作，提升复杂任务处理能力。",
-    "reason": "多 Agent 协同是 AI 发展的重要方向，腾讯的布局值得关注。",
-    "url": "https://news.aibase.com/zh/news/26984",
-    "date": "2026年04月11日"
+    "title": "量子位：Anthropic发布Managed Agents，硅谷华人团队押对赌注",
+    "source": "量子位",
+    "summary": "Anthropic发布了Managed Agents服务，一支硅谷华人团队早在之前就押对了方向。同时报道了Claude的一个bug（给自己下指令还诬赖用户）引发Hacker News热议，以及星动纪元击败PI登顶具身奥林匹克等新闻。",
+    "reason": "Agent服务是AI发展的下一个热点，Anthropic的布局值得关注。",
+    "url": "https://www.qbitai.com/",
+    "date": "2026年04月12日"
   },
   {
-    "id": "2026041106",
+    "id": "2026041206",
     "category": "国内",
-    "title": "五部门印发《人工智能+教育行动计划》，国家将开发全学段 AI 慕课资源",
-    "source": "AIBase",
-    "summary": "国家五部门联合发布行动计划，将在全国范围内开发涵盖各学段的 AI 教育资源。",
-    "reason": "国家层面的 AI 教育布局，将对人才培养产生深远影响。",
-    "url": "https://news.aibase.com/zh/news/27023",
-    "date": "2026年04月11日"
+    "title": "BBC中文：当AI智能体开始上岗，2026年春天里的兴奋与恐惧",
+    "source": "BBC中文",
+    "summary": "BBC报道了2026年春天三个中国人对AI智能体开始上岗工作的兴奋与恐惧。文章讨论了AI玩具可能误读幼儿情绪并做出不当反应的风险，以及研究者对此的警告。",
+    "reason": "AI智能体的普及带来了机遇与挑战并存的新时代。",
+    "url": "https://www.bbc.com/zhongwen/topics/cpydz218gddt/trad",
+    "date": "2026年04月12日"
   }
 ]
