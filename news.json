@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026041201",
-    "category": "国外",
-    "title": "AI News March 2026: The Wildest Week In Artificial Intelligence",
-    "source": "Julian Goldie",
-    "summary": "2026年3月被称为AI领域最疯狂的一周，多个重大突破同时爆发。文章讨论了智能成本的变革，以及AI自动化系统在研究、营销和内部运营中的应用。多个AI Agent系统正在被测试用于全自动化工作流程。",
-    "reason": "成本变革是AI普及的关键，智能成本的大幅下降将推动AI应用爆发式增长。",
-    "url": "https://juliangoldie.com/ai-news-march-2026/",
-    "date": "2026年04月12日"
+    "id": "20260413_01",
+    "category": "国外新闻",
+    "title": "March 2026 AI News Roundup: The 7 Biggest Stories and What They Mean",
+    "source": "Launch Consulting",
+    "summary": "March 2026 wasn't just another month in AI—it was a structural turning point. What we're seeing now isn't incremental innovation.",
+    "reason": "回顾性综述类内容，有助于理解3月结构性变化（但非具体新闻条目）。",
+    "url": "https://www.launchconsulting.com/posts/march-2026-ai-news",
+    "date": "2026年04月13日"
   },
   {
-    "id": "2026041202",
-    "category": "国外",
-    "title": "AI-Weekly: Claude Code Skills引爆AI营销自动化",
-    "source": "AI Weekly",
-    "summary": "AI-Weekly第206期重点介绍了Claude Code Skills如何帮助用户在16分钟内构建AI营销团队。同时报道了多个新的AI模型，它们比GPT-5更智能且更便宜，包括每百万Token仅需0.25美元的神奇模型。",
-    "reason": "AI营销自动化工具的普及将改变企业营销方式，成本降低是趋势。",
-    "url": "https://ai-weekly.ai/newsletter-03-03-2026/",
-    "date": "2026年04月12日"
+    "id": "20260413_02",
+    "category": "国外新闻",
+    "title": "AI Update, March 27, 2026: AI News and Views From the Past Week",
+    "source": "MarketingProfs",
+    "summary": "周度AI更新页面，包含若干营销视角的AI动向与观点（需进一步进入页面获取具体新闻条目）。",
+    "reason": "周度索引页面，适合发现营销与产品相关AI动向线索。",
+    "url": "https://www.marketingprofs.com/opinions/2026/54473/ai-update-march-27-2026-ai-news-and-views-from-the-past-week",
+    "date": "2026年04月13日"
   },
   {
-    "id": "2026041203",
-    "category": "国外",
-    "title": "Google 3月AI新闻汇总：Gemini 3 Flash全面推送",
-    "source": "Google LinkedIn",
-    "summary": "Google发布了3月份的AI新闻汇总，重点包括Gemini 3 Flash的全面推送、Gemini在帮助用户保持新年决心方面的10个实用提示，以及Gemini 3的15个应用案例展示其学习、构建和规划能力。",
-    "reason": "Gemini 3的全面推送标志着Google在AI助手领域的进一步布局。",
+    "id": "20260413_03",
+    "category": "国外新闻",
+    "title": "The latest AI news we announced in March 2026 - LinkedIn",
+    "source": "LinkedIn Pulse",
+    "summary": "Google官方在LinkedIn发布的3月AI动态汇总索引页（需进入阅读具体条目）。",
+    "reason": "官方汇总索引，便于定位谷歌生态内的AI更新。",
     "url": "https://www.linkedin.com/pulse/latest-ai-news-we-announced-march-2026-google-3nqce",
-    "date": "2026年04月12日"
+    "date": "2026年04月13日"
   },
   {
-    "id": "2026041204",
-    "category": "国内",
-    "title": "AIBase：全球AI最新资讯平台",
-    "source": "AIBase",
-    "summary": "AIBase提供全球AI最新资讯、人工智能新闻头条、大语言模型动态。涵盖机器学习、深度学习、AGI等前沿科技，每日更新AI行业趋势分析，是一站式获取权威AI资讯的平台。",
-    "reason": "国内AI资讯平台的兴起，反映了国内对AI信息需求的快速增长。",
+    "id": "20260413_04",
+    "category": "国内新闻",
+    "title": "AI最新资讯_人工智能新闻头条_AI行业动态 - AI NEWS",
+    "source": "AI Base（Aibase）",
+    "summary": "AI资讯聚合平台，每日更新AI新闻与分析入口（需进入阅读具体新闻）。",
+    "reason": "作为中文AI资讯门户，有助于快速发现当日要闻。",
     "url": "https://news.aibase.com/zh/news",
-    "date": "2026年04月12日"
+    "date": "2026年04月13日"
   },
   {
-    "id": "2026041205",
-    "category": "国内",
-    "title": "量子位：Anthropic发布Managed Agents，硅谷华人团队押对赌注",
-    "source": "量子位",
-    "summary": "Anthropic发布了Managed Agents服务，一支硅谷华人团队早在之前就押对了方向。同时报道了Claude的一个bug（给自己下指令还诬赖用户）引发Hacker News热议，以及星动纪元击败PI登顶具身奥林匹克等新闻。",
-    "reason": "Agent服务是AI发展的下一个热点，Anthropic的布局值得关注。",
-    "url": "https://www.qbitai.com/",
-    "date": "2026年04月12日"
+    "id": "20260413_05",
+    "category": "国内新闻",
+    "title": "人工智能：新闻、播客、视频和分析 - 法广（RFI）",
+    "source": "RFI 法广",
+    "summary": "媒体视角的AI动态栏目（需进入阅读具体新闻与音频/视频内容）。",
+    "reason": "媒体视角的AI观察，适合了解行业评论与政策相关动态。",
+    "url": "https://www.rfi.fr/cn/%E5%85%B3%E9%94%AE%E8%AF%8D/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
+    "date": "2026年04月13日"
   },
   {
-    "id": "2026041206",
-    "category": "国内",
-    "title": "BBC中文：当AI智能体开始上岗，2026年春天里的兴奋与恐惧",
-    "source": "BBC中文",
-    "summary": "BBC报道了2026年春天三个中国人对AI智能体开始上岗工作的兴奋与恐惧。文章讨论了AI玩具可能误读幼儿情绪并做出不当反应的风险，以及研究者对此的警告。",
-    "reason": "AI智能体的普及带来了机遇与挑战并存的新时代。",
-    "url": "https://www.bbc.com/zhongwen/topics/cpydz218gddt/trad",
-    "date": "2026年04月12日"
+    "id": "20260413_06",
+    "category": "国内新闻",
+    "title": "人工智能最新资讯 - CNMO",
+    "source": "CNMO 手机中国",
+    "summary": "中文科技媒体的AI资讯聚合页（需进入阅读具体新闻）。",
+    "reason": "消费电子与终端侧AI动向的入口。",
+    "url": "https://m.cnmo.com/ai/",
+    "date": "2026年04月13日"
   }
 ]
