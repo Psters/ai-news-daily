@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260413_01",
+    "id": "20260414_01",
     "category": "国外新闻",
-    "title": "March 2026 AI News Roundup: The 7 Biggest Stories and What They Mean",
-    "source": "Launch Consulting",
-    "summary": "March 2026 wasn't just another month in AI—it was a structural turning point. What we're seeing now isn't incremental innovation.",
-    "reason": "回顾性综述类内容，有助于理解3月结构性变化（但非具体新闻条目）。",
-    "url": "https://www.launchconsulting.com/posts/march-2026-ai-news",
-    "date": "2026年04月13日"
+    "title": "State of AI: April 2026 newsletter - OpenAI创历史最大融资",
+    "source": "Air Street Press",
+    "summary": "OpenAI完成1100亿美元融资，估值达8400亿美元，由亚马逊（500亿）、英伟达（300亿）、软银（300亿）领投，这是历史上规模最大的私人融资。Runway完成3.15亿美元E轮融资，估值53亿美元。Q1 2026数据：Anthropic收入从140亿增至190亿美元，OpenAI-亚马逊合作伙伴关系价值高达500亿美元。",
+    "reason": "OpenAI创纪录融资标志着AI行业进入新的资本密集阶段，亚马逊深度合作意味着云+AI生态加速整合，值得关注。",
+    "url": "https://press.airstreet.com/p/state-of-ai-april-2026-newsletter",
+    "date": "2026年04月14日"
   },
   {
-    "id": "20260413_02",
+    "id": "20260414_02",
     "category": "国外新闻",
-    "title": "AI Update, March 27, 2026: AI News and Views From the Past Week",
-    "source": "MarketingProfs",
-    "summary": "周度AI更新页面，包含若干营销视角的AI动向与观点（需进一步进入页面获取具体新闻条目）。",
-    "reason": "周度索引页面，适合发现营销与产品相关AI动向线索。",
-    "url": "https://www.marketingprofs.com/opinions/2026/54473/ai-update-march-27-2026-ai-news-and-views-from-the-past-week",
-    "date": "2026年04月13日"
+    "title": "AI News Briefs BULLETIN BOARD for April 2026",
+    "source": "Radical Data Science",
+    "summary": "AI行业新闻简报，涵盖2026年4月的最新AI动态，包括技术突破、产品发布、政策更新等多个维度的资讯汇总。",
+    "reason": "作为行业观察者视角的月度简报，有助于快速了解AI领域整体动向。",
+    "url": "https://radicaldatascience.wordpress.com/2026/04/09/ai-news-briefs-bulletin-board-for-april-2026/",
+    "date": "2026年04月14日"
   },
   {
-    "id": "20260413_03",
+    "id": "20260414_03",
     "category": "国外新闻",
-    "title": "The latest AI news we announced in March 2026 - LinkedIn",
-    "source": "LinkedIn Pulse",
-    "summary": "Google官方在LinkedIn发布的3月AI动态汇总索引页（需进入阅读具体条目）。",
-    "reason": "官方汇总索引，便于定位谷歌生态内的AI更新。",
-    "url": "https://www.linkedin.com/pulse/latest-ai-news-we-announced-march-2026-google-3nqce",
-    "date": "2026年04月13日"
+    "title": "Breaking Tech News on April 10, 2026: AI Innovations, Security Threats",
+    "source": "Coaio",
+    "summary": "4月10日科技要闻：AI创新、网络安全威胁、太空探索、硬件发展、政策变化等多个领域的动态更新，重点关注AI领导力竞争。",
+    "reason": "覆盖AI创新、安全威胁、硬件发展等综合科技动态，有助于把握AI在整体科技格局中的位置。",
+    "url": "https://coaio.com/news/2026/04/breaking-tech-news-on-april-10-2026-ai-innovations-security-threats-2m4c/",
+    "date": "2026年04月14日"
   },
   {
-    "id": "20260413_04",
+    "id": "20260414_04",
     "category": "国内新闻",
-    "title": "AI最新资讯_人工智能新闻头条_AI行业动态 - AI NEWS",
-    "source": "AI Base（Aibase）",
-    "summary": "AI资讯聚合平台，每日更新AI新闻与分析入口（需进入阅读具体新闻）。",
-    "reason": "作为中文AI资讯门户，有助于快速发现当日要闻。",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026年04月13日"
+    "title": "AI人工智能领域最新热点资讯汇总（2026年04月11日）",
+    "source": "软盟资讯",
+    "summary": "政策监管：五部门联合公布拟人化互动服务办法，明确不得向未成年人提供虚拟亲密关系服务。企业动态：DeepSeek V4将实现万亿参数、百万级上下文窗口，深度适配华为昇腾芯片；智元机器人发布物理进化引擎GE-Sim 2.0；小米成都产教融合基地启用。国际动态：普京强调俄罗斯必须掌握自主研发的全球竞争力模型。行业趋势：人形机器人商业化提速，熊喵大师推出数字菜谱AI系统。",
+    "reason": "涵盖政策监管（AI伦理）、技术突破（DeepSeek V4、国产芯片适配）、产业应用（机器人、数字菜谱）等多维度，反映AI在国内的落地加速。",
+    "url": "https://news.softunis.com/55813.html",
+    "date": "2026年04月14日"
   },
   {
-    "id": "20260413_05",
+    "id": "20260414_05",
     "category": "国内新闻",
-    "title": "人工智能：新闻、播客、视频和分析 - 法广（RFI）",
-    "source": "RFI 法广",
-    "summary": "媒体视角的AI动态栏目（需进入阅读具体新闻与音频/视频内容）。",
-    "reason": "媒体视角的AI观察，适合了解行业评论与政策相关动态。",
-    "url": "https://www.rfi.fr/cn/%E5%85%B3%E9%94%AE%E8%AF%8D/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
-    "date": "2026年04月13日"
+    "title": "2026年4月7日人工智能AI最新动态：技术与产业变革加速",
+    "source": "F5AI",
+    "summary": "技术突破：谷歌发布企业级开源AI模型Gemma 4，Meta宣布开源下一代AI模型。政策规范：工信部等十部门联合印发《人工智能科技伦理审查与服务办法（试行）》。产业融资：千寻智能30天完成30亿元融资，顺为资本、云锋基金领投。场景落地：新石器无人车发布AI智能体NeoClaw，文旅、工业智能化转型提速。核心指标：国家数据显示我国日均词元调用量突破140万亿，较2024年初增长超千倍。",
+    "reason": "全面覆盖开源模型（Gemma 4）、伦理审查、具身智能融资、行业应用（无人车、文旅、工业）及词元调用量爆发，展现AI从技术到场景的全方位突破。",
+    "url": "http://f5ai.b.farenhui.com/News_Show_24375.html",
+    "date": "2026年04月14日"
   },
   {
-    "id": "20260413_06",
+    "id": "20260414_06",
     "category": "国内新闻",
-    "title": "人工智能最新资讯 - CNMO",
-    "source": "CNMO 手机中国",
-    "summary": "中文科技媒体的AI资讯聚合页（需进入阅读具体新闻）。",
-    "reason": "消费电子与终端侧AI动向的入口。",
-    "url": "https://m.cnmo.com/ai/",
-    "date": "2026年04月13日"
+    "title": "AI Technology News: Saturday, April 4, 2026 - SandyClaw动态沙盒首度登场",
+    "source": "QixNewsAI",
+    "summary": "AI代理技能安全大升级：SandyClaw动态沙盒技术首次亮相，OpenAI相关动态更新。",
+    "reason": "提到SandyClaw动态沙盒技术，涉及AI安全与代理技能管理，是AI安全领域的重要进展。",
+    "url": "https://www.youtube.com/watch?v=0VI4TC33Z_Y",
+    "date": "2026年04月14日"
   }
 ]
