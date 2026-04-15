@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260414_01",
-    "category": "国外新闻",
-    "title": "State of AI: April 2026 newsletter - OpenAI创历史最大融资",
-    "source": "Air Street Press",
-    "summary": "OpenAI完成1100亿美元融资，估值达8400亿美元，由亚马逊（500亿）、英伟达（300亿）、软银（300亿）领投，这是历史上规模最大的私人融资。Runway完成3.15亿美元E轮融资，估值53亿美元。Q1 2026数据：Anthropic收入从140亿增至190亿美元，OpenAI-亚马逊合作伙伴关系价值高达500亿美元。",
-    "reason": "OpenAI创纪录融资标志着AI行业进入新的资本密集阶段，亚马逊深度合作意味着云+AI生态加速整合，值得关注。",
-    "url": "https://press.airstreet.com/p/state-of-ai-april-2026-newsletter",
-    "date": "2026年04月14日"
+    "id": "20260415-01",
+    "category": "国外",
+    "title": "Grok 获得视频生成能力，xAI 模型持续进化",
+    "source": "Mean CEO Blog",
+    "summary": "2026年4月，xAI 的 Grok 模型新增视频生成功能，标志着多模态能力的重大突破。Grok 在视频生成领域的进展显示了 AI 在内容创作方面的快速进步。",
+    "reason": "多模态 AI 是当前技术竞争的核心，视频生成能力的突破将深刻影响内容创作、影视制作、广告营销等多个行业，是 AI 应用落地的重要里程碑。",
+    "url": "https://blog.mean.ceo/new-ai-model-releases-news-april-2026/",
+    "date": "2026-04-15"
   },
   {
-    "id": "20260414_02",
-    "category": "国外新闻",
-    "title": "AI News Briefs BULLETIN BOARD for April 2026",
-    "source": "Radical Data Science",
-    "summary": "AI行业新闻简报，涵盖2026年4月的最新AI动态，包括技术突破、产品发布、政策更新等多个维度的资讯汇总。",
-    "reason": "作为行业观察者视角的月度简报，有助于快速了解AI领域整体动向。",
-    "url": "https://radicaldatascience.wordpress.com/2026/04/09/ai-news-briefs-bulletin-board-for-april-2026/",
-    "date": "2026年04月14日"
+    "id": "20260415-02",
+    "category": "国外",
+    "title": "微软推出自有 AI 模型，与 OpenAI 和谷歌竞争",
+    "source": "Medium - Annie Cushing",
+    "summary": "微软发布了一系列自主 AI 模型，直接与 OpenAI 和谷歌展开竞争。同时，Meta 暂停了与 AI 训练初创公司 Mercor 的合作，原因是该公司发生数据泄露事件。",
+    "reason": "科技巨头之间的 AI 竞争进入白热化阶段。微软推出自有模型意味着 AI 生态正在重构，企业需要重新评估技术路线和合作伙伴策略。",
+    "url": "https://medium.com/@annie_7775/ai-updates-for-the-week-of-4-5-26-b428661a3ed2",
+    "date": "2026-04-15"
   },
   {
-    "id": "20260414_03",
-    "category": "国外新闻",
-    "title": "Breaking Tech News on April 10, 2026: AI Innovations, Security Threats",
-    "source": "Coaio",
-    "summary": "4月10日科技要闻：AI创新、网络安全威胁、太空探索、硬件发展、政策变化等多个领域的动态更新，重点关注AI领导力竞争。",
-    "reason": "覆盖AI创新、安全威胁、硬件发展等综合科技动态，有助于把握AI在整体科技格局中的位置。",
-    "url": "https://coaio.com/news/2026/04/breaking-tech-news-on-april-10-2026-ai-innovations-security-threats-2m4c/",
-    "date": "2026年04月14日"
+    "id": "20260415-03",
+    "category": "国外",
+    "title": "开源模型崛起：Gemma 和 Qwen 持续进化",
+    "source": "LinkedIn - Mantas Lukauskas",
+    "summary": "开源 AI 模型如 Gemma 和 Qwen 正在变得越来越强大和易用。这些模型在性能和可用性方面不断提升，为开发者提供了更多选择。",
+    "reason": "开源模型的快速崛起正在打破闭源模型的垄断，降低了 AI 应用门槛，加速了 AI 技术的民主化进程，对整个行业生态具有重要意义。",
+    "url": "https://www.linkedin.com/pulse/ai-news-week-14-march-30-april-5-2026-mantas-lukauskas-phd-b65pf",
+    "date": "2026-04-15"
   },
   {
-    "id": "20260414_04",
-    "category": "国内新闻",
-    "title": "AI人工智能领域最新热点资讯汇总（2026年04月11日）",
-    "source": "软盟资讯",
-    "summary": "政策监管：五部门联合公布拟人化互动服务办法，明确不得向未成年人提供虚拟亲密关系服务。企业动态：DeepSeek V4将实现万亿参数、百万级上下文窗口，深度适配华为昇腾芯片；智元机器人发布物理进化引擎GE-Sim 2.0；小米成都产教融合基地启用。国际动态：普京强调俄罗斯必须掌握自主研发的全球竞争力模型。行业趋势：人形机器人商业化提速，熊喵大师推出数字菜谱AI系统。",
-    "reason": "涵盖政策监管（AI伦理）、技术突破（DeepSeek V4、国产芯片适配）、产业应用（机器人、数字菜谱）等多维度，反映AI在国内的落地加速。",
-    "url": "https://news.softunis.com/55813.html",
-    "date": "2026年04月14日"
+    "id": "20260415-04",
+    "category": "国内",
+    "title": "2026年4月AI圈5大事件：GPT-6来袭、国产大模型爆发",
+    "source": "知乎专栏",
+    "summary": "2026年第一季度刚刚结束，AI领域就迎来新一轮爆发式增长。仅4月上旬就有12款新大模型发布、3起行业级融资事件落地，平均每天都有重磅消息传出。",
+    "reason": "国产大模型进入规模化落地期，技术迭代速度惊人。这标志着中国 AI 产业已经从技术追赶转向自主创新，在商业化应用方面展现出强劲势头。",
+    "url": "https://zhuanlan.zhihu.com/p/2025390002230555538",
+    "date": "2026-04-15"
   },
   {
-    "id": "20260414_05",
-    "category": "国内新闻",
-    "title": "2026年4月7日人工智能AI最新动态：技术与产业变革加速",
-    "source": "F5AI",
-    "summary": "技术突破：谷歌发布企业级开源AI模型Gemma 4，Meta宣布开源下一代AI模型。政策规范：工信部等十部门联合印发《人工智能科技伦理审查与服务办法（试行）》。产业融资：千寻智能30天完成30亿元融资，顺为资本、云锋基金领投。场景落地：新石器无人车发布AI智能体NeoClaw，文旅、工业智能化转型提速。核心指标：国家数据显示我国日均词元调用量突破140万亿，较2024年初增长超千倍。",
-    "reason": "全面覆盖开源模型（Gemma 4）、伦理审查、具身智能融资、行业应用（无人车、文旅、工业）及词元调用量爆发，展现AI从技术到场景的全方位突破。",
-    "url": "http://f5ai.b.farenhui.com/News_Show_24375.html",
-    "date": "2026年04月14日"
+    "id": "20260415-05",
+    "category": "国内",
+    "title": "2026年4月AI大模型排名：谷歌登顶，国产模型全面崛起",
+    "source": "King-V",
+    "summary": "Gemini 3.1 Pro Preview 和 GPT-5.4 xhigh 并列第一，双双获得57分。值得注意的是，国产模型在速度、价格等多个细分领域表现突出，阿里的 Qwen 系列几乎占据了速度、价格、小尺寸模型的多个第一。",
+    "reason": "国产大模型在性价比和特定场景（如速度、成本）上的优势正在形成差异化竞争力。对于企业和开发者来说，选型策略需要从'唯性能论'转向'场景适配论'。",
+    "url": "https://www.king-v.com/news/15000.html",
+    "date": "2026-04-15"
   },
   {
-    "id": "20260414_06",
-    "category": "国内新闻",
-    "title": "AI Technology News: Saturday, April 4, 2026 - SandyClaw动态沙盒首度登场",
-    "source": "QixNewsAI",
-    "summary": "AI代理技能安全大升级：SandyClaw动态沙盒技术首次亮相，OpenAI相关动态更新。",
-    "reason": "提到SandyClaw动态沙盒技术，涉及AI安全与代理技能管理，是AI安全领域的重要进展。",
-    "url": "https://www.youtube.com/watch?v=0VI4TC33Z_Y",
-    "date": "2026年04月14日"
+    "id": "20260415-06",
+    "category": "国内",
+    "title": "2026国产AI大模型八大巨头最新进展全解析",
+    "source": "韭研公社",
+    "summary": "国产AI大模型产业正式告别'技术军备竞赛'的烧钱周期，迈入商业化落地与生态闭环构建的黄金爆发期。全球AI模型聚合平台OpenRouter数据显示，国产模型贡献的总token处理量占比已突破60%。",
+    "reason": "这是中国 AI 产业的转折点——从'追赶到超越'。八大巨头（百度、华为、阿里、腾讯、字节、讯飞、智谱、商汤）各有特色，形成了完整的产业生态，为各行各业提供了丰富的 AI 解决方案。",
+    "url": "https://www.jiuyangongshe.com/a/2yzpubmfsp9",
+    "date": "2026-04-15"
   }
 ]
