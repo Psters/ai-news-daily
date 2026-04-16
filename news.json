@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260415-01",
-    "category": "国外",
-    "title": "Grok 获得视频生成能力，xAI 模型持续进化",
-    "source": "Mean CEO Blog",
-    "summary": "2026年4月，xAI 的 Grok 模型新增视频生成功能，标志着多模态能力的重大突破。Grok 在视频生成领域的进展显示了 AI 在内容创作方面的快速进步。",
-    "reason": "多模态 AI 是当前技术竞争的核心，视频生成能力的突破将深刻影响内容创作、影视制作、广告营销等多个行业，是 AI 应用落地的重要里程碑。",
-    "url": "https://blog.mean.ceo/new-ai-model-releases-news-april-2026/",
-    "date": "2026-04-15"
-  },
-  {
-    "id": "20260415-02",
-    "category": "国外",
-    "title": "微软推出自有 AI 模型，与 OpenAI 和谷歌竞争",
-    "source": "Medium - Annie Cushing",
-    "summary": "微软发布了一系列自主 AI 模型，直接与 OpenAI 和谷歌展开竞争。同时，Meta 暂停了与 AI 训练初创公司 Mercor 的合作，原因是该公司发生数据泄露事件。",
-    "reason": "科技巨头之间的 AI 竞争进入白热化阶段。微软推出自有模型意味着 AI 生态正在重构，企业需要重新评估技术路线和合作伙伴策略。",
-    "url": "https://medium.com/@annie_7775/ai-updates-for-the-week-of-4-5-26-b428661a3ed2",
-    "date": "2026-04-15"
-  },
-  {
-    "id": "20260415-03",
-    "category": "国外",
-    "title": "开源模型崛起：Gemma 和 Qwen 持续进化",
-    "source": "LinkedIn - Mantas Lukauskas",
-    "summary": "开源 AI 模型如 Gemma 和 Qwen 正在变得越来越强大和易用。这些模型在性能和可用性方面不断提升，为开发者提供了更多选择。",
-    "reason": "开源模型的快速崛起正在打破闭源模型的垄断，降低了 AI 应用门槛，加速了 AI 技术的民主化进程，对整个行业生态具有重要意义。",
-    "url": "https://www.linkedin.com/pulse/ai-news-week-14-march-30-april-5-2026-mantas-lukauskas-phd-b65pf",
-    "date": "2026-04-15"
-  },
-  {
-    "id": "20260415-04",
+    "id": "2026041601",
     "category": "国内",
-    "title": "2026年4月AI圈5大事件：GPT-6来袭、国产大模型爆发",
-    "source": "知乎专栏",
-    "summary": "2026年第一季度刚刚结束，AI领域就迎来新一轮爆发式增长。仅4月上旬就有12款新大模型发布、3起行业级融资事件落地，平均每天都有重磅消息传出。",
-    "reason": "国产大模型进入规模化落地期，技术迭代速度惊人。这标志着中国 AI 产业已经从技术追赶转向自主创新，在商业化应用方面展现出强劲势头。",
-    "url": "https://zhuanlan.zhihu.com/p/2025390002230555538",
-    "date": "2026-04-15"
+    "title": "星海图再融20亿，把具身智能头部门槛抬到200亿",
+    "source": "量子位",
+    "summary": "2026年具身智能赛道持续火热。星海图宣布再融资20亿元，估值跃升至200亿元，刷新行业门槛。其世界模型 Fast-WAM 获 Yann LeCun 转发与谢赛宁点赞，采用视频建模能力突破传统范式。开源路线方面，1月开源 G0 Plus，2月推出垂类与轻量化模型，并计划构建全球最大规模真实场景具身数据集。",
+    "reason": "具身智能进入 Scaling 与商业化并行期，头部估值突破 200 亿标志着行业从「百亿时代」迈向下一个竞争高地。",
+    "url": "https://www.qbitai.com/2026/04/394626.html",
+    "date": "2026-04-16"
   },
   {
-    "id": "20260415-05",
+    "id": "2026041602",
     "category": "国内",
-    "title": "2026年4月AI大模型排名：谷歌登顶，国产模型全面崛起",
-    "source": "King-V",
-    "summary": "Gemini 3.1 Pro Preview 和 GPT-5.4 xhigh 并列第一，双双获得57分。值得注意的是，国产模型在速度、价格等多个细分领域表现突出，阿里的 Qwen 系列几乎占据了速度、价格、小尺寸模型的多个第一。",
-    "reason": "国产大模型在性价比和特定场景（如速度、成本）上的优势正在形成差异化竞争力。对于企业和开发者来说，选型策略需要从'唯性能论'转向'场景适配论'。",
-    "url": "https://www.king-v.com/news/15000.html",
-    "date": "2026-04-15"
+    "title": "Meta 炼化「扎克bot」：24/7 代理CEO？",
+    "source": "量子位",
+    "summary": "Meta 正在打造基于扎克伯格本人影像与语音数据的「代理CEO」，目标实现与员工 24 小时不间断互动。小扎本人参与该项目，并投入每周 5-10 小时写代码与技术评审。若成功，他的 AI 形象可深入公司各角落，但仍面临算力消耗与滥用风险。",
+    "reason": "把 CEO 炼化成 Agent 是「vibe coding」之外更大的组织实验。一旦落地，将改变内部信息流与决策链条。",
+    "url": "https://hub.baai.ac.cn/view/53959",
+    "date": "2026-04-16"
   },
   {
-    "id": "20260415-06",
+    "id": "2026041603",
     "category": "国内",
-    "title": "2026国产AI大模型八大巨头最新进展全解析",
-    "source": "韭研公社",
-    "summary": "国产AI大模型产业正式告别'技术军备竞赛'的烧钱周期，迈入商业化落地与生态闭环构建的黄金爆发期。全球AI模型聚合平台OpenRouter数据显示，国产模型贡献的总token处理量占比已突破60%。",
-    "reason": "这是中国 AI 产业的转折点——从'追赶到超越'。八大巨头（百度、华为、阿里、腾讯、字节、讯飞、智谱、商汤）各有特色，形成了完整的产业生态，为各行各业提供了丰富的 AI 解决方案。",
-    "url": "https://www.jiuyangongshe.com/a/2yzpubmfsp9",
-    "date": "2026-04-15"
+    "title": "阿里云百炼「记忆库」上线：跨会话记忆，检索性能提升50%",
+    "source": "AIBase 日报",
+    "summary": "阿里云百炼上线「记忆库」功能，支持跨会话记忆检索与统一管理，官方称检索性能提升约 50%。此举面向企业知识库与长期对话场景，降低上下文碎片化带来的重复输入成本。",
+    "reason": "「记忆」是大模型从工具型向「长期助理」跃迁的关键基础设施之一，百炼的更新体现了国内云厂商在 RAG/记忆层的快速跟进。",
+    "url": "https://news.aibase.com/zh/news/26987",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "2026041604",
+    "category": "国外",
+    "title": "State of AI: April 2026 Newsletter",
+    "source": "State of AI",
+    "summary": "Nathan Benaich 发布 4 月 AI 月度通讯，涵盖智谱 GLM-5、Anthropic 指控蒸馏事件、OpenAI 110 亿美元融资、Neysa 与 Runway 大额融资、模型价格战与算力供应链等议题。文中提到中国厂商在非英伟达芯片上的进展与成本优势。",
+    "reason": "月度「通讯」是把碎片化信息串成脉络的优质信号源。快速浏览标题与要点即可把握本月融资、模型与监管动向。",
+    "url": "https://nathanbenaich.substack.com/p/state-of-ai-april-2026-newsletter",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "2026041605",
+    "category": "国外",
+    "title": "March 2026 AI News Roundup: Breakthroughs and the Fights",
+    "source": "PTech Partners",
+    "summary": "3 月 AI 动态总结：预算提升、AI 采用率与员工生产力提升的数据对比、AI 数据中心建设引发社区阻力、企业「AI shake-up」（如裁员与重组）案例与合规预期。文中包含多张数据图与行业观察。",
+    "reason": "汇总型内容适合快速建立「本月发生了什么」的框架。涵盖技术、应用与基础设施三个层面。",
+    "url": "https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears/",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "2026041606",
+    "category": "国外",
+    "title": "6 AI Breakthroughs That Will Define 2026",
+    "source": "InfoWorld",
+    "summary": "文章提出 2026 年六大方向：更大上下文与人类式记忆、多模态与端侧推理普及、Agent 工作流编排突破、开源模型成本下降驱动采用、视频生成与媒体制作工业化、AI 治理与安全工具落地。",
+    "reason": "站在「预测」角度比「新闻」更利于判断全年方向。六大趋势可作为年度技术演进与投资主题的参考框架。",
+    "url": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html",
+    "date": "2026-04-16"
   }
 ]
