@@ -1,62 +1,122 @@
 [
   {
-    "id": "2026041601",
-    "category": "国内",
-    "title": "星海图再融20亿，把具身智能头部门槛抬到200亿",
-    "source": "量子位",
-    "summary": "2026年具身智能赛道持续火热。星海图宣布再融资20亿元，估值跃升至200亿元，刷新行业门槛。其世界模型 Fast-WAM 获 Yann LeCun 转发与谢赛宁点赞，采用视频建模能力突破传统范式。开源路线方面，1月开源 G0 Plus，2月推出垂类与轻量化模型，并计划构建全球最大规模真实场景具身数据集。",
-    "reason": "具身智能进入 Scaling 与商业化并行期，头部估值突破 200 亿标志着行业从「百亿时代」迈向下一个竞争高地。",
-    "url": "https://www.qbitai.com/2026/04/394626.html",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "2026041602",
-    "category": "国内",
-    "title": "Meta 炼化「扎克bot」：24/7 代理CEO？",
-    "source": "量子位",
-    "summary": "Meta 正在打造基于扎克伯格本人影像与语音数据的「代理CEO」，目标实现与员工 24 小时不间断互动。小扎本人参与该项目，并投入每周 5-10 小时写代码与技术评审。若成功，他的 AI 形象可深入公司各角落，但仍面临算力消耗与滥用风险。",
-    "reason": "把 CEO 炼化成 Agent 是「vibe coding」之外更大的组织实验。一旦落地，将改变内部信息流与决策链条。",
-    "url": "https://hub.baai.ac.cn/view/53959",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "2026041603",
-    "category": "国内",
-    "title": "阿里云百炼「记忆库」上线：跨会话记忆，检索性能提升50%",
-    "source": "AIBase 日报",
-    "summary": "阿里云百炼上线「记忆库」功能，支持跨会话记忆检索与统一管理，官方称检索性能提升约 50%。此举面向企业知识库与长期对话场景，降低上下文碎片化带来的重复输入成本。",
-    "reason": "「记忆」是大模型从工具型向「长期助理」跃迁的关键基础设施之一，百炼的更新体现了国内云厂商在 RAG/记忆层的快速跟进。",
-    "url": "https://news.aibase.com/zh/news/26987",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "2026041604",
+    "id": "2026041701",
     "category": "国外",
-    "title": "State of AI: April 2026 Newsletter",
-    "source": "State of AI",
-    "summary": "Nathan Benaich 发布 4 月 AI 月度通讯，涵盖智谱 GLM-5、Anthropic 指控蒸馏事件、OpenAI 110 亿美元融资、Neysa 与 Runway 大额融资、模型价格战与算力供应链等议题。文中提到中国厂商在非英伟达芯片上的进展与成本优势。",
-    "reason": "月度「通讯」是把碎片化信息串成脉络的优质信号源。快速浏览标题与要点即可把握本月融资、模型与监管动向。",
-    "url": "https://nathanbenaich.substack.com/p/state-of-ai-april-2026-newsletter",
-    "date": "2026-04-16"
+    "title": "Google 3月AI更新汇总",
+    "source": "Google Blog",
+    "summary": "Google发布了3月份的AI更新汇总，包括Gemini应用新增个性化图像创建功能、Gemini应用登陆Mac平台、Chrome浏览器新增AI模式、Gemini 3.1 Flash TTS语音模型以及Gemini API预付费功能等多项重要更新。",
+    "reason": "Google持续完善Gemini生态，AI产品矩阵不断丰富，值得关注。",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+    "date": "2026年04月17日"
   },
   {
-    "id": "2026041605",
+    "id": "2026041702",
     "category": "国外",
-    "title": "March 2026 AI News Roundup: Breakthroughs and the Fights",
+    "title": "Meta与AMD达成600亿美元AI芯片采购协议",
+    "source": "LinkedIn",
+    "summary": "Meta宣布与Advanced Micro Devices达成一项价值600亿美元、为期五年的AI芯片采购协议，并将收购AMD 10%的股份。这是Meta在AI基础设施方面的重大投资。",
+    "reason": "Meta在AI硬件领域的重大投资，反映科技巨头对AI算力的持续渴求。",
+    "url": "https://www.linkedin.com/pulse/ai-weekly-digest-march-2-2026-pa-media-jhcfe",
+    "date": "2026年04月17日"
+  },
+  {
+    "id": "2026041703",
+    "category": "国外",
+    "title": "PwC报告：四分之三的AI经济收益被少数公司捕获",
+    "source": "PwC",
+    "summary": "普华永道2026年AI绩效研究显示，一小部分公司在从人工智能产生实际财务回报的竞赛中大幅领先，四分之三的AI经济增益正在被这些领先公司捕获。",
+    "reason": "揭示AI商业化的马太效应，领先者正在拉开差距。",
+    "url": "https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-performance-study.html",
+    "date": "2026年04月17日"
+  },
+  {
+    "id": "2026041704",
+    "category": "国外",
+    "title": "Nature：人类科学家在复杂任务上击败最强AI智能体",
+    "source": "Nature",
+    "summary": "一项行业状况报告发现，尽管人工智能系统存在局限性，但研究人员已经广泛接纳了它们。然而在某些复杂任务上，人类科学家仍然能够超越最先进的AI智能体。",
+    "reason": "提醒我们AI并非万能，人类在复杂任务上仍具优势。",
+    "url": "https://www.nature.com/articles/d41586-026-01199-z",
+    "date": "2026年04月17日"
+  },
+  {
+    "id": "2026041705",
+    "category": "国外",
+    "title": "AI如何放大美国政府监控",
+    "source": "US News",
+    "summary": "人工智能可能大幅增强政府对美国人的监控能力。与此同时，弗吉尼亚州居民对数据中心的反对情绪急剧上升。",
+    "reason": "AI技术的监控应用引发隐私担忧，政策监管需跟上。",
+    "url": "https://www.usnews.com/news/u-s-news-decision-points/articles/2026-04-16/ai-spy-americans-how-ai-supercharges-federal-surveillance",
+    "date": "2026年04月17日"
+  },
+  {
+    "id": "2026041706",
+    "category": "国外",
+    "title": "2026年3月AI新闻回顾：突破、预测与担忧",
     "source": "PTech Partners",
-    "summary": "3 月 AI 动态总结：预算提升、AI 采用率与员工生产力提升的数据对比、AI 数据中心建设引发社区阻力、企业「AI shake-up」（如裁员与重组）案例与合规预期。文中包含多张数据图与行业观察。",
-    "reason": "汇总型内容适合快速建立「本月发生了什么」的框架。涵盖技术、应用与基础设施三个层面。",
+    "summary": "3月份AI新闻回顾显示，全球公司AI预算持续增加，研究显示美国员工比欧盟员工更多使用AI并节省工作时间。AI在商业中的应用正在加速。",
+    "reason": "3月AI领域的重要事件和趋势总结，了解行业整体动向。",
     "url": "https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears/",
-    "date": "2026-04-16"
+    "date": "2026年04月17日"
   },
   {
-    "id": "2026041606",
-    "category": "国外",
-    "title": "6 AI Breakthroughs That Will Define 2026",
-    "source": "InfoWorld",
-    "summary": "文章提出 2026 年六大方向：更大上下文与人类式记忆、多模态与端侧推理普及、Agent 工作流编排突破、开源模型成本下降驱动采用、视频生成与媒体制作工业化、AI 治理与安全工具落地。",
-    "reason": "站在「预测」角度比「新闻」更利于判断全年方向。六大趋势可作为年度技术演进与投资主题的参考框架。",
-    "url": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html",
-    "date": "2026-04-16"
+    "id": "2026041707",
+    "category": "国内",
+    "title": "4月初AI圈新闻：谷歌开源Gemma 4、阿里编程模型突破",
+    "source": "掘金",
+    "summary": "谷歌发布开源模型Gemma 4，专为高级推理设计；阿里巴巴推出国产编程模型Qwen3.6-Plus，实现多模态智能体编程突破；智谱AI发布GLM-5V-Turbo多模态编码基座模型。应用层面，世界首台智能育种机器人面世，AIGC重塑短剧制作。",
+    "reason": "国产大模型在多模态和垂直应用领域持续突破，商业化加速。",
+    "url": "https://juejin.cn/post/7624133608766505010",
+    "date": "2026年04月17日"
+  },
+  {
+    "id": "2026041708",
+    "category": "国内",
+    "title": "2026年4月全球AI核心动态综述",
+    "source": "什么值得买",
+    "summary": "2026年4月，全球AI产业在技术突破、商业化落地与监管治理层面均迎来关键节点。海外头部厂商发布新一代旗舰模型，推动多模态能力边界；国产大模型在特定领域展现竞争力。",
+    "reason": "全面了解4月AI领域的核心技术、产业应用和治理动态。",
+    "url": "https://post.smzdm.com/p/a5rm7483/",
+    "date": "2026年04月17日"
+  },
+  {
+    "id": "2026041709",
+    "category": "国内",
+    "title": "五部门联合发布AI治理新规：禁止向未成年人提供虚拟亲密关系服务",
+    "source": "软盟资讯",
+    "summary": "国家网信办、发改委、工信部、公安部、市场监管总局联合公布新规，明确拟人化互动服务不得向未成年人提供虚拟亲密关系服务，要求服务提供者核验用户年龄并建立安全监测机制，自7月15日起施行。",
+    "reason": "AI治理政策持续细化，未成年人保护成为重点。",
+    "url": "https://news.softunis.com/55813.html",
+    "date": "2026年04月17日"
+  },
+  {
+    "id": "2026041710",
+    "category": "国内",
+    "title": "DeepSeek V4将实现万亿参数，深度适配华为昇腾芯片",
+    "source": "软盟资讯",
+    "summary": "DeepSeek创始人梁文锋确认，V4将实现万亿参数、百万级上下文窗口，并首次深度适配华为昇腾等国产芯片，采用Apache 2.0协议开源，企业可自主部署。",
+    "reason": "国产大模型向万亿参数迈进，软硬协同创新加速。",
+    "url": "https://news.softunis.com/55813.html",
+    "date": "2026年04月17日"
+  },
+  {
+    "id": "2026041711",
+    "category": "国内",
+    "title": "智元机器人发布物理进化引擎GE-Sim 2.0",
+    "source": "软盟资讯",
+    "summary": "在AI发布周第五日，智元推出可交互、可训练的物理进化引擎，支持分钟级长时序稳定推演，并具备自评估能力，已接近实时运行。",
+    "reason": "具身智能取得重要进展，物理仿真引擎向实时化迈进。",
+    "url": "https://news.softunis.com/55813.html",
+    "date": "2026年04月17日"
+  },
+  {
+    "id": "2026041712",
+    "category": "国内",
+    "title": "工信部部署2026年质量工作：深化AI赋能质量提升",
+    "source": "CSDN博客",
+    "summary": "工业和信息化部印发通知，部署做好2026年工业和信息化质量工作，明确提出要深化人工智能赋能质量提升，组织编制重点行业人工智能+质量应用全景图。",
+    "reason": "AI赋能制造业质量提升成为国家重点工作方向。",
+    "url": "https://blog.csdn.net/fudaihb/article/details/160163589",
+    "date": "2026年04月17日"
   }
 ]
