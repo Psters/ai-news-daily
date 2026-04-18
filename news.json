@@ -1,122 +1,62 @@
 [
   {
-    "id": "2026041701",
+    "id": "2026041801",
     "category": "国外",
-    "title": "Google 3月AI更新汇总",
-    "source": "Google Blog",
-    "summary": "Google发布了3月份的AI更新汇总，包括Gemini应用新增个性化图像创建功能、Gemini应用登陆Mac平台、Chrome浏览器新增AI模式、Gemini 3.1 Flash TTS语音模型以及Gemini API预付费功能等多项重要更新。",
-    "reason": "Google持续完善Gemini生态，AI产品矩阵不断丰富，值得关注。",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-    "date": "2026年04月17日"
+    "title": "State of AI: April 2026 newsletter",
+    "source": "Nathan Benaich",
+    "summary": "智谱AI发布GLM-5大模型，745B参数MoE架构，基于华为昇腾芯片训练，成本比Opus 4.6低约6倍。Anthropic公布证据显示三家中国AI实验室（DeepSeek、Moonshot、MiniMax）通过16M次交互从Claude提取模型能力。OpenAI融资1100亿美元，估值8400亿美元，创历史最大私募融资记录。",
+    "reason": "重要的行业动态和融资消息，反映AI产业格局变化",
+    "url": "https://nathanbenaich.substack.com/p/state-of-ai-april-2026-newsletter",
+    "date": "2026年04月18日"
   },
   {
-    "id": "2026041702",
+    "id": "2026041802",
     "category": "国外",
-    "title": "Meta与AMD达成600亿美元AI芯片采购协议",
-    "source": "LinkedIn",
-    "summary": "Meta宣布与Advanced Micro Devices达成一项价值600亿美元、为期五年的AI芯片采购协议，并将收购AMD 10%的股份。这是Meta在AI基础设施方面的重大投资。",
-    "reason": "Meta在AI硬件领域的重大投资，反映科技巨头对AI算力的持续渴求。",
-    "url": "https://www.linkedin.com/pulse/ai-weekly-digest-march-2-2026-pa-media-jhcfe",
-    "date": "2026年04月17日"
+    "title": "AI News Briefs BULLETIN BOARD for April 2026",
+    "source": "Radical Data Science",
+    "summary": "4月AI新闻简报汇总，涵盖最新AI行业动态、技术进展和应用案例。",
+    "reason": "综合性AI新闻资讯，了解行业整体动态",
+    "url": "https://radicaldatascience.wordpress.com/2026/04/09/ai-news-briefs-bulletin-board-for-april-2026/",
+    "date": "2026年04月18日"
   },
   {
-    "id": "2026041703",
+    "id": "2026041803",
     "category": "国外",
-    "title": "PwC报告：四分之三的AI经济收益被少数公司捕获",
-    "source": "PwC",
-    "summary": "普华永道2026年AI绩效研究显示，一小部分公司在从人工智能产生实际财务回报的竞赛中大幅领先，四分之三的AI经济增益正在被这些领先公司捕获。",
-    "reason": "揭示AI商业化的马太效应，领先者正在拉开差距。",
-    "url": "https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-performance-study.html",
-    "date": "2026年04月17日"
+    "title": "AI by AI Weekly Top 5: April 6 – 12, 2026",
+    "source": "Champaign Magazine",
+    "summary": "Meta推出首款AI模型Muse和Spark，成立超级智能实验室。Sam Altman回应《纽约客》文章后遭袭事件。OpenAI IPO时间表或于2026年启动。",
+    "reason": "Meta和OpenAI的重要动态，影响行业格局",
+    "url": "https://champaignmagazine.com/2026/04/13/ai-by-ai-weekly-top-5-april-6-april-12-2026/",
+    "date": "2026年04月18日"
   },
   {
-    "id": "2026041704",
-    "category": "国外",
-    "title": "Nature：人类科学家在复杂任务上击败最强AI智能体",
-    "source": "Nature",
-    "summary": "一项行业状况报告发现，尽管人工智能系统存在局限性，但研究人员已经广泛接纳了它们。然而在某些复杂任务上，人类科学家仍然能够超越最先进的AI智能体。",
-    "reason": "提醒我们AI并非万能，人类在复杂任务上仍具优势。",
-    "url": "https://www.nature.com/articles/d41586-026-01199-z",
-    "date": "2026年04月17日"
-  },
-  {
-    "id": "2026041705",
-    "category": "国外",
-    "title": "AI如何放大美国政府监控",
-    "source": "US News",
-    "summary": "人工智能可能大幅增强政府对美国人的监控能力。与此同时，弗吉尼亚州居民对数据中心的反对情绪急剧上升。",
-    "reason": "AI技术的监控应用引发隐私担忧，政策监管需跟上。",
-    "url": "https://www.usnews.com/news/u-s-news-decision-points/articles/2026-04-16/ai-spy-americans-how-ai-supercharges-federal-surveillance",
-    "date": "2026年04月17日"
-  },
-  {
-    "id": "2026041706",
-    "category": "国外",
-    "title": "2026年3月AI新闻回顾：突破、预测与担忧",
-    "source": "PTech Partners",
-    "summary": "3月份AI新闻回顾显示，全球公司AI预算持续增加，研究显示美国员工比欧盟员工更多使用AI并节省工作时间。AI在商业中的应用正在加速。",
-    "reason": "3月AI领域的重要事件和趋势总结，了解行业整体动向。",
-    "url": "https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears/",
-    "date": "2026年04月17日"
-  },
-  {
-    "id": "2026041707",
+    "id": "2026041804",
     "category": "国内",
-    "title": "4月初AI圈新闻：谷歌开源Gemma 4、阿里编程模型突破",
+    "title": "4月AI新闻：Gemma 4发布、Qwen3.6-Plus、GLM-5V-Turbo",
     "source": "掘金",
-    "summary": "谷歌发布开源模型Gemma 4，专为高级推理设计；阿里巴巴推出国产编程模型Qwen3.6-Plus，实现多模态智能体编程突破；智谱AI发布GLM-5V-Turbo多模态编码基座模型。应用层面，世界首台智能育种机器人面世，AIGC重塑短剧制作。",
-    "reason": "国产大模型在多模态和垂直应用领域持续突破，商业化加速。",
+    "summary": "谷歌发布开源模型Gemma 4，专为高级推理设计。阿里巴巴推出国产编程模型Qwen3.6-Plus，实现多模态智能体编程突破。智谱AI发布GLM-5V-Turbo多模态编码基座模型。OpenAI GPT-5.4升级，可直接操作计算机。",
+    "reason": "重要的模型发布和技术突破，关注国产AI进展",
     "url": "https://juejin.cn/post/7624133608766505010",
-    "date": "2026年04月17日"
+    "date": "2026年04月18日"
   },
   {
-    "id": "2026041708",
+    "id": "2026041805",
     "category": "国内",
     "title": "2026年4月全球AI核心动态综述",
     "source": "什么值得买",
-    "summary": "2026年4月，全球AI产业在技术突破、商业化落地与监管治理层面均迎来关键节点。海外头部厂商发布新一代旗舰模型，推动多模态能力边界；国产大模型在特定领域展现竞争力。",
-    "reason": "全面了解4月AI领域的核心技术、产业应用和治理动态。",
+    "summary": "4月全球AI产业在技术突破、商业化落地与监管治理层面迎来关键节点。海外头部厂商发布新一代旗舰模型，推动多模态能力边界；国产大模型持续迭代。",
+    "reason": "全面的行业综述，了解全球AI发展态势",
     "url": "https://post.smzdm.com/p/a5rm7483/",
-    "date": "2026年04月17日"
+    "date": "2026年04月18日"
   },
   {
-    "id": "2026041709",
+    "id": "2026041806",
     "category": "国内",
-    "title": "五部门联合发布AI治理新规：禁止向未成年人提供虚拟亲密关系服务",
-    "source": "软盟资讯",
-    "summary": "国家网信办、发改委、工信部、公安部、市场监管总局联合公布新规，明确拟人化互动服务不得向未成年人提供虚拟亲密关系服务，要求服务提供者核验用户年龄并建立安全监测机制，自7月15日起施行。",
-    "reason": "AI治理政策持续细化，未成年人保护成为重点。",
-    "url": "https://news.softunis.com/55813.html",
-    "date": "2026年04月17日"
-  },
-  {
-    "id": "2026041710",
-    "category": "国内",
-    "title": "DeepSeek V4将实现万亿参数，深度适配华为昇腾芯片",
-    "source": "软盟资讯",
-    "summary": "DeepSeek创始人梁文锋确认，V4将实现万亿参数、百万级上下文窗口，并首次深度适配华为昇腾等国产芯片，采用Apache 2.0协议开源，企业可自主部署。",
-    "reason": "国产大模型向万亿参数迈进，软硬协同创新加速。",
-    "url": "https://news.softunis.com/55813.html",
-    "date": "2026年04月17日"
-  },
-  {
-    "id": "2026041711",
-    "category": "国内",
-    "title": "智元机器人发布物理进化引擎GE-Sim 2.0",
-    "source": "软盟资讯",
-    "summary": "在AI发布周第五日，智元推出可交互、可训练的物理进化引擎，支持分钟级长时序稳定推演，并具备自评估能力，已接近实时运行。",
-    "reason": "具身智能取得重要进展，物理仿真引擎向实时化迈进。",
-    "url": "https://news.softunis.com/55813.html",
-    "date": "2026年04月17日"
-  },
-  {
-    "id": "2026041712",
-    "category": "国内",
-    "title": "工信部部署2026年质量工作：深化AI赋能质量提升",
+    "title": "工信部发布2026年工业和信息化质量工作通知",
     "source": "CSDN博客",
-    "summary": "工业和信息化部印发通知，部署做好2026年工业和信息化质量工作，明确提出要深化人工智能赋能质量提升，组织编制重点行业人工智能+质量应用全景图。",
-    "reason": "AI赋能制造业质量提升成为国家重点工作方向。",
-    "url": "https://blog.csdn.net/fudaihb/article/details/160163589",
-    "date": "2026年04月17日"
+    "summary": "工信部办公厅发布通知，明确提出深化人工智能对质量提升的赋能作用，组织编制重点行业'人工智能+质量'应用指南。",
+    "reason": "政策动态，AI与产业融合的官方指引",
+    "url": "https://blog.csdn.net/fudaihb/article/details/160130757",
+    "date": "2026年04月18日"
   }
 ]
