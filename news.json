@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026041801",
+    "id": "2026041901",
     "category": "国外",
-    "title": "State of AI: April 2026 newsletter",
-    "source": "Nathan Benaich",
-    "summary": "智谱AI发布GLM-5大模型，745B参数MoE架构，基于华为昇腾芯片训练，成本比Opus 4.6低约6倍。Anthropic公布证据显示三家中国AI实验室（DeepSeek、Moonshot、MiniMax）通过16M次交互从Claude提取模型能力。OpenAI融资1100亿美元，估值8400亿美元，创历史最大私募融资记录。",
-    "reason": "重要的行业动态和融资消息，反映AI产业格局变化",
-    "url": "https://nathanbenaich.substack.com/p/state-of-ai-april-2026-newsletter",
-    "date": "2026年04月18日"
+    "title": "2026 Tech Revolution: AI, Quantum Leaps, and Space Adventures",
+    "source": "Coaio",
+    "summary": "2026年技术革命聚焦AI、量子计算和太空探索，涵盖AI发展、网络安全创新、量子计算突破、硬件更新和太空探索等领域的最新进展。",
+    "reason": "全面了解2026年技术革命的三大核心方向，把握AI与量子计算的融合趋势",
+    "url": "https://coaio.com/news/2026/04/2026s-tech-revolution-ai-quantum-leaps-and-space-adventures-shaping-2n0c/",
+    "date": "2026年04月19日"
   },
   {
-    "id": "2026041802",
+    "id": "2026041902",
     "category": "国外",
-    "title": "AI News Briefs BULLETIN BOARD for April 2026",
-    "source": "Radical Data Science",
-    "summary": "4月AI新闻简报汇总，涵盖最新AI行业动态、技术进展和应用案例。",
-    "reason": "综合性AI新闻资讯，了解行业整体动态",
-    "url": "https://radicaldatascience.wordpress.com/2026/04/09/ai-news-briefs-bulletin-board-for-april-2026/",
-    "date": "2026年04月18日"
+    "title": "Gemma 4: Byte for byte, the most capable open models",
+    "source": "Google",
+    "summary": "Google推出Gemma 4，这是迄今为止最智能的开放模型，专为高级推理设计，与英伟达合作优化GPU性能。",
+    "reason": "开源模型的新里程碑，关注Google在开放模型领域的最新突破",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
+    "date": "2026年04月19日"
   },
   {
-    "id": "2026041803",
+    "id": "2026041903",
     "category": "国外",
-    "title": "AI by AI Weekly Top 5: April 6 – 12, 2026",
-    "source": "Champaign Magazine",
-    "summary": "Meta推出首款AI模型Muse和Spark，成立超级智能实验室。Sam Altman回应《纽约客》文章后遭袭事件。OpenAI IPO时间表或于2026年启动。",
-    "reason": "Meta和OpenAI的重要动态，影响行业格局",
-    "url": "https://champaignmagazine.com/2026/04/13/ai-by-ai-weekly-top-5-april-6-april-12-2026/",
-    "date": "2026年04月18日"
+    "title": "AI Is Becoming the Operating System of Everything",
+    "source": "AI News Today",
+    "summary": "AI正在成为万物操作系统，深入探讨AI如何重塑软件开发、企业运营和日常生活。",
+    "reason": "理解AI作为'操作系统'的底层角色，把握AI基础设施化趋势",
+    "url": "https://www.youtube.com/watch?v=-RqVOJjOAls",
+    "date": "2026年04月19日"
   },
   {
-    "id": "2026041804",
+    "id": "2026041904",
     "category": "国内",
-    "title": "4月AI新闻：Gemma 4发布、Qwen3.6-Plus、GLM-5V-Turbo",
+    "title": "4月AI新闻：谷歌开源Gemma 4、阿里Qwen3.6-Plus、智谱GLM-5V-Turbo",
     "source": "掘金",
-    "summary": "谷歌发布开源模型Gemma 4，专为高级推理设计。阿里巴巴推出国产编程模型Qwen3.6-Plus，实现多模态智能体编程突破。智谱AI发布GLM-5V-Turbo多模态编码基座模型。OpenAI GPT-5.4升级，可直接操作计算机。",
-    "reason": "重要的模型发布和技术突破，关注国产AI进展",
+    "summary": "2026年4月初AI圈核心动态：谷歌开源模型Gemma 4发布、阿里国产编程模型Qwen3.6-Plus突破多模态智能体编程、智谱AI推出GLM-5V-Turbo多模态编码基座、OpenAI GPT-5.4升级可直接操作计算机。",
+    "reason": "国产大模型密集突破，关注'一句话驱动AI写代码'等应用落地进展",
     "url": "https://juejin.cn/post/7624133608766505010",
-    "date": "2026年04月18日"
+    "date": "2026年04月19日"
   },
   {
-    "id": "2026041805",
+    "id": "2026041905",
     "category": "国内",
-    "title": "2026年4月全球AI核心动态综述",
+    "title": "2026年4月全球AI核心动态综述：大模型迭代、具身智能量产与算力变局",
     "source": "什么值得买",
-    "summary": "4月全球AI产业在技术突破、商业化落地与监管治理层面迎来关键节点。海外头部厂商发布新一代旗舰模型，推动多模态能力边界；国产大模型持续迭代。",
-    "reason": "全面的行业综述，了解全球AI发展态势",
+    "summary": "全球AI产业在技术突破、商业化落地与监管治理层面迎来关键节点。海外头部厂商发布新一代旗舰模型，推动多模态能力边界；国产大模型在应用落地方面加速。",
+    "reason": "全局把握4月AI产业三大核心方向：大模型、具身智能、算力格局",
     "url": "https://post.smzdm.com/p/a5rm7483/",
-    "date": "2026年04月18日"
+    "date": "2026年04月19日"
   },
   {
-    "id": "2026041806",
+    "id": "2026041906",
     "category": "国内",
-    "title": "工信部发布2026年工业和信息化质量工作通知",
-    "source": "CSDN博客",
-    "summary": "工信部办公厅发布通知，明确提出深化人工智能对质量提升的赋能作用，组织编制重点行业'人工智能+质量'应用指南。",
-    "reason": "政策动态，AI与产业融合的官方指引",
-    "url": "https://blog.csdn.net/fudaihb/article/details/160130757",
-    "date": "2026年04月18日"
+    "title": "2026年4月15日科技突发新闻：AI创新、安全恐慌和电动车激增",
+    "source": "Coaio中文",
+    "summary": "AWS推出代理注册工具管理数千AI代理；Meta创建扎克伯格AI版本用于员工互动；OpenAI收购AI财务创业公司Hiro；网络威胁持续上升，FBI摧毁网络钓鱼行动。",
+    "reason": "AI代理管理成为新挑战，关注企业内部AI治理和个性化AI应用趋势",
+    "url": "https://coaio.com/zh/news/2026/04/breaking-tech-news-on-april-15-2026-ai-innovations-security-scares-2moc/",
+    "date": "2026年04月19日"
   }
 ]
