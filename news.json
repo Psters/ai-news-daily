@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026041901",
+    "id": "2026042001",
     "category": "国外",
-    "title": "2026 Tech Revolution: AI, Quantum Leaps, and Space Adventures",
-    "source": "Coaio",
-    "summary": "2026年技术革命聚焦AI、量子计算和太空探索，涵盖AI发展、网络安全创新、量子计算突破、硬件更新和太空探索等领域的最新进展。",
-    "reason": "全面了解2026年技术革命的三大核心方向，把握AI与量子计算的融合趋势",
-    "url": "https://coaio.com/news/2026/04/2026s-tech-revolution-ai-quantum-leaps-and-space-adventures-shaping-2n0c/",
-    "date": "2026年04月19日"
-  },
-  {
-    "id": "2026041902",
-    "category": "国外",
-    "title": "Gemma 4: Byte for byte, the most capable open models",
-    "source": "Google",
-    "summary": "Google推出Gemma 4，这是迄今为止最智能的开放模型，专为高级推理设计，与英伟达合作优化GPU性能。",
-    "reason": "开源模型的新里程碑，关注Google在开放模型领域的最新突破",
+    "title": "谷歌发布 Gemma 4 开源 AI 模型",
+    "source": "Radical Data Science",
+    "summary": "谷歌推出迄今为止最智能的开源模型 Gemma 4，专为推理、智能体工作和代码生成设计，采用 Apache 2.0 许可证，标志着 AI 技术在企业端应用进一步深化。",
+    "reason": "开源模型因成本可控、定制灵活的优势，正成为企业 AI 布局的重要选择。这对于关注 AI 商业化落地和技术开源趋势具有重要参考价值。",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
-    "date": "2026年04月19日"
+    "date": "2026年04月20日"
   },
   {
-    "id": "2026041903",
+    "id": "2026042002",
     "category": "国外",
-    "title": "AI Is Becoming the Operating System of Everything",
-    "source": "AI News Today",
-    "summary": "AI正在成为万物操作系统，深入探讨AI如何重塑软件开发、企业运营和日常生活。",
-    "reason": "理解AI作为'操作系统'的底层角色，把握AI基础设施化趋势",
-    "url": "https://www.youtube.com/watch?v=-RqVOJjOAls",
-    "date": "2026年04月19日"
+    "title": "2026年4月 AI 新闻与趋势更新",
+    "source": "AI Profit Automation",
+    "summary": "针对全球企业家和小企业主的 2026年4月 AI 趋势和更新，涵盖 AI 策略、工具、自动化和小企业增长等内容，帮助创业者了解 AI 如何推动业务发展。",
+    "reason": "从商业应用角度梳理 AI 趋势，对于关注 AI 如何赋能中小企业的读者具有实用价值。",
+    "url": "https://aiprofitautomation.com/blog/top-ai-news-updates-for-april-2026-you-must-know",
+    "date": "2026年04月20日"
   },
   {
-    "id": "2026041904",
-    "category": "国内",
-    "title": "4月AI新闻：谷歌开源Gemma 4、阿里Qwen3.6-Plus、智谱GLM-5V-Turbo",
-    "source": "掘金",
-    "summary": "2026年4月初AI圈核心动态：谷歌开源模型Gemma 4发布、阿里国产编程模型Qwen3.6-Plus突破多模态智能体编程、智谱AI推出GLM-5V-Turbo多模态编码基座、OpenAI GPT-5.4升级可直接操作计算机。",
-    "reason": "国产大模型密集突破，关注'一句话驱动AI写代码'等应用落地进展",
-    "url": "https://juejin.cn/post/7624133608766505010",
-    "date": "2026年04月19日"
+    "id": "2026042003",
+    "category": "国外",
+    "title": "AI 周报：企业全球内容计划的 AI 应用",
+    "source": "B2B Profs",
+    "summary": "回顾自4月3日以来的 AI 新闻和发展，重点关注 AI 如何帮助企业实施全球内容计划，探讨 AI 在企业内容战略中的实际应用。",
+    "reason": "聚焦 AI 在企业内容管理中的具体应用场景，对于正在探索 AI 落地路径的企业管理者有参考意义。",
+    "url": "https://www.b2bprofs.com/opinions/2026/54556/ai-update-april-17-2026-ai-news-and-views-from-the-past-week",
+    "date": "2026年04月20日"
   },
   {
-    "id": "2026041905",
+    "id": "2026042004",
     "category": "国内",
-    "title": "2026年4月全球AI核心动态综述：大模型迭代、具身智能量产与算力变局",
-    "source": "什么值得买",
-    "summary": "全球AI产业在技术突破、商业化落地与监管治理层面迎来关键节点。海外头部厂商发布新一代旗舰模型，推动多模态能力边界；国产大模型在应用落地方面加速。",
-    "reason": "全局把握4月AI产业三大核心方向：大模型、具身智能、算力格局",
-    "url": "https://post.smzdm.com/p/a5rm7483/",
-    "date": "2026年04月19日"
+    "title": "工信部绘制\"人工智能+质量\"全景图，DeepSeek V4月底发布",
+    "source": "CSDN博客",
+    "summary": "国内政策纵深方面，工信部正绘制\"人工智能+质量\"全景图，高价值场景发布在即；产业重磅方面，DeepSeek V4 将于4月底发布，国产芯片\"换芯\"进入战略转折。",
+    "reason": "政策导向和国产大模型进展的双重信息，对于把握国内 AI 发展方向和政策支持重点具有重要意义。",
+    "url": "https://blog.csdn.net/fudaihb/article/details/160163589",
+    "date": "2026年04月20日"
   },
   {
-    "id": "2026041906",
+    "id": "2026042005",
     "category": "国内",
-    "title": "2026年4月15日科技突发新闻：AI创新、安全恐慌和电动车激增",
-    "source": "Coaio中文",
-    "summary": "AWS推出代理注册工具管理数千AI代理；Meta创建扎克伯格AI版本用于员工互动；OpenAI收购AI财务创业公司Hiro；网络威胁持续上升，FBI摧毁网络钓鱼行动。",
-    "reason": "AI代理管理成为新挑战，关注企业内部AI治理和个性化AI应用趋势",
+    "title": "AI 创新、安全恐慌和电动车激增：2026年4月15日科技突发新闻",
+    "source": "Coaio",
+    "summary": "涵盖 AWS 推出 AI 代理注册工具、Meta 创建扎克伯格 AI 版本、OpenAI 收购个人财务 AI 公司 Hiro、网络安全威胁升级等，展示了 AI 改造行业的潜力及伴随的风险。",
+    "reason": "综合展现 AI 技术突破、安全威胁和行业应用的多维动态，帮助读者全面理解当前 AI 发展的现状与挑战。",
     "url": "https://coaio.com/zh/news/2026/04/breaking-tech-news-on-april-15-2026-ai-innovations-security-scares-2moc/",
-    "date": "2026年04月19日"
+    "date": "2026年04月20日"
+  },
+  {
+    "id": "2026042006",
+    "category": "国内",
+    "title": "2026年4月7日人工智能AI最新动态：技术与产业变革加速",
+    "source": "F5AI",
+    "summary": "从技术突破（Gemma 4 开源）、政策规范（十部门联合印发 AI 科技伦理审查办法）、产业融资（千寻智能30亿元融资）、场景落地（新石器无人车 NeoClaw、文旅智能化等）多维度展示 AI 变革深度。",
+    "reason": "全方位梳理 AI 领域动态，技术、政策、资本、应用四维突破，为理解 AI 产业全景提供了系统性视角。",
+    "url": "http://f5ai.b.farenhui.com/News_Show_24375.html",
+    "date": "2026年04月20日"
   }
 ]
