@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026042001",
+    "id": "2026042101",
     "category": "国外",
-    "title": "谷歌发布 Gemma 4 开源 AI 模型",
-    "source": "Radical Data Science",
-    "summary": "谷歌推出迄今为止最智能的开源模型 Gemma 4，专为推理、智能体工作和代码生成设计，采用 Apache 2.0 许可证，标志着 AI 技术在企业端应用进一步深化。",
-    "reason": "开源模型因成本可控、定制灵活的优势，正成为企业 AI 布局的重要选择。这对于关注 AI 商业化落地和技术开源趋势具有重要参考价值。",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
-    "date": "2026年04月20日"
+    "title": "Google 3月 AI 更新：Chrome 推出 AI 模式，Gemini 登陆 Mac 平台",
+    "source": "Google Blog",
+    "summary": "Google 在 3 月推出多项 AI 功能：Chrome 浏览器新增 AI 模式，重新定义网页浏览体验；Gemini 应用正式登陆 Mac 平台；Pixel 设备获得 3 月功能更新，新增多项 AI 特性。此外，Gemini 应用还推出了个性化图片创建功能。",
+    "reason": "Google AI 产品矩阵持续扩展，Chrome AI 模式标志着浏览器与 AI 的深度融合，值得关注。",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+    "date": "2026年04月21日"
   },
   {
-    "id": "2026042002",
+    "id": "2026042102",
     "category": "国外",
-    "title": "2026年4月 AI 新闻与趋势更新",
-    "source": "AI Profit Automation",
-    "summary": "针对全球企业家和小企业主的 2026年4月 AI 趋势和更新，涵盖 AI 策略、工具、自动化和小企业增长等内容，帮助创业者了解 AI 如何推动业务发展。",
-    "reason": "从商业应用角度梳理 AI 趋势，对于关注 AI 如何赋能中小企业的读者具有实用价值。",
-    "url": "https://aiprofitautomation.com/blog/top-ai-news-updates-for-april-2026-you-must-know",
-    "date": "2026年04月20日"
+    "title": "2026年 3 月 AI 新闻回顾：企业 AI 预算增加，美欧 AI 采用率差距显现",
+    "source": "PTech Partners",
+    "summary": "3 月 AI 行业呈现三大趋势：全球企业 AI 预算持续增加；研究显示美国工人使用 AI 的比例高于欧盟同行，且节省时间更多；AI 市场在突破与担忧中前行，行业预测与恐惧并存。",
+    "reason": "企业 AI 预算增长和美欧采用率差异反映了全球 AI 发展的不平衡，对战略制定有参考价值。",
+    "url": "https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears/",
+    "date": "2026年04月21日"
   },
   {
-    "id": "2026042003",
+    "id": "2026042103",
     "category": "国外",
-    "title": "AI 周报：企业全球内容计划的 AI 应用",
-    "source": "B2B Profs",
-    "summary": "回顾自4月3日以来的 AI 新闻和发展，重点关注 AI 如何帮助企业实施全球内容计划，探讨 AI 在企业内容战略中的实际应用。",
-    "reason": "聚焦 AI 在企业内容管理中的具体应用场景，对于正在探索 AI 落地路径的企业管理者有参考意义。",
-    "url": "https://www.b2bprofs.com/opinions/2026/54556/ai-update-april-17-2026-ai-news-and-views-from-the-past-week",
-    "date": "2026年04月20日"
+    "title": "AI 定价模式革命：2026 年 3 月改变了我们定价 AI 的方式",
+    "source": "Medium",
+    "summary": "文章探讨了 AI 行业定价模式的根本性变革，分析了 FLOPs、GPU 带宽和 KV Cache 经济学如何影响 AI Token 的真实成本。作者认为 Liquid AI 的边缘 AI 模型设计代表了下一波模型设计的方向：少些架构意识形态，多些硬件感知的系统思维。",
+    "reason": "AI 定价模式的根本变革直接影响企业成本结构，是理解 AI 商业模式演化的关键视角。",
+    "url": "https://machine-learning-made-simple.medium.com/march-2026-changed-how-we-will-price-ai-6f8ded4494c1",
+    "date": "2026年04月21日"
   },
   {
-    "id": "2026042004",
+    "id": "2026042104",
     "category": "国内",
-    "title": "工信部绘制\"人工智能+质量\"全景图，DeepSeek V4月底发布",
-    "source": "CSDN博客",
-    "summary": "国内政策纵深方面，工信部正绘制\"人工智能+质量\"全景图，高价值场景发布在即；产业重磅方面，DeepSeek V4 将于4月底发布，国产芯片\"换芯\"进入战略转折。",
-    "reason": "政策导向和国产大模型进展的双重信息，对于把握国内 AI 发展方向和政策支持重点具有重要意义。",
-    "url": "https://blog.csdn.net/fudaihb/article/details/160163589",
-    "date": "2026年04月20日"
+    "title": "ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%",
+    "source": "AIBase",
+    "summary": "ChatGPT 用户结构出现历史性逆转：女性用户占比首次超过 50%，总用户规模逼近 10 亿大关。这标志着 AI 应用从技术小众向大众主流的跨越，女性用户的增长可能推动 AI 应用场景的多元化。",
+    "reason": "用户结构历史性变化标志着 AI 应用真正进入主流市场，对产品设计和市场策略有重要启示。",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026年04月21日"
   },
   {
-    "id": "2026042005",
+    "id": "2026042105",
     "category": "国内",
-    "title": "AI 创新、安全恐慌和电动车激增：2026年4月15日科技突发新闻",
-    "source": "Coaio",
-    "summary": "涵盖 AWS 推出 AI 代理注册工具、Meta 创建扎克伯格 AI 版本、OpenAI 收购个人财务 AI 公司 Hiro、网络安全威胁升级等，展示了 AI 改造行业的潜力及伴随的风险。",
-    "reason": "综合展现 AI 技术突破、安全威胁和行业应用的多维动态，帮助读者全面理解当前 AI 发展的现状与挑战。",
-    "url": "https://coaio.com/zh/news/2026/04/breaking-tech-news-on-april-15-2026-ai-innovations-security-scares-2moc/",
-    "date": "2026年04月20日"
+    "title": "OpenAI 发布 GPT-Rosalind 模型，深度跨界制药与生命科学",
+    "source": "AIBase",
+    "summary": "OpenAI 发布 GPT-Rosalind 专业模型，专门针对制药和生命科学领域进行深度优化。这标志着 AI 模型从通用向垂直行业专业化发展的重要趋势，生命科学领域有望迎来 AI 驱动的创新突破。",
+    "reason": "AI 垂直化是行业发展的重要方向，GPT-Rosalind 代表了专业模型的深度应用潜力。",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026年04月21日"
   },
   {
-    "id": "2026042006",
+    "id": "2026042106",
     "category": "国内",
-    "title": "2026年4月7日人工智能AI最新动态：技术与产业变革加速",
-    "source": "F5AI",
-    "summary": "从技术突破（Gemma 4 开源）、政策规范（十部门联合印发 AI 科技伦理审查办法）、产业融资（千寻智能30亿元融资）、场景落地（新石器无人车 NeoClaw、文旅智能化等）多维度展示 AI 变革深度。",
-    "reason": "全方位梳理 AI 领域动态，技术、政策、资本、应用四维突破，为理解 AI 产业全景提供了系统性视角。",
-    "url": "http://f5ai.b.farenhui.com/News_Show_24375.html",
-    "date": "2026年04月20日"
+    "title": "AI 机器人精密装备能否破解制造业应用难题？",
+    "source": "OFweek 人工智能",
+    "summary": "业界对 AI 机器人精密装备在制造业中的应用前景展开热议。文章探讨了 AI 机器人如何解决制造业痛点，包括精度要求、成本效益、人机协作等关键问题。专家认为 AI 机器人在特定制造场景已具备实用价值。",
+    "reason": "AI 与制造业的深度融合是产业升级的关键，精密装备的实用化进展值得关注。",
+    "url": "https://www.ofweek.com/ai/CATList-201700-8100-ai.html",
+    "date": "2026年04月21日"
   }
 ]
