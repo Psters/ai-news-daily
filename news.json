@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260423-1",
+    "id": "2026042401",
     "category": "国外",
-    "title": "Google 3月 AI 更新：Gemini 全球扩张与健康 AI 投资",
-    "source": "Google Blog",
-    "summary": "Google 在 3 月推出多项 AI 更新：Search Live 全球扩展至所有 AI Mode 可用地区，Docs/Sheets/Slides/Drive 增强工具，Maps 升级，Pixel 3 月功能更新。投资 1000 万美元支持临床教育 AI 创新，Lyria 和 Lyria 3 向开发者开放公测。",
-    "reason": "Google 生态整合加速，AI 深入办公、健康、创意领域，值得关注其产品化路径和开发者工具演进。",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-    "date": "2026年04月23日"
+    "title": "AI能源效率突破：新型芯片技术将能耗降低100倍",
+    "source": "Science Daily",
+    "summary": "研究人员开发出一种光驱动AI芯片技术，能够在不牺牲性能的情况下将AI系统能耗降低100倍，为绿色AI基础设施开辟新路径。",
+    "reason": "能耗一直是AI大规模部署的核心瓶颈，这一突破若能商业化，将彻底改变数据中心和边缘计算的成本结构。",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+    "date": "2026年04月24日"
   },
   {
-    "id": "20260423-2",
+    "id": "2026042402",
     "category": "国外",
-    "title": "AI News of the Month for March 2026",
-    "source": "YouTube - Software Defined Talk",
-    "summary": "Brian 和 Brandon 讨论了 3 月最重要的 AI 新闻故事，涵盖行业热点、技术突破和企业动态。",
-    "reason": "行业媒体月度复盘，帮助快速把握 3 月 AI 领域关键事件和趋势。",
-    "url": "https://www.youtube.com/watch?v=WqlpNN8ztAk",
-    "date": "2026年04月23日"
+    "title": "智能体AI革命：4月重塑技术的7大突破",
+    "source": "Switas",
+    "summary": "2026年4月，智能体AI（Agentic AI）迎来爆发式发展，从自主决策到多工具协同，7大关键技术突破正在重新定义AI应用边界。",
+    "reason": "从'会聊天'到'会干活'，智能体AI是2026年最重要的技术趋势之一，直接影响企业AI部署的ROI。",
+    "url": "https://www.switas.com/articles/the-agentic-ai-revolution-7-breakthroughs-reshaping-tech-in-april-2026",
+    "date": "2026年04月24日"
   },
   {
-    "id": "20260423-3",
+    "id": "2026042403",
     "category": "国外",
-    "title": "Google 3 月 AI 更新亮点",
-    "source": "Instagram - Google",
-    "summary": "Gemini 提供个性化助手服务，Search Live 和 AI Mode 中的 Canvas 全球扩展，健康追踪和音乐生成功能增强。",
-    "reason": "消费级 AI 应用持续迭代，关注个性化助手和多模态能力边界。",
-    "url": "https://www.instagram.com/p/DW19ZjuEhNu/",
-    "date": "2026年04月23日"
+    "title": "Stanford AI Index 2026报告：12个关键洞察",
+    "source": "Stanford HAI",
+    "summary": "斯坦福大学发布2026年AI指数报告，显示AI研发投资、技术性能和社会应用均呈现指数级增长，全球AI竞争进入新阶段。",
+    "reason": "权威年度报告，把握全球AI发展脉络和趋势，对理解行业格局变化至关重要。",
+    "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
+    "date": "2026年04月24日"
   },
   {
-    "id": "20260423-4",
+    "id": "2026042404",
     "category": "国内",
-    "title": "AIBase AI 新闻头条：Claude Office 全覆盖与量子计算突破",
-    "source": "AIBase",
-    "summary": "Claude 完成 Office 全覆盖，修订模式成博弈焦点；国产超导量子计算机“本源悟空”实现重大跨越；微信鸿蒙版 8.0.17.16 升级，AI 音乐功能上线；GitHub Copilot 紧急叫停个人账户注册；萤石发布 EZVIZ AI Core X 智能大模型主机。",
-    "reason": "国产 AI 与量子计算双线突破，办公 AI 竞争加剧，关注 Claude 在企业办公场景的渗透和量子算力商业化进展。",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026年04月23日"
+    "title": "2026年4月AI热点：大模型迭代加速，具身智能吸金345亿",
+    "source": "搜狐科技",
+    "summary": "阿里Qwen3.6、GPT-6、DeepSeek V4密集发布；具身智能单月融资创纪录，它石智航4.55亿美元刷新行业纪录；Token调用量突破140万亿，倒逼算力全链涨价。",
+    "reason": "4月上半月AI产业全景式梳理：从技术突破到资本流向，从政策定调到治理框架，系统化洞察2026年AI发展主旋律。",
+    "url": "https://www.sohu.com/a/1010838825_122523043",
+    "date": "2026年04月24日"
   },
   {
-    "id": "20260423-5",
+    "id": "2026042405",
     "category": "国内",
-    "title": "OFweek 人工智能行业动态",
-    "source": "OFweek",
-    "summary": "行业资讯涵盖 AI 模型发布、算力供需、应用落地。包括 ABot-M0 模型争议、DeepSeek 价值讨论、AI4S 边界探索，以及行业展会和人才动态。",
-    "reason": "行业媒体综合资讯，了解 AI 产业链上下游动态、市场情绪和争议话题。",
-    "url": "https://www.ofweek.com/ai/CATList-201700-8100-ai.html",
-    "date": "2026年04月23日"
+    "title": "2026年4月全球AI核心动态：大模型、具身智能与算力变局",
+    "source": "什么值得买",
+    "summary": "海外头部厂商发布新一代旗舰模型，推动多模态能力边界；国产大模型在垂直领域持续突破；算力基础设施投资加速，'AI+'政策落地。",
+    "reason": "从中美竞争视角看AI产业发展，了解技术迭代、商业化落地与监管治理的最新态势。",
+    "url": "https://post.smzdm.com/p/a5rm7483",
+    "date": "2026年04月24日"
   },
   {
-    "id": "20260423-6",
+    "id": "2026042406",
     "category": "国内",
-    "title": "CNMO 人工智能最新资讯",
-    "source": "CNMO",
-    "summary": "涵盖四川 AI 基金投资 Anthropic 和 CoreWeave、HappyHorse 多模态 API 计划、腾讯 AI 学习模型、DeepSeek V4 泄露传闻、Meta GO-2 机器人高成功率、英伟达 CoWoS 产能、终端设备资源优化、360 AI 社交产品等。",
-    "reason": "国内视角的全球 AI 生态速览，关注资本流动、模型竞争、硬件瓶颈和终端应用创新。",
-    "url": "http://m.cnmo.com/ai/",
-    "date": "2026年04月23日"
+    "title": "2026年AI大模型混战：ChatGPT、DeepSeek、Claude谁更强？",
+    "source": "掘金",
+    "summary": "从对话模型、AI Agent与编程、AI绘图、AI视频与短剧、AI音乐五条主线梳理2026年AI行业真实态势，DeepSeek V4即将发布成最大变量。",
+    "reason": "全景式对比主流AI模型能力，帮助理解不同模型的差异化优势和选型策略，对技术选型决策很有价值。",
+    "url": "https://juejin.cn/post/7623985911764910134",
+    "date": "2026年04月24日"
   }
 ]
