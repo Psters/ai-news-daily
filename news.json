@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026042501",
-    "category": "国际",
-    "title": "OpenAI 发布 GPT-5.5：更强代理推理、工具使用与效率提升",
-    "source": "OpenAI",
-    "summary": "OpenAI 正式推出 GPT-5.5，在保持原有低延迟的前提下，增强了编码与知识任务性能。模型在代理推理、工具调用与整体效率方面均有显著改进，面向复杂任务与企业集成场景提供更稳定的能力。",
-    "reason": "大模型与代理能力持续演进，企业集成与复杂任务处理能力提升值得关注。",
-    "url": "https://openai.com/index/introducing-gpt-5-5/",
-    "date": "2026年04月25日"
+    "id": "2026042601",
+    "category": "国外",
+    "title": "AI Just Replaced Humans & Nobody Noticed | AI News April 2026",
+    "source": "YouTube",
+    "summary": "本期AI新闻周报讨论了AI在多个领域的最新进展，包括Google Demis Hassabis和Anthropic Dario Amodei关于AGI后世界格局的深度辩论，以及Anthropic CEO关于强大AI风险和监管的演讲。",
+    "reason": "AI领袖对AGI未来的深度讨论值得关注，涉及AI监管和风险管理等重要议题。",
+    "url": "https://www.youtube.com/watch?v=6m4p9lz7hBQ",
+    "date": "2026年04月26日"
   },
   {
-    "id": "2026042502",
-    "category": "国际",
-    "title": "OpenAI 推出 ChatGPT 工作区代理，支持团队共享工作流",
-    "source": "OpenAI",
-    "summary": "OpenAI 在 ChatGPT 中引入工作区代理（Workspace Agents），由 Codex 驱动，可执行报告生成、代码编写、通信管理等任务，并与 Slack 等工具集成，面向企业团队提升协同效率。目前仅对部分 ChatGPT 计划开放研究预览。",
-    "reason": "面向团队协作的 AI 代理化落地，推动企业级工作流自动化。",
-    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
-    "date": "2026年04月25日"
+    "id": "2026042602",
+    "category": "国外",
+    "title": "AI Update, April 24, 2026: AI News and Views From the Past Week",
+    "source": "MarketingProfs",
+    "summary": "本周AI更新涵盖了营销领域的最新AI应用动态，包括IBM等企业在AI营销工具方面的进展，以及隐私政策和数据追踪相关的技术更新。",
+    "reason": "AI在营销领域的实际应用案例，对企业数字化转型有参考价值。",
+    "url": "https://www.marketingprofs.com/opinions/2026/54587/ai-update-april-24-2026-ai-news-and-views-from-the-past-week",
+    "date": "2026年04月26日"
   },
   {
-    "id": "2026042503",
-    "category": "国际",
-    "title": "研究揭示三大 AI 编码代理存在“注释与控制”提示注入漏洞，可泄露凭证",
-    "source": "VentureBeat",
-    "summary": "安全研究者在 GitHub 漏洞报告/issue 中通过单一恶意提示触发，使 Anthropic Claude Code Security Review、Google Gemini CLI 与 GitHub Copilot Agent 泄露各自 API 密钥。该攻击利用 GitHub Actions 的 pull_request_target 注入环境，而默认 pull_request 不暴露。厂商已修复并发放漏洞奖励，但未发布 CVE。",
-    "reason": "AI 代理运行时安全与治理的关键性提示：工具链与权限隔离不足将导致凭证外泄。",
-    "url": "https://venturebeat.com/security/ai-agent-runtime-security-system-card-audit-comment-and-control-2026",
-    "date": "2026年04月25日"
+    "id": "2026042603",
+    "category": "国外",
+    "title": "Have you heard these exciting AI news? - April 17, 2026",
+    "source": "YouTube - Matt Wolfe",
+    "summary": "Matt Wolfe的AI新闻周报，被誉为今年最大飞跃的AI技术突破，以及2026年购买电脑的新建议，展示了AI硬件和软件的快速发展。",
+    "reason": "硬件与AI技术的结合趋势，对个人和企业设备采购有指导意义。",
+    "url": "https://www.youtube.com/watch?v=Aa9pHSriSW0",
+    "date": "2026年04月26日"
   },
   {
-    "id": "2026042504",
-    "category": "趋势",
-    "title": "AI 降低软件构建成本，企业治理与采购模式面临重塑",
-    "source": "VentureBeat",
-    "summary": "Retool 2026 调研显示，35% 的团队已用自研替代至少一款 SaaS 工具，78% 计划在 2026 年进一步自研。AI 辅助开发与企业应用平台成熟，使原本成本数十万美元、耗时数月的内部工具，现在可在数天内由业务人员完成原型。SaaS 定价策略尚未跟上，企业“买 vs 建”决策逻辑正在变化。",
-    "reason": "“造 vs 买”决策拐点到来：流程自动化、内部管理、BI、CRM 等品类面临替代压力。",
-    "url": "https://venturebeat.com/infrastructure/ai-lowered-the-cost-of-building-software-enterprise-governance-hasnt-caught",
-    "date": "2026年04月25日"
-  },
-  {
-    "id": "2026042505",
+    "id": "2026042604",
     "category": "国内",
-    "title": "早报要点：阿里 Qwen 3.6-Plus 登顶 OpenRouter 日榜，OpenAI 收购 TBPN",
-    "source": "量子位等综合",
-    "summary": "- 阿里千问 Qwen 3.6-Plus 上线后，在 OpenRouter 平台单日调用量突破 1.4 万亿 Token，登顶日榜（来源：量子位）。\n- OpenAI 收购科技访谈节目 TBPN，官方称旨在扩展围绕 AI 的沟通与传播，并保留 TBPN 编辑独立性（来源：量子位整理）。\n- 浪潮信息发布企业级 OpenClaw 方案“企千虾”，为国内企业定制的 AI Agent 部署方案，支持私有化部署与国产大模型对接。",
-    "reason": "国产模型生态与商业落地提速，同时全球科技公司在内容与渠道侧加强布局。",
-    "url": "https://www.qbitai.com",
-    "date": "2026年04月25日"
-  },
-  {
-    "id": "2026042506",
-    "category": "国内",
-    "title": "2026 被视为“AI Agent 元年”：从“能对话”到“能干活”的范式迁移",
-    "source": "CSDN / 行业观察",
-    "summary": "多份行业研判指出，2026 年被广泛视为“AI Agent 元年”，标志着 AI 从生成式对话工具向可执行任务的智能体演进。企业级落地规模迅速扩张，案例显示头部企业内部已部署数万个智能体用于自动化流程、决策辅助与业务编排，推动组织从 AI 赋能转向 AI 原生。",
-    "reason": "从对话到行动的范式切换，企业需要重新设计流程、权限与治理体系。",
+    "title": "2026年4月7日：计算机与AI技术十大热点新闻",
+    "source": "CSDN博客",
+    "summary": "2026年被广泛视为AI Agent元年，AI从能对话进化到能干活。京东部署5万个智能体展示了企业级AI Agent的实际落地能力，标志着AI Agent从概念验证走向规模化应用。",
+    "reason": "AI Agent元年的概念和京东的规模化实践，对国内企业AI应用落地具有重要参考价值。",
     "url": "https://blog.csdn.net/qiwsir/article/details/159925272",
-    "date": "2026年04月25日"
+    "date": "2026年04月26日"
+  },
+  {
+    "id": "2026042605",
+    "category": "国内",
+    "title": "2026年4月24日人工智能早间新闻",
+    "source": "CSDN博客",
+    "summary": "2026年4月成为AI爆发周，阿里连续推出三款新模型，字节跳动全双工语音交互技术上线，国内大模型竞争进入白热化阶段。",
+    "reason": "国内大模型厂商密集发布新产品，反映AI军备竞赛加剧，技术迭代速度超预期。",
+    "url": "https://blog.csdn.net/fudaihb/article/details/160458738",
+    "date": "2026年04月26日"
+  },
+  {
+    "id": "2026042606",
+    "category": "国内",
+    "title": "2026年4月AI浪潮：从政策红利到产业落地",
+    "source": "什么值得买",
+    "summary": "工信部密集发布人工智能+高价值场景政策，DeepSeek V4即将适配国产化平台，中国AI领域正迎来从政策顶层设计到产业深度落地的系统性变革。",
+    "reason": "政策驱动与产业落地结合，国产化AI生态建设值得关注。",
+    "url": "https://post.smzdm.com/p/apq7vv32/",
+    "date": "2026年04月26日"
   }
 ]
