@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026042601",
+    "id": "2026042701",
     "category": "国外",
-    "title": "AI Just Replaced Humans & Nobody Noticed | AI News April 2026",
+    "title": "Making AI Possible Without Making Life Impossible",
     "source": "YouTube",
-    "summary": "本期AI新闻周报讨论了AI在多个领域的最新进展，包括Google Demis Hassabis和Anthropic Dario Amodei关于AGI后世界格局的深度辩论，以及Anthropic CEO关于强大AI风险和监管的演讲。",
-    "reason": "AI领袖对AGI未来的深度讨论值得关注，涉及AI监管和风险管理等重要议题。",
-    "url": "https://www.youtube.com/watch?v=6m4p9lz7hBQ",
-    "date": "2026年04月26日"
+    "summary": "探讨如何在不让生活变得不可能的情况下实现 AI 的发展，关注 AI 的对抗性使用问题。",
+    "reason": "关注 AI 发展与人类生活的平衡问题，值得思考。",
+    "url": "https://www.youtube.com/watch?v=hTnt1TAyVCM",
+    "date": "2026年04月27日"
   },
   {
-    "id": "2026042602",
+    "id": "2026042702",
     "category": "国外",
-    "title": "AI Update, April 24, 2026: AI News and Views From the Past Week",
-    "source": "MarketingProfs",
-    "summary": "本周AI更新涵盖了营销领域的最新AI应用动态，包括IBM等企业在AI营销工具方面的进展，以及隐私政策和数据追踪相关的技术更新。",
-    "reason": "AI在营销领域的实际应用案例，对企业数字化转型有参考价值。",
-    "url": "https://www.marketingprofs.com/opinions/2026/54587/ai-update-april-24-2026-ai-news-and-views-from-the-past-week",
-    "date": "2026年04月26日"
+    "title": "AI News Briefs BULLETIN BOARD for April 2026",
+    "source": "Radical Data Science",
+    "summary": "2026年4月 AI 新闻简报，包括使用 AI Agent 迭代改进 XGBoost 模型，以及 Google 发布 Gemma 4 开源模型。",
+    "reason": "AI Agent 在数据科学自动化中的应用，以及 Gemma 4 作为最强大的开源模型发布。",
+    "url": "https://radicaldatascience.wordpress.com/2026/04/24/ai-news-briefs-bulletin-board-for-april-2026/",
+    "date": "2026年04月27日"
   },
   {
-    "id": "2026042603",
+    "id": "2026042703",
     "category": "国外",
-    "title": "Have you heard these exciting AI news? - April 17, 2026",
-    "source": "YouTube - Matt Wolfe",
-    "summary": "Matt Wolfe的AI新闻周报，被誉为今年最大飞跃的AI技术突破，以及2026年购买电脑的新建议，展示了AI硬件和软件的快速发展。",
-    "reason": "硬件与AI技术的结合趋势，对个人和企业设备采购有指导意义。",
+    "title": "Exciting AI Updates Weekly - April 17, 2026",
+    "source": "YouTube - Asian Boss",
+    "summary": "AI 每周更新，涵盖 DeepSeek、SeeDance 2.0、ChatGPT 5.5 等最新动态。",
+    "reason": "ChatGPT 5.5 的发布引起关注，以及国内 AI 模型的快速发展。",
     "url": "https://www.youtube.com/watch?v=Aa9pHSriSW0",
-    "date": "2026年04月26日"
+    "date": "2026年04月27日"
   },
   {
-    "id": "2026042604",
+    "id": "2026042704",
     "category": "国内",
-    "title": "2026年4月7日：计算机与AI技术十大热点新闻",
+    "title": "2026年4月AI爆发周：阿里连推三款模型、字节全双工语音上线",
     "source": "CSDN博客",
-    "summary": "2026年被广泛视为AI Agent元年，AI从能对话进化到能干活。京东部署5万个智能体展示了企业级AI Agent的实际落地能力，标志着AI Agent从概念验证走向规模化应用。",
-    "reason": "AI Agent元年的概念和京东的规模化实践，对国内企业AI应用落地具有重要参考价值。",
-    "url": "https://blog.csdn.net/qiwsir/article/details/159925272",
-    "date": "2026年04月26日"
-  },
-  {
-    "id": "2026042605",
-    "category": "国内",
-    "title": "2026年4月24日人工智能早间新闻",
-    "source": "CSDN博客",
-    "summary": "2026年4月成为AI爆发周，阿里连续推出三款新模型，字节跳动全双工语音交互技术上线，国内大模型竞争进入白热化阶段。",
-    "reason": "国内大模型厂商密集发布新产品，反映AI军备竞赛加剧，技术迭代速度超预期。",
+    "summary": "2026年4月 AI 爆发周，阿里连续推出三款模型，字节跳动全双工语音上线，国内大模型竞争白热化。",
+    "reason": "国内大模型厂商竞争加剧，阿里和字节跳动的新动作值得关注。",
     "url": "https://blog.csdn.net/fudaihb/article/details/160458738",
-    "date": "2026年04月26日"
+    "date": "2026年04月27日"
   },
   {
-    "id": "2026042606",
+    "id": "2026042705",
     "category": "国内",
-    "title": "2026年4月AI浪潮：从政策红利到产业落地",
+    "title": "2026年4月AI产业：从政策驱动到场景落地",
     "source": "什么值得买",
-    "summary": "工信部密集发布人工智能+高价值场景政策，DeepSeek V4即将适配国产化平台，中国AI领域正迎来从政策顶层设计到产业深度落地的系统性变革。",
-    "reason": "政策驱动与产业落地结合，国产化AI生态建设值得关注。",
-    "url": "https://post.smzdm.com/p/apq7vv32/",
-    "date": "2026年04月26日"
+    "summary": "2026年4月，中国 AI 产业正经历从政策顶层设计到产业深度落地的系统性变革，工信部密集发布\"人工智能+\"高价值场景与\"AI+质量\"路线图。",
+    "reason": "政策驱动的 AI 场景落地，标志着国内 AI 进入应用落地新阶段。",
+    "url": "https://post.smzdm.com/p/aggnqoo7/",
+    "date": "2026年04月27日"
+  },
+  {
+    "id": "2026042706",
+    "category": "国内",
+    "title": "2026年4月3日AI简报：巨头博弈与布局",
+    "source": "YouTube",
+    "summary": "ARK 布局 OpenAI 入列 ETF，减持英伟达等大厂，显示投资机构对 AI 行业布局的调整。",
+    "reason": "投资机构对 AI 行业布局的变化，反映市场对 AI 发展的预期调整。",
+    "url": "https://www.youtube.com/watch?v=9F7uffwzaJo",
+    "date": "2026年04月27日"
   }
 ]
