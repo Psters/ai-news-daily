@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026042701",
-    "category": "国外",
-    "title": "Making AI Possible Without Making Life Impossible",
-    "source": "YouTube",
-    "summary": "探讨如何在不让生活变得不可能的情况下实现 AI 的发展，关注 AI 的对抗性使用问题。",
-    "reason": "关注 AI 发展与人类生活的平衡问题，值得思考。",
-    "url": "https://www.youtube.com/watch?v=hTnt1TAyVCM",
-    "date": "2026年04月27日"
+    "id": "20260428-1",
+    "category": "foreign",
+    "title": "Adobe 将 Experience Cloud 重新品牌为 CX Enterprise，全面转向智能体 AI 平台",
+    "source": "MarketingProfs",
+    "summary": "Adobe 正在用 CX Enterprise 取代 Experience Cloud，这是一个建立在基于智能体的工作流之上的 AI 优先平台，统一了创意、营销和客户体验能力。",
+    "reason": "企业 AI 平台正成为营销技术栈的基础，Adobe 的这一战略转型反映了 Agentic AI 在企业级应用中的重要趋势。",
+    "url": "https://martech.org/adobe-rebrands-experience-cloud-as-cx-enterprise-goes-all-in-on-ai-agents/",
+    "date": "2026年04月28日"
   },
   {
-    "id": "2026042702",
-    "category": "国外",
-    "title": "AI News Briefs BULLETIN BOARD for April 2026",
-    "source": "Radical Data Science",
-    "summary": "2026年4月 AI 新闻简报，包括使用 AI Agent 迭代改进 XGBoost 模型，以及 Google 发布 Gemma 4 开源模型。",
-    "reason": "AI Agent 在数据科学自动化中的应用，以及 Gemma 4 作为最强大的开源模型发布。",
-    "url": "https://radicaldatascience.wordpress.com/2026/04/24/ai-news-briefs-bulletin-board-for-april-2026/",
-    "date": "2026年04月27日"
+    "id": "20260428-2",
+    "category": "foreign",
+    "title": "OpenAI 推出工作空间智能体，可自主完成商业任务",
+    "source": "The Verge",
+    "summary": "OpenAI 在 ChatGPT Business、Enterprise 和教育版本中推出了工作空间智能体，使团队能够构建和共享可跨 Slack 和 Gmail 等工具执行任务的 AI 智能体。",
+    "reason": "这是企业级 AI 智能体实用化的重要里程碑，标志着 AI 从单一任务执行向复杂工作流程自主管理的转变。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+    "date": "2026年04月28日"
   },
   {
-    "id": "2026042703",
-    "category": "国外",
-    "title": "Exciting AI Updates Weekly - April 17, 2026",
-    "source": "YouTube - Asian Boss",
-    "summary": "AI 每周更新，涵盖 DeepSeek、SeeDance 2.0、ChatGPT 5.5 等最新动态。",
-    "reason": "ChatGPT 5.5 的发布引起关注，以及国内 AI 模型的快速发展。",
-    "url": "https://www.youtube.com/watch?v=Aa9pHSriSW0",
-    "date": "2026年04月27日"
+    "id": "20260428-3",
+    "category": "foreign",
+    "title": "Google 发布 Gemma 4：字节对字节最强大的开放模型",
+    "source": "Google Blog",
+    "summary": "Google 推出了 Gemma 4，这是迄今为止最智能的开放模型系列，在性能和能力上实现了重大突破。",
+    "reason": "开源 AI 模型的持续进化对开发者社区至关重要，Gemma 4 的发布将进一步推动 AI 技术的民主化。",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
+    "date": "2026年04月28日"
   },
   {
-    "id": "2026042704",
-    "category": "国内",
-    "title": "2026年4月AI爆发周：阿里连推三款模型、字节全双工语音上线",
-    "source": "CSDN博客",
-    "summary": "2026年4月 AI 爆发周，阿里连续推出三款模型，字节跳动全双工语音上线，国内大模型竞争白热化。",
-    "reason": "国内大模型厂商竞争加剧，阿里和字节跳动的新动作值得关注。",
-    "url": "https://blog.csdn.net/fudaihb/article/details/160458738",
-    "date": "2026年04月27日"
+    "id": "20260428-4",
+    "category": "domestic",
+    "title": "2026年4月人工智能领域热点趋势：智能体能力实用化与芯片竞争升级",
+    "source": "稀土掘金",
+    "summary": "GPT-5.5 的发布标志着 AI 模型从单一任务执行向复杂工作流程自主管理迈进，赋予模型更强的自主规划、工具调用和自检纠错能力。同时，Google 发布第八代 TPU，NVIDIA Rubin 架构芯片进入全面生产，AI 芯片竞争愈发激烈。",
+    "reason": "智能体能力的实用化和 AI 芯片竞争是当前 AI 发展的两大核心趋势，对行业格局将产生深远影响。",
+    "url": "https://juejin.cn/post/7632237134600077364",
+    "date": "2026年04月28日"
   },
   {
-    "id": "2026042705",
-    "category": "国内",
-    "title": "2026年4月AI产业：从政策驱动到场景落地",
-    "source": "什么值得买",
-    "summary": "2026年4月，中国 AI 产业正经历从政策顶层设计到产业深度落地的系统性变革，工信部密集发布\"人工智能+\"高价值场景与\"AI+质量\"路线图。",
-    "reason": "政策驱动的 AI 场景落地，标志着国内 AI 进入应用落地新阶段。",
-    "url": "https://post.smzdm.com/p/aggnqoo7/",
-    "date": "2026年04月27日"
+    "id": "20260428-5",
+    "category": "domestic",
+    "title": "中国发布《人工智能拟人化互动服务管理暂行办法》，7月15日正式施行",
+    "source": "国家互联网信息办公室",
+    "summary": "中国国家互联网信息办公室等五部门联合公布了《人工智能拟人化互动服务管理暂行办法》，旨在规范利用 AI 技术模拟人类人格特征、思维模式和沟通风格的互动服务，对 AI 玩具、虚拟伴侣等拟人化应用提出了明确的监管要求。",
+    "reason": "这是全球首个针对 AI 拟人化互动服务的专门监管规定，体现了中国在 AI 治理方面的前瞻性探索。",
+    "url": "https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm",
+    "date": "2026年04月28日"
   },
   {
-    "id": "2026042706",
-    "category": "国内",
-    "title": "2026年4月3日AI简报：巨头博弈与布局",
-    "source": "YouTube",
-    "summary": "ARK 布局 OpenAI 入列 ETF，减持英伟达等大厂，显示投资机构对 AI 行业布局的调整。",
-    "reason": "投资机构对 AI 行业布局的变化，反映市场对 AI 发展的预期调整。",
-    "url": "https://www.youtube.com/watch?v=9F7uffwzaJo",
-    "date": "2026年04月27日"
+    "id": "20260428-6",
+    "category": "domestic",
+    "title": "Meta 裁员 8000 人并大幅增加 AI 基础设施投入，预计 2026 年资本支出达 1690 亿美元",
+    "source": "新浪科技",
+    "summary": "Meta 在宣布裁员 8000 人的同时，明确表示将大幅增加对 AI 基础设施的投入，预计 2026 年资本支出将达到 1620 亿至 1690 亿美元。这表明 Meta 正将其核心战略重心全面转向 AI。",
+    "reason": "科技巨头的战略调整反映了 AI 时代的竞争态势，大规模投入 AI 基础设施已成为行业共识。",
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904o0pm.html",
+    "date": "2026年04月28日"
   }
 ]
