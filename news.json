@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260428-1",
-    "category": "foreign",
-    "title": "Adobe 将 Experience Cloud 重新品牌为 CX Enterprise，全面转向智能体 AI 平台",
-    "source": "MarketingProfs",
-    "summary": "Adobe 正在用 CX Enterprise 取代 Experience Cloud，这是一个建立在基于智能体的工作流之上的 AI 优先平台，统一了创意、营销和客户体验能力。",
-    "reason": "企业 AI 平台正成为营销技术栈的基础，Adobe 的这一战略转型反映了 Agentic AI 在企业级应用中的重要趋势。",
+    "id": "2026042901",
+    "category": "国外新闻",
+    "title": "Adobe 推出 CX Enterprise 平台，全面转向 AI 智能体",
+    "source": "Marketing Profs",
+    "summary": "Adobe 将 Experience Cloud 重新品牌为 CX Enterprise，这是一个以 AI 为优先的平台，围绕基于智能体的工作流程构建，统一了创意、营销和客户体验能力。企业 AI 平台正成为营销技术栈的基础。",
+    "reason": "显示企业级 AI 平台正在从传统软件向 AI 智能体架构转型，这是 AI 落地企业级应用的重要趋势。",
     "url": "https://martech.org/adobe-rebrands-experience-cloud-as-cx-enterprise-goes-all-in-on-ai-agents/",
-    "date": "2026年04月28日"
+    "date": "2026年04月29日"
   },
   {
-    "id": "20260428-2",
-    "category": "foreign",
-    "title": "OpenAI 推出工作空间智能体，可自主完成商业任务",
+    "id": "2026042902",
+    "category": "国外新闻",
+    "title": "OpenAI 推出工作区智能体，可自主完成商业任务",
     "source": "The Verge",
-    "summary": "OpenAI 在 ChatGPT Business、Enterprise 和教育版本中推出了工作空间智能体，使团队能够构建和共享可跨 Slack 和 Gmail 等工具执行任务的 AI 智能体。",
-    "reason": "这是企业级 AI 智能体实用化的重要里程碑，标志着 AI 从单一任务执行向复杂工作流程自主管理的转变。",
+    "summary": "OpenAI 在 ChatGPT for Business、Enterprise 和 教育用户中推出了工作区智能体，使团队能够构建和共享可以在 Slack 和 Gmail 等工具上执行任务的 AI 智能体。这标志着 AI 从对话工具向任务执行平台的演进。",
+    "reason": "展示了 AI 智能体在实际工作场景中的应用能力，从对话到行动的关键转变，对企业生产力提升具有重大意义。",
     "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
-    "date": "2026年04月28日"
+    "date": "2026年04月29日"
   },
   {
-    "id": "20260428-3",
-    "category": "foreign",
-    "title": "Google 发布 Gemma 4：字节对字节最强大的开放模型",
-    "source": "Google Blog",
-    "summary": "Google 推出了 Gemma 4，这是迄今为止最智能的开放模型系列，在性能和能力上实现了重大突破。",
-    "reason": "开源 AI 模型的持续进化对开发者社区至关重要，Gemma 4 的发布将进一步推动 AI 技术的民主化。",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
-    "date": "2026年04月28日"
+    "id": "2026042903",
+    "category": "国外新闻",
+    "title": "Google 计划向 Anthropic 投资高达 400 亿美元",
+    "source": "Coaio",
+    "summary": "Google 承诺向 Anthropic 投资高达 400 亿美元，包括现金和计算资源。这一举措紧随亚马逊的类似投资之后，旨在加强 AI 能力，特别是在网络安全领域使用 Anthropic 的 Mythos 模型。",
+    "reason": "显示科技巨头对 AI 安全和可扩展 AI 的持续巨额投资，反映了 AI 产业的资本竞争正在加剧。",
+    "url": "https://coaio.com/zh/news/2026/04/breaking-tech-news-on-april-25-2026-ai-surge-space-setbacks-and-2nsc/",
+    "date": "2026年04月29日"
   },
   {
-    "id": "20260428-4",
-    "category": "domestic",
-    "title": "2026年4月人工智能领域热点趋势：智能体能力实用化与芯片竞争升级",
-    "source": "稀土掘金",
-    "summary": "GPT-5.5 的发布标志着 AI 模型从单一任务执行向复杂工作流程自主管理迈进，赋予模型更强的自主规划、工具调用和自检纠错能力。同时，Google 发布第八代 TPU，NVIDIA Rubin 架构芯片进入全面生产，AI 芯片竞争愈发激烈。",
-    "reason": "智能体能力的实用化和 AI 芯片竞争是当前 AI 发展的两大核心趋势，对行业格局将产生深远影响。",
-    "url": "https://juejin.cn/post/7632237134600077364",
-    "date": "2026年04月28日"
+    "id": "2026042904",
+    "category": "国内新闻",
+    "title": "业界专家热议人工智能+：从技术竞速向场景深耕转型",
+    "source": "贝壳财经",
+    "summary": "2026 新京智库春季论坛举行，聚焦人工智能从技术竞速向场景深耕转型，围绕大模型落地、智能体发展、AI 安全与人才培养等议题展开深入交流。",
+    "reason": "反映了国内 AI 发展正从技术驱动转向场景驱动，强调实际应用和落地，这是 AI 产业成熟的重要标志。",
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904q6hg.html?from=tech",
+    "date": "2026年04月29日"
   },
   {
-    "id": "20260428-5",
-    "category": "domestic",
-    "title": "中国发布《人工智能拟人化互动服务管理暂行办法》，7月15日正式施行",
-    "source": "国家互联网信息办公室",
-    "summary": "中国国家互联网信息办公室等五部门联合公布了《人工智能拟人化互动服务管理暂行办法》，旨在规范利用 AI 技术模拟人类人格特征、思维模式和沟通风格的互动服务，对 AI 玩具、虚拟伴侣等拟人化应用提出了明确的监管要求。",
-    "reason": "这是全球首个针对 AI 拟人化互动服务的专门监管规定，体现了中国在 AI 治理方面的前瞻性探索。",
-    "url": "https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm",
-    "date": "2026年04月28日"
+    "id": "2026042905",
+    "category": "国内新闻",
+    "title": "湖南 AI 中心落户湘江新区，打造 AI 产业综合体",
+    "source": "长沙晚报",
+    "summary": "湖南省级人工智能产业应用创新赋能平台——湖南 AI 中心在湘江新区正式发布。该中心聚焦人工智能应用场景创新，集展示体验、场景研发、供需对接和生态培育四大核心功能于一体。",
+    "reason": "展示了地方政府在 AI 基础设施建设方面的积极布局，有助于形成 AI 产业生态集聚效应。",
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904q6hg.html?from=tech",
+    "date": "2026年04月29日"
   },
   {
-    "id": "20260428-6",
-    "category": "domestic",
-    "title": "Meta 裁员 8000 人并大幅增加 AI 基础设施投入，预计 2026 年资本支出达 1690 亿美元",
-    "source": "新浪科技",
-    "summary": "Meta 在宣布裁员 8000 人的同时，明确表示将大幅增加对 AI 基础设施的投入，预计 2026 年资本支出将达到 1620 亿至 1690 亿美元。这表明 Meta 正将其核心战略重心全面转向 AI。",
-    "reason": "科技巨头的战略调整反映了 AI 时代的竞争态势，大规模投入 AI 基础设施已成为行业共识。",
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904o0pm.html",
-    "date": "2026年04月28日"
+    "id": "2026042906",
+    "category": "国内新闻",
+    "title": "科学智能物质创制中心在合肥成立，打造高能级 AI 创新高地",
+    "source": "中安在线",
+    "summary": "AI 物质创制生态大会在合肥举办，科学智能物质创制中心和芜湖分中心成立仪式举行，揭牌 AI 物质创制英才班并同步启动 AI 造物大赛，发布《智能科研平台标准白皮书》。",
+    "reason": "体现了 AI 在科学研究领域的深度应用，'AI + 科研'模式正在推动科研范式变革，具有重要的战略意义。",
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904q6hg.html?from=tech",
+    "date": "2026年04月29日"
   }
 ]
