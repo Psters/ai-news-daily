@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026042901",
-    "category": "国外新闻",
-    "title": "Adobe 推出 CX Enterprise 平台，全面转向 AI 智能体",
+    "id": "2026043001",
+    "category": "国外",
+    "title": "OpenAI 正式发布 GPT-5.5：专业工作流与长链条任务升级",
     "source": "Marketing Profs",
-    "summary": "Adobe 将 Experience Cloud 重新品牌为 CX Enterprise，这是一个以 AI 为优先的平台，围绕基于智能体的工作流程构建，统一了创意、营销和客户体验能力。企业 AI 平台正成为营销技术栈的基础。",
-    "reason": "显示企业级 AI 平台正在从传统软件向 AI 智能体架构转型，这是 AI 落地企业级应用的重要趋势。",
-    "url": "https://martech.org/adobe-rebrands-experience-cloud-as-cx-enterprise-goes-all-in-on-ai-agents/",
-    "date": "2026年04月29日"
+    "summary": "OpenAI 发布 GPT-5.5，这是自 2025 年 8 月 GPT-5 系列发布以来最重大的一次跨越式升级。GPT-5.5 的重点是对专业工作流、长链条任务、工具协同、代码与研究生产力进行明显升级，而不是单纯把模型参数、回答风格或聊天体验做小幅迭代。在 Terminal-Bench 2.0 基准测试中创下 82.7% 的准确率，在 SWE-Bench Pro 中取得 58.6% 的成绩。GPT-5.5 Thinking Heavy 模式 2 分钟出的答案比 GPT-5.4 Thinking Heavy 花 10 分钟出的更好。API 价格大幅上调为每百万 Token $5/$30。",
+    "reason": "GPT-5.5 的发布标志着 AI 从工具向能够端到端处理复杂工作流的 Agent 时代全面到来，价格策略也体现了 OpenAI 对其智能稀缺性的信心。",
+    "url": "https://www.marketingprofs.com/opinions/2026/54587/ai-update-april-24-2026-ai-news-and-views-from-the-past-week",
+    "date": "2026年04月30日"
   },
   {
-    "id": "2026042902",
-    "category": "国外新闻",
-    "title": "OpenAI 推出工作区智能体，可自主完成商业任务",
-    "source": "The Verge",
-    "summary": "OpenAI 在 ChatGPT for Business、Enterprise 和 教育用户中推出了工作区智能体，使团队能够构建和共享可以在 Slack 和 Gmail 等工具上执行任务的 AI 智能体。这标志着 AI 从对话工具向任务执行平台的演进。",
-    "reason": "展示了 AI 智能体在实际工作场景中的应用能力，从对话到行动的关键转变，对企业生产力提升具有重大意义。",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
-    "date": "2026年04月29日"
+    "id": "2026043002",
+    "category": "国内",
+    "title": "DeepSeek-V4 发布：百万上下文、国产算力适配、开源低价",
+    "source": "招商证券",
+    "summary": "2026 年 4 月 24 日，DeepSeek-V4 Preview 正式上线并开源。分为 Pro 和 Flash 两条线：Pro 版本 1.6T 总参数、49B 激活参数；Flash 版本 284B 总参数、13B 激活参数。两者均支持 100 万 token 上下文，采用 Hybrid Attention Architecture，在 1M token 场景下相比 V3.2 仅需 27% 的推理 FLOPs 和 10% 的 KV Cache。最关键的是，DeepSeek-V4 实现了在英伟达 GPU 和华为昇腾 NPU 两个平台上的细粒度 EP 方案验证，标志着国产算力能够支撑万亿参数规模模型。Flash 版本每百万 token 缓存命中输入 0.2 元、缓存未命中输入 1 元、输出 2 元；Pro 版本缓存命中输入 1 元、缓存未命中输入 12 元、输出 24 元。",
+    "reason": "DeepSeek-V4 不仅是软件算法的胜利，更是中美硬科技博弈中一次极具战略意义的突围。开源低价策略与国产算力适配，正在推动形成完整的国产 AI 产业链闭环。",
+    "url": "https://www.163.com/dy/article/KRKSD1RB05568W0A.html",
+    "date": "2026年04月30日"
   },
   {
-    "id": "2026042903",
-    "category": "国外新闻",
-    "title": "Google 计划向 Anthropic 投资高达 400 亿美元",
-    "source": "Coaio",
-    "summary": "Google 承诺向 Anthropic 投资高达 400 亿美元，包括现金和计算资源。这一举措紧随亚马逊的类似投资之后，旨在加强 AI 能力，特别是在网络安全领域使用 Anthropic 的 Mythos 模型。",
-    "reason": "显示科技巨头对 AI 安全和可扩展 AI 的持续巨额投资，反映了 AI 产业的资本竞争正在加剧。",
-    "url": "https://coaio.com/zh/news/2026/04/breaking-tech-news-on-april-25-2026-ai-surge-space-setbacks-and-2nsc/",
-    "date": "2026年04月29日"
+    "id": "2026043003",
+    "category": "国内",
+    "title": "DeepSeek-V4 与 GPT-5.5 同日发布：两种 AI 生态路线的对撞",
+    "source": "新浪财经",
+    "summary": "2026 年 4 月 24 日凌晨，OpenAI 发布 GPT-5.5，API 价格上调至每百万 Token $5/$30。几小时后，DeepSeek 发布 V4 系列，模型权重开源，Pro 版本输入成本约为 GPT-5.5 标准版的七分之一。更重要的是，DeepSeek 官方技术报告中将华为昇腾芯片与英伟达 GPU 并列写入硬件验证清单。这不是产品迭代的巧合，而是路线分叉的明确信号：OpenAI 选择闭源高价、垂直整合的大教堂模式；DeepSeek 选择开源低价、网状协同的集市模式。",
+    "reason": "两种模式背后的深层产业组织结构差异：美国倾向于垂直整合，中国则依靠庞大的制造业基础形成网状协同。未来 AI 竞争不再是单个技术点的输赢，而是两种系统逻辑的持久博弈。",
+    "url": "https://finance.sina.com.cn/roll/2026-04-27/doc-inhvxtqy9063539.shtml",
+    "date": "2026年04月30日"
   },
   {
-    "id": "2026042904",
-    "category": "国内新闻",
-    "title": "业界专家热议人工智能+：从技术竞速向场景深耕转型",
-    "source": "贝壳财经",
-    "summary": "2026 新京智库春季论坛举行，聚焦人工智能从技术竞速向场景深耕转型，围绕大模型落地、智能体发展、AI 安全与人才培养等议题展开深入交流。",
-    "reason": "反映了国内 AI 发展正从技术驱动转向场景驱动，强调实际应用和落地，这是 AI 产业成熟的重要标志。",
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904q6hg.html?from=tech",
-    "date": "2026年04月29日"
+    "id": "2026043004",
+    "category": "国外",
+    "title": "Agentic AI 时代全面到来：AI 从工具走向自主代理",
+    "source": "YouTube - Daily AI News",
+    "summary": "2026 年 4 月 26 日的 AI 新闻焦点是 Agentic AI（代理式 AI）的崛起。GPT-5.5 和 DeepSeek-V4 的发布都标志着 AI 正从问答助手向能够端到端处理复杂工作流的自主代理转变。GPT-5.5 在 Terminal-Bench 2.0 中创下的 82.7% 准确率，以及 DeepSeek-V4-Pro 在 SWE Verified 上达到的 80.6 分，都证明 AI 已经能够独立完成从需求拆解、代码编写、测试验证到提交合并的完整软件工程任务。",
+    "reason": "AI 从工具向自主代理的转变，正在深刻改变企业组织架构和工作方式。工程师从基础实现转向架构判断和需求治理，AI 承担重复性调试和基础实现工作。",
+    "url": "https://www.youtube.com/watch?v=VJNAYVhs84w",
+    "date": "2026年04月30日"
   },
   {
-    "id": "2026042905",
-    "category": "国内新闻",
-    "title": "湖南 AI 中心落户湘江新区，打造 AI 产业综合体",
-    "source": "长沙晚报",
-    "summary": "湖南省级人工智能产业应用创新赋能平台——湖南 AI 中心在湘江新区正式发布。该中心聚焦人工智能应用场景创新，集展示体验、场景研发、供需对接和生态培育四大核心功能于一体。",
-    "reason": "展示了地方政府在 AI 基础设施建设方面的积极布局，有助于形成 AI 产业生态集聚效应。",
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904q6hg.html?from=tech",
-    "date": "2026年04月29日"
+    "id": "2026043005",
+    "category": "国内",
+    "title": "国产大模型全面超车：斯坦福报告显示中美差距缩至 2.7%",
+    "source": "CSDN",
+    "summary": "2026 年 4 月下旬，AI 行业迎来关键加速拐点。斯坦福 AI 指数报告显示中美模型差距缩至 2.7%，DeepSeek-V4 与 Kimi K2.6 引领全球技术突破。国产大模型在长上下文、Agent 能力、数学推理、代码生成等多个维度实现跨越式进步。混元 Hy3 preview 登顶全球大模型调用量榜单，字节豆包在多模态和语音识别上持续发力。",
+    "reason": "国产大模型正在从点突破向线突破过渡，DeepSeek-V4、Kimi K2.6、混元 Hy3 等模型的突破，标志着中国在 AI 核心战场已经具备与美国直接竞争的能力。",
+    "url": "https://blog.csdn.net/2601_95533136/article/details/160522015",
+    "date": "2026年04月30日"
   },
   {
-    "id": "2026042906",
-    "category": "国内新闻",
-    "title": "科学智能物质创制中心在合肥成立，打造高能级 AI 创新高地",
-    "source": "中安在线",
-    "summary": "AI 物质创制生态大会在合肥举办，科学智能物质创制中心和芜湖分中心成立仪式举行，揭牌 AI 物质创制英才班并同步启动 AI 造物大赛，发布《智能科研平台标准白皮书》。",
-    "reason": "体现了 AI 在科学研究领域的深度应用，'AI + 科研'模式正在推动科研范式变革，具有重要的战略意义。",
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904q6hg.html?from=tech",
-    "date": "2026年04月29日"
+    "id": "2026043006",
+    "category": "国内",
+    "title": "腾讯混元 3.0 即将发布：聚焦推理与智能体能力跃迁",
+    "source": "什么值得买",
+    "summary": "腾讯混元大模型 3.0（Hunyuan 3.0）计划于 2026 年 4 月正式对外发布，目前已进入内部业务测试阶段。该版本由腾讯首席 AI 科学家姚顺雨主导研发，是其 2025 年 12 月加入腾讯后推出的首个重大版本。混元 3.0 将聚焦推理能力与智能体能力的跃迁，预计在长上下文理解、多模态交互、工具调用等场景实现突破。",
+    "reason": "腾讯作为中国科技巨头，混元 3.0 的发布将进一步推动国产大模型在产业应用中的落地，特别是在微信、QQ 等海量用户场景中的 AI 原生应用创新。",
+    "url": "https://post.smzdm.com/p/a03r4err",
+    "date": "2026年04月30日"
   }
 ]
