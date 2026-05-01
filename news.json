@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026043001",
+    "id": "20260501-1",
     "category": "国外",
-    "title": "OpenAI 正式发布 GPT-5.5：专业工作流与长链条任务升级",
-    "source": "Marketing Profs",
-    "summary": "OpenAI 发布 GPT-5.5，这是自 2025 年 8 月 GPT-5 系列发布以来最重大的一次跨越式升级。GPT-5.5 的重点是对专业工作流、长链条任务、工具协同、代码与研究生产力进行明显升级，而不是单纯把模型参数、回答风格或聊天体验做小幅迭代。在 Terminal-Bench 2.0 基准测试中创下 82.7% 的准确率，在 SWE-Bench Pro 中取得 58.6% 的成绩。GPT-5.5 Thinking Heavy 模式 2 分钟出的答案比 GPT-5.4 Thinking Heavy 花 10 分钟出的更好。API 价格大幅上调为每百万 Token $5/$30。",
-    "reason": "GPT-5.5 的发布标志着 AI 从工具向能够端到端处理复杂工作流的 Agent 时代全面到来，价格策略也体现了 OpenAI 对其智能稀缺性的信心。",
-    "url": "https://www.marketingprofs.com/opinions/2026/54587/ai-update-april-24-2026-ai-news-and-views-from-the-past-week",
-    "date": "2026年04月30日"
+    "title": "2026年AI技术趋势预测：企业级应用进入务实阶段",
+    "source": "IBM Think",
+    "summary": "IBM采访多位AI行业专家，总结2026年AI发展趋势。最显著的趋势是企业从实验和兴奋转向注重实际ROI的私有化、安全化部署。Agentic AI和非人类身份将在组织中显著超过人类用户数量。AI将 tackle 复杂的企业工作流程，企业从实验转向生产级系统。",
+    "reason": "揭示了2026年AI发展的核心趋势：从实验转向落地，企业级应用将成为主战场。",
+    "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026",
+    "date": "2026年05月01日"
   },
   {
-    "id": "2026043002",
-    "category": "国内",
-    "title": "DeepSeek-V4 发布：百万上下文、国产算力适配、开源低价",
-    "source": "招商证券",
-    "summary": "2026 年 4 月 24 日，DeepSeek-V4 Preview 正式上线并开源。分为 Pro 和 Flash 两条线：Pro 版本 1.6T 总参数、49B 激活参数；Flash 版本 284B 总参数、13B 激活参数。两者均支持 100 万 token 上下文，采用 Hybrid Attention Architecture，在 1M token 场景下相比 V3.2 仅需 27% 的推理 FLOPs 和 10% 的 KV Cache。最关键的是，DeepSeek-V4 实现了在英伟达 GPU 和华为昇腾 NPU 两个平台上的细粒度 EP 方案验证，标志着国产算力能够支撑万亿参数规模模型。Flash 版本每百万 token 缓存命中输入 0.2 元、缓存未命中输入 1 元、输出 2 元；Pro 版本缓存命中输入 1 元、缓存未命中输入 12 元、输出 24 元。",
-    "reason": "DeepSeek-V4 不仅是软件算法的胜利，更是中美硬科技博弈中一次极具战略意义的突围。开源低价策略与国产算力适配，正在推动形成完整的国产 AI 产业链闭环。",
-    "url": "https://www.163.com/dy/article/KRKSD1RB05568W0A.html",
-    "date": "2026年04月30日"
-  },
-  {
-    "id": "2026043003",
-    "category": "国内",
-    "title": "DeepSeek-V4 与 GPT-5.5 同日发布：两种 AI 生态路线的对撞",
-    "source": "新浪财经",
-    "summary": "2026 年 4 月 24 日凌晨，OpenAI 发布 GPT-5.5，API 价格上调至每百万 Token $5/$30。几小时后，DeepSeek 发布 V4 系列，模型权重开源，Pro 版本输入成本约为 GPT-5.5 标准版的七分之一。更重要的是，DeepSeek 官方技术报告中将华为昇腾芯片与英伟达 GPU 并列写入硬件验证清单。这不是产品迭代的巧合，而是路线分叉的明确信号：OpenAI 选择闭源高价、垂直整合的大教堂模式；DeepSeek 选择开源低价、网状协同的集市模式。",
-    "reason": "两种模式背后的深层产业组织结构差异：美国倾向于垂直整合，中国则依靠庞大的制造业基础形成网状协同。未来 AI 竞争不再是单个技术点的输赢，而是两种系统逻辑的持久博弈。",
-    "url": "https://finance.sina.com.cn/roll/2026-04-27/doc-inhvxtqy9063539.shtml",
-    "date": "2026年04月30日"
-  },
-  {
-    "id": "2026043004",
+    "id": "20260501-2",
     "category": "国外",
-    "title": "Agentic AI 时代全面到来：AI 从工具走向自主代理",
-    "source": "YouTube - Daily AI News",
-    "summary": "2026 年 4 月 26 日的 AI 新闻焦点是 Agentic AI（代理式 AI）的崛起。GPT-5.5 和 DeepSeek-V4 的发布都标志着 AI 正从问答助手向能够端到端处理复杂工作流的自主代理转变。GPT-5.5 在 Terminal-Bench 2.0 中创下的 82.7% 准确率，以及 DeepSeek-V4-Pro 在 SWE Verified 上达到的 80.6 分，都证明 AI 已经能够独立完成从需求拆解、代码编写、测试验证到提交合并的完整软件工程任务。",
-    "reason": "AI 从工具向自主代理的转变，正在深刻改变企业组织架构和工作方式。工程师从基础实现转向架构判断和需求治理，AI 承担重复性调试和基础实现工作。",
-    "url": "https://www.youtube.com/watch?v=VJNAYVhs84w",
-    "date": "2026年04月30日"
+    "title": "高盛CIO预测2026年AI发展：个人智能体崛起",
+    "source": "Fox Business",
+    "summary": "高盛首席信息官Marco Argenti预测，2026年AI将进入新阶段，重塑商业运营、全球竞争和就业格局。他强调模型推理能力和更大上下文摄入的研究与优化。AI将成为规模游戏，大型伙伴关系将产生网络效应。",
+    "reason": "华尔街顶级金融机构对AI发展方向的权威预测，值得行业关注。",
+    "url": "https://www.foxbusiness.com/fox-news-tech/intensifying-global-competition-personal-agents-what-expect-from-artificial-intelligence-2026",
+    "date": "2026年05月01日"
   },
   {
-    "id": "2026043005",
-    "category": "国内",
-    "title": "国产大模型全面超车：斯坦福报告显示中美差距缩至 2.7%",
-    "source": "CSDN",
-    "summary": "2026 年 4 月下旬，AI 行业迎来关键加速拐点。斯坦福 AI 指数报告显示中美模型差距缩至 2.7%，DeepSeek-V4 与 Kimi K2.6 引领全球技术突破。国产大模型在长上下文、Agent 能力、数学推理、代码生成等多个维度实现跨越式进步。混元 Hy3 preview 登顶全球大模型调用量榜单，字节豆包在多模态和语音识别上持续发力。",
-    "reason": "国产大模型正在从点突破向线突破过渡，DeepSeek-V4、Kimi K2.6、混元 Hy3 等模型的突破，标志着中国在 AI 核心战场已经具备与美国直接竞争的能力。",
-    "url": "https://blog.csdn.net/2601_95533136/article/details/160522015",
-    "date": "2026年04月30日"
+    "id": "20260501-3",
+    "category": "国外",
+    "title": "微软2026年AI七大趋势：AI超级工厂时代到来",
+    "source": "Microsoft Source",
+    "summary": "微软研究团队发布2026年AI趋势预测，指出明年将崛起灵活的全球AI系统——新一代互联AI'超级工厂'，将降低成本、提高效率。文章详细介绍了7个关键趋势，包括AI超级工厂、多模态模型、AI代理等。",
+    "reason": "微软作为AI领域领军企业，其年度趋势报告是行业风向标。",
+    "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
+    "date": "2026年05月01日"
   },
   {
-    "id": "2026043006",
+    "id": "20260501-4",
     "category": "国内",
-    "title": "腾讯混元 3.0 即将发布：聚焦推理与智能体能力跃迁",
-    "source": "什么值得买",
-    "summary": "腾讯混元大模型 3.0（Hunyuan 3.0）计划于 2026 年 4 月正式对外发布，目前已进入内部业务测试阶段。该版本由腾讯首席 AI 科学家姚顺雨主导研发，是其 2025 年 12 月加入腾讯后推出的首个重大版本。混元 3.0 将聚焦推理能力与智能体能力的跃迁，预计在长上下文理解、多模态交互、工具调用等场景实现突破。",
-    "reason": "腾讯作为中国科技巨头，混元 3.0 的发布将进一步推动国产大模型在产业应用中的落地，特别是在微信、QQ 等海量用户场景中的 AI 原生应用创新。",
-    "url": "https://post.smzdm.com/p/a03r4err",
-    "date": "2026年04月30日"
+    "title": "当AI智能体开始上岗：2026年春天三个中国人的兴奋与恐惧",
+    "source": "BBC中文",
+    "summary": "深度报道OpenClaw（绰号'龙虾'）在中国引发的AI智能体浪潮。讲述了三个典型人物：极客王先生用AI做TikTok副业，创业者庞国强用AI重构营销团队，程序员彭先生见证AI替代初级程序员。文章揭示了AI对就业、创业和职业发展的深刻影响。",
+    "reason": "BBC对中国AI应用的深度观察，通过真实案例展现AI智能体在中国的普及与冲击。",
+    "url": "https://www.bbc.com/zhongwen/articles/crm8mmg0y3eo/simp",
+    "date": "2026年05月01日"
+  },
+  {
+    "id": "20260501-5",
+    "category": "国内",
+    "title": "科大讯飞：今年10月将发布对标业界最先进大模型",
+    "source": "IT之家",
+    "summary": "科大讯飞总裁吴晓如在业绩说明会上表示，公司将于今年10月在昇腾950平台上发布中国首个对标业界最先进主流模型的旗舰大模型。此外，EA CEO透露公司85%的游戏质检工作已由AI完成；国家数据局数据显示2025年我国AI训练和推理数据总量达199.48EB，同比增长42.86%。",
+    "reason": "国产大模型新进展，以及AI在游戏行业的应用案例，数据亮眼。",
+    "url": "https://www.ithome.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
+    "date": "2026年05月01日"
+  },
+  {
+    "id": "20260501-6",
+    "category": "国外",
+    "title": "OpenAI发布GPT-5.5：新一代安全与能力升级",
+    "source": "OpenAI官方",
+    "summary": "OpenAI发布GPT-5.5系统卡片，介绍了新模型在安全性和能力方面的改进。同期发布的还包括高级账户安全产品、社区安全承诺、公司原则等。GPT-5.5在推理能力、多模态处理和安全性方面都有显著提升。",
+    "reason": "OpenAI最新大模型发布，直接影响全球AI应用发展走向。",
+    "url": "https://openai.com/news/",
+    "date": "2026年05月01日"
   }
 ]
