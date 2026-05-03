@@ -1,62 +1,62 @@
 [
   {
-    "id": "1",
-    "category": "国外",
-    "title": "AI行业从竞逐高性能模型转向价值创造与工业化落地",
-    "source": "Amiko Consulting",
-    "summary": "AI行业已超越单纯追求高性能模型的阶段，进入资金、算力、业务实施与工业基础设施整合的关键期。领先企业正从炫技演示转向深度嵌入工作流的企业级AI应用。制造业不再是'是否用AI'的问题，而是'在哪用、用什么模型、如何控制'的竞争。",
-    "reason": "揭示了2026年AI产业的核心转变——从技术秀转向价值落地，这对企业AI战略制定具有重要指导意义。",
-    "url": "https://amiko.consulting/en/summary-of-major-ai-news-for-the-week-of-march-29-april-4-2026/",
-    "date": "2026年05月02日"
+    "id": "2026050301",
+    "category": "国际",
+    "title": "NVIDIA 整合 OpenAI GPT-5.5 推动内部智能编程",
+    "source": "AI Magazine",
+    "summary": "全球计算巨头 NVIDIA 正在整合 OpenAI 最新的 GPT-5.5 模型，用于驱动其内部智能编程应用 Codex。这标志着 AI 编程助手在企业级应用中的深度整合。",
+    "reason": "NVIDIA 与 OpenAI 的深度合作展示了 AI 在企业内部的规模化应用趋势",
+    "url": "https://aimagazine.com/news/top-five-stories-in-ai-may-2-2026",
+    "date": "2026年05月03日"
   },
   {
-    "id": "2",
-    "category": "国外",
-    "title": "Meta与Nebius达成27亿美元AI基础设施协议",
-    "source": "Data Centre Magazine",
-    "summary": "Meta与AI基础设施公司Nebius达成价值27亿美元的重大协议，将提供AI算力基础设施支持。这标志着科技巨头在AI硬件层级的持续加码。",
-    "reason": "展示了AI基础设施军备竞赛的最新进展，27亿美元的投资规模反映了市场对AI算力的持续需求。",
-    "url": "https://datacentremagazine.com/news/meta-nebius-nvidia-27-billion-deal-for-supplying-ai-infrastructure",
-    "date": "2026年05月02日"
+    "id": "2026050302",
+    "category": "国际",
+    "title": "Google Cloud 设立基金推动合作伙伴 AI 智能体采用",
+    "source": "AI Magazine",
+    "summary": "Google Cloud 宣布设立专项基金，支持合作伙伴采用 Agentic AI（智能体 AI）。公司认为合作伙伴已成为 AI 技术分发的重要渠道。",
+    "reason": "云计算巨头通过资金推动 AI 智能体生态建设，反映 AI 商业化加速",
+    "url": "https://aimagazine.com/news/top-five-stories-in-ai-may-2-2026",
+    "date": "2026年05月03日"
   },
   {
-    "id": "3",
-    "category": "国外",
-    "title": "Google发布3月AI更新：搜索直播全球扩展与Pixel新功能",
-    "source": "Google Blog",
-    "summary": "Google宣布将Search Live功能扩展至所有AI模式可用地区，同时推出帮助用户切换到Gemini的工具。3月Pixel更新带来了新的AI设备功能。",
-    "reason": "Google AI产品的全球扩张持续推进，Search Live的全球化标志着AI搜索体验的成熟。",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-    "date": "2026年05月02日"
+    "id": "2026050303",
+    "category": "国际",
+    "title": "Siemens 投资 10 亿欧元发展工业 AI",
+    "source": "AI Magazine",
+    "summary": "西门子宣布投资 10 亿欧元（约 17.6 亿美元）用于工业 AI 开发，其中 Eigen 项目是重要组成部分，旨在将工业 AI 从辅助执行转向自主执行。",
+    "reason": "传统工业巨头的大规模投资，显示 AI 在制造业的深度应用趋势",
+    "url": "https://aimagazine.com/news/top-five-stories-in-ai-may-2-2026",
+    "date": "2026年05月03日"
   },
   {
-    "id": "4",
+    "id": "2026050304",
     "category": "国内",
-    "title": "钉钉发布AI录音硬件DingTalk A1Pro：售价1299元",
-    "source": "AIBase",
-    "summary": "钉钉推出AI录音硬件DingTalk A1Pro，售价1299元，支持手机反向充电功能。这标志着钉钉在AI+办公硬件赛道的布局加速。",
-    "reason": "硬件产品化趋势明显，AI办公场景从软件向软硬结合演进。",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026年05月02日"
+    "title": "AI 带动台湾首季 GDP 成长 13.69% 创近 39 年新高",
+    "source": "YouTube 新闻摘要",
+    "summary": "2026 年第一季度，台湾 GDP 在 AI 带动下实现 13.69% 的高增长，创近 39 年来新高。出口和投资齐扬，无人机出口值达 1.15 亿美元。",
+    "reason": "AI 对区域经济的实质性拉动作用初现，是产业价值兑现的重要信号",
+    "url": "https://www.youtube.com/watch?v=ZeXqKo2bLEs",
+    "date": "2026年05月03日"
   },
   {
-    "id": "5",
+    "id": "2026050305",
     "category": "国内",
-    "title": "小红书官宣组织升级：成立AI一级部门Dots与海外部Rednote",
-    "source": "AIBase",
-    "summary": "小红书宣布组织架构升级，柯南出任总裁，新成立AI一级部门Dots以及海外部门Rednote。此举标志着小红书在AI化和国际化上的战略加码。",
-    "reason": "头部内容平台的AI化组织升级，反映了AI已成为核心战略而非技术支持部门。",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026年05月02日"
+    "title": "量子位 MEET2026 大会：智能体互联网时代来临",
+    "source": "量子位",
+    "summary": "在 MEET2026 智能未来大会上，清华大学张亚勤院士提出新一轮 AI 是信息智能、物理智能和生物智能的融合。主战场将走向'智能体互联网'时代，智能体会取代今天的大部分 SaaS 和 App。",
+    "reason": "顶级学术会议对 AI 发展方向的判断，具有前瞻性指导意义",
+    "url": "https://www.qbitai.com/2025/12/360136.html",
+    "date": "2026年05月03日"
   },
   {
-    "id": "6",
+    "id": "2026050306",
     "category": "国内",
-    "title": "文心一言5.1预览版上线LMSYS竞技场，位列全球第13",
-    "source": "AIBase",
-    "summary": "百度文心一言5.1预览版正式登陆LMSYS竞技场排行榜，目前位列全球第13位。这标志着国产大模型在技术实力上的持续提升。",
-    "reason": "国产大模型在权威评测中的排名提升，反映了中国AI模型技术的进步。",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026年05月02日"
+    "title": "2026 被定义为 AI 价值兑现期，深圳 3 万平米展会聚焦终端 AI",
+    "source": "新浪机器学习热点",
+    "summary": "深圳市人工智能行业协会执行会长郎丽艳表示：2024-2025 年是 AI 技术膨胀期，2026 年将迎来价值兑现期。第七届深圳国际人工智能展览会将在 3 万平米展区展示 400 余家展商的产品。",
+    "reason": "行业组织对 AI 发展阶段的界定，有助于理解产业成熟度",
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904x9e8.html",
+    "date": "2026年05月03日"
   }
 ]
