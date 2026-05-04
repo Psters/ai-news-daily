@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026050301",
-    "category": "国际",
-    "title": "NVIDIA 整合 OpenAI GPT-5.5 推动内部智能编程",
+    "id": "1",
+    "category": "国外",
+    "title": "AI in 2026: What changes you may actually notice",
+    "source": "KWCH",
+    "summary": "AI安全专家Lucas Hansen指出，AI工具正变得更加可靠，能够更长时间专注于任务，并正深度嵌入到人们日常使用的产品中。另一个重要趋势是AI正在重塑入门级招聘市场，对于20-25岁的年轻人来说，找工作变得更加困难。",
+    "reason": "展示了AI从炒作转向实际应用的趋势，以及对就业市场的影响，值得业界关注。",
+    "url": "https://www.kwch.com/2026/01/09/ai-2026-what-changes-you-may-actually-notice/",
+    "date": "2026年05月04日"
+  },
+  {
+    "id": "2",
+    "category": "国外",
+    "title": "AI moving from hype to practical applications in 2026",
+    "source": "Daily 8 News",
+    "summary": "经过数年的快速发展和大量投资，人工智能正在进入专注于实际实施的新阶段。MIT Technology Review的年度技术趋势报告将应用AI确定为2026年的关键主题。对话正在从AI能做什么转向AI应该为特定业务问题做什么。",
+    "reason": "标志着AI从实验阶段向生产级应用的重大转变，对企业数字化转型具有重要参考价值。",
+    "url": "https://daily8news.com/article/ai-moving-from-hype-to-practical-applications-2026-may-2026/",
+    "date": "2026年05月04日"
+  },
+  {
+    "id": "3",
+    "category": "国外",
+    "title": "The trends that will shape AI and tech in 2026",
+    "source": "IBM Think",
+    "summary": "IBM发布的2026年AI和科技趋势报告指出，明年将看到从AI实验和兴奋转向在企业内部进行私有和安全部署，并具有真正的ROI期望。多位行业专家预测，代理式AI和其他非人类身份将在组织中显著超过人类用户的数量。",
+    "reason": "来自IBM的权威预测，揭示了企业级AI部署的关键趋势，适合CIO和CTO阅读。",
+    "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026",
+    "date": "2026年05月04日"
+  },
+  {
+    "id": "4",
+    "category": "国外",
+    "title": "What's next in AI: 7 trends to watch in 2026",
+    "source": "Microsoft Source",
+    "summary": "微软研究部门发布了2026年AI发展的7大趋势，包括灵活的全球AI系统"超级工厂"的兴起，这将降低成本并提高效率。文章还探讨了AI在Windows、企业软件和教育领域的深度整合。",
+    "reason": "微软作为AI领域的主要参与者，其趋势预测对了解AI发展方向具有重要参考意义。",
+    "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
+    "date": "2026年05月04日"
+  },
+  {
+    "id": "5",
+    "category": "国外",
+    "title": "This Week's Top Five Stories in AI",
     "source": "AI Magazine",
-    "summary": "全球计算巨头 NVIDIA 正在整合 OpenAI 最新的 GPT-5.5 模型，用于驱动其内部智能编程应用 Codex。这标志着 AI 编程助手在企业级应用中的深度整合。",
-    "reason": "NVIDIA 与 OpenAI 的深度合作展示了 AI 在企业内部的规模化应用趋势",
+    "summary": "本周AI行业头条：英伟达将OpenAI的GPT-5.5集成到其内部代理编码应用Codex中；谷歌云推出合作伙伴代理式AI采用基金；西门子投入10亿欧元用于工业AI开发，Eigen是这一投资的一部分；Meta收购机器人初创企业以加强人形AI野心。",
+    "reason": "涵盖了AI硬件、软件、投资等多个领域的最新动态，全面了解行业风向。",
     "url": "https://aimagazine.com/news/top-five-stories-in-ai-may-2-2026",
-    "date": "2026年05月03日"
+    "date": "2026年05月04日"
   },
   {
-    "id": "2026050302",
-    "category": "国际",
-    "title": "Google Cloud 设立基金推动合作伙伴 AI 智能体采用",
-    "source": "AI Magazine",
-    "summary": "Google Cloud 宣布设立专项基金，支持合作伙伴采用 Agentic AI（智能体 AI）。公司认为合作伙伴已成为 AI 技术分发的重要渠道。",
-    "reason": "云计算巨头通过资金推动 AI 智能体生态建设，反映 AI 商业化加速",
-    "url": "https://aimagazine.com/news/top-five-stories-in-ai-may-2-2026",
-    "date": "2026年05月03日"
-  },
-  {
-    "id": "2026050303",
-    "category": "国际",
-    "title": "Siemens 投资 10 亿欧元发展工业 AI",
-    "source": "AI Magazine",
-    "summary": "西门子宣布投资 10 亿欧元（约 17.6 亿美元）用于工业 AI 开发，其中 Eigen 项目是重要组成部分，旨在将工业 AI 从辅助执行转向自主执行。",
-    "reason": "传统工业巨头的大规模投资，显示 AI 在制造业的深度应用趋势",
-    "url": "https://aimagazine.com/news/top-five-stories-in-ai-may-2-2026",
-    "date": "2026年05月03日"
-  },
-  {
-    "id": "2026050304",
+    "id": "6",
     "category": "国内",
-    "title": "AI 带动台湾首季 GDP 成长 13.69% 创近 39 年新高",
-    "source": "YouTube 新闻摘要",
-    "summary": "2026 年第一季度，台湾 GDP 在 AI 带动下实现 13.69% 的高增长，创近 39 年来新高。出口和投资齐扬，无人机出口值达 1.15 亿美元。",
-    "reason": "AI 对区域经济的实质性拉动作用初现，是产业价值兑现的重要信号",
-    "url": "https://www.youtube.com/watch?v=ZeXqKo2bLEs",
-    "date": "2026年05月03日"
-  },
-  {
-    "id": "2026050305",
-    "category": "国内",
-    "title": "量子位 MEET2026 大会：智能体互联网时代来临",
-    "source": "量子位",
-    "summary": "在 MEET2026 智能未来大会上，清华大学张亚勤院士提出新一轮 AI 是信息智能、物理智能和生物智能的融合。主战场将走向'智能体互联网'时代，智能体会取代今天的大部分 SaaS 和 App。",
-    "reason": "顶级学术会议对 AI 发展方向的判断，具有前瞻性指导意义",
-    "url": "https://www.qbitai.com/2025/12/360136.html",
-    "date": "2026年05月03日"
-  },
-  {
-    "id": "2026050306",
-    "category": "国内",
-    "title": "2026 被定义为 AI 价值兑现期，深圳 3 万平米展会聚焦终端 AI",
-    "source": "新浪机器学习热点",
-    "summary": "深圳市人工智能行业协会执行会长郎丽艳表示：2024-2025 年是 AI 技术膨胀期，2026 年将迎来价值兑现期。第七届深圳国际人工智能展览会将在 3 万平米展区展示 400 余家展商的产品。",
-    "reason": "行业组织对 AI 发展阶段的界定，有助于理解产业成熟度",
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904x9e8.html",
-    "date": "2026年05月03日"
+    "title": "新浪人工智能热点小时报丨2026年05月02日05时",
+    "source": "新浪科技",
+    "summary": "第九届数字中国建设峰会在福州举行，聚焦数据要素市场化、人工智能产业落地与数字基础设施建设。英特尔收购Sambanova获美国反垄断批准；穹彻智能工业交付能力中心签约落地无锡；苹果因AI热潮耗尽库存，将Mac Mini起售价调高200美元。",
+    "reason": "全面了解国内外AI产业动态，从政策落地到商业应用一网打尽。",
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904yn1i.html?from=tech",
+    "date": "2026年05月04日"
   }
 ]
