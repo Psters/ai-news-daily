@@ -2,61 +2,61 @@
   {
     "id": "1",
     "category": "国外",
-    "title": "AI in 2026: What changes you may actually notice",
-    "source": "KWCH",
-    "summary": "AI安全专家Lucas Hansen指出，AI工具正变得更加可靠，能够更长时间专注于任务，并正深度嵌入到人们日常使用的产品中。另一个重要趋势是AI正在重塑入门级招聘市场，对于20-25岁的年轻人来说，找工作变得更加困难。",
-    "reason": "展示了AI从炒作转向实际应用的趋势，以及对就业市场的影响，值得业界关注。",
-    "url": "https://www.kwch.com/2026/01/09/ai-2026-what-changes-you-may-actually-notice/",
-    "date": "2026年05月04日"
+    "title": "Google 2026年3月AI更新：Search Live全球扩展",
+    "source": "Google Blog",
+    "summary": "Google在3月份专注于通过Gemini更新让AI在日常生活中更有用，包括Search Live全球扩展到所有支持AI模式的地区，提供切换到Gemini的新工具，以及在3月Pixel Drop中为设备发布新的AI功能。",
+    "reason": "Google的AI产品更新直接关系到数亿用户，Search Live的全球扩展标志着实时AI搜索能力的重要里程碑。",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+    "date": "2026-05-05"
   },
   {
     "id": "2",
     "category": "国外",
-    "title": "AI moving from hype to practical applications in 2026",
-    "source": "Daily 8 News",
-    "summary": "经过数年的快速发展和大量投资，人工智能正在进入专注于实际实施的新阶段。MIT Technology Review的年度技术趋势报告将应用AI确定为2026年的关键主题。对话正在从AI能做什么转向AI应该为特定业务问题做什么。",
-    "reason": "标志着AI从实验阶段向生产级应用的重大转变，对企业数字化转型具有重要参考价值。",
-    "url": "https://daily8news.com/article/ai-moving-from-hype-to-practical-applications-2026-may-2026/",
-    "date": "2026年05月04日"
+    "title": "AI新闻2026年3月：疯狂一周内发生的一切",
+    "source": "Reddit AISEOInsider",
+    "summary": "2026年3月的AI新闻以一个重大发布开始，展示了人工智能能力改进的速度。AI正影响企业重组，经济学发生重要转变，成为主要经济体之间的全球竞争，并正在重塑日常工作。",
+    "reason": "社区视角的AI行业观察，揭示了AI技术发展的社会和经济影响。",
+    "url": "https://www.reddit.com/r/AISEOInsider/comments/1rp92zx/ai_news_march_2026_everything_that_happened_in/",
+    "date": "2026-05-05"
   },
   {
     "id": "3",
     "category": "国外",
-    "title": "The trends that will shape AI and tech in 2026",
-    "source": "IBM Think",
-    "summary": "IBM发布的2026年AI和科技趋势报告指出，明年将看到从AI实验和兴奋转向在企业内部进行私有和安全部署，并具有真正的ROI期望。多位行业专家预测，代理式AI和其他非人类身份将在组织中显著超过人类用户的数量。",
-    "reason": "来自IBM的权威预测，揭示了企业级AI部署的关键趋势，适合CIO和CTO阅读。",
-    "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026",
-    "date": "2026年05月04日"
+    "title": "AI简报：2026年3月顶级更新",
+    "source": "YouTube",
+    "summary": "视频总结了2026年3月发生的人工智能重要事件和更新，感谢Google NotebookLM的支持。",
+    "reason": "视频形式的AI新闻总结，适合快速了解行业动态。",
+    "url": "https://www.youtube.com/watch?v=T8wJflY2l80",
+    "date": "2026-05-05"
   },
   {
     "id": "4",
-    "category": "国外",
-    "title": "What's next in AI: 7 trends to watch in 2026",
-    "source": "Microsoft Source",
-    "summary": "微软研究部门发布了2026年AI发展的7大趋势，包括灵活的全球AI系统"超级工厂"的兴起，这将降低成本并提高效率。文章还探讨了AI在Windows、企业软件和教育领域的深度整合。",
-    "reason": "微软作为AI领域的主要参与者，其趋势预测对了解AI发展方向具有重要参考意义。",
-    "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
-    "date": "2026年05月04日"
+    "category": "国内",
+    "title": "钉钉发布AI录音硬件DingTalk A1Pro",
+    "source": "AIBase",
+    "summary": "钉钉发布AI录音硬件DingTalk A1Pro，售价1299元，支持手机反向充电。这是AI硬件化的又一重要产品。",
+    "reason": "AI硬件化趋势明显，钉钉作为企业协作平台，其AI硬件产品值得关注。",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026-05-05"
   },
   {
     "id": "5",
-    "category": "国外",
-    "title": "This Week's Top Five Stories in AI",
-    "source": "AI Magazine",
-    "summary": "本周AI行业头条：英伟达将OpenAI的GPT-5.5集成到其内部代理编码应用Codex中；谷歌云推出合作伙伴代理式AI采用基金；西门子投入10亿欧元用于工业AI开发，Eigen是这一投资的一部分；Meta收购机器人初创企业以加强人形AI野心。",
-    "reason": "涵盖了AI硬件、软件、投资等多个领域的最新动态，全面了解行业风向。",
-    "url": "https://aimagazine.com/news/top-five-stories-in-ai-may-2-2026",
-    "date": "2026年05月04日"
+    "category": "国内",
+    "title": "Zig项目全面禁止LLM辅助贡献引发热议",
+    "source": "AIBase",
+    "summary": "Zig项目决定全面禁止大语言模型辅助贡献，引发社区热议。这反映了开源社区对AI代码贡献的不同态度。",
+    "reason": "开源社区对AI的态度分化值得关注，这关系到AI在软件开发中的角色定位。",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026-05-05"
   },
   {
     "id": "6",
     "category": "国内",
-    "title": "新浪人工智能热点小时报丨2026年05月02日05时",
-    "source": "新浪科技",
-    "summary": "第九届数字中国建设峰会在福州举行，聚焦数据要素市场化、人工智能产业落地与数字基础设施建设。英特尔收购Sambanova获美国反垄断批准；穹彻智能工业交付能力中心签约落地无锡；苹果因AI热潮耗尽库存，将Mac Mini起售价调高200美元。",
-    "reason": "全面了解国内外AI产业动态，从政策落地到商业应用一网打尽。",
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904yn1i.html?from=tech",
-    "date": "2026年05月04日"
+    "title": "小红书组织升级：成立AI一级部门Dots与海外部Rednote",
+    "source": "AIBase",
+    "summary": "小红书官宣组织升级，柯南出任总裁，成立AI一级部门Dots与海外部Rednote。显示平台对AI技术的重视。",
+    "reason": "小红书成立AI一级部门，标志着内容平台对AI技术的战略投入。",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026-05-05"
   }
 ]
