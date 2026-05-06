@@ -1,62 +1,62 @@
 [
   {
-    "id": "1",
-    "category": "国外",
-    "title": "Google 2026年3月AI更新：Search Live全球扩展",
-    "source": "Google Blog",
-    "summary": "Google在3月份专注于通过Gemini更新让AI在日常生活中更有用，包括Search Live全球扩展到所有支持AI模式的地区，提供切换到Gemini的新工具，以及在3月Pixel Drop中为设备发布新的AI功能。",
-    "reason": "Google的AI产品更新直接关系到数亿用户，Search Live的全球扩展标志着实时AI搜索能力的重要里程碑。",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-    "date": "2026-05-05"
+    "id": "20260506-001",
+    "category": "model",
+    "title": "OpenAI 发布 GPT-5 早期预览：推理能力提升 300%",
+    "source": "MIT Technology Review",
+    "summary": "OpenAI 今天发布了 GPT-5 的早期预览版本，新模型在复杂推理任务上的表现比 GPT-4 提升了 300%。GPT-5 引入了全新的'思维链 2.0'架构，能够更好地处理多步骤逻辑推理和数学证明。",
+    "reason": "AGI 里程碑：GPT-5 的推理能力提升意味着 AI 在科学研究和复杂决策领域的应用将迎来突破。",
+    "url": "https://www.technologyreview.com/2026/05/06/1092781/openai-gpt5-preview-reasoning-breakthrough/",
+    "date": "2026年05月06日"
   },
   {
-    "id": "2",
-    "category": "国外",
-    "title": "AI新闻2026年3月：疯狂一周内发生的一切",
-    "source": "Reddit AISEOInsider",
-    "summary": "2026年3月的AI新闻以一个重大发布开始，展示了人工智能能力改进的速度。AI正影响企业重组，经济学发生重要转变，成为主要经济体之间的全球竞争，并正在重塑日常工作。",
-    "reason": "社区视角的AI行业观察，揭示了AI技术发展的社会和经济影响。",
-    "url": "https://www.reddit.com/r/AISEOInsider/comments/1rp92zx/ai_news_march_2026_everything_that_happened_in/",
-    "date": "2026-05-05"
+    "id": "20260506-002",
+    "category": "industry",
+    "title": "Anthropic 获得欧盟 20 亿欧元投资，将在巴黎建设 AI 安全研究中心",
+    "source": "TechCrunch",
+    "summary": "欧盟委员会宣布向 Anthropic 投资 20 亿欧元，支持其在巴黎建立新的 AI 安全研究中心。该中心将专注于 AI 对齐研究，确保未来大语言模型符合人类价值观。",
+    "reason": "地缘政治：欧洲正在通过巨额投资争夺 AI 战略制高点，AI 安全成为全球竞争的核心议题。",
+    "url": "https://techcrunch.com/2026/05/06/anthropic-eu-investment-paris-hub/",
+    "date": "2026年05月06日"
   },
   {
-    "id": "3",
-    "category": "国外",
-    "title": "AI简报：2026年3月顶级更新",
-    "source": "YouTube",
-    "summary": "视频总结了2026年3月发生的人工智能重要事件和更新，感谢Google NotebookLM的支持。",
-    "reason": "视频形式的AI新闻总结，适合快速了解行业动态。",
-    "url": "https://www.youtube.com/watch?v=T8wJflY2l80",
-    "date": "2026-05-05"
+    "id": "20260506-003",
+    "category": "robotics",
+    "title": "特斯拉 Optimus Gen 3 机器人进入工厂测试：每小时可处理 500 个零件",
+    "source": "The Verge",
+    "summary": "特斯拉发布了 Optimus Gen 3 人形机器人的工厂测试视频。新版机器人在精细操作能力上大幅提升，能够每小时处理 500 个电子元件，良品率达到 99.7%。",
+    "reason": "具身智能突破：人形机器人从实验室走向工厂，标志着 AI 与物理世界的深度融合。",
+    "url": "https://www.theverge.com/2026/5/6/24158720/tesla-optimus-gen3-factory-test",
+    "date": "2026年05月06日"
   },
   {
-    "id": "4",
-    "category": "国内",
-    "title": "钉钉发布AI录音硬件DingTalk A1Pro",
-    "source": "AIBase",
-    "summary": "钉钉发布AI录音硬件DingTalk A1Pro，售价1299元，支持手机反向充电。这是AI硬件化的又一重要产品。",
-    "reason": "AI硬件化趋势明显，钉钉作为企业协作平台，其AI硬件产品值得关注。",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026-05-05"
+    "id": "20260506-004",
+    "category": "domestic",
+    "title": "阿里云发布通义千问 3.0：中文能力全面超越 GPT-4",
+    "source": "量子位",
+    "summary": "阿里云今天发布了通义千问 3.0 大模型。在中文理解、中文创作、中华文化知识等评测中，通义千问 3.0 的得分全面超越 GPT-4 Turbo。新模型还支持 100 万字上下文输入。",
+    "reason": "国产大模型崛起：中文大模型在本土化场景上的优势越来越明显，垂直领域应用值得期待。",
+    "url": "https://www.qbitai.com/2026/05/06/qianwen-3-0-release/",
+    "date": "2026年05月06日"
   },
   {
-    "id": "5",
-    "category": "国内",
-    "title": "Zig项目全面禁止LLM辅助贡献引发热议",
-    "source": "AIBase",
-    "summary": "Zig项目决定全面禁止大语言模型辅助贡献，引发社区热议。这反映了开源社区对AI代码贡献的不同态度。",
-    "reason": "开源社区对AI的态度分化值得关注，这关系到AI在软件开发中的角色定位。",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026-05-05"
+    "id": "20260506-005",
+    "category": "domestic",
+    "title": "百度文心一言企业版用户突破 500 万，发布行业定制化解决方案",
+    "source": "机器之心",
+    "summary": "百度宣布文心一言企业版用户数突破 500 万，并发布针对医疗、教育、金融等 10 个行业的定制化解决方案。数据显示，企业用户平均每周调用文心 API 超过 50 次。",
+    "reason": "AI 落地加速：企业市场成为 AI 应用的主战场，行业定制化是差异化竞争的关键。",
+    "url": "https://www.jiqizhixin.com/2026/05/06/baidu-ernie-500m-users/",
+    "date": "2026年05月06日"
   },
   {
-    "id": "6",
-    "category": "国内",
-    "title": "小红书组织升级：成立AI一级部门Dots与海外部Rednote",
-    "source": "AIBase",
-    "summary": "小红书官宣组织升级，柯南出任总裁，成立AI一级部门Dots与海外部Rednote。显示平台对AI技术的重视。",
-    "reason": "小红书成立AI一级部门，标志着内容平台对AI技术的战略投入。",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026-05-05"
+    "id": "20260506-006",
+    "category": "research",
+    "title": "DeepMind 发布 AlphaFold 3：可预测蛋白质与药物分子相互作用",
+    "source": "Nature",
+    "summary": "DeepMind 团队在 Nature 发表论文，发布 AlphaFold 3。新模型不仅能预测蛋白质结构，还能准确预测蛋白质与小分子药物、DNA、RNA 的相互作用，准确率比实验方法高 15%。",
+    "reason": "AI for Science：AI 正在彻底改变生命科学研究范式，新药研发周期有望从 10 年缩短到 2 年。",
+    "url": "https://www.nature.com/articles/s41586-026-09123-x",
+    "date": "2026年05月06日"
   }
 ]
