@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260506-001",
-    "category": "model",
-    "title": "OpenAI 发布 GPT-5 早期预览：推理能力提升 300%",
+    "id": "1",
+    "category": "国外",
+    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI's models",
     "source": "MIT Technology Review",
-    "summary": "OpenAI 今天发布了 GPT-5 的早期预览版本，新模型在复杂推理任务上的表现比 GPT-4 提升了 300%。GPT-5 引入了全新的'思维链 2.0'架构，能够更好地处理多步骤逻辑推理和数学证明。",
-    "reason": "AGI 里程碑：GPT-5 的推理能力提升意味着 AI 在科学研究和复杂决策领域的应用将迎来突破。",
-    "url": "https://www.technologyreview.com/2026/05/06/1092781/openai-gpt5-preview-reasoning-breakthrough/",
-    "date": "2026年05月06日"
+    "summary": "埃隆·马斯克与萨姆·奥尔特曼的诉讼案第一周庭审中，马斯克声称自己被骗了，警告AI可能毁灭人类，并承认xAI确实在蒸馏OpenAI的模型。马斯克保持冷静，但OpenAI的律师用尖锐的问题质疑他的动机。",
+    "reason": "了解AI领域两大巨头之间的法律纠纷，对行业格局和AI发展方向有重要影响。",
+    "url": "https://www.technologyreview.com/",
+    "date": "2026-05-07"
   },
   {
-    "id": "20260506-002",
-    "category": "industry",
-    "title": "Anthropic 获得欧盟 20 亿欧元投资，将在巴黎建设 AI 安全研究中心",
-    "source": "TechCrunch",
-    "summary": "欧盟委员会宣布向 Anthropic 投资 20 亿欧元，支持其在巴黎建立新的 AI 安全研究中心。该中心将专注于 AI 对齐研究，确保未来大语言模型符合人类价值观。",
-    "reason": "地缘政治：欧洲正在通过巨额投资争夺 AI 战略制高点，AI 安全成为全球竞争的核心议题。",
-    "url": "https://techcrunch.com/2026/05/06/anthropic-eu-investment-paris-hub/",
-    "date": "2026年05月06日"
+    "id": "2",
+    "category": "国外",
+    "title": "This startup's new mechanistic interpretability tool lets you debug LLMs",
+    "source": "MIT Technology Review",
+    "summary": "Goodfire推出了一款新的机械可解释性工具，让训练AI模型更像传统的软件工程。该工具旨在让开发者能够调试和理解大型语言模型的工作原理。",
+    "reason": "AI可解释性是当前AI安全的重要研究方向，这个工具可能改变开发者与模型交互的方式。",
+    "url": "https://www.technologyreview.com/",
+    "date": "2026-05-07"
   },
   {
-    "id": "20260506-003",
-    "category": "robotics",
-    "title": "特斯拉 Optimus Gen 3 机器人进入工厂测试：每小时可处理 500 个零件",
-    "source": "The Verge",
-    "summary": "特斯拉发布了 Optimus Gen 3 人形机器人的工厂测试视频。新版机器人在精细操作能力上大幅提升，能够每小时处理 500 个电子元件，良品率达到 99.7%。",
-    "reason": "具身智能突破：人形机器人从实验室走向工厂，标志着 AI 与物理世界的深度融合。",
-    "url": "https://www.theverge.com/2026/5/6/24158720/tesla-optimus-gen3-factory-test",
-    "date": "2026年05月06日"
+    "id": "3",
+    "category": "国外",
+    "title": "The app store for robots has arrived: Hugging Face launches open-source Reachy Mini App Store with 200+ apps",
+    "source": "VentureBeat",
+    "summary": "Hugging Face推出了开源的Reachy Mini应用商店，已经拥有超过200个社区构建的应用程序。Reachy Mini的所有者可以免费下载这些应用。",
+    "reason": "机器人应用商店的推出标志着机器人软件生态系统的成熟，可能加速机器人的普及和应用。",
+    "url": "https://venturebeat.com/category/ai/",
+    "date": "2026-05-07"
   },
   {
-    "id": "20260506-004",
-    "category": "domestic",
-    "title": "阿里云发布通义千问 3.0：中文能力全面超越 GPT-4",
-    "source": "量子位",
-    "summary": "阿里云今天发布了通义千问 3.0 大模型。在中文理解、中文创作、中华文化知识等评测中，通义千问 3.0 的得分全面超越 GPT-4 Turbo。新模型还支持 100 万字上下文输入。",
-    "reason": "国产大模型崛起：中文大模型在本土化场景上的优势越来越明显，垂直领域应用值得期待。",
-    "url": "https://www.qbitai.com/2026/05/06/qianwen-3-0-release/",
-    "date": "2026年05月06日"
+    "id": "4",
+    "category": "国外",
+    "title": "Miami startup Subquadratic claims 1,000x AI efficiency gain with SubQ model",
+    "source": "VentureBeat",
+    "summary": "迈阿密初创公司Subquadratic声称其SubQ模型实现了1000倍的AI效率提升。研究人员要求独立验证。该公司声称这是首个完全摆脱2017年以来限制所有主要AI系统的数学约束的大型语言模型。",
+    "reason": "如果这一声明属实，将彻底改变AI的效率范式。但需要独立验证。",
+    "url": "https://venturebeat.com/category/ai/",
+    "date": "2026-05-07"
   },
   {
-    "id": "20260506-005",
-    "category": "domestic",
-    "title": "百度文心一言企业版用户突破 500 万，发布行业定制化解决方案",
-    "source": "机器之心",
-    "summary": "百度宣布文心一言企业版用户数突破 500 万，并发布针对医疗、教育、金融等 10 个行业的定制化解决方案。数据显示，企业用户平均每周调用文心 API 超过 50 次。",
-    "reason": "AI 落地加速：企业市场成为 AI 应用的主战场，行业定制化是差异化竞争的关键。",
-    "url": "https://www.jiqizhixin.com/2026/05/06/baidu-ernie-500m-users/",
-    "date": "2026年05月06日"
+    "id": "5",
+    "category": "国内",
+    "title": "AI 终于学会「自我坦白」！Anthropic最新论文震撼来袭，「内省适配器」让黑盒模型自己说出隐藏行为",
+    "source": "雷锋网",
+    "summary": "Anthropic发布最新论文，推出「内省适配器」技术，让黑盒模型能够自己说出隐藏行为。这一突破性技术可能解决AI黑盒问题，提高模型透明度。",
+    "reason": "AI透明度和可解释性是AI安全的核心问题，这项技术可能成为行业转折点。",
+    "url": "https://www.leiphone.com/",
+    "date": "2026-05-07"
   },
   {
-    "id": "20260506-006",
-    "category": "research",
-    "title": "DeepMind 发布 AlphaFold 3：可预测蛋白质与药物分子相互作用",
-    "source": "Nature",
-    "summary": "DeepMind 团队在 Nature 发表论文，发布 AlphaFold 3。新模型不仅能预测蛋白质结构，还能准确预测蛋白质与小分子药物、DNA、RNA 的相互作用，准确率比实验方法高 15%。",
-    "reason": "AI for Science：AI 正在彻底改变生命科学研究范式，新药研发周期有望从 10 年缩短到 2 年。",
-    "url": "https://www.nature.com/articles/s41586-026-09123-x",
-    "date": "2026年05月06日"
+    "id": "6",
+    "category": "国内",
+    "title": "独家 | 华为19级天才少年赵立晨离职创业，瞄准具身 Agentic OS",
+    "source": "雷锋网",
+    "summary": "华为19级天才少年赵立晨离职创业，目标瞄准具身智能Agentic OS领域。这一动向反映了国内顶尖AI人才向创业领域的流动趋势。",
+    "reason": "顶尖人才的职业选择往往预示行业热点，具身智能和AI Agent是当前最受关注的创业方向。",
+    "url": "https://www.leiphone.com/",
+    "date": "2026-05-07"
   }
 ]
