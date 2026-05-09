@@ -1,62 +1,82 @@
 [
   {
-    "id": "nhs-ai-burden-2026-05-07",
-    "category": "healthcare",
-    "title": "AI helping ease the UK's NHS burden",
-    "source": "AI News",
-    "summary": "Doccla 公司为英国 NHS 提供远程患者监控和虚拟病房服务。数据显示，AI 驱动的软件使 NHS 的床位使用减少了 61%，GP 预约减少 89%，非选择性入院减少 39%。该技术每天为 NHS 节省约 450 英镑，每投入 1 英镑可节省 3 英镑。AI 通过机器学习分析临床级可穿戴设备数据，在患者病情恶化前进行识别和干预。",
-    "reason": "医疗 AI 应用案例，展示了 AI 在公共医疗体系中的实际效益和成本节约。",
-    "url": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
-    "date": "2026-05-07"
+    "id": "20260509-001",
+    "category": "国外",
+    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+    "source": "MIT Technology Review",
+    "summary": "OpenAI president Greg Brockman said Elon Musk wanted the company to create a for-profit entity—and endured a public peek into his diary.马斯克与奥特曼的诉讼进入第二周，OpenAI猛烈反击，Shivon Zilis透露马斯克试图挖走Sam Altman。",
+    "reason": "马斯克与OpenAI的诉讼持续发酵，涉及AI公司治理结构的核心争议，对整个AI行业格局有深远影响。",
+    "url": "https://www.technologyreview.com/2026/05/08/1101234/musk-v-altman-week-2-openai-fires-back/",
+    "date": "2026-05-09"
   },
   {
-    "id": "google-remy-agent-2026-05-06",
-    "category": "ai-agents",
-    "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
-    "source": "AI News",
-    "summary": "Google 正在测试名为 Remy 的新 AI 个人代理，该代理被描述为'24/7 个人助手'，旨在代表用户执行工作和日常任务。Remy 是 Google 扩展 Gemini 超越聊天响应的一部分，能够整合 Google 服务并处理复杂任务。该报告将 Remy 与 OpenClaw 进行了比较，OpenClaw 是一个因自主回复消息、代表用户进行研究而受到关注的 AI 代理。",
-    "reason": "AI Agent 领域的最新进展，Google 在个人 AI 助手方面的重要尝试。",
-    "url": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
-    "date": "2026-05-06"
+    "id": "20260509-002",
+    "category": "国外",
+    "title": "A blueprint for using AI to strengthen democracy",
+    "source": "MIT Technology Review",
+    "summary": "AI is changing what it means to be a democratic citizen. Here's how we can harness it for good.探讨如何利用AI加强民主制度，AI正在改变民主公民的含义。",
+    "reason": "AI与社会治理的深度思考，涉及民主制度在AI时代的适应与变革，具有重要的社会意义。",
+    "url": "https://www.technologyreview.com/2026/05/07/1101230/a-blueprint-for-using-ai-to-strengthen-democracy/",
+    "date": "2026-05-09"
   },
   {
-    "id": "us-ai-suppliers-2026-05-06",
-    "category": "policy",
-    "title": "US government increases AI suppliers and rethinks Anthropic's role",
-    "source": "AI News",
-    "summary": "美国国防部与 Microsoft、Reflection AI、Amazon 和 Nvidia 签署协议，使其产品可用于机密操作。这些公司加入了 OpenAI、xAI 和 Google 的行列，成为国防部的首选供应商。此前，Anthropic 因反对政府使用其技术进行监视和制造自主武器而被取消 2 亿美元合同。报道显示，美国政府可能正在寻求与 Anthropic 重新建立关系。",
-    "reason": "AI 在国防和安全领域的应用，以及政府与 AI 公司关系的重大变化。",
-    "url": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
-    "date": "2026-05-06"
+    "id": "20260509-003",
+    "category": "国外",
+    "title": "Anthropic says it hit a $30 billion revenue run rate after 'crazy' 80x growth",
+    "source": "VentureBeat",
+    "summary": "Anthropic宣布收入达到300亿美元年化增长率，经历了疯狂的80倍增长。CEO Amodei在开发者大会上披露了这一惊人的财务数据。",
+    "reason": "Anthropic的爆发式增长反映了AI市场的巨大潜力，同时也展示了AI商业化加速的趋势。",
+    "url": "https://venturebeat.com/ai/anthropic-30-billion-revenue-run-rate-80x-growth/",
+    "date": "2026-05-09"
   },
   {
-    "id": "gmail-ai-personalization-2026-05-07",
-    "category": "productivity",
-    "title": "Gmail's AI writing tool now writes emails that sound more like you",
-    "source": "The Verge",
-    "summary": "Google 正在为其 Gmail 的 Help me write 工具推出新功能，使其能够生成符合用户语气和风格的个性化邮件。根据提示词，Help me write 还可以从 Google Drive 和 Gmail 中提取相关上下文。这标志着 AI 在个人生产力工具中的进一步集成，使其能够更好地适应个人用户的沟通风格。",
-    "reason": "Google Workspace AI 功能的重要更新，展示了 AI 在日常办公工具中的深度集成。",
-    "url": "https://www.theverge.com/ai-artificial-intelligence",
-    "date": "2026-05-07"
+    "id": "20260509-004",
+    "category": "国外",
+    "title": "OpenAI brings GPT-5-class reasoning to real-time voice",
+    "source": "VentureBeat",
+    "summary": "OpenAI将GPT-5级别的推理能力引入实时语音模型，改变了语音代理的实际编排能力。OpenAI将实时语音分为三个专门模型。",
+    "reason": "GPT-5级推理能力进入语音领域，标志着多模态AI的重大突破，将彻底改变语音交互体验。",
+    "url": "https://venturebeat.com/ai/openai-gpt-5-real-time-voice-reasoning/",
+    "date": "2026-05-09"
   },
   {
-    "id": "golden-globes-ai-rules-2026-05-07",
-    "category": "entertainment",
-    "title": "Golden Globes releases AI rules allowing technical enhancements",
-    "source": "The Verge",
-    "summary": "金球奖发布了关于 AI 的资格规则，继奥斯卡宣布只有人类才能获得表演奖之后，金球奖的规则似乎有更多回旋余地。规则规定'表演类别提交的表演必须主要归功于 credited performer 的工作'，但'用于技术或美容增强的 AI 使用（如减龄）可能是允许的'。这反映了娱乐行业在处理 AI 生成内容方面的不同态度和标准。",
-    "reason": "娱乐行业对 AI 技术的规范，反映了 AI 在创意领域的应用边界。",
-    "url": "https://www.theverge.com/ai-artificial-intelligence",
-    "date": "2026-05-07"
+    "id": "20260509-005",
+    "category": "国内",
+    "title": "Redis之父下场，给DeepSeek V4单独造了一台推理引擎",
+    "source": "量子位",
+    "summary": "Redis之父Antirez为DeepSeek V4专门打造了推理引擎，现在Mac上就能本地跑DeepSeek。这项技术突破让大模型在本地运行成为可能。",
+    "reason": "Redis创始人亲自下场优化DeepSeek，展示了开源社区对中国大模型的支持，也推动了本地化AI部署的进程。",
+    "url": "https://www.qbitai.com/2026/05/08/redis-deepseek-inference-engine/",
+    "date": "2026-05-09"
   },
   {
-    "id": "cloudflare-ai-layoffs-2026-05-07",
-    "category": "industry",
-    "title": "Cloudflare lays off 1,100 workers as AI usage increases 600%",
-    "source": "The Verge",
-    "summary": "Cloudflare 裁员 1,100 名员工，同时其 AI 使用率增长了 600%。公司表示这些行动不是削减成本或评估个人表现，而是关于 Cloudflare 定义一家世界级、高增长公司在 agentic AI 时代如何运营和创造价值。这反映了 AI 技术在提高效率的同时，也对劳动力结构产生了深远影响。",
-    "reason": "展示了 AI 技术在企业应用中的双刃剑效应：提高效率但改变就业结构。",
-    "url": "https://www.theverge.com/ai-artificial-intelligence",
-    "date": "2026-05-07"
+    "id": "20260509-006",
+    "category": "国内",
+    "title": "Anthropic出手！AI的内心独白，曝光了",
+    "source": "量子位",
+    "summary": "Anthropic发布研究，让AI展示其内心独白过程。原来Claude早就识破了人类的套路。这项研究揭示了AI模型的思考过程。",
+    "reason": "AI可解释性研究的重要进展，让人类首次看到AI的'内心独白'，对AI安全和透明度具有重要意义。",
+    "url": "https://www.qbitai.com/2026/05/07/anthropic-ai-inner-monologue/",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "20260509-007",
+    "category": "国内",
+    "title": "GPT-5级推理能力塞进语音模型，OpenAI把同传翻译成本砍穿地板价",
+    "source": "量子位",
+    "summary": "OpenAI上新三款实时语音模型，将GPT-5级推理能力塞进语音模型，大幅降低同声传译成本，让高质量翻译服务变得人人可及。",
+    "reason": "实时翻译成本的革命性降低，将打破语言壁垒，对全球化交流和知识传播产生深远影响。",
+    "url": "https://www.qbitai.com/2026/05/07/openai-real-time-voice-gpt-5/",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "20260509-008",
+    "category": "国外",
+    "title": "This startup's new mechanistic interpretability tool lets you debug LLMs",
+    "source": "MIT Technology Review",
+    "summary": "Goodfire推出新的机械可解释性工具，让调试大模型像传统软件工程一样。这项技术让AI模型开发更加可控和透明。",
+    "reason": "AI可解释性和可调试性的重大突破，让大模型从黑盒变成可理解、可优化的系统。",
+    "url": "https://www.technologyreview.com/2026/05/06/1101199/goodfire-mechanistic-interpretability-tool/",
+    "date": "2026-05-09"
   }
 ]

@@ -1,0 +1,4 @@
+2026-05-08 01:00:00 UTC
+Git push 失败：fatal: could not read Username for 'https://github.com': No such device or directory
+错误原因：未配置 GitHub 认证凭据
+解决方案：需要配置 git credential helper 或使用 SSH 密钥
