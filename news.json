@@ -1,82 +1,82 @@
 [
   {
-    "id": "20260509-001",
-    "category": "国外",
-    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-    "source": "MIT Technology Review",
-    "summary": "OpenAI president Greg Brockman said Elon Musk wanted the company to create a for-profit entity—and endured a public peek into his diary.马斯克与奥特曼的诉讼进入第二周，OpenAI猛烈反击，Shivon Zilis透露马斯克试图挖走Sam Altman。",
-    "reason": "马斯克与OpenAI的诉讼持续发酵，涉及AI公司治理结构的核心争议，对整个AI行业格局有深远影响。",
-    "url": "https://www.technologyreview.com/2026/05/08/1101234/musk-v-altman-week-2-openai-fires-back/",
-    "date": "2026-05-09"
+    "id": "2026051201",
+    "category": "国外新闻",
+    "title": "OpenAI发布Daybreak模型：对抗Claude Mythos",
+    "source": "The Verge",
+    "summary": "OpenAI发布了其最新AI模型Daybreak，结合了GPT-5.5-Cyber和Codex Security，被视为对Anthropic Claude Mythos的回应。",
+    "reason": "OpenAI与Anthropic的竞争持续升级，Daybreak的发布显示OpenAI在安全和代码生成领域的新进展。",
+    "url": "https://www.theverge.com/2026/5/12/openai-daybreak-claude-mythos",
+    "date": "2026-05-12"
   },
   {
-    "id": "20260509-002",
-    "category": "国外",
-    "title": "A blueprint for using AI to strengthen democracy",
-    "source": "MIT Technology Review",
-    "summary": "AI is changing what it means to be a democratic citizen. Here's how we can harness it for good.探讨如何利用AI加强民主制度，AI正在改变民主公民的含义。",
-    "reason": "AI与社会治理的深度思考，涉及民主制度在AI时代的适应与变革，具有重要的社会意义。",
-    "url": "https://www.technologyreview.com/2026/05/07/1101230/a-blueprint-for-using-ai-to-strengthen-democracy/",
-    "date": "2026-05-09"
+    "id": "2026051202",
+    "category": "国外新闻",
+    "title": "Mira Murati的新公司Thinking Machines展示实时AI交互模型",
+    "source": "The Verge",
+    "summary": "前OpenAI CTO Mira Murati创立的Thinking Machines公司展示了能够实时响应用户的AI交互模型，标志着AI人机交互的新突破。",
+    "reason": "Mira Murati是OpenAI前核心技术领导者，她的新动向值得关注，实时AI交互可能是下一个重要方向。",
+    "url": "https://www.theverge.com/2026/5/12/mira-murati-thinking-machines-ai-interaction",
+    "date": "2026-05-12"
   },
   {
-    "id": "20260509-003",
-    "category": "国外",
-    "title": "Anthropic says it hit a $30 billion revenue run rate after 'crazy' 80x growth",
-    "source": "VentureBeat",
-    "summary": "Anthropic宣布收入达到300亿美元年化增长率，经历了疯狂的80倍增长。CEO Amodei在开发者大会上披露了这一惊人的财务数据。",
-    "reason": "Anthropic的爆发式增长反映了AI市场的巨大潜力，同时也展示了AI商业化加速的趋势。",
-    "url": "https://venturebeat.com/ai/anthropic-30-billion-revenue-run-rate-80x-growth/",
-    "date": "2026-05-09"
+    "id": "2026051203",
+    "category": "国外新闻",
+    "title": "BuzzFeed CEO转任AI总裁，媒体行业加速AI转型",
+    "source": "The Verge",
+    "summary": "BuzzFeed CEO Jonah Peretti将转任公司AI总裁，专注于应用AI研究、产品创新和新型媒体格式开发。Byron Allen的家族办公室将收购BuzzFeed多数股权。",
+    "reason": "传统媒体公司的AI转型加速，Peretti的转型可能成为行业标杆。",
+    "url": "https://www.theverge.com/2026/5/12/buzzfeed-ceo-jonah-peretti-ai-president",
+    "date": "2026-05-12"
   },
   {
-    "id": "20260509-004",
-    "category": "国外",
-    "title": "OpenAI brings GPT-5-class reasoning to real-time voice",
-    "source": "VentureBeat",
-    "summary": "OpenAI将GPT-5级别的推理能力引入实时语音模型，改变了语音代理的实际编排能力。OpenAI将实时语音分为三个专门模型。",
-    "reason": "GPT-5级推理能力进入语音领域，标志着多模态AI的重大突破，将彻底改变语音交互体验。",
-    "url": "https://venturebeat.com/ai/openai-gpt-5-real-time-voice-reasoning/",
-    "date": "2026-05-09"
-  },
-  {
-    "id": "20260509-005",
-    "category": "国内",
-    "title": "Redis之父下场，给DeepSeek V4单独造了一台推理引擎",
+    "id": "2026051204",
+    "category": "国内新闻",
+    "title": "所有实验室都怕字节，所有人都在夸DeepSeek！美国研究员36小时中国AI行",
     "source": "量子位",
-    "summary": "Redis之父Antirez为DeepSeek V4专门打造了推理引擎，现在Mac上就能本地跑DeepSeek。这项技术突破让大模型在本地运行成为可能。",
-    "reason": "Redis创始人亲自下场优化DeepSeek，展示了开源社区对中国大模型的支持，也推动了本地化AI部署的进程。",
-    "url": "https://www.qbitai.com/2026/05/08/redis-deepseek-inference-engine/",
-    "date": "2026-05-09"
+    "summary": "美国研究员在中国36小时AI调研后发现，字节跳动和DeepSeek是中国AI最受关注的两个公司，前者因技术实力被敬畏，后者因开源贡献被称赞。",
+    "reason": "外部视角看中国AI发展，字节跳动和DeepSeek的国际化影响力值得关注。",
+    "url": "https://www.qbitai.com/2026/05/12/deepseek-bytedance-ai-china-tour",
+    "date": "2026-05-12"
   },
   {
-    "id": "20260509-006",
-    "category": "国内",
-    "title": "Anthropic出手！AI的内心独白，曝光了",
+    "id": "2026051205",
+    "category": "国内新闻",
+    "title": "浙大校友用AI突破32年拉姆齐数下界",
     "source": "量子位",
-    "summary": "Anthropic发布研究，让AI展示其内心独白过程。原来Claude早就识破了人类的套路。这项研究揭示了AI模型的思考过程。",
-    "reason": "AI可解释性研究的重要进展，让人类首次看到AI的'内心独白'，对AI安全和透明度具有重要意义。",
-    "url": "https://www.qbitai.com/2026/05/07/anthropic-ai-inner-monologue/",
-    "date": "2026-05-09"
+    "summary": "浙江大学校友团队使用AI成功突破了保持了32年的拉姆齐数下界，这是AI在数学领域取得的重大突破。",
+    "reason": "AI在数学研究中的应用取得实质性进展，证明AI不仅是工具，更是科研合作伙伴。",
+    "url": "https://www.qbitai.com/2026/05/12/ai-ramsey-number-breakthrough-zhejiang",
+    "date": "2026-05-12"
   },
   {
-    "id": "20260509-007",
-    "category": "国内",
-    "title": "GPT-5级推理能力塞进语音模型，OpenAI把同传翻译成本砍穿地板价",
+    "id": "2026051206",
+    "category": "国内新闻",
+    "title": "不更新参数就能强化学习！OpenAI翁家翌提出新范式",
     "source": "量子位",
-    "summary": "OpenAI上新三款实时语音模型，将GPT-5级推理能力塞进语音模型，大幅降低同声传译成本，让高质量翻译服务变得人人可及。",
-    "reason": "实时翻译成本的革命性降低，将打破语言壁垒，对全球化交流和知识传播产生深远影响。",
-    "url": "https://www.qbitai.com/2026/05/07/openai-real-time-voice-gpt-5/",
-    "date": "2026-05-09"
+    "summary": "OpenAI研究员翁家翌提出了一种新的强化学习范式，通过AI生成Python代码来实现决策，而无需更新模型参数。",
+    "reason": "华人研究员在AI顶级机构的影响力持续上升，新范式可能改变强化学习的传统路径。",
+    "url": "https://www.qbitai.com/2026/05/12/openai-reinforcement-learning-paradigm-weng",
+    "date": "2026-05-12"
   },
   {
-    "id": "20260509-008",
-    "category": "国外",
-    "title": "This startup's new mechanistic interpretability tool lets you debug LLMs",
-    "source": "MIT Technology Review",
-    "summary": "Goodfire推出新的机械可解释性工具，让调试大模型像传统软件工程一样。这项技术让AI模型开发更加可控和透明。",
-    "reason": "AI可解释性和可调试性的重大突破，让大模型从黑盒变成可理解、可优化的系统。",
-    "url": "https://www.technologyreview.com/2026/05/06/1101199/goodfire-mechanistic-interpretability-tool/",
-    "date": "2026-05-09"
+    "id": "2026051207",
+    "category": "国内新闻",
+    "title": "千问AI眼镜发布：行业首创空间3D显示，还能主动提醒和叫车",
+    "source": "量子位",
+    "summary": "阿里千问推出AI智能眼镜，支持空间3D显示、主动提醒、帮忙叫车等功能，重新定义AI眼镜的应用场景。",
+    "reason": "AI硬件的新形态，空间计算与AI的结合可能带来新的交互方式。",
+    "url": "https://www.qbitai.com/2026/05/12/qianwen-ai-glasses-3d-display",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "2026051208",
+    "category": "国内新闻",
+    "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
+    "source": "量子位",
+    "summary": "某AI产品推出原生Agent画布功能，实现一站式专业创作，全程可控，解决了AI创作的不确定性问题。",
+    "reason": "Agent在创作领域的应用落地，"不抽卡"解决了用户对AI输出不确定性的痛点。",
+    "url": "https://www.qbitai.com/2026/05/12/native-agent-canvas-creation",
+    "date": "2026-05-12"
   }
 ]
