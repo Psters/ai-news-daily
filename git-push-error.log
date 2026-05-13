@@ -1,0 +1,15 @@
+2026-05-12 01:00 UTC
+Git push 失败：认证问题
+错误信息：fatal: could not read Username for 'https://github.com': No such device or address
+
+可能原因：
+1. GitHub token 未配置或已过期
+2. 需要配置 git credential helper
+3. 网络问题
+
+解决方案：
+1. 检查 ~/.gitconfig 配置
+2. 重新配置 GitHub token
+3. 使用 SSH 方式推送
+
+注意：news.json 文件已成功更新，飞书推送已成功完成。

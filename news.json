@@ -1,82 +1,62 @@
 [
   {
-    "id": "2026051201",
+    "id": "2026051301",
+    "category": "国外新闻",
+    "title": "美国阳台太阳能系统快速发展，安全标准UL 3700出台",
+    "source": "MIT Technology Review",
+    "summary": "阳台太阳能系统在欧洲已经普及，美国正在跟进。UL Solutions发布了UL 3700测试协议，确保阳台太阳能系统的安全性，解决了电路过载、接地故障和触电安全三大问题。",
+    "reason": "能源技术与AI驱动的新能源趋势相关，清洁能源的民主化进程值得关注。",
+    "url": "https://www.technologyreview.com/2026/05/12/balcony-solar-ul-3700-safety-testing",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "2026051302",
     "category": "国外新闻",
     "title": "OpenAI发布Daybreak模型：对抗Claude Mythos",
     "source": "The Verge",
     "summary": "OpenAI发布了其最新AI模型Daybreak，结合了GPT-5.5-Cyber和Codex Security，被视为对Anthropic Claude Mythos的回应。",
     "reason": "OpenAI与Anthropic的竞争持续升级，Daybreak的发布显示OpenAI在安全和代码生成领域的新进展。",
     "url": "https://www.theverge.com/2026/5/12/openai-daybreak-claude-mythos",
-    "date": "2026-05-12"
+    "date": "2026-05-13"
   },
   {
-    "id": "2026051202",
+    "id": "2026051303",
     "category": "国外新闻",
     "title": "Mira Murati的新公司Thinking Machines展示实时AI交互模型",
     "source": "The Verge",
     "summary": "前OpenAI CTO Mira Murati创立的Thinking Machines公司展示了能够实时响应用户的AI交互模型，标志着AI人机交互的新突破。",
     "reason": "Mira Murati是OpenAI前核心技术领导者，她的新动向值得关注，实时AI交互可能是下一个重要方向。",
     "url": "https://www.theverge.com/2026/5/12/mira-murati-thinking-machines-ai-interaction",
-    "date": "2026-05-12"
+    "date": "2026-05-13"
   },
   {
-    "id": "2026051203",
-    "category": "国外新闻",
-    "title": "BuzzFeed CEO转任AI总裁，媒体行业加速AI转型",
-    "source": "The Verge",
-    "summary": "BuzzFeed CEO Jonah Peretti将转任公司AI总裁，专注于应用AI研究、产品创新和新型媒体格式开发。Byron Allen的家族办公室将收购BuzzFeed多数股权。",
-    "reason": "传统媒体公司的AI转型加速，Peretti的转型可能成为行业标杆。",
-    "url": "https://www.theverge.com/2026/5/12/buzzfeed-ceo-jonah-peretti-ai-president",
-    "date": "2026-05-12"
-  },
-  {
-    "id": "2026051204",
+    "id": "2026051304",
     "category": "国内新闻",
     "title": "所有实验室都怕字节，所有人都在夸DeepSeek！美国研究员36小时中国AI行",
     "source": "量子位",
     "summary": "美国研究员在中国36小时AI调研后发现，字节跳动和DeepSeek是中国AI最受关注的两个公司，前者因技术实力被敬畏，后者因开源贡献被称赞。",
     "reason": "外部视角看中国AI发展，字节跳动和DeepSeek的国际化影响力值得关注。",
     "url": "https://www.qbitai.com/2026/05/12/deepseek-bytedance-ai-china-tour",
-    "date": "2026-05-12"
+    "date": "2026-05-13"
   },
   {
-    "id": "2026051205",
+    "id": "2026051305",
     "category": "国内新闻",
     "title": "浙大校友用AI突破32年拉姆齐数下界",
     "source": "量子位",
     "summary": "浙江大学校友团队使用AI成功突破了保持了32年的拉姆齐数下界，这是AI在数学领域取得的重大突破。",
     "reason": "AI在数学研究中的应用取得实质性进展，证明AI不仅是工具，更是科研合作伙伴。",
     "url": "https://www.qbitai.com/2026/05/12/ai-ramsey-number-breakthrough-zhejiang",
-    "date": "2026-05-12"
+    "date": "2026-05-13"
   },
   {
-    "id": "2026051206",
+    "id": "2026051306",
     "category": "国内新闻",
     "title": "不更新参数就能强化学习！OpenAI翁家翌提出新范式",
     "source": "量子位",
     "summary": "OpenAI研究员翁家翌提出了一种新的强化学习范式，通过AI生成Python代码来实现决策，而无需更新模型参数。",
     "reason": "华人研究员在AI顶级机构的影响力持续上升，新范式可能改变强化学习的传统路径。",
     "url": "https://www.qbitai.com/2026/05/12/openai-reinforcement-learning-paradigm-weng",
-    "date": "2026-05-12"
-  },
-  {
-    "id": "2026051207",
-    "category": "国内新闻",
-    "title": "千问AI眼镜发布：行业首创空间3D显示，还能主动提醒和叫车",
-    "source": "量子位",
-    "summary": "阿里千问推出AI智能眼镜，支持空间3D显示、主动提醒、帮忙叫车等功能，重新定义AI眼镜的应用场景。",
-    "reason": "AI硬件的新形态，空间计算与AI的结合可能带来新的交互方式。",
-    "url": "https://www.qbitai.com/2026/05/12/qianwen-ai-glasses-3d-display",
-    "date": "2026-05-12"
-  },
-  {
-    "id": "2026051208",
-    "category": "国内新闻",
-    "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
-    "source": "量子位",
-    "summary": "某AI产品推出原生Agent画布功能，实现一站式专业创作，全程可控，解决了AI创作的不确定性问题。",
-    "reason": "Agent在创作领域的应用落地，"不抽卡"解决了用户对AI输出不确定性的痛点。",
-    "url": "https://www.qbitai.com/2026/05/12/native-agent-canvas-creation",
-    "date": "2026-05-12"
+    "date": "2026-05-13"
   }
 ]
