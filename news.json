@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026051301",
-    "category": "国外新闻",
-    "title": "美国阳台太阳能系统快速发展，安全标准UL 3700出台",
-    "source": "MIT Technology Review",
-    "summary": "阳台太阳能系统在欧洲已经普及，美国正在跟进。UL Solutions发布了UL 3700测试协议，确保阳台太阳能系统的安全性，解决了电路过载、接地故障和触电安全三大问题。",
-    "reason": "能源技术与AI驱动的新能源趋势相关，清洁能源的民主化进程值得关注。",
-    "url": "https://www.technologyreview.com/2026/05/12/balcony-solar-ul-3700-safety-testing",
-    "date": "2026-05-13"
-  },
-  {
-    "id": "2026051302",
-    "category": "国外新闻",
-    "title": "OpenAI发布Daybreak模型：对抗Claude Mythos",
+    "id": "1",
+    "category": "国外",
+    "title": "YouTube 向所有 18+ 用户开放人像检测功能",
     "source": "The Verge",
-    "summary": "OpenAI发布了其最新AI模型Daybreak，结合了GPT-5.5-Cyber和Codex Security，被视为对Anthropic Claude Mythos的回应。",
-    "reason": "OpenAI与Anthropic的竞争持续升级，Daybreak的发布显示OpenAI在安全和代码生成领域的新进展。",
-    "url": "https://www.theverge.com/2026/5/12/openai-daybreak-claude-mythos",
-    "date": "2026-05-13"
+    "summary": "YouTube 的人像检测功能（Likeness Detection）现在已向所有 18 岁及以上的 YouTube 账户持有者开放。该功能可以扫描 YouTube 以查找面部匹配，帮助内容创作者监控其肖像在平台上的使用情况。",
+    "reason": "AI 在内容版权保护方面的重要应用，影响所有视频创作者",
+    "url": "https://www.theverge.com/2025/5/15/24365892/youtube-likness-detection-facial-scanning",
+    "date": "2026-05-17"
   },
   {
-    "id": "2026051303",
-    "category": "国外新闻",
-    "title": "Mira Murati的新公司Thinking Machines展示实时AI交互模型",
+    "id": "2",
+    "category": "国外",
+    "title": "Replit 与 Apple 达成协议，iOS 应用更新恢复",
     "source": "The Verge",
-    "summary": "前OpenAI CTO Mira Murati创立的Thinking Machines公司展示了能够实时响应用户的AI交互模型，标志着AI人机交互的新突破。",
-    "reason": "Mira Murati是OpenAI前核心技术领导者，她的新动向值得关注，实时AI交互可能是下一个重要方向。",
-    "url": "https://www.theverge.com/2026/5/12/mira-murati-thinking-machines-ai-interaction",
-    "date": "2026-05-13"
+    "summary": "Replit CEO Amjad Masad 宣布，该应用在四个月内首次获得 iOS 更新。此前 Apple 曾阻止 Replit 和其他 vibe coding 应用发布 App Store 更新，除非它们进行更改。Replit 表示已经与 Apple '解决了问题'。",
+    "reason": "AI 编程工具与平台政策的博弈，影响开发者生态",
+    "url": "https://www.theverge.com/2025/5/15/24365891/replit-apple-ios-update-vibe-coding",
+    "date": "2026-05-17"
   },
   {
-    "id": "2026051304",
-    "category": "国内新闻",
-    "title": "所有实验室都怕字节，所有人都在夸DeepSeek！美国研究员36小时中国AI行",
-    "source": "量子位",
-    "summary": "美国研究员在中国36小时AI调研后发现，字节跳动和DeepSeek是中国AI最受关注的两个公司，前者因技术实力被敬畏，后者因开源贡献被称赞。",
-    "reason": "外部视角看中国AI发展，字节跳动和DeepSeek的国际化影响力值得关注。",
-    "url": "https://www.qbitai.com/2026/05/12/deepseek-bytedance-ai-china-tour",
-    "date": "2026-05-13"
+    "id": "3",
+    "category": "国外",
+    "title": "研究人员用 Claude 在 5 天内攻破 macOS 安全机制",
+    "source": "The Verge",
+    "summary": "研究人员使用 Claude AI 工具仅用五天就构建了利用两个 macOS 漏洞的代码。苹果去年表示其 Memory Integrity Enforcement (MIE) 技术是'前所未有的设计和工程努力的 culmination'，但 AI 加速了漏洞挖掘过程。",
+    "reason": "AI 在网络安全领域的双刃剑效应",
+    "url": "https://www.theverge.com/2025/5/15/24365889/claude-macos-security-exploit-mythos",
+    "date": "2026-05-17"
   },
   {
-    "id": "2026051305",
-    "category": "国内新闻",
-    "title": "浙大校友用AI突破32年拉姆齐数下界",
-    "source": "量子位",
-    "summary": "浙江大学校友团队使用AI成功突破了保持了32年的拉姆齐数下界，这是AI在数学领域取得的重大突破。",
-    "reason": "AI在数学研究中的应用取得实质性进展，证明AI不仅是工具，更是科研合作伙伴。",
-    "url": "https://www.qbitai.com/2026/05/12/ai-ramsey-number-breakthrough-zhejiang",
-    "date": "2026-05-13"
+    "id": "4",
+    "category": "国外",
+    "title": "学术期刊被 AI 生成论文淹没",
+    "source": "The Verge",
+    "summary": "期刊编辑和同行评审者正被几乎不可能检测的 AI 生成论文淹没。这一现象引发了对学术诚信和同行评审体系的担忧，出版商正在寻找检测和应对 AI 生成内容的方法。",
+    "reason": "AI 对学术界的冲击，影响科研诚信体系",
+    "url": "https://www.theverge.com/2025/5/15/24365888/ai-generated-papers-academic-journals-peer-review",
+    "date": "2026-05-17"
   },
   {
-    "id": "2026051306",
-    "category": "国内新闻",
-    "title": "不更新参数就能强化学习！OpenAI翁家翌提出新范式",
-    "source": "量子位",
-    "summary": "OpenAI研究员翁家翌提出了一种新的强化学习范式，通过AI生成Python代码来实现决策，而无需更新模型参数。",
-    "reason": "华人研究员在AI顶级机构的影响力持续上升，新范式可能改变强化学习的传统路径。",
-    "url": "https://www.qbitai.com/2026/05/12/openai-reinforcement-learning-paradigm-weng",
-    "date": "2026-05-13"
+    "id": "5",
+    "category": "国外",
+    "title": "亚马逊 CEO Andy Jassy：AI 不会消失，将用机器人替代 60 万员工",
+    "source": "The Verge",
+    "summary": "亚马逊 CEO Andy Jassy 表示：'你可以选择对着风咆哮，但 AI 不会消失。'他正致力于将亚马逊全面转向 AI，计划到 2033 年用机器人替代 60 万名人类员工。这一战略转型反映了自动化趋势的加速。",
+    "reason": "AI 自动化对就业市场的重大影响",
+    "url": "https://www.theverge.com/2025/5/15/24365887/amazon-andy-jassy-ai-robotics-automation",
+    "date": "2026-05-17"
+  },
+  {
+    "id": "6",
+    "category": "国外",
+    "title": "音乐人 Jack Antonoff 猛烈抨击 AI 生成艺术",
+    "source": "The Verge",
+    "summary": "音乐制作人、Taylor Swift 的长期合作者 Jack Antonoff 在 Instagram 上猛烈抨击使用生成式 AI 工具的人，称他们为'Godless whores'（无神论的娼妓）。他说：'对于那些对伪造艺术的新方式感到兴奋的人，请继续驶向那个悬崖。我们很高兴看到你们离开。'",
+    "reason": "创意产业对 AI 的强烈抵制，艺术与技术的伦理争议",
+    "url": "https://www.theverge.com/2025/5/15/24365886/jack-antonoff-ai-generated-art-instagram-rant",
+    "date": "2026-05-17"
   }
 ]
