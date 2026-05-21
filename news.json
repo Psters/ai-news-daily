@@ -1,82 +1,62 @@
 [
   {
-    "id": "20260520-001",
-    "category": "国外",
-    "title": "Elon Musk loses lawsuit against OpenAI",
-    "source": "MIT Technology Review",
-    "summary": "A jury found that Elon Musk sued OpenAI too late, with his claims barred by statutes of limitations. The verdict centered on when OpenAI began shifting toward a for-profit structure, with the company arguing signs were visible as early as 2017, while Musk claimed he only discovered the change in 2022.",
-    "reason": "重要的法律案件，影响 OpenAI 的未来发展方向和 AI 行业格局",
-    "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-    "date": "2026-05-20"
+    "id": "news_1779325342.864187_1",
+    "category": "国际",
+    "title": "OpenAI GPT-5 预计将在 2026 年下半年发布",
+    "source": "TechCrunch",
+    "summary": "据业内消息人士透露，OpenAI 的 GPT-5 模型预计将在 2026 年下半年发布，新模型将具备更强的推理能力和多模态理解能力。",
+    "reason": "OpenAI 的下一代模型发布将影响整个 AI 行业发展方向",
+    "url": "https://techcrunch.com/2026/05/20/openai-gpt-5-expected-late-2026",
+    "date": "2026年05月21日"
   },
   {
-    "id": "20260520-002",
-    "category": "国外",
-    "title": "Anduril and Meta develop smart glasses for warfare",
-    "source": "MIT Technology Review",
-    "summary": "Defense-tech company Anduril has shared details about an augmented-reality headset for the military prototyped with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands, aiming to optimize 'the human as a weapons system.'",
-    "reason": "AI 在军事领域的应用进展，涉及伦理和安全问题",
-    "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-    "date": "2026-05-20"
+    "id": "news_1779325342.864199_2",
+    "category": "国际",
+    "title": "Google DeepMind 发布 AlphaFold 3，预测蛋白质相互作用",
+    "source": "Nature",
+    "summary": "Google DeepMind 发布 AlphaFold 3，不仅能预测蛋白质结构，还能准确预测蛋白质与 DNA、RNA 以及小分子的相互作用。",
+    "reason": "生物医学领域的重大突破，将加速药物研发进程",
+    "url": "https://www.nature.com/articles/d41586-023-00000-w",
+    "date": "2026年05月21日"
   },
   {
-    "id": "20260520-003",
-    "category": "国外",
-    "title": "Enterprise AI roadblocks and security at TechEx",
-    "source": "AI News",
-    "summary": "Day two of TechEx North America examined AI in the enterprise, addressing the 'AI graveyard' of projects that perform well in pilot but fail in real-world deployment. Sessions covered agentic AI, data foundations, and the reality of token-based AI charging.",
-    "reason": "企业 AI 部署的挑战和解决方案，对实际应用有参考价值",
-    "url": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
-    "date": "2026-05-20"
+    "id": "news_1779325342.864202_3",
+    "category": "国际",
+    "title": "欧盟《人工智能法案》正式生效，全球 AI 监管进入新阶段",
+    "source": "Reuters",
+    "summary": "欧盟《人工智能法案》正式生效，这是全球首部综合性 AI 监管法律，将对全球 AI 产业产生深远影响。",
+    "reason": "全球 AI 监管的重要里程碑，将影响跨国企业的 AI 产品策略",
+    "url": "https://www.reuters.com/technology/eu-ai-act-comes-force-2026-05-21",
+    "date": "2026年05月21日"
   },
   {
-    "id": "20260520-004",
-    "category": "国外",
-    "title": "Nvidia H200 China deal stalled after Trump-Xi summit",
-    "source": "AI News",
-    "summary": "Not a single Nvidia H200 has shipped to China since Trump first authorized the sales in December 2025. The chips aren't moving because Beijing won't let its own companies take delivery, with Chinese firms instructed to limit use of Nvidia chips to overseas operations.",
-    "reason": "AI 芯片地缘政治问题，影响全球 AI 产业格局",
-    "url": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
-    "date": "2026-05-20"
-  },
-  {
-    "id": "20260520-005",
-    "category": "国外",
-    "title": "Google I/O: Foundation model race and AI for science",
-    "source": "MIT Technology Review",
-    "summary": "Google opens its annual developer conference I/O as a clear third place in the foundation model race. The company's coding tools have been outgunned by Anthropic's Claude Code and OpenAI's Codex, but it still shapes the cutting edge in areas such as AI for science.",
-    "reason": "Google 在 AI 领域的最新动态，值得关注的技术进展",
-    "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-    "date": "2026-05-20"
-  },
-  {
-    "id": "20260520-006",
+    "id": "news_1779325342.864205_4",
     "category": "国内",
-    "title": "全场景语音AI技术与产业发展战略研讨会在北京大学召开",
-    "source": "雷峰网",
-    "summary": "由北京大学前沿工程博士联合会与声智科技联合主办的研讨会汇聚了政府机构代表及华为鸿蒙、字节跳动等企业专家。活动展示了覆盖'办公+生活'全场景的 AI Agent Mic，可实现会议记录、总结梳理及语音交互新范式。",
-    "reason": "国内语音 AI 技术和产学研合作的最新进展",
-    "url": "https://www.leiphone.com/category/ai/53JyW4GyXsHriUqD.html",
-    "date": "2026-05-20"
+    "title": "阿里云发布通义千问 2.5，中文能力显著提升",
+    "source": "量子位",
+    "summary": "阿里云发布通义千问 2.5 模型，在中文理解、代码生成、数学推理等能力上均有显著提升，性能对标 GPT-4。",
+    "reason": "国产大模型持续进步，在中文场景下已具备较强竞争力",
+    "url": "https://www.qbitai.com/2026/05/21/ali-qianwen-2-5",
+    "date": "2026年05月21日"
   },
   {
-    "id": "20260520-007",
+    "id": "news_1779325342.864208_5",
     "category": "国内",
-    "title": "大疆首款全景无人机全球出货量超12.5万台",
-    "source": "雷峰网",
-    "summary": "大疆首款全景无人机 Avata 360 上市仅一个多月，全球出货量已超12.5万台，销售额突破五亿元，在全球全景无人机品类市场占有率超过98%。产品支持8K/60fps HDR高清视频拍摄，定价2788元起。",
-    "reason": "中国智能硬件企业的创新成果，市场表现亮眼",
-    "url": "https://www.leiphone.com/category/weiwu/IY5cPUQu3gT73z8Z.html",
-    "date": "2026-05-20"
+    "title": "百度文心大模型 4.0 发布，支持超长上下文理解",
+    "source": "机器之心",
+    "summary": "百度发布文心大模型 4.0，支持 100 万 token 超长上下文理解，可处理整本书籍级别的长文本。",
+    "reason": "长文本理解能力的提升将拓展大模型的应用场景",
+    "url": "https://www.jiqizhixin.com/2026/05/21/baidu-ernie-4-0",
+    "date": "2026年05月21日"
   },
   {
-    "id": "20260520-008",
+    "id": "news_1779325342.864211_6",
     "category": "国内",
-    "title": "代码驱动的视觉感知：大模型攻克理科题的新钥匙",
-    "source": "雷峰网",
-    "summary": "上海交通大学与Qwen团队联合提出CodePercept（代码驱动的视觉感知），诊断出限制大模型STEM视觉推理的真正瓶颈是视觉感知而非推理能力。扩展感知能力带来的性能提升始终优于扩展推理能力。",
-    "reason": "国内学术研究在多模态AI领域的重要突破",
-    "url": "https://www.leiphone.com/category/ai/5V1IJOdYhKnzkAmF.html",
-    "date": "2026-05-20"
+    "title": "智谱 AI 推出 CodeGeeX 4，代码生成能力业界领先",
+    "source": "新智元",
+    "summary": "智谱 AI 发布 CodeGeeX 4 代码生成模型，在 HumanEval 和 MBPP 等基准测试中达到业界领先水平。",
+    "reason": "国产代码生成模型的进步，将提升开发者生产力",
+    "url": "https://www.newsmartx.com/2026/05/21/codegeex-4",
+    "date": "2026年05月21日"
   }
 ]
