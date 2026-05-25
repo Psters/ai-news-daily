@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "2026052501",
+    "category": "国外",
+    "title": "Google I/O showed how the path for AI-driven science is shifting",
+    "source": "MIT Technology Review",
+    "summary": "两年前，AI工具为Google DeepMind赢得了诺贝尔奖。现在，研究人员正朝着新的目标迈进——探索AI在科学发现中的新路径。",
+    "reason": "探讨AI在科学领域的最新发展方向，值得关注。",
+    "url": "https://www.technologyreview.com/2026/05/22/1104636/google-io-ai-science/",
+    "date": "2026年05月25日"
+  },
+  {
+    "id": "2026052502",
+    "category": "国外",
+    "title": "Anthropic's Code with Claude showed off coding's future",
+    "source": "MIT Technology Review",
+    "summary": "随着Claude Code等工具的改进，越来越多的开发者愿意将编码任务交给它们。软件构建的方式已经永久改变。",
+    "reason": "AI编程工具的最新进展，开发者必看。",
+    "url": "https://www.technologyreview.com/2026/05/21/1104589/anthropic-claude-code/",
+    "date": "2026年05月25日"
+  },
+  {
+    "id": "2026052503",
+    "category": "国外",
+    "title": "Here's why Elon Musk lost his suit against OpenAI",
+    "source": "MIT Technology Review",
+    "summary": "经过三周的激烈证词，陪审团裁定马斯克起诉AI巨头的时间太晚了。",
+    "reason": "马斯克 vs OpenAI 诉讼案的最新进展，了解AI行业动态。",
+    "url": "https://www.technologyreview.com/2026/05/20/1104523/musk-openai-lawsuit/",
+    "date": "2026年05月25日"
+  },
+  {
+    "id": "2026052504",
+    "category": "国内",
+    "title": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
+    "source": "量子位",
+    "summary": "OpenAI的非数学模型首次自主突破了80年未解的数学难题，连菲尔兹奖得主都感到震惊。长达125页的推演过程令人震撼。",
+    "reason": "AI在数学领域的重大突破，展示了AI的推理能力。",
+    "url": "https://www.qbitai.com/2026/05/21/1104567",
+    "date": "2026年05月25日"
+  },
+  {
+    "id": "2026052505",
+    "category": "国内",
+    "title": "DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI",
+    "source": "量子位",
+    "summary": "DeepSeek V4大幅降价，宁德时代、京东、网易等巨头纷纷入场。梁文锋表示DeepSeek的目标是实现AGI，并承诺坚持开源路线。",
+    "reason": "国内大模型价格战升级，巨头纷纷布局AI领域。",
+    "url": "https://www.qbitai.com/2026/05/23/1104701",
+    "date": "2026年05月25日"
+  },
+  {
+    "id": "2026052506",
+    "category": "国内",
+    "title": "李飞飞再出手，空间智能的ImageNet来了",
+    "source": "量子位",
+    "summary": "李飞飞团队发布了专门用于评测具身空间智能的新基准，被称为空间智能领域的ImageNet。",
+    "reason": "李飞飞团队在空间智能领域的最新研究成果。",
+    "url": "https://www.qbitai.com/2026/05/23/1104698",
+    "date": "2026年05月25日"
+  }
+]
