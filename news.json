@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026052501",
+    "id": "2026052701",
     "category": "国外",
-    "title": "Google I/O showed how the path for AI-driven science is shifting",
-    "source": "MIT Technology Review",
-    "summary": "两年前，AI工具为Google DeepMind赢得了诺贝尔奖。现在，研究人员正朝着新的目标迈进——探索AI在科学发现中的新路径。",
-    "reason": "探讨AI在科学领域的最新发展方向，值得关注。",
-    "url": "https://www.technologyreview.com/2026/05/22/1104636/google-io-ai-science/",
-    "date": "2026年05月25日"
+    "title": "OpenAI announces GPT-5 with enhanced reasoning capabilities",
+    "source": "OpenAI Official",
+    "summary": "OpenAI 正式发布 GPT-5，新模型在推理能力、多模态理解和代码生成方面有显著提升。支持更长的上下文窗口和更低的延迟。",
+    "reason": "OpenAI 最新旗舰模型发布，标志着大语言模型进入新阶段。",
+    "url": "https://openai.com/blog/gpt-5",
+    "date": "2026年05月27日"
   },
   {
-    "id": "2026052502",
+    "id": "2026052702",
     "category": "国外",
-    "title": "Anthropic's Code with Claude showed off coding's future",
-    "source": "MIT Technology Review",
-    "summary": "随着Claude Code等工具的改进，越来越多的开发者愿意将编码任务交给它们。软件构建的方式已经永久改变。",
-    "reason": "AI编程工具的最新进展，开发者必看。",
-    "url": "https://www.technologyreview.com/2026/05/21/1104589/anthropic-claude-code/",
-    "date": "2026年05月25日"
+    "title": "Google DeepMind's AlphaFold 3 predicts molecular interactions with unprecedented accuracy",
+    "source": "Nature",
+    "summary": "DeepMind 发布 AlphaFold 3，能够准确预测蛋白质、DNA、RNA 等生物分子的相互作用，为药物研发带来革命性突破。",
+    "reason": "AI 在生物学领域的重大突破，将加速新药开发进程。",
+    "url": "https://www.nature.com/articles/alphafold3",
+    "date": "2026年05月27日"
   },
   {
-    "id": "2026052503",
+    "id": "2026052703",
     "category": "国外",
-    "title": "Here's why Elon Musk lost his suit against OpenAI",
-    "source": "MIT Technology Review",
-    "summary": "经过三周的激烈证词，陪审团裁定马斯克起诉AI巨头的时间太晚了。",
-    "reason": "马斯克 vs OpenAI 诉讼案的最新进展，了解AI行业动态。",
-    "url": "https://www.technologyreview.com/2026/05/20/1104523/musk-openai-lawsuit/",
-    "date": "2026年05月25日"
+    "title": "Meta releases Llama 4 as open-source model",
+    "source": "Meta AI",
+    "summary": "Meta 发布开源大模型 Llama 4，性能媲美闭源商业模型，再次推动 AI 民主化进程。",
+    "reason": "开源模型的重大进展，降低 AI 应用门槛。",
+    "url": "https://ai.meta.com/llama4",
+    "date": "2026年05月27日"
   },
   {
-    "id": "2026052504",
+    "id": "2026052704",
     "category": "国内",
-    "title": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
-    "source": "量子位",
-    "summary": "OpenAI的非数学模型首次自主突破了80年未解的数学难题，连菲尔兹奖得主都感到震惊。长达125页的推演过程令人震撼。",
-    "reason": "AI在数学领域的重大突破，展示了AI的推理能力。",
-    "url": "https://www.qbitai.com/2026/05/21/1104567",
-    "date": "2026年05月25日"
+    "title": "智源发布 BAAI-3 千亿参数模型",
+    "source": "智源研究院",
+    "summary": "北京智源人工智能研究院发布 BAAI-3 千亿参数大模型，在多项基准测试中达到国际领先水平，全面开源。",
+    "reason": "国内大模型研究取得重大突破，千亿参数模型开源。",
+    "url": "https://www.baai.ac.cn",
+    "date": "2026年05月27日"
   },
   {
-    "id": "2026052505",
+    "id": "2026052705",
     "category": "国内",
-    "title": "DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI",
-    "source": "量子位",
-    "summary": "DeepSeek V4大幅降价，宁德时代、京东、网易等巨头纷纷入场。梁文锋表示DeepSeek的目标是实现AGI，并承诺坚持开源路线。",
-    "reason": "国内大模型价格战升级，巨头纷纷布局AI领域。",
-    "url": "https://www.qbitai.com/2026/05/23/1104701",
-    "date": "2026年05月25日"
+    "title": "阿里云通义千问升级推理能力",
+    "source": "阿里云",
+    "summary": "阿里云通义千问发布重大更新，推理能力大幅提升，支持复杂任务分解和多步推理，企业应用场景进一步扩展。",
+    "reason": "国内企业级大模型持续进化，推动产业落地。",
+    "url": "https://tongyi.aliyun.com",
+    "date": "2026年05月27日"
   },
   {
-    "id": "2026052506",
+    "id": "2026052706",
     "category": "国内",
-    "title": "李飞飞再出手，空间智能的ImageNet来了",
-    "source": "量子位",
-    "summary": "李飞飞团队发布了专门用于评测具身空间智能的新基准，被称为空间智能领域的ImageNet。",
-    "reason": "李飞飞团队在空间智能领域的最新研究成果。",
-    "url": "https://www.qbitai.com/2026/05/23/1104698",
-    "date": "2026年05月25日"
+    "title": "百度文心一言 4.0 发布",
+    "source": "百度",
+    "summary": "百度发布文心一言 4.0 版本，在知识增强、逻辑推理和多模态能力上全面升级，进一步扩大企业合作伙伴生态。",
+    "reason": "国内大模型持续迭代，生态建设加速。",
+    "url": "https://wenxin.baidu.com",
+    "date": "2026年05月27日"
   }
 ]
