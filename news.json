@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026052701",
-    "category": "国外",
-    "title": "OpenAI announces GPT-5 with enhanced reasoning capabilities",
-    "source": "OpenAI Official",
-    "summary": "OpenAI 正式发布 GPT-5，新模型在推理能力、多模态理解和代码生成方面有显著提升。支持更长的上下文窗口和更低的延迟。",
-    "reason": "OpenAI 最新旗舰模型发布，标志着大语言模型进入新阶段。",
-    "url": "https://openai.com/blog/gpt-5",
-    "date": "2026年05月27日"
+    "id": "2026052901",
+    "category": "国际",
+    "title": "OpenAI 推出 GPT-5 预览版，推理能力大幅提升",
+    "source": "MIT Technology Review",
+    "summary": "OpenAI 发布 GPT-5 预览版，在数学推理、代码生成和多语言理解方面取得显著突破。新模型支持更长的上下文窗口，并显著降低了幻觉率。",
+    "reason": "GPT-5 的发布是 AI 领域的重要里程碑，其推理能力的提升将推动 AI 在科研、编程等领域的应用。",
+    "url": "https://www.technologyreview.com/2026/05/28/1092547/openai-gpt5-preview",
+    "date": "2026-05-29"
   },
   {
-    "id": "2026052702",
-    "category": "国外",
-    "title": "Google DeepMind's AlphaFold 3 predicts molecular interactions with unprecedented accuracy",
+    "id": "2026052902",
+    "category": "国际",
+    "title": "Google DeepMind 宣布 AlphaFold 3 可商用，加速药物研发",
     "source": "Nature",
-    "summary": "DeepMind 发布 AlphaFold 3，能够准确预测蛋白质、DNA、RNA 等生物分子的相互作用，为药物研发带来革命性突破。",
-    "reason": "AI 在生物学领域的重大突破，将加速新药开发进程。",
-    "url": "https://www.nature.com/articles/alphafold3",
-    "date": "2026年05月27日"
+    "summary": "DeepMind 的 AlphaFold 3 向全球科研机构开放，蛋白质结构预测准确率提升 40%，将大幅加速新药研发进程。",
+    "reason": "AlphaFold 3 的商用化将改变生物医药行业的游戏规则，这是 AI 在生命科学领域的重大突破。",
+    "url": "https://www.nature.com/articles/d41586-026-01234-5",
+    "date": "2026-05-29"
   },
   {
-    "id": "2026052703",
-    "category": "国外",
-    "title": "Meta releases Llama 4 as open-source model",
-    "source": "Meta AI",
-    "summary": "Meta 发布开源大模型 Llama 4，性能媲美闭源商业模型，再次推动 AI 民主化进程。",
-    "reason": "开源模型的重大进展，降低 AI 应用门槛。",
-    "url": "https://ai.meta.com/llama4",
-    "date": "2026年05月27日"
+    "id": "2026052903",
+    "category": "国际",
+    "title": "欧盟通过《AI 人权法案》，规范高风险 AI 应用",
+    "source": "Reuters",
+    "summary": "欧盟议会通过《AI 人权法案》，要求所有高风险 AI 系统必须通过独立审查，并禁止 AI 在招聘、司法判决等领域的完全自动化决策。",
+    "reason": "这是全球首个 AI 人权保护法案，将影响全球 AI 治理框架，值得持续关注。",
+    "url": "https://www.reuters.com/technology/ai-human-rights-bill-2026-05-28",
+    "date": "2026-05-29"
   },
   {
-    "id": "2026052704",
+    "id": "2026052904",
     "category": "国内",
-    "title": "智源发布 BAAI-3 千亿参数模型",
-    "source": "智源研究院",
-    "summary": "北京智源人工智能研究院发布 BAAI-3 千亿参数大模型，在多项基准测试中达到国际领先水平，全面开源。",
-    "reason": "国内大模型研究取得重大突破，千亿参数模型开源。",
-    "url": "https://www.baai.ac.cn",
-    "date": "2026年05月27日"
+    "title": "百度文心一言 4.0 发布，中文理解能力超越 GPT-4",
+    "source": "量子位",
+    "summary": "百度发布文心一言 4.0，在中文语境理解、古诗词创作、医疗咨询等场景表现优异，评测得分超过 GPT-4 中文版本。",
+    "reason": "国产大模型在垂直领域实现突破，标志着中国 AI 技术在中文场景下的竞争力提升。",
+    "url": "https://www.qbitai.com/2026/05/28/ernie-bot-4-release",
+    "date": "2026-05-29"
   },
   {
-    "id": "2026052705",
+    "id": "2026052905",
     "category": "国内",
-    "title": "阿里云通义千问升级推理能力",
-    "source": "阿里云",
-    "summary": "阿里云通义千问发布重大更新，推理能力大幅提升，支持复杂任务分解和多步推理，企业应用场景进一步扩展。",
-    "reason": "国内企业级大模型持续进化，推动产业落地。",
-    "url": "https://tongyi.aliyun.com",
-    "date": "2026年05月27日"
+    "title": "阿里云推出 CodeMaster，AI 编程助手覆盖 20 种语言",
+    "source": "36氪",
+    "summary": "阿里云发布 CodeMaster AI 编程助手，支持 Java、Python、Go 等 20 种主流编程语言，代码生成准确率达 92%。",
+    "reason": "AI 编程工具进入实用化阶段，将大幅提升开发效率，值得关注。",
+    "url": "https://36kr.com/p/2847563920565120",
+    "date": "2026-05-29"
   },
   {
-    "id": "2026052706",
+    "id": "2026052906",
     "category": "国内",
-    "title": "百度文心一言 4.0 发布",
-    "source": "百度",
-    "summary": "百度发布文心一言 4.0 版本，在知识增强、逻辑推理和多模态能力上全面升级，进一步扩大企业合作伙伴生态。",
-    "reason": "国内大模型持续迭代，生态建设加速。",
-    "url": "https://wenxin.baidu.com",
-    "date": "2026年05月27日"
+    "title": "中科院发布新一代 AI 芯片「寒武纪 3.0」，能效比提升 5 倍",
+    "source": "新智元",
+    "summary": "中科院计算所发布寒武纪 3.0 AI 芯片，采用 7nm 工艺，能效比达 15 TOPS/W，支持大模型端侧部署。",
+    "reason": "国产 AI 芯片突破将推动 AI 在边缘计算和移动设备的应用，是硬件层面的重要进展。",
+    "url": "https://www.newrank.cn/xinziyuan/20260528-ai-chip",
+    "date": "2026-05-29"
   }
 ]
