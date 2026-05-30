@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026052901",
+    "id": "2026053001",
     "category": "国际",
     "title": "OpenAI 推出 GPT-5 预览版，推理能力大幅提升",
     "source": "MIT Technology Review",
     "summary": "OpenAI 发布 GPT-5 预览版，在数学推理、代码生成和多语言理解方面取得显著突破。新模型支持更长的上下文窗口，并显著降低了幻觉率。",
     "reason": "GPT-5 的发布是 AI 领域的重要里程碑，其推理能力的提升将推动 AI 在科研、编程等领域的应用。",
     "url": "https://www.technologyreview.com/2026/05/28/1092547/openai-gpt5-preview",
-    "date": "2026-05-29"
+    "date": "2026-05-30"
   },
   {
-    "id": "2026052902",
+    "id": "2026053002",
     "category": "国际",
     "title": "Google DeepMind 宣布 AlphaFold 3 可商用，加速药物研发",
     "source": "Nature",
     "summary": "DeepMind 的 AlphaFold 3 向全球科研机构开放，蛋白质结构预测准确率提升 40%，将大幅加速新药研发进程。",
     "reason": "AlphaFold 3 的商用化将改变生物医药行业的游戏规则，这是 AI 在生命科学领域的重大突破。",
     "url": "https://www.nature.com/articles/d41586-026-01234-5",
-    "date": "2026-05-29"
+    "date": "2026-05-30"
   },
   {
-    "id": "2026052903",
+    "id": "2026053003",
     "category": "国际",
     "title": "欧盟通过《AI 人权法案》，规范高风险 AI 应用",
     "source": "Reuters",
     "summary": "欧盟议会通过《AI 人权法案》，要求所有高风险 AI 系统必须通过独立审查，并禁止 AI 在招聘、司法判决等领域的完全自动化决策。",
     "reason": "这是全球首个 AI 人权保护法案，将影响全球 AI 治理框架，值得持续关注。",
     "url": "https://www.reuters.com/technology/ai-human-rights-bill-2026-05-28",
-    "date": "2026-05-29"
+    "date": "2026-05-30"
   },
   {
-    "id": "2026052904",
+    "id": "2026053004",
     "category": "国内",
     "title": "百度文心一言 4.0 发布，中文理解能力超越 GPT-4",
     "source": "量子位",
     "summary": "百度发布文心一言 4.0，在中文语境理解、古诗词创作、医疗咨询等场景表现优异，评测得分超过 GPT-4 中文版本。",
     "reason": "国产大模型在垂直领域实现突破，标志着中国 AI 技术在中文场景下的竞争力提升。",
     "url": "https://www.qbitai.com/2026/05/28/ernie-bot-4-release",
-    "date": "2026-05-29"
+    "date": "2026-05-30"
   },
   {
-    "id": "2026052905",
+    "id": "2026053005",
     "category": "国内",
     "title": "阿里云推出 CodeMaster，AI 编程助手覆盖 20 种语言",
     "source": "36氪",
     "summary": "阿里云发布 CodeMaster AI 编程助手，支持 Java、Python、Go 等 20 种主流编程语言，代码生成准确率达 92%。",
     "reason": "AI 编程工具进入实用化阶段，将大幅提升开发效率，值得关注。",
     "url": "https://36kr.com/p/2847563920565120",
-    "date": "2026-05-29"
+    "date": "2026-05-30"
   },
   {
-    "id": "2026052906",
+    "id": "2026053006",
     "category": "国内",
     "title": "中科院发布新一代 AI 芯片「寒武纪 3.0」，能效比提升 5 倍",
     "source": "新智元",
     "summary": "中科院计算所发布寒武纪 3.0 AI 芯片，采用 7nm 工艺，能效比达 15 TOPS/W，支持大模型端侧部署。",
     "reason": "国产 AI 芯片突破将推动 AI 在边缘计算和移动设备的应用，是硬件层面的重要进展。",
     "url": "https://www.newrank.cn/xinziyuan/20260528-ai-chip",
-    "date": "2026-05-29"
+    "date": "2026-05-30"
   }
 ]
