@@ -1,0 +1,5 @@
+2026-06-01 01:03:00 UTC
+Git push 失败：fatal: could not read Username for 'https://github.com': No such device or directory
+
+原因：可能是网络问题或 Git 认证配置问题
+解决方案：需要检查 Git 凭据配置或网络连接
