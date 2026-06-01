@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026053001",
-    "category": "国际",
-    "title": "OpenAI 推出 GPT-5 预览版，推理能力大幅提升",
-    "source": "MIT Technology Review",
-    "summary": "OpenAI 发布 GPT-5 预览版，在数学推理、代码生成和多语言理解方面取得显著突破。新模型支持更长的上下文窗口，并显著降低了幻觉率。",
-    "reason": "GPT-5 的发布是 AI 领域的重要里程碑，其推理能力的提升将推动 AI 在科研、编程等领域的应用。",
-    "url": "https://www.technologyreview.com/2026/05/28/1092547/openai-gpt5-preview",
-    "date": "2026-05-30"
+    "id": "1",
+    "category": "国外新闻",
+    "title": "Anthropic 发布 Claude Opus 4.8：编程和代理工作流重大升级",
+    "source": "AI News",
+    "summary": "Anthropic 发布了 Claude Opus 4.8，这是对 Opus 4.7 的重大升级。新模型在编码、代理工作、推理和知识工作方面表现更优。引入了动态工作流功能，可以规划工作、运行并行子代理、验证输出并向用户报告。Opus 4.8 传递错误代码的可能性比前代降低 4 倍。快速模式下速度提升 2.5 倍。",
+    "reason": "Claude 是当前领先的 AI 模型之一，此次升级对开发者和企业用户具有重要意义，特别是动态工作流和成本优化方面。",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "date": "2026年06月01日"
   },
   {
-    "id": "2026053002",
-    "category": "国际",
-    "title": "Google DeepMind 宣布 AlphaFold 3 可商用，加速药物研发",
-    "source": "Nature",
-    "summary": "DeepMind 的 AlphaFold 3 向全球科研机构开放，蛋白质结构预测准确率提升 40%，将大幅加速新药研发进程。",
-    "reason": "AlphaFold 3 的商用化将改变生物医药行业的游戏规则，这是 AI 在生命科学领域的重大突破。",
-    "url": "https://www.nature.com/articles/d41586-026-01234-5",
-    "date": "2026-05-30"
+    "id": "2",
+    "category": "国外新闻",
+    "title": "OpenAI Codex 现在可以控制你的 Windows 计算机",
+    "source": "The Verge",
+    "summary": "OpenAI 的 Codex 功能已扩展到 Windows 平台，应用可以\"看到\"你的屏幕并在你的设备上执行任务。用户还可以使用 ChatGPT 应用在离开计算机时管理和审查 Codex 的工作。此前该功能已在 macOS 上推出。",
+    "reason": "AI 代理直接控制计算机是重要的技术突破，这意味着 AI 可以自主完成更复杂的任务。",
+    "url": "https://www.theverge.com/2026/5/29/24251823/openai-codex-windows-computer-use-feature",
+    "date": "2026年06月01日"
   },
   {
-    "id": "2026053003",
-    "category": "国际",
-    "title": "欧盟通过《AI 人权法案》，规范高风险 AI 应用",
-    "source": "Reuters",
-    "summary": "欧盟议会通过《AI 人权法案》，要求所有高风险 AI 系统必须通过独立审查，并禁止 AI 在招聘、司法判决等领域的完全自动化决策。",
-    "reason": "这是全球首个 AI 人权保护法案，将影响全球 AI 治理框架，值得持续关注。",
-    "url": "https://www.reuters.com/technology/ai-human-rights-bill-2026-05-28",
-    "date": "2026-05-30"
+    "id": "3",
+    "category": "国外新闻",
+    "title": "据报道微软正在开发自己的 AI \"超级应用\"",
+    "source": "The Verge",
+    "summary": "据报道，微软正在开发一个\"超级应用\"，将 GitHub Copilot、Copilot 聊天机器人、Copilot Cowork 和一个内部名为 Autopilot 的新代理工作流功能整合到一个地方。这类似于 OpenAI 的\"超级应用\"野心。",
+    "reason": "微软将所有 AI 功能整合到一个应用中，显示了其对 AI 主导地位的野心，也可能改变用户与 AI 的交互方式。",
+    "url": "https://fortune.com/2026/05/29/microsoft-working-on-super-app/",
+    "date": "2026年06月01日"
   },
   {
-    "id": "2026053004",
-    "category": "国内",
-    "title": "百度文心一言 4.0 发布，中文理解能力超越 GPT-4",
-    "source": "量子位",
-    "summary": "百度发布文心一言 4.0，在中文语境理解、古诗词创作、医疗咨询等场景表现优异，评测得分超过 GPT-4 中文版本。",
-    "reason": "国产大模型在垂直领域实现突破，标志着中国 AI 技术在中文场景下的竞争力提升。",
-    "url": "https://www.qbitai.com/2026/05/28/ernie-bot-4-release",
-    "date": "2026-05-30"
+    "id": "4",
+    "category": "国外新闻",
+    "title": "Anthropic 融资 650 亿美元，估值达 9000 亿美元",
+    "source": "The Verge",
+    "summary": "Anthropic 完成了 650 亿美元的 H 轮融资，估值高达 9000 亿美元，超过了 OpenAI 最近 7300 亿美元的估值。该公司表示资金将用于推进安全研究、扩展计算能力和扩展产品。",
+    "reason": "AI 领域的融资规模持续创纪录，显示了投资者对 AI 技术未来发展的强烈信心，也可能影响整个行业的竞争格局。",
+    "url": "https://www.anthropic.com/news/series-h",
+    "date": "2026年06月01日"
   },
   {
-    "id": "2026053005",
-    "category": "国内",
-    "title": "阿里云推出 CodeMaster，AI 编程助手覆盖 20 种语言",
-    "source": "36氪",
-    "summary": "阿里云发布 CodeMaster AI 编程助手，支持 Java、Python、Go 等 20 种主流编程语言，代码生成准确率达 92%。",
-    "reason": "AI 编程工具进入实用化阶段，将大幅提升开发效率，值得关注。",
-    "url": "https://36kr.com/p/2847563920565120",
-    "date": "2026-05-30"
+    "id": "5",
+    "category": "国外新闻",
+    "title": "OpenAI 即将淘汰 ChatGPT 的 Canvas 界面",
+    "source": "The Verge",
+    "summary": "OpenAI 宣布将淘汰 ChatGPT 的 Canvas 界面功能，该功能允许用户与 ChatGPT 并排编辑代码或文本。Canvas 将不再适用于 GPT-5.5 Instant 或 GPT-5.5 Thinking。OpenAI 还在简化 GPT-5.5 Instant 的响应，使其更易阅读。",
+    "reason": "OpenAI 不断调整其产品界面和功能，显示了其在用户体验和产品策略上的快速迭代。",
+    "url": "https://www.theverge.com/2026/5/29/24251819/openai-chatgpt-canvas-sunset-gpt-5-5",
+    "date": "2026年06月01日"
   },
   {
-    "id": "2026053006",
-    "category": "国内",
-    "title": "中科院发布新一代 AI 芯片「寒武纪 3.0」，能效比提升 5 倍",
-    "source": "新智元",
-    "summary": "中科院计算所发布寒武纪 3.0 AI 芯片，采用 7nm 工艺，能效比达 15 TOPS/W，支持大模型端侧部署。",
-    "reason": "国产 AI 芯片突破将推动 AI 在边缘计算和移动设备的应用，是硬件层面的重要进展。",
-    "url": "https://www.newrank.cn/xinziyuan/20260528-ai-chip",
-    "date": "2026-05-30"
+    "id": "6",
+    "category": "国外新闻",
+    "title": "亚马逊关闭内部 AI 使用排行榜",
+    "source": "The Verge",
+    "summary": "亚马逊关闭了内部追踪员工使用 AI 情况的排行榜。亚马逊高管 Dave Treadwell 告诉员工：\"不要仅仅为了使用 AI 而使用 AI。\"此前，该工具导致一些员工为了在排行榜上上升，让 AI 代理执行不必要的任务。",
+    "reason": "这反映了企业 AI 应用中的一个重要问题：避免形式主义，确保 AI 的使用真正创造价值。",
+    "url": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6",
+    "date": "2026年06月01日"
   }
 ]
