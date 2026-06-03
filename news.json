@@ -1,62 +1,62 @@
 [
   {
     "id": "1",
-    "category": "国外新闻",
-    "title": "Anthropic 发布 Claude Opus 4.8：编程和代理工作流重大升级",
-    "source": "AI News",
-    "summary": "Anthropic 发布了 Claude Opus 4.8，这是对 Opus 4.7 的重大升级。新模型在编码、代理工作、推理和知识工作方面表现更优。引入了动态工作流功能，可以规划工作、运行并行子代理、验证输出并向用户报告。Opus 4.8 传递错误代码的可能性比前代降低 4 倍。快速模式下速度提升 2.5 倍。",
-    "reason": "Claude 是当前领先的 AI 模型之一，此次升级对开发者和企业用户具有重要意义，特别是动态工作流和成本优化方面。",
-    "url": "https://www.anthropic.com/news/claude-opus-4-8",
-    "date": "2026年06月01日"
+    "category": "国外",
+    "title": "March 2026 AI News Roundup: Breakthroughs and the Fights ...",
+    "source": "PTech Partners",
+    "summary": "AI 编程代理趋势持续上升，"token焦虑"成为 3 月热词。软件工程师现在更多地在监督和审查代理工作，而不是手工编写新代码。Circle CEO 表示，AI 代理将在大规模范围内取代目前由人类完成的大量工作。",
+    "reason": "展现了 AI 编程代理的快速发展趋势和对劳动力市场的重大影响",
+    "url": "https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears",
+    "date": "2026年06月03日"
   },
   {
     "id": "2",
-    "category": "国外新闻",
-    "title": "OpenAI Codex 现在可以控制你的 Windows 计算机",
-    "source": "The Verge",
-    "summary": "OpenAI 的 Codex 功能已扩展到 Windows 平台，应用可以\"看到\"你的屏幕并在你的设备上执行任务。用户还可以使用 ChatGPT 应用在离开计算机时管理和审查 Codex 的工作。此前该功能已在 macOS 上推出。",
-    "reason": "AI 代理直接控制计算机是重要的技术突破，这意味着 AI 可以自主完成更复杂的任务。",
-    "url": "https://www.theverge.com/2026/5/29/24251823/openai-codex-windows-computer-use-feature",
-    "date": "2026年06月01日"
+    "category": "国外",
+    "title": "AI Update, March 13, 2026: AI News and Views From the Past Week",
+    "source": "Marketing Profs",
+    "summary": "LinkedIn 成为 AI 聊天机器人回答专业查询时最常引用的主要来源之一。Google 为 Workspace 升级 Gemini，可以跨应用数据创建文档和演示文稿。",
+    "reason": "突显了 AI 对专业内容和办公自动化的深远影响",
+    "url": "https://www.marketingprofs.com/opinions/2026/54427/ai-update-march-13-2026-ai-news-and-views-from-the-past-week",
+    "date": "2026年06月03日"
   },
   {
     "id": "3",
-    "category": "国外新闻",
-    "title": "据报道微软正在开发自己的 AI \"超级应用\"",
-    "source": "The Verge",
-    "summary": "据报道，微软正在开发一个\"超级应用\"，将 GitHub Copilot、Copilot 聊天机器人、Copilot Cowork 和一个内部名为 Autopilot 的新代理工作流功能整合到一个地方。这类似于 OpenAI 的\"超级应用\"野心。",
-    "reason": "微软将所有 AI 功能整合到一个应用中，显示了其对 AI 主导地位的野心，也可能改变用户与 AI 的交互方式。",
-    "url": "https://fortune.com/2026/05/29/microsoft-working-on-super-app/",
-    "date": "2026年06月01日"
+    "category": "国外",
+    "title": "AI News March 2026: Everything That Happened In One Insane Week",
+    "source": "Reddit AISEOInsider",
+    "summary": "2026 年 3 月 AI 新闻以一次重大发布开始，展示了人工智能能力的快速提升。最新一代模型带来了突破性进展。",
+    "reason": "反映了 AI 领域的快速迭代和技术突破",
+    "url": "https://www.reddit.com/r/AISEOInsider/comments/1rp92zx/ai_news_march_2026_everything_that_happened_in",
+    "date": "2026年06月03日"
   },
   {
     "id": "4",
-    "category": "国外新闻",
-    "title": "Anthropic 融资 650 亿美元，估值达 9000 亿美元",
-    "source": "The Verge",
-    "summary": "Anthropic 完成了 650 亿美元的 H 轮融资，估值高达 9000 亿美元，超过了 OpenAI 最近 7300 亿美元的估值。该公司表示资金将用于推进安全研究、扩展计算能力和扩展产品。",
-    "reason": "AI 领域的融资规模持续创纪录，显示了投资者对 AI 技术未来发展的强烈信心，也可能影响整个行业的竞争格局。",
-    "url": "https://www.anthropic.com/news/series-h",
-    "date": "2026年06月01日"
+    "category": "国内",
+    "title": "AI最新资讯_人工智能新闻头条 - AI NEWS",
+    "source": "AIBase",
+    "summary": "谷歌 DeepMind CEO 称 AGI 最快三年内到来。企业级 AI 搜索独角兽 Glean 年营收突破 3 亿美元。三菱日联金融集团推行全员 AI 化转型。",
+    "reason": "涵盖 AGI 预测、商业化落地和企业转型等重要动态",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026年06月03日"
   },
   {
     "id": "5",
-    "category": "国外新闻",
-    "title": "OpenAI 即将淘汰 ChatGPT 的 Canvas 界面",
-    "source": "The Verge",
-    "summary": "OpenAI 宣布将淘汰 ChatGPT 的 Canvas 界面功能，该功能允许用户与 ChatGPT 并排编辑代码或文本。Canvas 将不再适用于 GPT-5.5 Instant 或 GPT-5.5 Thinking。OpenAI 还在简化 GPT-5.5 Instant 的响应，使其更易阅读。",
-    "reason": "OpenAI 不断调整其产品界面和功能，显示了其在用户体验和产品策略上的快速迭代。",
-    "url": "https://www.theverge.com/2026/5/29/24251819/openai-chatgpt-canvas-sunset-gpt-5-5",
-    "date": "2026年06月01日"
+    "category": "国内",
+    "title": "人工智慧 - BBC News 中文",
+    "source": "BBC 中文",
+    "summary": "教宗警告"新型数码奴役"风险，呼吁 AI 必须被"缴械"。谷歌时隔十余年再度推出智慧眼镜，隐私问题仍受关注。AI 冲击教育，中国家长怕孩子成了"科举被废后的秀才"。",
+    "reason": "从社会伦理、隐私保护、教育影响等角度审视 AI 发展",
+    "url": "https://www.bbc.com/zhongwen/topics/cpydz218gddt/trad",
+    "date": "2026年06月03日"
   },
   {
     "id": "6",
-    "category": "国外新闻",
-    "title": "亚马逊关闭内部 AI 使用排行榜",
-    "source": "The Verge",
-    "summary": "亚马逊关闭了内部追踪员工使用 AI 情况的排行榜。亚马逊高管 Dave Treadwell 告诉员工：\"不要仅仅为了使用 AI 而使用 AI。\"此前，该工具导致一些员工为了在排行榜上上升，让 AI 代理执行不必要的任务。",
-    "reason": "这反映了企业 AI 应用中的一个重要问题：避免形式主义，确保 AI 的使用真正创造价值。",
-    "url": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6",
-    "date": "2026年06月01日"
+    "category": "国内",
+    "title": "人工智能新闻 - 百度AI开放平台",
+    "source": "百度 AI",
+    "summary": "端到端语音语言大模型、大模型声音复刻、大模型语音合成等新品发布。提供完整的 AI 解决方案，包括语音、文字、图像等多种能力。",
+    "reason": "展示了国内 AI 技术的全面发展和商业化应用",
+    "url": "https://ai.baidu.com/support/news",
+    "date": "2026年06月03日"
   }
 ]
