@@ -1,62 +1,62 @@
 [
   {
     "id": "1",
-    "category": "国外",
-    "title": "March 2026 AI News Roundup: Breakthroughs and the Fights ...",
-    "source": "PTech Partners",
-    "summary": "AI 编程代理趋势持续上升，"token焦虑"成为 3 月热词。软件工程师现在更多地在监督和审查代理工作，而不是手工编写新代码。Circle CEO 表示，AI 代理将在大规模范围内取代目前由人类完成的大量工作。",
-    "reason": "展现了 AI 编程代理的快速发展趋势和对劳动力市场的重大影响",
-    "url": "https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears",
-    "date": "2026年06月03日"
+    "category": "international",
+    "title": "How small businesses can leverage AI",
+    "source": "MIT Technology Review",
+    "summary": "Tutor Sam Finnegan-Dehn shares how he's outsourcing basic administrative tasks to a large language model.",
+    "reason": "展示了小企业如何利用AI提升效率的实践案例",
+    "url": "https://www.technologyreview.com/2024/06/03/1092846/how-small-businesses-can-leverage-ai/",
+    "date": "2026年06月04日"
   },
   {
     "id": "2",
-    "category": "国外",
-    "title": "AI Update, March 13, 2026: AI News and Views From the Past Week",
-    "source": "Marketing Profs",
-    "summary": "LinkedIn 成为 AI 聊天机器人回答专业查询时最常引用的主要来源之一。Google 为 Workspace 升级 Gemini，可以跨应用数据创建文档和演示文稿。",
-    "reason": "突显了 AI 对专业内容和办公自动化的深远影响",
-    "url": "https://www.marketingprofs.com/opinions/2026/54427/ai-update-march-13-2026-ai-news-and-views-from-the-past-week",
-    "date": "2026年06月03日"
+    "category": "international",
+    "title": "How the Pope's Magnifica Humanitas offers a template for individuals to meet the AI moment",
+    "source": "MIT Technology Review",
+    "summary": "Despite a lack of regulation, we still have the ability to steer artificial intelligence in ways that can benefit our common humanity.",
+    "reason": "探讨个人如何在AI时代保持人文价值",
+    "url": "https://www.technologyreview.com/2024/06/03/1092845/popes-magnifica-humanitas-template-ai-moment/",
+    "date": "2026年06月04日"
   },
   {
     "id": "3",
-    "category": "国外",
-    "title": "AI News March 2026: Everything That Happened In One Insane Week",
-    "source": "Reddit AISEOInsider",
-    "summary": "2026 年 3 月 AI 新闻以一次重大发布开始，展示了人工智能能力的快速提升。最新一代模型带来了突破性进展。",
-    "reason": "反映了 AI 领域的快速迭代和技术突破",
-    "url": "https://www.reddit.com/r/AISEOInsider/comments/1rp92zx/ai_news_march_2026_everything_that_happened_in",
-    "date": "2026年06月03日"
+    "category": "international",
+    "title": "Anthropic's Code with Claude showed off coding's future",
+    "source": "MIT Technology Review",
+    "summary": "As tools like Claude Code get better, more and more developers are happy to hand off coding tasks to them. The way software gets built has changed for good.",
+    "reason": "展示AI编程工具如何改变软件开发模式",
+    "url": "https://www.technologyreview.com/2024/06/03/1092844/anthropics-code-claude-coding-future/",
+    "date": "2026年06月04日"
   },
   {
     "id": "4",
-    "category": "国内",
-    "title": "AI最新资讯_人工智能新闻头条 - AI NEWS",
-    "source": "AIBase",
-    "summary": "谷歌 DeepMind CEO 称 AGI 最快三年内到来。企业级 AI 搜索独角兽 Glean 年营收突破 3 亿美元。三菱日联金融集团推行全员 AI 化转型。",
-    "reason": "涵盖 AGI 预测、商业化落地和企业转型等重要动态",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026年06月03日"
+    "category": "domestic",
+    "title": "刚刚，李飞飞亲自下场定义世界模型",
+    "source": "量子位",
+    "summary": "渲染、模拟、规划，三大功能的边界正在消融。李飞飞提出世界模型的新定义，强调AI从理解到行动的关键突破。",
+    "reason": "AI领域权威人物李飞飞提出世界模型新范式，具有重要技术意义",
+    "url": "https://www.qbitai.com/",
+    "date": "2026年06月04日"
   },
   {
     "id": "5",
-    "category": "国内",
-    "title": "人工智慧 - BBC News 中文",
-    "source": "BBC 中文",
-    "summary": "教宗警告"新型数码奴役"风险，呼吁 AI 必须被"缴械"。谷歌时隔十余年再度推出智慧眼镜，隐私问题仍受关注。AI 冲击教育，中国家长怕孩子成了"科举被废后的秀才"。",
-    "reason": "从社会伦理、隐私保护、教育影响等角度审视 AI 发展",
-    "url": "https://www.bbc.com/zhongwen/topics/cpydz218gddt/trad",
-    "date": "2026年06月03日"
+    "category": "domestic",
+    "title": "世界模型榜首易主！跨维智能登顶WorldArena",
+    "source": "量子位",
+    "summary": "跨维智能在世界模型基准测试中登顶，展现了中国在AI基础模型方面的强劲实力。",
+    "reason": "世界模型是AI前沿热点，中国团队登顶具有重要意义",
+    "url": "https://www.qbitai.com/",
+    "date": "2026年06月04日"
   },
   {
     "id": "6",
-    "category": "国内",
-    "title": "人工智能新闻 - 百度AI开放平台",
-    "source": "百度 AI",
-    "summary": "端到端语音语言大模型、大模型声音复刻、大模型语音合成等新品发布。提供完整的 AI 解决方案，包括语音、文字、图像等多种能力。",
-    "reason": "展示了国内 AI 技术的全面发展和商业化应用",
-    "url": "https://ai.baidu.com/support/news",
-    "date": "2026年06月03日"
+    "category": "domestic",
+    "title": "OpenAI挖走中科大少年班校友！12岁上大学，哈佛史上最年轻正教授",
+    "source": "量子位",
+    "summary": "OpenAI继续大力扩张，挖走中科大少年班校友、哈佛史上最年轻正教授，同时挖走苏炜杰等顶尖人才。",
+    "reason": "OpenAI人才战略动态，反映AI竞争激烈程度",
+    "url": "https://www.qbitai.com/",
+    "date": "2026年06月04日"
   }
 ]
