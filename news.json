@@ -1,62 +1,62 @@
 [
   {
     "id": "1",
-    "category": "international",
-    "title": "How small businesses can leverage AI",
+    "category": "国外",
+    "title": "Google I/O shows how AI-driven science path is shifting",
     "source": "MIT Technology Review",
-    "summary": "Tutor Sam Finnegan-Dehn shares how he's outsourcing basic administrative tasks to a large language model.",
-    "reason": "展示了小企业如何利用AI提升效率的实践案例",
-    "url": "https://www.technologyreview.com/2024/06/03/1092846/how-small-businesses-can-leverage-ai/",
-    "date": "2026年06月04日"
+    "summary": "两年前，AI工具为Google DeepMind赢得了诺贝尔奖。现在，研究人员正在向新目标迈进——AI在科学研究中的应用路径正在发生重大转变。",
+    "reason": "AI与科学研究的结合是当前最前沿的应用领域，Google从诺贝尔奖级别的成就转向新目标，值得关注方向性变化。",
+    "url": "https://www.technologyreview.com/2026/06/03/google-io-ai-science/",
+    "date": "2026年06月05日"
   },
   {
     "id": "2",
-    "category": "international",
-    "title": "How the Pope's Magnifica Humanitas offers a template for individuals to meet the AI moment",
+    "category": "国外",
+    "title": "Anthropic's Code with Claude shows off coding's future",
     "source": "MIT Technology Review",
-    "summary": "Despite a lack of regulation, we still have the ability to steer artificial intelligence in ways that can benefit our common humanity.",
-    "reason": "探讨个人如何在AI时代保持人文价值",
-    "url": "https://www.technologyreview.com/2024/06/03/1092845/popes-magnifica-humanitas-template-ai-moment/",
-    "date": "2026年06月04日"
+    "summary": "随着Claude Code等工具的进步，越来越多的开发者愿意将编码任务交给它们。软件构建的方式已经永久改变。",
+    "reason": "AI编程助手正在改变软件开发范式，这对开发者和企业都有重大影响。",
+    "url": "https://www.technologyreview.com/2026/06/02/anthropic-code-claude-coding/",
+    "date": "2026年06月05日"
   },
   {
     "id": "3",
-    "category": "international",
-    "title": "Anthropic's Code with Claude showed off coding's future",
+    "category": "国外",
+    "title": "Here's why Elon Musk lost his suit against OpenAI",
     "source": "MIT Technology Review",
-    "summary": "As tools like Claude Code get better, more and more developers are happy to hand off coding tasks to them. The way software gets built has changed for good.",
-    "reason": "展示AI编程工具如何改变软件开发模式",
-    "url": "https://www.technologyreview.com/2024/06/03/1092844/anthropics-code-claude-coding-future/",
-    "date": "2026年06月04日"
+    "summary": "经过三周的反复证词，陪审团裁定Musk起诉AI巨头的时间太晚了。这场诉讼引发了关于AI巨头治理方式的更多问题。",
+    "reason": "Musk vs OpenAI诉讼是AI行业的重大事件，影响行业格局和治理模式。",
+    "url": "https://www.technologyreview.com/2026/06/01/musk-v-altman-trial/",
+    "date": "2026年06月05日"
   },
   {
     "id": "4",
-    "category": "domestic",
-    "title": "刚刚，李飞飞亲自下场定义世界模型",
+    "category": "国内",
+    "title": "所有实验室都怕字节，所有人都在夸DeepSeek！美国研究员36小时中国AI行",
     "source": "量子位",
-    "summary": "渲染、模拟、规划，三大功能的边界正在消融。李飞飞提出世界模型的新定义，强调AI从理解到行动的关键突破。",
-    "reason": "AI领域权威人物李飞飞提出世界模型新范式，具有重要技术意义",
-    "url": "https://www.qbitai.com/",
-    "date": "2026年06月04日"
+    "summary": "美国研究员深度体验中国AI生态，发现字节跳动和DeepSeek的影响力远超想象，引发国际AI社区对中国AI实力的重新审视。",
+    "reason": "国际视角看中国AI发展，字节和DeepSeek的崛起改变了全球AI竞争格局。",
+    "url": "https://www.qbitai.com/2026/06/03/deepseek-bytes-ai-china-tour/",
+    "date": "2026年06月05日"
   },
   {
     "id": "5",
-    "category": "domestic",
-    "title": "世界模型榜首易主！跨维智能登顶WorldArena",
+    "category": "国内",
+    "title": "百度发布文心5.1：搜索能力登顶国内，预训练成本仅为业界6%",
     "source": "量子位",
-    "summary": "跨维智能在世界模型基准测试中登顶，展现了中国在AI基础模型方面的强劲实力。",
-    "reason": "世界模型是AI前沿热点，中国团队登顶具有重要意义",
-    "url": "https://www.qbitai.com/",
-    "date": "2026年06月04日"
+    "summary": "百度文心大模型5.1版本发布，搜索能力登顶国内第一，预训练成本仅为业界平均水平的6%，搜索、知识、Agent能力全面提升。",
+    "reason": "文心5.1的成本优势和技术突破，对中国大模型商业化有重大意义。",
+    "url": "https://www.qbitai.com/2026/06/02/baidu-ernie-5-1-release/",
+    "date": "2026年06月05日"
   },
   {
     "id": "6",
-    "category": "domestic",
-    "title": "OpenAI挖走中科大少年班校友！12岁上大学，哈佛史上最年轻正教授",
+    "category": "国内",
+    "title": "梁文锋出资200亿！DeepSeek首轮创纪录融资500亿，V4.1定档6月",
     "source": "量子位",
-    "summary": "OpenAI继续大力扩张，挖走中科大少年班校友、哈佛史上最年轻正教授，同时挖走苏炜杰等顶尖人才。",
-    "reason": "OpenAI人才战略动态，反映AI竞争激烈程度",
-    "url": "https://www.qbitai.com/",
-    "date": "2026年06月04日"
+    "summary": "DeepSeek完成中国大模型史上最大规模融资，首轮500亿元，梁文锋个人出资200亿。V4.1版本将于6月发布。",
+    "reason": "中国AI创企最大融资纪录，DeepSeek的崛起速度和融资规模值得关注。",
+    "url": "https://www.qbitai.com/2026/06/02/deepseek-500b-funding/",
+    "date": "2026年06月05日"
   }
 ]
