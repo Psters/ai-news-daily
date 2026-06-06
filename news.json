@@ -1,62 +1,12 @@
 [
   {
-    "id": "1",
+    "id": "2026-06-06-001",
     "category": "国外",
-    "title": "Google I/O shows how AI-driven science path is shifting",
-    "source": "MIT Technology Review",
-    "summary": "两年前，AI工具为Google DeepMind赢得了诺贝尔奖。现在，研究人员正在向新目标迈进——AI在科学研究中的应用路径正在发生重大转变。",
-    "reason": "AI与科学研究的结合是当前最前沿的应用领域，Google从诺贝尔奖级别的成就转向新目标，值得关注方向性变化。",
-    "url": "https://www.technologyreview.com/2026/06/03/google-io-ai-science/",
-    "date": "2026年06月05日"
-  },
-  {
-    "id": "2",
-    "category": "国外",
-    "title": "Anthropic's Code with Claude shows off coding's future",
-    "source": "MIT Technology Review",
-    "summary": "随着Claude Code等工具的进步，越来越多的开发者愿意将编码任务交给它们。软件构建的方式已经永久改变。",
-    "reason": "AI编程助手正在改变软件开发范式，这对开发者和企业都有重大影响。",
-    "url": "https://www.technologyreview.com/2026/06/02/anthropic-code-claude-coding/",
-    "date": "2026年06月05日"
-  },
-  {
-    "id": "3",
-    "category": "国外",
-    "title": "Here's why Elon Musk lost his suit against OpenAI",
-    "source": "MIT Technology Review",
-    "summary": "经过三周的反复证词，陪审团裁定Musk起诉AI巨头的时间太晚了。这场诉讼引发了关于AI巨头治理方式的更多问题。",
-    "reason": "Musk vs OpenAI诉讼是AI行业的重大事件，影响行业格局和治理模式。",
-    "url": "https://www.technologyreview.com/2026/06/01/musk-v-altman-trial/",
-    "date": "2026年06月05日"
-  },
-  {
-    "id": "4",
-    "category": "国内",
-    "title": "所有实验室都怕字节，所有人都在夸DeepSeek！美国研究员36小时中国AI行",
-    "source": "量子位",
-    "summary": "美国研究员深度体验中国AI生态，发现字节跳动和DeepSeek的影响力远超想象，引发国际AI社区对中国AI实力的重新审视。",
-    "reason": "国际视角看中国AI发展，字节和DeepSeek的崛起改变了全球AI竞争格局。",
-    "url": "https://www.qbitai.com/2026/06/03/deepseek-bytes-ai-china-tour/",
-    "date": "2026年06月05日"
-  },
-  {
-    "id": "5",
-    "category": "国内",
-    "title": "百度发布文心5.1：搜索能力登顶国内，预训练成本仅为业界6%",
-    "source": "量子位",
-    "summary": "百度文心大模型5.1版本发布，搜索能力登顶国内第一，预训练成本仅为业界平均水平的6%，搜索、知识、Agent能力全面提升。",
-    "reason": "文心5.1的成本优势和技术突破，对中国大模型商业化有重大意义。",
-    "url": "https://www.qbitai.com/2026/06/02/baidu-ernie-5-1-release/",
-    "date": "2026年06月05日"
-  },
-  {
-    "id": "6",
-    "category": "国内",
-    "title": "梁文锋出资200亿！DeepSeek首轮创纪录融资500亿，V4.1定档6月",
-    "source": "量子位",
-    "summary": "DeepSeek完成中国大模型史上最大规模融资，首轮500亿元，梁文锋个人出资200亿。V4.1版本将于6月发布。",
-    "reason": "中国AI创企最大融资纪录，DeepSeek的崛起速度和融资规模值得关注。",
-    "url": "https://www.qbitai.com/2026/06/02/deepseek-500b-funding/",
-    "date": "2026年06月05日"
+    "title": "Anthropic releases Claude Opus 4.8",
+    "source": "AI News",
+    "summary": "Anthropic 发布 Claude Opus 4.8，这是对 Opus 4.7 的升级，在编码、代理工作、推理和知识工作方面带来改进。平台可通过 claude.ai、Claude Code 和 Claude API 使用。非快速模式定价为每百万输入令牌 5 美元、输出令牌 25 美元，快速模式定价为每百万输入令牌 10 美元、输出令牌 50 美元。",
+    "reason": "Claude 系列模型的重要升级，对企业级 AI 应用有直接影响，值得关注其性能提升和定价策略。",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
+    "date": "2026年06月06日"
   }
 ]
