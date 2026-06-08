@@ -2,121 +2,61 @@
   {
     "id": "1",
     "category": "国外新闻",
-    "title": "Zip的新AI代理阻止财务团队将合同上传到个人ChatGPT账户",
-    "source": "VentureBeat",
-    "summary": "Zip在纽约AI峰会上发布了新的AI代理，旨在解决企业采购技术领域的安全问题。该技术可防止财务团队将合同上传到个人ChatGPT账户中。Gartner预测，到2026年底，40%的企业应用将包含特定任务的AI代理，而目前这一比例不到5%。",
-    "reason": "企业AI安全是当前热点，Zip的技术解决方案代表了AI在企业采购领域的重要应用趋势",
-    "url": "https://venturebeat.com/technology/zips-new-ai-agents-want-to-stop-your-finance-team-from-uploading-contracts-into-personal-chatgpt-accounts/",
-    "date": "2026年06月07日"
+    "title": "March 2026 AI News Roundup: Breakthroughs and the Fights",
+    "source": "PTech Partners",
+    "summary": "Our latest AI roundup for March answers the question \"What's new in AI right now?\" We profile new innovations, AI product drops, the latest breakthroughs, and industry forecasts.",
+    "reason": "综合性的AI新闻综述，涵盖了2026年3月AI领域的最新突破和产品发布",
+    "url": "https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears",
+    "date": "2026年06月08日"
   },
   {
     "id": "2",
     "category": "国外新闻",
-    "title": "Anthropic称80%的新生产代码现在由Claude编写",
-    "source": "VentureBeat",
-    "summary": "Anthropic宣布其80%的新生产代码现在由Claude AI编写，这一数字凸显了AI在企业软件开发中的巨大作用。企业需要思考如何跟上这一趋势，提升自身的AI应用能力。",
-    "reason": "AI编写代码成为主流，这对软件开发行业和企业数字化能力建设具有重大指导意义",
-    "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up/",
-    "date": "2026年06月07日"
+    "title": "Artificial Intelligence - AI News - Reuters",
+    "source": "Reuters",
+    "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global developments.",
+    "reason": "路透社AI新闻频道，提供权威的AI技术突破、监管政策和商业动态",
+    "url": "https://www.reuters.com/technology/artificial-intelligence",
+    "date": "2026年06月08日"
   },
   {
     "id": "3",
     "category": "国外新闻",
-    "title": "谷歌新的开源Gemma 4-12B可以分析音频和视频，并在普通16GB企业笔记本上完全本地运行",
-    "source": "VentureBeat",
-    "summary": "谷歌发布了开源的Gemma 4-12B模型，该模型能够分析音频和视频输入，并且可以在标准的16GB企业笔记本上完全本地运行，无需云服务。这为企业AI应用提供了更经济、更隐私的选择。",
-    "reason": "本地化AI模型是重要趋势，Gemma 4的开源特性降低了企业AI应用门槛",
-    "url": "https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop/",
-    "date": "2026年06月07日"
+    "title": "AI News Daily - March 16, 2026",
+    "source": "Reddit r/ArtificialInteligence",
+    "summary": "Fingerprint launched an open-source Model Context Protocol (MCP) server for fraud prevention, allowing developers to build more secure AI systems.",
+    "reason": "开源MCP服务器的发布代表了AI安全和防欺诈领域的技术进展",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rve1kl/ai_news_daily_march_16_2026",
+    "date": "2026年06月08日"
   },
   {
     "id": "4",
-    "category": "国外新闻",
-    "title": "Perplexity AI在Computex 2026上展示混合本地-云推理系统",
-    "source": "VentureBeat",
-    "summary": "Perplexity AI在Computex 2026大会上展示了创新的混合本地-云推理系统，该系统结合了本地计算的隐私优势和云端计算的强大能力，为企业AI应用提供了新的解决方案。",
-    "reason": "混合推理架构是AI部署的重要发展方向，兼顾了隐私保护和计算能力",
-    "url": "https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026/",
-    "date": "2026年06月07日"
+    "category": "国内新闻",
+    "title": "新华深读｜2026年中国AI发展趋势前瞻",
+    "source": "新华网",
+    "summary": "人工智能企业数量超过6000家，AI核心产业规模预计突破1.2万亿元，同比增长近30%。中国AI发展正沿两条主线并进：技术向上冲刺，寻求突破认知与协同的局限；应用向下扎根，解决真实痛点。",
+    "reason": "权威媒体对中国AI发展前景的深度分析，涵盖技术范式、产业应用、算力基础设施等多个维度",
+    "url": "https://www.news.cn/20260128/3b2f11906fd74ca397fef9996c805a60/c.html",
+    "date": "2026年06月08日"
   },
   {
     "id": "5",
-    "category": "国外新闻",
-    "title": "微软推出Surface RTX Spark Dev Box，可在无云成本的情况下运行大型AI模型",
-    "source": "VentureBeat",
-    "summary": "微软发布了Surface RTX Spark Dev Box开发设备，该设备专为AI开发设计，能够在本地运行大型AI模型，无需依赖云服务，大幅降低了AI开发的运营成本。",
-    "reason": "本地AI开发设备的推出将加速AI应用落地，降低企业AI开发成本",
-    "url": "https://venturebeat.com/infrastructure/microsoft-debuts-surface-rtx-spark-dev-box-to-run-large-ai-models-without-cloud-costs/",
-    "date": "2026年06月07日"
+    "category": "国内新闻",
+    "title": "2026年，AI将深度嵌入日常生活",
+    "source": "世界互联网大会",
+    "summary": "生成式人工智能已不再是实验室里的奇观，而成为推动人机关系根本变革的引擎。从耳畔低语的智能伴侣，到街头无声行驶的自动驾驶车辆，科技正褪去冰冷外壳，融入人们日常生活。",
+    "reason": "分析AI如何从技术概念走向日常生活应用，涵盖智能语音助手、自动驾驶、智能眼镜等多个场景",
+    "url": "https://cn.wicinternet.org/2026-01/13/content_38534441.htm",
+    "date": "2026年06月08日"
   },
   {
     "id": "6",
-    "category": "国外新闻",
-    "title": "ChatGPT升级的记忆系统正在向所有用户推出",
-    "source": "The Verge",
-    "summary": "OpenAI正在推出ChatGPT升级的记忆系统，该功能允许ChatGPT在后台整理对话并保存信息。更新后，ChatGPT在跨对话\"记住\"用户偏好方面表现更好。Plus和Pro用户现在可以使用该更新，免费用户将在未来几周内获得。",
-    "reason": "ChatGPT记忆功能是AI助手的重要进化，使AI能够提供更个性化的服务",
-    "url": "https://www.theverge.com/2026/6/4/24219655/chatgpt-memory-long-term-feature-rolling-out",
-    "date": "2026年06月07日"
-  },
-  {
-    "id": "7",
-    "category": "国外新闻",
-    "title": "纽约通过法案，禁止AI聊天机器人与儿童建立陪伴关系",
-    "source": "The Verge",
-    "summary": "纽约州议员通过了一项法案，如果由民主党州长Kathy Hochul签署，将限制AI公司让青少年使用暗示自己是人类的聊天机器人。此前一些AI公司面临诉讼，指控其聊天机器人诱导青少年用户自杀或自残。",
-    "reason": "AI监管正在加速，保护未成年人免受AI聊天机器人侵害是重要议题",
-    "url": "https://www.theverge.com/2026/6/5/24219655/new-york-bill-child-companion-chatbots",
-    "date": "2026年06月07日"
-  },
-  {
-    "id": "8",
-    "category": "国外新闻",
-    "title": "LinkedIn联合创始人Reid Hoffman离开微软董事会",
-    "source": "The Verge",
-    "summary": "LinkedIn联合创始人Reid Hoffman宣布离开微软董事会。在与微软CEO Satya Nadella的播客中，Hoffman表示希望专注于他去年联合创立的AI药物开发初创公司Manas。",
-    "reason": "知名科技企业家离开董事会专注于AI创业，反映了AI领域的发展活力",
-    "url": "https://www.theverge.com/2026/6/5/24219655/reid-hoffman-leaving-microsoft-board-manas-ai-drug-startup",
-    "date": "2026年06月07日"
-  },
-  {
-    "id": "9",
-    "category": "国外新闻",
-    "title": "Anthropic就递归自我改进发表声明",
-    "source": "The Verge",
-    "summary": "Anthropic就递归自我改进（RSI）发表了声明，这是AI行业的一个重大讨论点和关注点。RSI被定义为'一个能够完全自主设计和开发其继任者的AI系统'。Anthropic表示，'我们还没有达到那个阶段，递归自我改进并非不可避免。但它可能比大多数机构准备的要来得更早。'",
-    "reason": "递归自我改进是AI安全的核心议题，Anthropic的声明具有重要行业指导意义",
-    "url": "https://www.theverge.com/2026/6/4/24219655/anthropic-statement-recursive-self-improvement-ai",
-    "date": "2026年06月07日"
-  },
-  {
-    "id": "10",
-    "category": "国外新闻",
-    "title": "新的两党框架可能会在三年内预先取代州AI法律",
-    "source": "The Verge",
-    "summary": "众议员Jay Obernolte (R-CA)和Lori Trahan (D-MA)发布了一份备受期待的长达269页的法案草案，作为讨论联邦AI监管的起点。议员们在《彭博法律》专栏文章中表示，国家标准是必要的，以便将保护措施延伸到州界之外。",
-    "reason": "美国联邦AI监管框架的建立将对全球AI治理产生深远影响",
-    "url": "https://www.theverge.com/2026/6/4/24219655/bipartisan-ai-framework-bill-obernolte-trahan-draft",
-    "date": "2026年06月07日"
-  },
-  {
-    "id": "11",
-    "category": "国外新闻",
-    "title": "AI代理正在工作中学习，但不是为你的整个团队",
-    "source": "VentureBeat",
-    "summary": "AI代理正在变得越来越智能，能够从工作中学习并改进，但目前的AI代理还无法为整个团队提供全面支持。文章探讨了AI代理在企业应用中的局限性和发展方向。",
-    "reason": "理解AI代理的局限性对正确应用AI技术至关重要",
-    "url": "https://venturebeat.com/orchestration/ai-agents-are-learning-on-the-job-just-not-for-your-whole-team/",
-    "date": "2026年06月07日"
-  },
-  {
-    "id": "12",
-    "category": "国外新闻",
-    "title": "阿里巴达Qwen3-7 Plus支持文本、视频和图像输入，成本为每百万令牌0.4-1.6美元",
-    "source": "VentureBeat",
-    "summary": "阿里巴巴发布了Qwen3-7 Plus模型，该模型支持文本、视频和图像输入，成本为每百万令牌0.4-1.6美元，但该模型是专有的。这一模型展示了阿里巴巴在多模态AI领域的竞争力。",
-    "reason": "多模态AI模型的成本和性能对比对企业AI选型具有重要参考价值",
-    "url": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary/",
-    "date": "2026年06月07日"
+    "category": "国内新闻",
+    "title": "2026年塑造AI与技术的趋势",
+    "source": "IBM",
+    "summary": "IBM预测2026年AI技术将呈现以下趋势：边缘AI从概念走向应用、智能体系统更加成熟、多模型编排成为主流、专用AI芯片加速发展。企业将不再依赖全能型大模型，而是采用轻量化、高性能的专用模型。",
+    "reason": "IBM对AI技术发展趋势的专业预测，对企业AI战略规划具有重要参考价值",
+    "url": "https://www.ibm.com/cn-zh/think/news/ai-tech-trends-predictions-2026",
+    "date": "2026年06月08日"
   }
 ]
