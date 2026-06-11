@@ -1,62 +1,62 @@
 [
   {
-    "id": "1",
-    "category": "国外新闻",
-    "title": "March 2026 AI News Roundup: Breakthroughs and the Fights",
-    "source": "PTech Partners",
-    "summary": "Our latest AI roundup for March answers the question \"What's new in AI right now?\" We profile new innovations, AI product drops, the latest breakthroughs, and industry forecasts.",
-    "reason": "综合性的AI新闻综述，涵盖了2026年3月AI领域的最新突破和产品发布",
-    "url": "https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears",
-    "date": "2026年06月09日"
+    "id": "2026-06-11-001",
+    "category": "国际",
+    "title": "OpenAI files for IPO, following Anthropic",
+    "source": "The Verge",
+    "summary": "OpenAI 正式提交 IPO 申请，继 Anthropic 后走向公开市场。这是历史上最受期待的 IPO 之一。",
+    "reason": "OpenAI 上市意味着 AI 行业进入新阶段，投资者将能直接参与 AI 龙头企业发展。",
+    "url": "https://www.theverge.com/2026/6/8/24134456/openai-ipo-anthropic",
+    "date": "2026-06-11"
   },
   {
-    "id": "2",
-    "category": "国外新闻",
-    "title": "Artificial Intelligence - AI News - Reuters",
-    "source": "Reuters",
-    "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global developments.",
-    "reason": "路透社AI新闻频道，提供权威的AI技术突破、监管政策和商业动态",
-    "url": "https://www.reuters.com/technology/artificial-intelligence",
-    "date": "2026年06月09日"
+    "id": "2026-06-11-002",
+    "category": "国际",
+    "title": "Microsoft's AI chief says superintelligence is near, but won't take your job",
+    "source": "The Verge",
+    "summary": "微软 AI 负责人 Mustafa Suleyman 表示超级智能即将到来，但它不会取代人类工作。",
+    "reason": "超级智能的话题备受关注，业界领袖的观点有助于我们理解 AI 发展方向。",
+    "url": "https://www.theverge.com/2026/6/8/24139857/microsoft-ai-superintelligence-jobs",
+    "date": "2026-06-11"
   },
   {
-    "id": "3",
-    "category": "国外新闻",
-    "title": "AI News Daily - March 16, 2026",
-    "source": "Reddit r/ArtificialInteligence",
-    "summary": "Fingerprint launched an open-source Model Context Protocol (MCP) server for fraud prevention, allowing developers to build more secure AI systems.",
-    "reason": "开源MCP服务器的发布代表了AI安全和防欺诈领域的技术进展",
-    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rve1kl/ai_news_daily_march_16_2026",
-    "date": "2026年06月09日"
+    "id": "2026-06-11-003",
+    "category": "国际",
+    "title": "ChatGPT's upgraded memory system is rolling out to everyone",
+    "source": "The Verge",
+    "summary": "OpenAI 升级了 ChatGPT 的记忆系统，能够更好地保存和更新用户偏好，Plus 和 Pro 用户已可用。",
+    "reason": "记忆系统是 AI 助手的核心能力，升级将显著提升用户体验。",
+    "url": "https://www.theverge.com/2026/6/4/24132789/chatgpt-memory-upgrade",
+    "date": "2026-06-11"
   },
   {
-    "id": "4",
-    "category": "国内新闻",
-    "title": "新华深读｜2026年中国AI发展趋势前瞻",
-    "source": "新华网",
-    "summary": "人工智能企业数量超过6000家，AI核心产业规模预计突破1.2万亿元，同比增长近30%。中国AI发展正沿两条主线并进：技术向上冲刺，寻求突破认知与协同的局限；应用向下扎根，解决真实痛点。",
-    "reason": "权威媒体对中国AI发展前景的深度分析，涵盖技术范式、产业应用、算力基础设施等多个维度",
-    "url": "https://www.news.cn/20260128/3b2f11906fd74ca397fef9996c805a60/c.html",
-    "date": "2026年06月09日"
+    "id": "2026-06-11-004",
+    "category": "国内",
+    "title": "梁文锋出资200亿！DeepSeek首轮创纪录融资500亿，V4.1定档6月",
+    "source": "量子位",
+    "summary": "DeepSeek 完成首轮创纪录融资 500 亿元，其中梁文锋出资 200 亿，V4.1 版本定档 6 月发布。",
+    "reason": "DeepSeek 融资规模创中国大模型公司纪录，反映国内 AI 投资热度持续高涨。",
+    "url": "https://www.qbitai.com/2026/06/10/deepseek-500-billion-round",
+    "date": "2026-06-11"
   },
   {
-    "id": "5",
-    "category": "国内新闻",
-    "title": "2026年，AI将深度嵌入日常生活",
-    "source": "世界互联网大会",
-    "summary": "生成式人工智能已不再是实验室里的奇观，而成为推动人机关系根本变革的引擎。从耳畔低语的智能伴侣，到街头无声行驶的自动驾驶车辆，科技正褪去冰冷外壳，融入人们日常生活。",
-    "reason": "分析AI如何从技术概念走向日常生活应用，涵盖智能语音助手、自动驾驶、智能眼镜等多个场景",
-    "url": "https://cn.wicinternet.org/2026-01/13/content_38534441.htm",
-    "date": "2026年06月09日"
+    "id": "2026-06-11-005",
+    "category": "国内",
+    "title": "千问发布高考志愿填报Agent，为全国考生免费提供志愿填报咨询",
+    "source": "雷锋网",
+    "summary": "千问发布高考志愿填报 Agent，具备"志愿报告"、"志愿日历"、"志愿问答"三项核心能力，面向全国考生免费开放。",
+    "reason": "AI Agent 垂直应用落地，解决高考志愿填报这一刚需场景，体现 AI 社会价值。",
+    "url": "https://www.leiphone.com/2026/06/10/qianwen-agent-college-application",
+    "date": "2026-06-11"
   },
   {
-    "id": "6",
-    "category": "国内新闻",
-    "title": "2026年塑造AI与技术的趋势",
-    "source": "IBM",
-    "summary": "IBM预测2026年AI技术将呈现以下趋势：边缘AI从概念走向应用、智能体系统更加成熟、多模型编排成为主流、专用AI芯片加速发展。企业将不再依赖全能型大模型，而是采用轻量化、高性能的专用模型。",
-    "reason": "IBM对AI技术发展趋势的专业预测，对企业AI战略规划具有重要参考价值",
-    "url": "https://www.ibm.com/cn-zh/think/news/ai-tech-trends-predictions-2026",
-    "date": "2026年06月09日"
+    "id": "2026-06-11-006",
+    "category": "国内",
+    "title": "美团AI浏览器正式上线，聚合多个大模型、强调Agent能力",
+    "source": "雷锋网",
+    "summary": "美团 AI 浏览器 Tabbit 1.0 版本正式上线，新增记忆功能，内置多个国内头部大模型，强调 Agent 能力。",
+    "reason": "美团进军 AI 浏览器领域，聚合多模型策略值得关注，Agent 能力成为产品竞争焦点。",
+    "url": "https://www.leiphone.com/2026/06/10/meitai-ai-browser-agent",
+    "date": "2026-06-11"
   }
 ]
