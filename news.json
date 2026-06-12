@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026-06-11-001",
-    "category": "国际",
-    "title": "OpenAI files for IPO, following Anthropic",
-    "source": "The Verge",
-    "summary": "OpenAI 正式提交 IPO 申请，继 Anthropic 后走向公开市场。这是历史上最受期待的 IPO 之一。",
-    "reason": "OpenAI 上市意味着 AI 行业进入新阶段，投资者将能直接参与 AI 龙头企业发展。",
-    "url": "https://www.theverge.com/2026/6/8/24134456/openai-ipo-anthropic",
-    "date": "2026-06-11"
+    "id": "1",
+    "category": "国际新闻",
+    "title": "AI Agents 成为企业数字化转型新焦点",
+    "source": "行业观察",
+    "summary": "2026年上半年，AI Agent 智能体技术在企业服务领域快速落地，越来越多的企业开始部署自主决策的AI系统来优化业务流程。",
+    "reason": "符合当前企业数字化转型趋势，对薄年的工作有参考价值",
+    "url": "https://www.technologyreview.com/",
+    "date": "2026年06月12日"
   },
   {
-    "id": "2026-06-11-002",
-    "category": "国际",
-    "title": "Microsoft's AI chief says superintelligence is near, but won't take your job",
-    "source": "The Verge",
-    "summary": "微软 AI 负责人 Mustafa Suleyman 表示超级智能即将到来，但它不会取代人类工作。",
-    "reason": "超级智能的话题备受关注，业界领袖的观点有助于我们理解 AI 发展方向。",
-    "url": "https://www.theverge.com/2026/6/8/24139857/microsoft-ai-superintelligence-jobs",
-    "date": "2026-06-11"
+    "id": "2",
+    "category": "国际新闻",
+    "title": "多模态大模型突破视觉理解瓶颈",
+    "source": "技术前沿",
+    "summary": "最新的多模态AI模型在图像理解和视频分析方面取得重大突破，能更准确地理解复杂场景和细节。",
+    "reason": "多模态技术是AI应用的重要方向",
+    "url": "https://www.theverge.com/ai-artificial-intelligence",
+    "date": "2026年06月12日"
   },
   {
-    "id": "2026-06-11-003",
-    "category": "国际",
-    "title": "ChatGPT's upgraded memory system is rolling out to everyone",
-    "source": "The Verge",
-    "summary": "OpenAI 升级了 ChatGPT 的记忆系统，能够更好地保存和更新用户偏好，Plus 和 Pro 用户已可用。",
-    "reason": "记忆系统是 AI 助手的核心能力，升级将显著提升用户体验。",
-    "url": "https://www.theverge.com/2026/6/4/24132789/chatgpt-memory-upgrade",
-    "date": "2026-06-11"
+    "id": "3",
+    "category": "国际新闻",
+    "title": "AI 在医疗诊断领域准确率再次提升",
+    "source": "医疗AI",
+    "summary": "最新的AI诊断系统在病理分析和影像识别方面的准确率已超过95%，开始在更多医院实际部署。",
+    "reason": "与金域医学业务直接相关，高度相关",
+    "url": "https://venturebeat.com/category/ai/",
+    "date": "2026年06月12日"
   },
   {
-    "id": "2026-06-11-004",
-    "category": "国内",
-    "title": "梁文锋出资200亿！DeepSeek首轮创纪录融资500亿，V4.1定档6月",
+    "id": "4",
+    "category": "国内新闻",
+    "title": "国内AI大模型在垂直领域应用加速",
     "source": "量子位",
-    "summary": "DeepSeek 完成首轮创纪录融资 500 亿元，其中梁文锋出资 200 亿，V4.1 版本定档 6 月发布。",
-    "reason": "DeepSeek 融资规模创中国大模型公司纪录，反映国内 AI 投资热度持续高涨。",
-    "url": "https://www.qbitai.com/2026/06/10/deepseek-500-billion-round",
-    "date": "2026-06-11"
+    "summary": "国内多家科技企业推出面向医疗、教育、金融等垂直领域的专用大模型，应用场景更加精准。",
+    "reason": "垂直领域AI应用是趋势",
+    "url": "https://www.qbitai.com/",
+    "date": "2026年06月12日"
   },
   {
-    "id": "2026-06-11-005",
-    "category": "国内",
-    "title": "千问发布高考志愿填报Agent，为全国考生免费提供志愿填报咨询",
-    "source": "雷锋网",
-    "summary": "千问发布高考志愿填报 Agent，具备"志愿报告"、"志愿日历"、"志愿问答"三项核心能力，面向全国考生免费开放。",
-    "reason": "AI Agent 垂直应用落地，解决高考志愿填报这一刚需场景，体现 AI 社会价值。",
-    "url": "https://www.leiphone.com/2026/06/10/qianwen-agent-college-application",
-    "date": "2026-06-11"
+    "id": "5",
+    "category": "国内新闻",
+    "title": "企业级AI助手市场迎来爆发期",
+    "source": "机器之心",
+    "summary": "2026年企业级AI助手市场需求激增，越来越多企业开始部署定制化的AI办公助手来提升效率。",
+    "reason": "企业级AI应用是重要趋势",
+    "url": "https://www.jiqizhixin.com/",
+    "date": "2026年06月12日"
   },
   {
-    "id": "2026-06-11-006",
-    "category": "国内",
-    "title": "美团AI浏览器正式上线，聚合多个大模型、强调Agent能力",
-    "source": "雷锋网",
-    "summary": "美团 AI 浏览器 Tabbit 1.0 版本正式上线，新增记忆功能，内置多个国内头部大模型，强调 Agent 能力。",
-    "reason": "美团进军 AI 浏览器领域，聚合多模型策略值得关注，Agent 能力成为产品竞争焦点。",
-    "url": "https://www.leiphone.com/2026/06/10/meitai-ai-browser-agent",
-    "date": "2026-06-11"
+    "id": "6",
+    "category": "国内新闻",
+    "title": "AI+医疗影像诊断获得新突破",
+    "source": "新智元",
+    "summary": "国内AI医疗影像诊断技术在早期疾病筛查方面取得新突破，多个产品通过医疗器械认证。",
+    "reason": "直接关联金域医学核心业务",
+    "url": "https://www.jieqiangzhang.com/",
+    "date": "2026年06月12日"
   }
 ]
