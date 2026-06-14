@@ -1,62 +1,62 @@
 [
   {
-    "id": "1",
+    "id": "20260614-001",
     "category": "国外",
-    "title": "AI NEWS: Week of June 1 to June 7, 2026",
-    "source": "Medium - David Akpovi",
-    "summary": "ChatGPT 已突破 10 亿月活跃用户里程碑，Uber 在西班牙推出机器人出租车，比亚迪进军人形机器人领域，Google Wallet 扩展数字身份功能。",
-    "reason": "ChatGPT 突破 10 亿用户是 AI 历史的重要里程碑，标志着 AI 助手的全球大规模采用已进入新阶段。",
-    "url": "https://medium.com/@davidakpovi/ai-news-week-of-june-1-to-june-7-2026-7957940c805a",
-    "date": "2026-06-13"
+    "title": "[搜索失败] 无法获取 - Web Search 服务不可用",
+    "source": "系统提示",
+    "summary": "web_search 工具被禁用或没有可用的搜索提供商。需要配置搜索 API（如 Tavily、Perplexity、Brave Search 等）才能执行新闻搜索任务。",
+    "reason": "系统错误，需要用户配置搜索服务",
+    "url": "https://docs.openclaw.ai/tools/web-search",
+    "date": "2026年06月14日"
   },
   {
-    "id": "2",
+    "id": "20260614-002",
     "category": "国外",
-    "title": "NVIDIA's Nemotron 3 Ultra: 最强的美国开源权重模型",
-    "source": "LinkedIn - AI Insiders",
-    "summary": "NVIDIA 发布 Nemotron 3 Ultra，550B 参数 MoE 模型在人工智能分析指数上得分 48，超越了所有美国开源权重模型，但仍落后于中国前沿模型。",
-    "reason": "Nemotron 3 Ultra 的发布标志着美国在开源大模型领域的重要进展，对全球 AI 竞争格局有重大影响。",
-    "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-2nd-june-2026-ai-insiders-news-hnuae",
-    "date": "2026-06-13"
+    "title": "[搜索失败] 无法获取 - Web Search 服务不可用",
+    "source": "系统提示",
+    "summary": "web_search 工具被禁用或没有可用的搜索提供商。需要配置搜索 API（如 Tavily、Perplexity、Brave Search 等）才能执行新闻搜索任务。",
+    "reason": "系统错误，需要用户配置搜索服务",
+    "url": "https://docs.openclaw.ai/tools/web-search",
+    "date": "2026年06月14日"
   },
   {
-    "id": "3",
+    "id": "20260614-003",
     "category": "国外",
-    "title": "Kimi.ai 开源新编程模型，推理 token 减少 30%",
-    "source": "Radical Data Science",
-    "summary": "Moonshot AI 发布 Kimi-K2.7-Code 开源编程模型，比前代更快、更智能、运行成本更低，推理 token 减少 30%。",
-    "reason": "Kimi 编程模型的优化显著降低了 AI 编程的推理成本，对开发者工具有重大实用价值。",
-    "url": "https://radicaldatascience.wordpress.com/2026/06/10/ai-news-briefs-bulletin-board-for-june-2026",
-    "date": "2026-06-13"
+    "title": "[搜索失败] 无法获取 - Web Search 服务不可用",
+    "source": "系统提示",
+    "summary": "web_search 工具被禁用或没有可用的搜索提供商。需要配置搜索 API（如 Tavily、Perplexity、Brave Search 等）才能执行新闻搜索任务。",
+    "reason": "系统错误，需要用户配置搜索服务",
+    "url": "https://docs.openclaw.ai/tools/web-search",
+    "date": "2026年06月14日"
   },
   {
-    "id": "4",
+    "id": "20260614-004",
     "category": "国内",
-    "title": "美团 AI 浏览器 Tabbit 1.0 正式上线",
-    "source": "AIBase",
-    "summary": "美团推出全能智能体 AI 浏览器 Tabbit 1.0，主打智能化浏览体验。",
-    "reason": "美团推出 AI 浏览器标志着互联网巨头在 AI 应用层的重要布局，智能体或将成为下一代浏览器核心。",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026-06-13"
+    "title": "[搜索失败] 无法获取 - Web Search 服务不可用",
+    "source": "系统提示",
+    "summary": "web_search 工具被禁用或没有可用的搜索提供商。需要配置搜索 API（如 Tavily、Perplexity、Brave Search 等）才能执行新闻搜索任务。",
+    "reason": "系统错误，需要用户配置搜索服务",
+    "url": "https://docs.openclaw.ai/tools/web-search",
+    "date": "2026年06月14日"
   },
   {
-    "id": "5",
+    "id": "20260614-005",
     "category": "国内",
-    "title": "字节跳动 AI 大将西原离职，携超 1 亿美元融资开启新征程",
-    "source": "AIBase",
-    "summary": "字节跳动 AI 核心人物西原离职，带着超过 1 亿美元融资开启新的创业征程。",
-    "reason": "字节 AI 核心人才的离职和巨额融资，反映了中国 AI 创业生态的活跃度和资本热度。",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026-06-13"
+    "title": "[搜索失败] 无法获取 - Web Search 服务不可用",
+    "source": "系统提示",
+    "summary": "web_search 工具被禁用或没有可用的搜索提供商。需要配置搜索 API（如 Tavily、Perplexity、Brave Search 等）才能执行新闻搜索任务。",
+    "reason": "系统错误，需要用户配置搜索服务",
+    "url": "https://docs.openclaw.ai/tools/web-search",
+    "date": "2026年06月14日"
   },
   {
-    "id": "6",
+    "id": "20260614-006",
     "category": "国内",
-    "title": "高德发布 ABot-Earth0.5：3D 原生驱动高一致性场景生成",
-    "source": "量子位",
-    "summary": "高德发布 ABot-Earth0.5，跨越 2D 蒸馏模式，以 3D 原生驱动实现高一致性场景生成。",
-    "reason": "3D 原生场景生成技术的突破，对自动驾驶、数字孪生等领域有重要应用价值。",
-    "url": "https://www.qbitai.com",
-    "date": "2026-06-13"
+    "title": "[搜索失败] 无法获取 - Web Search 服务不可用",
+    "source": "系统提示",
+    "summary": "web_search 工具被禁用或没有可用的搜索提供商。需要配置搜索 API（如 Tavily、Perplexity、Brave Search 等）才能执行新闻搜索任务。",
+    "reason": "系统错误，需要用户配置搜索服务",
+    "url": "https://docs.openclaw.ai/tools/web-search",
+    "date": "2026年06月14日"
   }
 ]
