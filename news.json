@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260614-001",
+    "id": "1",
     "category": "国外",
-    "title": "[搜索失败] 无法获取 - Web Search 服务不可用",
-    "source": "系统提示",
-    "summary": "web_search 工具被禁用或没有可用的搜索提供商。需要配置搜索 API（如 Tavily、Perplexity、Brave Search 等）才能执行新闻搜索任务。",
-    "reason": "系统错误，需要用户配置搜索服务",
-    "url": "https://docs.openclaw.ai/tools/web-search",
-    "date": "2026年06月14日"
+    "title": "Google redesigned the search box for the first time in 25 years",
+    "source": "VentureBeat",
+    "summary": "谷歌将正式沿用 25 年的搜索框范式退役，新设计将深刻影响信息获取方式",
+    "reason": "用户界面范式变革，影响数十亿用户搜索行为，值得关注",
+    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+    "date": "2026年06月15日"
   },
   {
-    "id": "20260614-002",
+    "id": "2",
     "category": "国外",
-    "title": "[搜索失败] 无法获取 - Web Search 服务不可用",
-    "source": "系统提示",
-    "summary": "web_search 工具被禁用或没有可用的搜索提供商。需要配置搜索 API（如 Tavily、Perplexity、Brave Search 等）才能执行新闻搜索任务。",
-    "reason": "系统错误，需要用户配置搜索服务",
-    "url": "https://docs.openclaw.ai/tools/web-search",
-    "date": "2026年06月14日"
+    "title": "Anthropic blocks public access to Claude Fable 5, Mythos 5 following US government order",
+    "source": "VentureBeat",
+    "summary": "美国发布政府令后，Anthropic 封锁公众对 Claude Fable 5 和 Mythos 5 的访问",
+    "reason": "大国博弈进入 AI 模型管制，凸显企业应避免对单一模型/供应商的依赖",
+    "url": "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do",
+    "date": "2026年06月15日"
   },
   {
-    "id": "20260614-003",
+    "id": "3",
     "category": "国外",
-    "title": "[搜索失败] 无法获取 - Web Search 服务不可用",
-    "source": "系统提示",
-    "summary": "web_search 工具被禁用或没有可用的搜索提供商。需要配置搜索 API（如 Tavily、Perplexity、Brave Search 等）才能执行新闻搜索任务。",
-    "reason": "系统错误，需要用户配置搜索服务",
-    "url": "https://docs.openclaw.ai/tools/web-search",
-    "date": "2026年06月14日"
+    "title": "Google researchers introduce 'faithful uncertainty,' allowing LLMs to offer best guesses instead of hallucinations",
+    "source": "VentureBeat",
+    "summary": "Google 提出“元认知”方法，让 LLM 提供最佳猜测而非幻觉，以减少企业 AI 中的错误",
+    "reason": "幻觉抑制对企业 AI 部署至关重要，技术路径值得关注",
+    "url": "https://venturebeat.com/orchestration/google-researchers-introduce-faithful-uncertainty-allowing-llms-to-offer-best-guesses-instead-of-hallucinations",
+    "date": "2026年06月15日"
   },
   {
-    "id": "20260614-004",
-    "category": "国内",
-    "title": "[搜索失败] 无法获取 - Web Search 服务不可用",
-    "source": "系统提示",
-    "summary": "web_search 工具被禁用或没有可用的搜索提供商。需要配置搜索 API（如 Tavily、Perplexity、Brave Search 等）才能执行新闻搜索任务。",
-    "reason": "系统错误，需要用户配置搜索服务",
-    "url": "https://docs.openclaw.ai/tools/web-search",
-    "date": "2026年06月14日"
+    "id": "4",
+    "category": "国外",
+    "title": "White House reportedly has suspicions that a China-linked group had access to Anthropic's powerful AI",
+    "source": "The Verge",
+    "summary": "白宫怀疑一个与中国有关的团体访问了 Anthropic 的强大 AI，涉及国家安全",
+    "reason": "大国博弈中 AI 能力安全成焦点，地缘政治风险提升",
+    "url": "https://www.theverge.com/2026/6/14/24176654/white-house-anthropic-china-access-national-security-concerns",
+    "date": "2026年06月15日"
   },
   {
-    "id": "20260614-005",
-    "category": "国内",
-    "title": "[搜索失败] 无法获取 - Web Search 服务不可用",
-    "source": "系统提示",
-    "summary": "web_search 工具被禁用或没有可用的搜索提供商。需要配置搜索 API（如 Tavily、Perplexity、Brave Search 等）才能执行新闻搜索任务。",
-    "reason": "系统错误，需要用户配置搜索服务",
-    "url": "https://docs.openclaw.ai/tools/web-search",
-    "date": "2026年06月14日"
+    "id": "5",
+    "category": "国外",
+    "title": "Google's DiffusionGemma generates 256 tokens in parallel and self-corrects as it goes",
+    "source": "VentureBeat",
+    "summary": "DiffusionGemma 可并行生成 256 个 token 并在生成中自我修正，在消费级 GPU 上速度更快",
+    "reason": "生成加速与自我纠错对落地成本与可靠性均有实质影响",
+    "url": "https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes",
+    "date": "2026年06月15日"
   },
   {
-    "id": "20260614-006",
-    "category": "国内",
-    "title": "[搜索失败] 无法获取 - Web Search 服务不可用",
-    "source": "系统提示",
-    "summary": "web_search 工具被禁用或没有可用的搜索提供商。需要配置搜索 API（如 Tavily、Perplexity、Brave Search 等）才能执行新闻搜索任务。",
-    "reason": "系统错误，需要用户配置搜索服务",
-    "url": "https://docs.openclaw.ai/tools/web-search",
-    "date": "2026年06月14日"
+    "id": "6",
+    "category": "国外",
+    "title": "Seattle officially enacted an emergency one-year moratorium on new data centers",
+    "source": "The Verge",
+    "summary": "西雅图紧急实施为期一年的新数据中心建设暂停令，员工及居民强烈支持",
+    "reason": "地方与 AI 基础设施扩张的冲突折射出能源、环境与社区的博弈",
+    "url": "https://www.theverge.com/2026/6/10/24175940/seattle-data-center-moratorium-amazon-employees-opposition",
+    "date": "2026年06月15日"
   }
 ]
