@@ -1,62 +1,62 @@
 [
   {
-    "id": "1",
+    "id": "2026061601",
     "category": "国外",
-    "title": "Google redesigned the search box for the first time in 25 years",
+    "title": "Satya Nadella 警告：AI 可能掏空整个行业",
     "source": "VentureBeat",
-    "summary": "谷歌将正式沿用 25 年的搜索框范式退役，新设计将深刻影响信息获取方式",
-    "reason": "用户界面范式变革，影响数十亿用户搜索行为，值得关注",
+    "summary": "微软 CEO Satya Nadella 发布了一篇重要论文，阐述了 AI 时代定义性的经济挑战：少数前沿模型可能吸收整个行业的专业知识并将其商品化，导致企业失去竞争护城河。这一警告呼应了全球化对产业的破坏性影响。",
+    "reason": "业界领袖对 AI 集中化风险的深刻洞察，对理解 AI 产业格局演变具有重要参考价值。",
+    "url": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization",
+    "date": "2026年06月16日"
+  },
+  {
+    "id": "2026061602",
+    "category": "国外",
+    "title": "Sakana AI 推出'超深度研究' Agent，8 小时生成 100+ 页报告",
+    "source": "VentureBeat",
+    "summary": "Sakana AI 发布全新的'超深度研究' Agent，能够在 8 小时内生成超过 100 页的深度研究报告。该工具面向需要深度分析的企业用户，解决了传统深度研究无法满足业务需求的问题。",
+    "reason": "AI Agent 在长周期、高复杂度任务中的突破性应用，展示 AI 自动化研究的新能力边界。",
+    "url": "https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours",
+    "date": "2026年06月16日"
+  },
+  {
+    "id": "2026061603",
+    "category": "国外",
+    "title": "美国政府强制 Anthropic 下线 Fable 5 和 Mythos 5 模型",
+    "source": "The Verge",
+    "summary": "特朗普政府下令 Anthropic 在其 Fable 5 和 Mythos 5 AI 模型发布几天后将其下线。这一罕见的政府干预行动引发业界对 AI 监管政策的广泛关注。",
+    "reason": "重大监管事件，标志着政府对 AI 模型控制的直接干预，对行业发展具有深远影响。",
+    "url": "https://www.theverge.com/2026/6/15/24178956/anthropic-blocks-public-access-claude-fable-5-mythos-5-government-order",
+    "date": "2026年06月16日"
+  },
+  {
+    "id": "2026061604",
+    "category": "国外",
+    "title": "谷歌 25 年来首次重新设计搜索框",
+    "source": "VentureBeat",
+    "summary": "谷歌正式宣布将沿用 25 年的经典搜索框设计退役。这一变革标志着搜索范式从传统的'输入-列表'模式向 AI 驱动的新交互方式转变。",
+    "reason": "搜索交互模式的革命性变化，代表从传统互联网向 AI 交互方式的重大转型。",
     "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-    "date": "2026年06月15日"
+    "date": "2026年06月16日"
   },
   {
-    "id": "2",
+    "id": "2026061605",
     "category": "国外",
-    "title": "Anthropic blocks public access to Claude Fable 5, Mythos 5 following US government order",
-    "source": "VentureBeat",
-    "summary": "美国发布政府令后，Anthropic 封锁公众对 Claude Fable 5 和 Mythos 5 的访问",
-    "reason": "大国博弈进入 AI 模型管制，凸显企业应避免对单一模型/供应商的依赖",
-    "url": "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do",
-    "date": "2026年06月15日"
-  },
-  {
-    "id": "3",
-    "category": "国外",
-    "title": "Google researchers introduce 'faithful uncertainty,' allowing LLMs to offer best guesses instead of hallucinations",
-    "source": "VentureBeat",
-    "summary": "Google 提出“元认知”方法，让 LLM 提供最佳猜测而非幻觉，以减少企业 AI 中的错误",
-    "reason": "幻觉抑制对企业 AI 部署至关重要，技术路径值得关注",
-    "url": "https://venturebeat.com/orchestration/google-researchers-introduce-faithful-uncertainty-allowing-llms-to-offer-best-guesses-instead-of-hallucinations",
-    "date": "2026年06月15日"
-  },
-  {
-    "id": "4",
-    "category": "国外",
-    "title": "White House reportedly has suspicions that a China-linked group had access to Anthropic's powerful AI",
+    "title": "德国法院裁定谷歌对 AI 搜索结果负责",
     "source": "The Verge",
-    "summary": "白宫怀疑一个与中国有关的团体访问了 Anthropic 的强大 AI，涉及国家安全",
-    "reason": "大国博弈中 AI 能力安全成焦点，地缘政治风险提升",
-    "url": "https://www.theverge.com/2026/6/14/24176654/white-house-anthropic-china-access-national-security-concerns",
-    "date": "2026年06月15日"
+    "summary": "德国法院做出早期裁决，认定 AI 搜索摘要与传统搜索不同：AI 概览通过评估和结合第三方网站内容，生成'独立、新的实质性陈述'。法院认为只有谷歌能够核对这些陈述的准确性。",
+    "reason": "AI 搜索法律责任的重大判例，为 AI 生成内容的监管确立重要先例。",
+    "url": "https://www.theverge.com/2026/6/10/24175601/german-court-google-responsible-false-ai-search-results-overview",
+    "date": "2026年06月16日"
   },
   {
-    "id": "5",
+    "id": "2026061606",
     "category": "国外",
-    "title": "Google's DiffusionGemma generates 256 tokens in parallel and self-corrects as it goes",
-    "source": "VentureBeat",
-    "summary": "DiffusionGemma 可并行生成 256 个 token 并在生成中自我修正，在消费级 GPU 上速度更快",
-    "reason": "生成加速与自我纠错对落地成本与可靠性均有实质影响",
-    "url": "https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes",
-    "date": "2026年06月15日"
-  },
-  {
-    "id": "6",
-    "category": "国外",
-    "title": "Seattle officially enacted an emergency one-year moratorium on new data centers",
+    "title": "SpaceX 租用 Colossus 1 AI 数据中心",
     "source": "The Verge",
-    "summary": "西雅图紧急实施为期一年的新数据中心建设暂停令，员工及居民强烈支持",
-    "reason": "地方与 AI 基础设施扩张的冲突折射出能源、环境与社区的博弈",
-    "url": "https://www.theverge.com/2026/6/10/24175940/seattle-data-center-moratorium-amazon-employees-opposition",
-    "date": "2026年06月15日"
+    "summary": "据报道，SpaceX 在自家团队遇到延迟问题后，租用了 Colossus 1 AI 数据中心。该公司与 Anthropic（年费 150 亿美元）和 Google（月费 9.2 亿美元）签订了算力租用协议。",
+    "reason": "AI 算力需求激增的典型案例，展示 AI 基础设施建设的巨大商业价值。",
+    "url": "https://www.theverge.com/2026/6/12/24178956/spacex-rented-out-computing-after-own-teams-had-trouble-using-it-colossus-anthropic-google",
+    "date": "2026年06月16日"
   }
 ]
