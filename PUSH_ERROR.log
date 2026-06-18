@@ -1,21 +1,9 @@
-[2026-06-15 01:00 UTC] Git Push 失败记录
+2026-06-16 01:00 UTC - GitHub Push Error
+=========================================
+Commit succeeded: [main 60d8258] Update: AI 新闻数据 - 2026-06-16
+Push failed: fatal: could not read Username for 'https://github.com': No such device or address
 
-错误现象：
-- git add 和 git commit 成功
-- git push origin main 超时，进程被 SIGKILL
-- 本地分支领先远程 45 个提交（可能之前推送也失败）
+Error: Git authentication failure (no credentials configured for HTTPS push)
+Solution needed: Configure Git credentials or use SSH authentication
 
-可能原因：
-1. 网络问题：GitHub 访问超时
-2. 认证问题：Git credentials 可能过期或无效
-3. SSH/HTTPS 连接问题
-
-已尝试：
-- 多次执行 git push（均超时）
-- git remote -v（origin URL 正确）
-- git status（本地提交正常）
-
-建议：
-1. 检查网络连接
-2. 更新 GitHub credentials
-3. 手动执行 git push 排查问题
+本地数据已更新，飞书推送成功。GitHub Pages 推送失败，需要配置 Git 凭据。
