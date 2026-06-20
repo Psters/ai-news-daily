@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026061801",
-    "category": "国外",
-    "title": "OpenAI 推出 GPT-5 预览版：推理能力大幅提升",
-    "source": "OpenAI Official",
-    "summary": "OpenAI 正式发布 GPT-5 预览版，重点改进了多步推理能力，在数学、编程和科学推理任务中表现显著提升。新模型还引入了更长的上下文窗口和更低的延迟。",
-    "reason": "OpenAI 年度重磅更新，代表当前 SOTA 模型的最新进展，对了解 AI 能力边界至关重要。",
-    "url": "https://openai.com/blog/gpt-5-preview",
-    "date": "2026年06月18日"
+    "id": "20260620-01",
+    "category": "overseas",
+    "title": "Subquadratic 声称突破了 LLM 瓶颈",
+    "source": "MIT Technology Review",
+    "summary": "一家名为 Subquadratic 的初创公司声称其突破了限制大型语言模型发展的瓶颈，但业界对此仍持怀疑态度。",
+    "reason": "LLM 效率提升是 AI 落地的关键，若此技术属实将大幅降低推理成本。",
+    "url": "https://www.technologyreview.com/2026/06/18/1105810/subquadratic-claims-breakthrough-llm-bottleneck/",
+    "date": "2026-06-20"
   },
   {
-    "id": "2026061802",
-    "category": "国外",
-    "title": "欧盟 AI 法案正式生效：高风险 AI 应用面临严格监管",
-    "source": "EU Commission",
-    "summary": "欧盟 AI 法案于 6 月 18 日正式全面生效，高风险 AI 应用（如招聘、教育、执法）必须满足严格透明度要求和人工监督机制。违规企业将面临最高全球营业额 6% 的罚款。",
-    "reason": "全球首部综合性 AI 法规落地，标志着 AI 监管进入新阶段，对企业合规具有重要指导意义。",
-    "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-    "date": "2026年06月18日"
+    "id": "20260620-02",
+    "category": "overseas",
+    "title": "数据中心快速上线？给它点灵活性",
+    "source": "MIT Technology Review",
+    "summary": "随着数据中心繁荣对电网造成压力，一些公司认为答案不仅仅是更多发电厂，而是能在需求激增时降低能耗的软件。",
+    "reason": "AI 算力需求激增，能源可持续性是关键挑战，此方案值得关注。",
+    "url": "https://www.technologyreview.com/2026/06/17/1105808/want-to-get-a-data-center-online-quickly-give-it-some-flex/",
+    "date": "2026-06-20"
   },
   {
-    "id": "2026061803",
-    "category": "国外",
-    "title": "Anthropic 公布 Claude 4 路线图：支持多模态实时交互",
-    "source": "Anthropic Blog",
-    "summary": "Anthropic 发布 Claude 4 发展路线图，计划引入实时视频/音频流处理能力，并增强多模态交互体验。新架构将显著降低延迟，支持更自然的对话式 AI 应用。",
-    "reason": "Claude 系列模型战略升级，展示 AI 多模态交互的技术趋势和应用前景。",
-    "url": "https://www.anthropic.com/blog/claude-4-roadmap",
-    "date": "2026年06月18日"
+    "id": "20260620-03",
+    "category": "overseas",
+    "title": "Fine-tuning 会遗忘，RAG 会泄漏上下文",
+    "source": "VentureBeat",
+    "summary": "超网络可根据需求构建 Agent 所需的模型。90/10 的自主 Agent 分配不是模型设置，而是架构的输出。",
+    "reason": "模型架构演进是 AI Agent 核心话题，超网络或解决模型定制痛点。",
+    "url": "https://venturebeat.com/ai/fine-tuning-forgets-rag-leaks-context-hypernetworks-build-model-on-demand/",
+    "date": "2026-06-20"
   },
   {
-    "id": "2026061804",
-    "category": "国内",
-    "title": "百度文心大模型 5.0 发布：中文理解能力刷新 SOTA",
-    "source": "百度智能云",
-    "summary": "百度正式发布文心大模型 5.0，在中文理解、多轮对话、知识问答等任务中刷新国内 SOTA 纪录。新模型支持更长的上下文和更强的逻辑推理能力，面向企业和开发者开放 API。",
-    "reason": "国产大模型重要里程碑，展示国内 AI 技术追赶进展，对中文 AI 应用生态建设意义重大。",
-    "url": "https://cloud.baidu.com/article/12345678",
-    "date": "2026年06月18日"
+    "id": "20260620-04",
+    "category": "domestic",
+    "title": "困住医疗AI的死循环，终于有国产玩家跑通了",
+    "source": "量子位",
+    "summary": "国产医疗AI企业突破技术与商业化的死循环，实现了医疗AI应用落地。",
+    "reason": "医疗AI是高价值场景，国产突破对行业意义重大。",
+    "url": "https://www.qbitai.com/",
+    "date": "2026-06-20"
   },
   {
-    "id": "2026061805",
-    "category": "国内",
-    "title": "阿里云发布通义千问 3.0 Max：企业级 AI 能力全面升级",
-    "source": "阿里云官网",
-    "summary": "阿里云推出通义千问 3.0 Max 版本，针对企业场景优化，支持私有化部署和定制化训练。新版本在代码生成、数据分析、知识管理等场景中性能提升 40% 以上。",
-    "reason": "企业级 AI 服务重要升级，反映国内云厂商在 AI 基础设施领域的竞争态势。",
-    "url": "https://aliyun.com/tongyi-qianwen-3-max",
-    "date": "2026年06月18日"
+    "id": "20260620-05",
+    "category": "domestic",
+    "title": "全球首个人形机器人通用小脑来了！",
+    "source": "量子位",
+    "summary": "基于全球最大规模2万小时人类动作数据，实现零样本泛化的人形机器人运动控制突破。",
+    "reason": "具身智能是AI下一阶段重要方向，通用小脑是关键进展。",
+    "url": "https://www.qbitai.com/",
+    "date": "2026-06-20"
   },
   {
-    "id": "2026061806",
-    "category": "国内",
-    "title": "智谱 AI 完成 C 轮融资：估值突破 30 亿美元",
-    "source": "36氪",
-    "summary": "智谱 AI 宣布完成 C 轮融资，由红杉中国领投，估值突破 30 亿美元。资金将用于扩大 GLM 模型研发投入和商业化落地，加速在金融、教育、政务等领域的 AI 应用拓展。",
-    "reason": "国产 AI 独角兽融资动态，反映资本市场对 AI 产业的信心和预期。",
-    "url": "https://36kr.com/p/12345678",
-    "date": "2026年06月18日"
+    "id": "20260620-06",
+    "category": "domestic",
+    "title": "刚刚，北京建了一座AI工厂",
+    "source": "量子位",
+    "summary": "目标10万P算力，日产10万亿Token，推动AI基础设施规模化。",
+    "reason": "AI基础设施是产业根基，北京AI工厂体现国家战略布局。",
+    "url": "https://www.qbitai.com/",
+    "date": "2026-06-20"
   }
 ]
