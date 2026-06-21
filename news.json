@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260620-01",
-    "category": "overseas",
-    "title": "Subquadratic 声称突破了 LLM 瓶颈",
-    "source": "MIT Technology Review",
-    "summary": "一家名为 Subquadratic 的初创公司声称其突破了限制大型语言模型发展的瓶颈，但业界对此仍持怀疑态度。",
-    "reason": "LLM 效率提升是 AI 落地的关键，若此技术属实将大幅降低推理成本。",
-    "url": "https://www.technologyreview.com/2026/06/18/1105810/subquadratic-claims-breakthrough-llm-bottleneck/",
-    "date": "2026-06-20"
+    "id": "20260621_001",
+    "category": "国外",
+    "title": "NVIDIA 发布 Nemotron 3 Ultra - 最强美国开源模型",
+    "source": "AI Insiders",
+    "summary": "NVIDIA 的 Nemotron 3 Ultra 是 550B 参数的 MoE 模型，在 Artificial Analysis Intelligence Index 上得分 48，超越了所有美国开源模型发布，但仍落后于中国前沿模型。",
+    "reason": "展示中美 AI 竞争格局，美国最强开源模型仍落后中国",
+    "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-2nd-june-2026-ai-insiders-news-hnuae",
+    "date": "2026-06-21"
   },
   {
-    "id": "20260620-02",
-    "category": "overseas",
-    "title": "数据中心快速上线？给它点灵活性",
-    "source": "MIT Technology Review",
-    "summary": "随着数据中心繁荣对电网造成压力，一些公司认为答案不仅仅是更多发电厂，而是能在需求激增时降低能耗的软件。",
-    "reason": "AI 算力需求激增，能源可持续性是关键挑战，此方案值得关注。",
-    "url": "https://www.technologyreview.com/2026/06/17/1105808/want-to-get-a-data-center-online-quickly-give-it-some-flex/",
-    "date": "2026-06-20"
+    "id": "20260621_002",
+    "category": "国外",
+    "title": "JetBrains 发布 Mellum 2 - 12B MoE 编程模型",
+    "source": "AI Insiders",
+    "summary": "JetBrains 发布第二代编程模型 Mellum 2，这是一个 12B 参数的 MoE 模型，专为 IDE 原生编码而构建，针对代码完成、工具使用和代理工作流程进行优化，通过稀疏激活降低推理成本。",
+    "reason": "编程助手领域持续进化，IDE 原生模型成为新趋势",
+    "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-2nd-june-2026-ai-insiders-news-hnuae",
+    "date": "2026-06-21"
   },
   {
-    "id": "20260620-03",
-    "category": "overseas",
-    "title": "Fine-tuning 会遗忘，RAG 会泄漏上下文",
-    "source": "VentureBeat",
-    "summary": "超网络可根据需求构建 Agent 所需的模型。90/10 的自主 Agent 分配不是模型设置，而是架构的输出。",
-    "reason": "模型架构演进是 AI Agent 核心话题，超网络或解决模型定制痛点。",
-    "url": "https://venturebeat.com/ai/fine-tuning-forgets-rag-leaks-context-hypernetworks-build-model-on-demand/",
-    "date": "2026-06-20"
+    "id": "20260621_003",
+    "category": "国外",
+    "title": "NVIDIA 发布 Cosmos 3 - 开源物理 AI 模型",
+    "source": "AI Insiders",
+    "summary": "NVIDIA 发布 Cosmos 3，这是一个开放的基础模型，可直接输出机器人动作。这是首个具有原生动作模态的开源权重物理 AI 模型，改变了机器人团队的预训练方式，将瓶颈从数据转移到微调计算。",
+    "reason": "物理 AI 和机器人领域重大突破，开源模型进入动作生成",
+    "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-2nd-june-2026-ai-insiders-news-hnuae",
+    "date": "2026-06-21"
   },
   {
-    "id": "20260620-04",
-    "category": "domestic",
-    "title": "困住医疗AI的死循环，终于有国产玩家跑通了",
-    "source": "量子位",
-    "summary": "国产医疗AI企业突破技术与商业化的死循环，实现了医疗AI应用落地。",
-    "reason": "医疗AI是高价值场景，国产突破对行业意义重大。",
-    "url": "https://www.qbitai.com/",
-    "date": "2026-06-20"
+    "id": "20260621_004",
+    "category": "国内",
+    "title": "贝索斯豪掷 4 亿美元领投 CuspAI，估值飙升至 26 亿美元",
+    "source": "AIBase",
+    "summary": "贝索斯个人注资 4 亿美元，英国 AI 初创 CuspAI 估值暴涨至 26 亿美元。该公司将生成式 AI 用于材料科学，凭借"逆向设计"技术按需快速模拟新材料，颠覆传统研发模式。",
+    "reason": "AI + 科学研究赛道获得重大资本支持，材料科学成为新热点",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026-06-21"
   },
   {
-    "id": "20260620-05",
-    "category": "domestic",
-    "title": "全球首个人形机器人通用小脑来了！",
-    "source": "量子位",
-    "summary": "基于全球最大规模2万小时人类动作数据，实现零样本泛化的人形机器人运动控制突破。",
-    "reason": "具身智能是AI下一阶段重要方向，通用小脑是关键进展。",
-    "url": "https://www.qbitai.com/",
-    "date": "2026-06-20"
+    "id": "20260621_005",
+    "category": "国内",
+    "title": "昆仑万维发布天工 3.1：画布设计与多 Agent 并行工作流",
+    "source": "AIBase",
+    "summary": "昆仑万维发布天工 3.1，国内外同步上线，核心升级推出画布设计 Skywork Design 与多 Agent 调度 Dynamic Workflows，推动 AI 从演示转向高完成度产品。天工 3.0 上线一个月后，其超级智能体依托高粘性 Websites 场景实现收入三倍增长。",
+    "reason": "国产多 Agent 系统持续进化，从演示走向实用",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026-06-21"
   },
   {
-    "id": "20260620-06",
-    "category": "domestic",
-    "title": "刚刚，北京建了一座AI工厂",
-    "source": "量子位",
-    "summary": "目标10万P算力，日产10万亿Token，推动AI基础设施规模化。",
-    "reason": "AI基础设施是产业根基，北京AI工厂体现国家战略布局。",
-    "url": "https://www.qbitai.com/",
-    "date": "2026-06-20"
+    "id": "20260621_006",
+    "category": "国内",
+    "title": "微信支付发布"AI 专属卡"，打通对话到支付全链路",
+    "source": "AIBase",
+    "summary": "6 月 17 日，微信支付正式发布"AI 专属卡"，专为 AI 智能体打造，支持在对话中直接消费，打通推荐、下单、支付全链路闭环。已率先在 Mac 端 WorkBuddy 上线，用户召唤"美团生活助手"即可购买团购服务，打破 AI 仅限信息检索的局限。",
+    "reason": "AI 从信息工具走向交易工具，商业化闭环形成",
+    "url": "https://news.aibase.com/zh/news",
+    "date": "2026-06-21"
   }
 ]
