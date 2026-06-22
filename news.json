@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260621_001",
-    "category": "国外",
-    "title": "NVIDIA 发布 Nemotron 3 Ultra - 最强美国开源模型",
-    "source": "AI Insiders",
-    "summary": "NVIDIA 的 Nemotron 3 Ultra 是 550B 参数的 MoE 模型，在 Artificial Analysis Intelligence Index 上得分 48，超越了所有美国开源模型发布，但仍落后于中国前沿模型。",
-    "reason": "展示中美 AI 竞争格局，美国最强开源模型仍落后中国",
-    "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-2nd-june-2026-ai-insiders-news-hnuae",
-    "date": "2026-06-21"
+    "id": "20260622-mit-llm-bottleneck",
+    "category": "international",
+    "title": "A startup claims it broke through a bottleneck that's holding back LLMs",
+    "source": "MIT Technology Review",
+    "summary": "Subquadratic has now shared more details about its new model. But some are still skeptical.",
+    "reason": "大语言模型性能瓶颈是当前 AI 发展的关键问题，任何突破都可能影响整个行业走向。",
+    "url": "https://www.technologyreview.com/2026/06/22/1106785/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "date": "2026年06月22日"
   },
   {
-    "id": "20260621_002",
-    "category": "国外",
-    "title": "JetBrains 发布 Mellum 2 - 12B MoE 编程模型",
-    "source": "AI Insiders",
-    "summary": "JetBrains 发布第二代编程模型 Mellum 2，这是一个 12B 参数的 MoE 模型，专为 IDE 原生编码而构建，针对代码完成、工具使用和代理工作流程进行优化，通过稀疏激活降低推理成本。",
-    "reason": "编程助手领域持续进化，IDE 原生模型成为新趋势",
-    "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-2nd-june-2026-ai-insiders-news-hnuae",
-    "date": "2026-06-21"
+    "id": "20260622-mit-data-center-flex",
+    "category": "international",
+    "title": "Want to get a data center online quickly? Give it some flex.",
+    "source": "MIT Technology Review",
+    "summary": "As the data-center boom puts pressure on the grid, some companies say the answer isn't just more power plants but software that dials down centers' energy-guzzling ways when demand spikes.",
+    "reason": "AI 算力的能源消耗是可持续发展的重要议题，柔性管理方案值得关注。",
+    "url": "https://www.technologyreview.com/2026/06/21/1106784/want-to-get-a-data-center-online-quickly-give-it-some-flex/",
+    "date": "2026年06月22日"
   },
   {
-    "id": "20260621_003",
-    "category": "国外",
-    "title": "NVIDIA 发布 Cosmos 3 - 开源物理 AI 模型",
-    "source": "AI Insiders",
-    "summary": "NVIDIA 发布 Cosmos 3，这是一个开放的基础模型，可直接输出机器人动作。这是首个具有原生动作模态的开源权重物理 AI 模型，改变了机器人团队的预训练方式，将瓶颈从数据转移到微调计算。",
-    "reason": "物理 AI 和机器人领域重大突破，开源模型进入动作生成",
-    "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-2nd-june-2026-ai-insiders-news-hnuae",
-    "date": "2026-06-21"
+    "id": "20260622-mit-south-korea-ai",
+    "category": "international",
+    "title": "Why do South Koreans love AI so much?",
+    "source": "MIT Technology Review",
+    "summary": "From eldercare robots to humanoid monks, South Koreans just can't get enough of AI.",
+    "reason": "了解不同地区的 AI 应用普及情况，有助于理解全球 AI 发展差异和文化接受度。",
+    "url": "https://www.technologyreview.com/2026/06/20/1106783/why-do-south-koreans-love-ai-so-much/",
+    "date": "2026年06月22日"
   },
   {
-    "id": "20260621_004",
-    "category": "国内",
-    "title": "贝索斯豪掷 4 亿美元领投 CuspAI，估值飙升至 26 亿美元",
-    "source": "AIBase",
-    "summary": "贝索斯个人注资 4 亿美元，英国 AI 初创 CuspAI 估值暴涨至 26 亿美元。该公司将生成式 AI 用于材料科学，凭借"逆向设计"技术按需快速模拟新材料，颠覆传统研发模式。",
-    "reason": "AI + 科学研究赛道获得重大资本支持，材料科学成为新热点",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026-06-21"
+    "id": "20260622-mit-deepmind-agents",
+    "category": "international",
+    "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+    "source": "MIT Technology Review",
+    "summary": "The firm is calling for more scientists to study the risks of multi-agent systems.",
+    "reason": "多智能体系统的风险是 AI 安全研究的前沿话题，DeepMind 的呼吁具有权威性。",
+    "url": "https://www.technologyreview.com/2026/06/19/1106782/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "date": "2026年06月22日"
   },
   {
-    "id": "20260621_005",
-    "category": "国内",
-    "title": "昆仑万维发布天工 3.1：画布设计与多 Agent 并行工作流",
-    "source": "AIBase",
-    "summary": "昆仑万维发布天工 3.1，国内外同步上线，核心升级推出画布设计 Skywork Design 与多 Agent 调度 Dynamic Workflows，推动 AI 从演示转向高完成度产品。天工 3.0 上线一个月后，其超级智能体依托高粘性 Websites 场景实现收入三倍增长。",
-    "reason": "国产多 Agent 系统持续进化，从演示走向实用",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026-06-21"
+    "id": "20260622-mit-meta-hack",
+    "category": "international",
+    "title": "The Meta hack shows there's more to AI security than Mythos",
+    "source": "MIT Technology Review",
+    "summary": "Some AI cybersecurity threats are incredibly simple. They're still dangerous.",
+    "reason": "AI 安全不仅是复杂的技术问题，简单的攻击方式同样危险，Meta 案例具有警示意义。",
+    "url": "https://www.technologyreview.com/2026/06/18/1106781/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "date": "2026年06月22日"
   },
   {
-    "id": "20260621_006",
-    "category": "国内",
-    "title": "微信支付发布"AI 专属卡"，打通对话到支付全链路",
-    "source": "AIBase",
-    "summary": "6 月 17 日，微信支付正式发布"AI 专属卡"，专为 AI 智能体打造，支持在对话中直接消费，打通推荐、下单、支付全链路闭环。已率先在 Mac 端 WorkBuddy 上线，用户召唤"美团生活助手"即可购买团购服务，打破 AI 仅限信息检索的局限。",
-    "reason": "AI 从信息工具走向交易工具，商业化闭环形成",
-    "url": "https://news.aibase.com/zh/news",
-    "date": "2026-06-21"
+    "id": "20260622-mit-ai-courts",
+    "category": "international",
+    "title": "How courts are coping with a flood of AI-generated lawsuits",
+    "source": "MIT Technology Review",
+    "summary": "Judges are wondering what rights and duties chatbots should have as they stand in for lawyers.",
+    "reason": "AI 在法律领域的应用引发了关于责任和权利的讨论，这是 AI 治理的重要议题。",
+    "url": "https://www.technologyreview.com/2026/06/17/1106780/how-courts-are-coping-with-a-flood-of-ai-generated-lawsuits/",
+    "date": "2026年06月22日"
   }
 ]
