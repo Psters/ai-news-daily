@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260622-mit-llm-bottleneck",
+    "id": "20260623-mit-llm-bottleneck",
     "category": "international",
     "title": "A startup claims it broke through a bottleneck that's holding back LLMs",
     "source": "MIT Technology Review",
     "summary": "Subquadratic has now shared more details about its new model. But some are still skeptical.",
     "reason": "大语言模型性能瓶颈是当前 AI 发展的关键问题，任何突破都可能影响整个行业走向。",
     "url": "https://www.technologyreview.com/2026/06/22/1106785/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-    "date": "2026年06月22日"
+    "date": "2026年06月23日"
   },
   {
-    "id": "20260622-mit-data-center-flex",
+    "id": "20260623-mit-data-center-flex",
     "category": "international",
     "title": "Want to get a data center online quickly? Give it some flex.",
     "source": "MIT Technology Review",
     "summary": "As the data-center boom puts pressure on the grid, some companies say the answer isn't just more power plants but software that dials down centers' energy-guzzling ways when demand spikes.",
     "reason": "AI 算力的能源消耗是可持续发展的重要议题，柔性管理方案值得关注。",
     "url": "https://www.technologyreview.com/2026/06/21/1106784/want-to-get-a-data-center-online-quickly-give-it-some-flex/",
-    "date": "2026年06月22日"
+    "date": "2026年06月23日"
   },
   {
-    "id": "20260622-mit-south-korea-ai",
+    "id": "20260623-mit-south-korea-ai",
     "category": "international",
     "title": "Why do South Koreans love AI so much?",
     "source": "MIT Technology Review",
     "summary": "From eldercare robots to humanoid monks, South Koreans just can't get enough of AI.",
     "reason": "了解不同地区的 AI 应用普及情况，有助于理解全球 AI 发展差异和文化接受度。",
     "url": "https://www.technologyreview.com/2026/06/20/1106783/why-do-south-koreans-love-ai-so-much/",
-    "date": "2026年06月22日"
+    "date": "2026年06月23日"
   },
   {
-    "id": "20260622-mit-deepmind-agents",
+    "id": "20260623-mit-deepmind-agents",
     "category": "international",
     "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
     "source": "MIT Technology Review",
     "summary": "The firm is calling for more scientists to study the risks of multi-agent systems.",
     "reason": "多智能体系统的风险是 AI 安全研究的前沿话题，DeepMind 的呼吁具有权威性。",
     "url": "https://www.technologyreview.com/2026/06/19/1106782/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-    "date": "2026年06月22日"
+    "date": "2026年06月23日"
   },
   {
-    "id": "20260622-mit-meta-hack",
+    "id": "20260623-mit-meta-hack",
     "category": "international",
     "title": "The Meta hack shows there's more to AI security than Mythos",
     "source": "MIT Technology Review",
     "summary": "Some AI cybersecurity threats are incredibly simple. They're still dangerous.",
     "reason": "AI 安全不仅是复杂的技术问题，简单的攻击方式同样危险，Meta 案例具有警示意义。",
     "url": "https://www.technologyreview.com/2026/06/18/1106781/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-    "date": "2026年06月22日"
+    "date": "2026年06月23日"
   },
   {
-    "id": "20260622-mit-ai-courts",
+    "id": "20260623-mit-ai-courts",
     "category": "international",
     "title": "How courts are coping with a flood of AI-generated lawsuits",
     "source": "MIT Technology Review",
     "summary": "Judges are wondering what rights and duties chatbots should have as they stand in for lawyers.",
     "reason": "AI 在法律领域的应用引发了关于责任和权利的讨论，这是 AI 治理的重要议题。",
     "url": "https://www.technologyreview.com/2026/06/17/1106780/how-courts-are-coping-with-a-flood-of-ai-generated-lawsuits/",
-    "date": "2026年06月22日"
+    "date": "2026年06月23日"
   }
 ]
