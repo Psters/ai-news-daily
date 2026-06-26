@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260623-mit-llm-bottleneck",
+    "id": "20260626-001",
     "category": "international",
-    "title": "A startup claims it broke through a bottleneck that's holding back LLMs",
-    "source": "MIT Technology Review",
-    "summary": "Subquadratic has now shared more details about its new model. But some are still skeptical.",
-    "reason": "大语言模型性能瓶颈是当前 AI 发展的关键问题，任何突破都可能影响整个行业走向。",
-    "url": "https://www.technologyreview.com/2026/06/22/1106785/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-    "date": "2026年06月23日"
+    "title": "Liquid AI 推出最小模型 LFM2.5-230M，可运行于任何设备",
+    "source": "VentureBeat",
+    "summary": "Liquid AI 发布了其最小的模型 LFM2.5-230M，该模型虽然仅有 2.3 亿参数，但在数据提取任务上超越了比其大 4 倍的模型。这个高度优化的模型特别适合执行结构化工具调用和保持 Agent 管道运行，可以在任何地方运行。",
+    "reason": "小模型也能有大能力，这对于边缘计算和资源受限场景具有重要意义。",
+    "url": "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere/",
+    "date": "2026-06-26"
   },
   {
-    "id": "20260623-mit-data-center-flex",
+    "id": "20260626-002",
     "category": "international",
-    "title": "Want to get a data center online quickly? Give it some flex.",
-    "source": "MIT Technology Review",
-    "summary": "As the data-center boom puts pressure on the grid, some companies say the answer isn't just more power plants but software that dials down centers' energy-guzzling ways when demand spikes.",
-    "reason": "AI 算力的能源消耗是可持续发展的重要议题，柔性管理方案值得关注。",
-    "url": "https://www.technologyreview.com/2026/06/21/1106784/want-to-get-a-data-center-online-quickly-give-it-some-flex/",
-    "date": "2026年06月23日"
+    "title": "OpenAI 发布 GPT-5.5 Instant 模型，增强购物和复杂约束处理能力",
+    "source": "VentureBeat",
+    "summary": "OpenAI 发布了更新的 GPT-5.5 Instant 模型，该模型在购物、复杂约束和用户意图理解方面表现更好。新模型已集成到 API 中，标志着 OpenAI 正从需要大量人工指导的模型转向能够更好地推断用户目标、保持约束并跨多轮对话自适应的系统。",
+    "reason": "模型向更智能的意图理解和约束保持发展，是 Agent 应用的重要进步。",
+    "url": "https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api/",
+    "date": "2026-06-26"
   },
   {
-    "id": "20260623-mit-south-korea-ai",
+    "id": "20260626-003",
     "category": "international",
-    "title": "Why do South Koreans love AI so much?",
-    "source": "MIT Technology Review",
-    "summary": "From eldercare robots to humanoid monks, South Koreans just can't get enough of AI.",
-    "reason": "了解不同地区的 AI 应用普及情况，有助于理解全球 AI 发展差异和文化接受度。",
-    "url": "https://www.technologyreview.com/2026/06/20/1106783/why-do-south-koreans-love-ai-so-much/",
-    "date": "2026年06月23日"
+    "title": "Anthropic 推出 Claude Tag，Slack 中的持久化 AI 队友",
+    "source": "The Verge",
+    "summary": "Anthropic 发布了 Claude Tag，这是一款新的 Slack AI Agent 集成。Claude 可以作为公司 Slack 的成员加入，能够编写和合并 Pull Request、查找销售数据、分析数据、接受委派任务等。用户只需在 Slack 频道中标记 @Claude 即可使用。该产品现已向 Claude Enterprise 和 Team 客户开放测试。",
+    "reason": "AI Agent 进入企业协作核心场景，从工具向持久化队友演进。",
+    "url": "https://www.theverge.com/2026/6/23/24233244/anthropic-claude-tag-slack-ai-agent",
+    "date": "2026-06-26"
   },
   {
-    "id": "20260623-mit-deepmind-agents",
+    "id": "20260626-004",
     "category": "international",
-    "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-    "source": "MIT Technology Review",
-    "summary": "The firm is calling for more scientists to study the risks of multi-agent systems.",
-    "reason": "多智能体系统的风险是 AI 安全研究的前沿话题，DeepMind 的呼吁具有权威性。",
-    "url": "https://www.technologyreview.com/2026/06/19/1106782/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-    "date": "2026年06月23日"
+    "title": "Mistral 发布 OCR 4，将文档提取转变为完整的企业 AI 业务",
+    "source": "VentureBeat",
+    "summary": "Mistral 发布了 OCR 4 模型，支持 170 种语言和 10 个语系，接受 PDF、DOC、PPT 和 OpenDocument 格式。该模型可以作为单个容器部署在组织自己的基础设施上，Mistral 将此定位为那些无法将敏感文档通过美国管辖云 API 路由的受监管行业的直接解决方案。",
+    "reason": "企业级 OCR 能力强化，支持本地部署是关键卖点。",
+    "url": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play/",
+    "date": "2026-06-26"
   },
   {
-    "id": "20260623-mit-meta-hack",
+    "id": "20260626-005",
     "category": "international",
-    "title": "The Meta hack shows there's more to AI security than Mythos",
-    "source": "MIT Technology Review",
-    "summary": "Some AI cybersecurity threats are incredibly simple. They're still dangerous.",
-    "reason": "AI 安全不仅是复杂的技术问题，简单的攻击方式同样危险，Meta 案例具有警示意义。",
-    "url": "https://www.technologyreview.com/2026/06/18/1106781/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-    "date": "2026年06月23日"
+    "title": "OpenAI 首次展示定制 AI 推理芯片 Jalapeño，与 Broadcom 合作开发",
+    "source": "VentureBeat",
+    "summary": "OpenAI 与 Broadcom 合作首次展示定制 AI 推理芯片 Jalapeño。两家公司将开发速度归功于深度软硬件协同开发过程，该过程积极使用 OpenAI 自有的模型来加速芯片设计的某些部分。",
+    "reason": "自研芯片是 AI 巨头必争之地，软硬协同加速设计值得关注。",
+    "url": "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models/",
+    "date": "2026-06-26"
   },
   {
-    "id": "20260623-mit-ai-courts",
+    "id": "20260626-006",
     "category": "international",
-    "title": "How courts are coping with a flood of AI-generated lawsuits",
-    "source": "MIT Technology Review",
-    "summary": "Judges are wondering what rights and duties chatbots should have as they stand in for lawyers.",
-    "reason": "AI 在法律领域的应用引发了关于责任和权利的讨论，这是 AI 治理的重要议题。",
-    "url": "https://www.technologyreview.com/2026/06/17/1106780/how-courts-are-coping-with-a-flood-of-ai-generated-lawsuits/",
-    "date": "2026年06月23日"
+    "title": "近 400 家地方报纸起诉 OpenAI 和 Microsoft",
+    "source": "The Verge",
+    "summary": "一个由近 400 家地方报纸组成的联盟起诉 OpenAI 和 Microsoft，指控他们"未经许可或补偿抓取、复制和吞并"了他们的作品来训练 AI 模型。这是 OpenAI 面临的一系列版权诉讼中的最新一次，此前已有《纽约时报》、Ziff Davis、韦氏词典和大英百科全书等提起诉讼。",
+    "reason": "版权诉讼持续发酵，AI 训练数据的法律边界仍在博弈中。",
+    "url": "https://www.theverge.com/2026/6/24/24225851/local-newspapers-sue-openai-microsoft-copyright-infringement-ai-training",
+    "date": "2026-06-26"
   }
 ]
