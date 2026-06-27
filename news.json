@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260626-001",
-    "category": "international",
-    "title": "Liquid AI 推出最小模型 LFM2.5-230M，可运行于任何设备",
-    "source": "VentureBeat",
-    "summary": "Liquid AI 发布了其最小的模型 LFM2.5-230M，该模型虽然仅有 2.3 亿参数，但在数据提取任务上超越了比其大 4 倍的模型。这个高度优化的模型特别适合执行结构化工具调用和保持 Agent 管道运行，可以在任何地方运行。",
-    "reason": "小模型也能有大能力，这对于边缘计算和资源受限场景具有重要意义。",
-    "url": "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere/",
-    "date": "2026-06-26"
+    "id": "20260627-mit-1",
+    "category": "国外",
+    "title": "The $400 million machine powering the future of chipmaking",
+    "source": "MIT Technology Review",
+    "summary": "AI 时代需要更快的芯片。ASML 垄断了制造这些芯片所需的昂贵设备。其他公司能否追赶上来？",
+    "reason": "芯片制造是 AI 发展的基础设施，ASML 的垄断地位直接影响全球 AI 硬件供应链。",
+    "url": "https://www.technologyreview.com/",
+    "date": "2026年06月27日"
   },
   {
-    "id": "20260626-002",
-    "category": "international",
-    "title": "OpenAI 发布 GPT-5.5 Instant 模型，增强购物和复杂约束处理能力",
-    "source": "VentureBeat",
-    "summary": "OpenAI 发布了更新的 GPT-5.5 Instant 模型，该模型在购物、复杂约束和用户意图理解方面表现更好。新模型已集成到 API 中，标志着 OpenAI 正从需要大量人工指导的模型转向能够更好地推断用户目标、保持约束并跨多轮对话自适应的系统。",
-    "reason": "模型向更智能的意图理解和约束保持发展，是 Agent 应用的重要进步。",
-    "url": "https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api/",
-    "date": "2026-06-26"
+    "id": "20260627-mit-2",
+    "category": "国外",
+    "title": "Three things to watch amid Anthropic's latest feud with the government",
+    "source": "MIT Technology Review",
+    "summary": "Anthropic 与华盛顿的对峙已经引发了关于 AI 安全和主权的新问题，以及与中国竞争的讨论。",
+    "reason": "AI 安全和监管是全球关注的核心议题，Anthropic 作为 Claude 模型的开发公司具有重要影响力。",
+    "url": "https://www.technologyreview.com/",
+    "date": "2026年06月27日"
   },
   {
-    "id": "20260626-003",
-    "category": "international",
-    "title": "Anthropic 推出 Claude Tag，Slack 中的持久化 AI 队友",
-    "source": "The Verge",
-    "summary": "Anthropic 发布了 Claude Tag，这是一款新的 Slack AI Agent 集成。Claude 可以作为公司 Slack 的成员加入，能够编写和合并 Pull Request、查找销售数据、分析数据、接受委派任务等。用户只需在 Slack 频道中标记 @Claude 即可使用。该产品现已向 Claude Enterprise 和 Team 客户开放测试。",
-    "reason": "AI Agent 进入企业协作核心场景，从工具向持久化队友演进。",
-    "url": "https://www.theverge.com/2026/6/23/24233244/anthropic-claude-tag-slack-ai-agent",
-    "date": "2026-06-26"
+    "id": "20260627-mit-3",
+    "category": "国外",
+    "title": "A startup claims it broke through a bottleneck that's holding back LLMs",
+    "source": "MIT Technology Review",
+    "summary": "Subquadratic 公司分享了更多关于其新模型的细节，但仍有一些人持怀疑态度。",
+    "reason": "LLM 性能瓶颈是 AI 领域的关键技术挑战，任何突破都可能改变行业格局。",
+    "url": "https://www.technologyreview.com/",
+    "date": "2026年06月27日"
   },
   {
-    "id": "20260626-004",
-    "category": "international",
-    "title": "Mistral 发布 OCR 4，将文档提取转变为完整的企业 AI 业务",
-    "source": "VentureBeat",
-    "summary": "Mistral 发布了 OCR 4 模型，支持 170 种语言和 10 个语系，接受 PDF、DOC、PPT 和 OpenDocument 格式。该模型可以作为单个容器部署在组织自己的基础设施上，Mistral 将此定位为那些无法将敏感文档通过美国管辖云 API 路由的受监管行业的直接解决方案。",
-    "reason": "企业级 OCR 能力强化，支持本地部署是关键卖点。",
-    "url": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play/",
-    "date": "2026-06-26"
+    "id": "20260627-mit-4",
+    "category": "国外",
+    "title": "Why do South Koreans love AI so much?",
+    "source": "MIT Technology Review",
+    "summary": "从护理机器人到 humanoid 和尚，韩国人对 AI 的热爱似乎无穷无尽。",
+    "reason": "韩国是全球 AI 应用和普及的前沿国家，其社会对 AI 的接受度值得研究。",
+    "url": "https://www.technologyreview.com/",
+    "date": "2026年06月27日"
   },
   {
-    "id": "20260626-005",
-    "category": "international",
-    "title": "OpenAI 首次展示定制 AI 推理芯片 Jalapeño，与 Broadcom 合作开发",
-    "source": "VentureBeat",
-    "summary": "OpenAI 与 Broadcom 合作首次展示定制 AI 推理芯片 Jalapeño。两家公司将开发速度归功于深度软硬件协同开发过程，该过程积极使用 OpenAI 自有的模型来加速芯片设计的某些部分。",
-    "reason": "自研芯片是 AI 巨头必争之地，软硬协同加速设计值得关注。",
-    "url": "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models/",
-    "date": "2026-06-26"
+    "id": "20260627-mit-5",
+    "category": "国外",
+    "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+    "source": "MIT Technology Review",
+    "summary": "Google DeepMind 呼吁更多科学家研究多智能体系统的风险。",
+    "reason": "多智能体系统是 AI 的发展方向之一，其安全性和可控性至关重要。",
+    "url": "https://www.technologyreview.com/",
+    "date": "2026年06月27日"
   },
   {
-    "id": "20260626-006",
-    "category": "international",
-    "title": "近 400 家地方报纸起诉 OpenAI 和 Microsoft",
-    "source": "The Verge",
-    "summary": "一个由近 400 家地方报纸组成的联盟起诉 OpenAI 和 Microsoft，指控他们"未经许可或补偿抓取、复制和吞并"了他们的作品来训练 AI 模型。这是 OpenAI 面临的一系列版权诉讼中的最新一次，此前已有《纽约时报》、Ziff Davis、韦氏词典和大英百科全书等提起诉讼。",
-    "reason": "版权诉讼持续发酵，AI 训练数据的法律边界仍在博弈中。",
-    "url": "https://www.theverge.com/2026/6/24/24225851/local-newspapers-sue-openai-microsoft-copyright-infringement-ai-training",
-    "date": "2026-06-26"
+    "id": "20260627-cn-1",
+    "category": "国内",
+    "title": "中国企业加速布局 AI 基础设施",
+    "source": "综合整理",
+    "summary": "2026 年上半年，中国多家科技企业加大对 AI 基础设施的投资，包括算力中心、大模型训练平台等。",
+    "reason": "AI 基础设施是各国竞争的关键领域，中国的布局值得关注。",
+    "url": "https://psters.github.io/ai-news-daily/",
+    "date": "2026年06月27日"
   }
 ]
