@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260627-mit-1",
+    "id": "20260628-mit-1",
     "category": "国外",
-    "title": "The $400 million machine powering the future of chipmaking",
+    "title": "Anthropic 与政府的新冲突：三件值得关注的事",
     "source": "MIT Technology Review",
-    "summary": "AI 时代需要更快的芯片。ASML 垄断了制造这些芯片所需的昂贵设备。其他公司能否追赶上来？",
-    "reason": "芯片制造是 AI 发展的基础设施，ASML 的垄断地位直接影响全球 AI 硬件供应链。",
+    "summary": "Anthropic 开发的 Mythos 模型因代码能力过强而被美国政府认定为国家安全威胁，随后被实施出口管制。这标志着 AI 安全监管进入新阶段。",
+    "reason": "AI 安全和监管是全球关注的核心议题，首次因代码能力触发国家安全管制具有里程碑意义。",
     "url": "https://www.technologyreview.com/",
-    "date": "2026年06月27日"
+    "date": "2026年06月28日"
   },
   {
-    "id": "20260627-mit-2",
+    "id": "20260628-mit-2",
     "category": "国外",
-    "title": "Three things to watch amid Anthropic's latest feud with the government",
+    "title": "World Models：让 AI 理解世界的新路径",
     "source": "MIT Technology Review",
-    "summary": "Anthropic 与华盛顿的对峙已经引发了关于 AI 安全和主权的新问题，以及与中国竞争的讨论。",
-    "reason": "AI 安全和监管是全球关注的核心议题，Anthropic 作为 Claude 模型的开发公司具有重要影响力。",
-    "url": "https://www.technologyreview.com/",
-    "date": "2026年06月27日"
+    "summary": "今天的 AI 仍然不可靠。一些研究人员认为，解决这个问题需要教会 AI 系统理解周围的世界，而不仅仅是处理数据。",
+    "reason": "World Models 被认为是 AGI 的重要方向，突破传统 LLM 的局限性。",
+    "url": "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
+    "date": "2026年06月28日"
   },
   {
-    "id": "20260627-mit-3",
+    "id": "20260628-mit-3",
     "category": "国外",
-    "title": "A startup claims it broke through a bottleneck that's holding back LLMs",
+    "title": "军事 AI 的新作战室",
     "source": "MIT Technology Review",
-    "summary": "Subquadratic 公司分享了更多关于其新模型的细节，但仍有一些人持怀疑态度。",
-    "reason": "LLM 性能瓶颈是 AI 领域的关键技术挑战，任何突破都可能改变行业格局。",
-    "url": "https://www.technologyreview.com/",
-    "date": "2026年06月27日"
+    "summary": "军队已经使用 AI 来检测人类可能错过的东西。现在他们还想要一个指挥官可以在战斗中咨询的建议引擎。",
+    "reason": "军事 AI 的快速发展引发伦理和安全讨论，值得关注。",
+    "url": "https://www.technologyreview.com/2026/04/21/1135667/new-war-room-military-ai-artificial-intelligence/",
+    "date": "2026年06月28日"
   },
   {
-    "id": "20260627-mit-4",
+    "id": "20260628-mit-4",
     "category": "国外",
-    "title": "Why do South Koreans love AI so much?",
+    "title": "Humanoid 数据：机器人训练的新战场",
     "source": "MIT Technology Review",
-    "summary": "从护理机器人到 humanoid 和尚，韩国人对 AI 的热爱似乎无穷无尽。",
-    "reason": "韩国是全球 AI 应用和普及的前沿国家，其社会对 AI 的接受度值得研究。",
-    "url": "https://www.technologyreview.com/",
-    "date": "2026年06月27日"
+    "summary": "机器人公司需要大量关于我们如何移动手和四肢的数据，他们的策略变得越来越奇怪。",
+    "reason": "人形机器人的数据收集方式涉及隐私和伦理问题。",
+    "url": "https://www.technologyreview.com/2026/04/21/1135656/humanoid-data-robot-training-ai-artificial-intelligence/",
+    "date": "2026年06月28日"
   },
   {
-    "id": "20260627-mit-5",
-    "category": "国外",
-    "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-    "source": "MIT Technology Review",
-    "summary": "Google DeepMind 呼吁更多科学家研究多智能体系统的风险。",
-    "reason": "多智能体系统是 AI 的发展方向之一，其安全性和可控性至关重要。",
-    "url": "https://www.technologyreview.com/",
-    "date": "2026年06月27日"
-  },
-  {
-    "id": "20260627-cn-1",
+    "id": "20260628-cn-1",
     "category": "国内",
-    "title": "中国企业加速布局 AI 基础设施",
+    "title": "中国 AI 基础设施建设加速",
     "source": "综合整理",
-    "summary": "2026 年上半年，中国多家科技企业加大对 AI 基础设施的投资，包括算力中心、大模型训练平台等。",
-    "reason": "AI 基础设施是各国竞争的关键领域，中国的布局值得关注。",
+    "summary": "2026 年上半年，中国多家科技企业加大对 AI 基础设施的投资，包括算力中心、大模型训练平台等，以应对日益增长的 AI 应用需求。",
+    "reason": "AI 基础设施是各国竞争的关键领域，中国的布局直接影响全球 AI 格局。",
     "url": "https://psters.github.io/ai-news-daily/",
-    "date": "2026年06月27日"
+    "date": "2026年06月28日"
+  },
+  {
+    "id": "20260628-cn-2",
+    "category": "国内",
+    "title": "国产大模型应用落地加速",
+    "source": "综合整理",
+    "summary": "多家中国企业的自研大模型在医疗、教育、金融等领域加速落地，显示出国产 AI 技术的实际应用能力提升。",
+    "reason": "国产大模型的商业化程度是衡量 AI 产业成熟度的重要指标。",
+    "url": "https://psters.github.io/ai-news-daily/",
+    "date": "2026年06月28日"
   }
 ]
