@@ -1,0 +1,15 @@
+[2026-06-28 01:00:35 UTC]
+Git push 失败：无法读取 GitHub 用户名
+错误信息：fatal: could not read Username for 'https://github.com': No such device or address
+退出代码：128
+
+可能原因：
+1. Git 配置未设置凭据
+2. 需要配置 GitHub Personal Access Token
+3. 网络连接问题
+
+解决方案：
+1. git remote set-url origin git@github.com:psters/ai-news-daily.git（使用 SSH）
+2. 或配置 GitHub Token：git config --global credential.helper store
+
+注意：news.json 已成功更新并推送到飞书，GitHub Pages 推送失败不影响飞书通知。

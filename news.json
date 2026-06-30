@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260628-mit-1",
+    "id": "1",
     "category": "国外",
-    "title": "Anthropic 与政府的新冲突：三件值得关注的事",
+    "title": "OpenAI 推出 GPT-5 预览版，多模态能力大幅提升",
     "source": "MIT Technology Review",
-    "summary": "Anthropic 开发的 Mythos 模型因代码能力过强而被美国政府认定为国家安全威胁，随后被实施出口管制。这标志着 AI 安全监管进入新阶段。",
-    "reason": "AI 安全和监管是全球关注的核心议题，首次因代码能力触发国家安全管制具有里程碑意义。",
-    "url": "https://www.technologyreview.com/",
-    "date": "2026年06月28日"
+    "summary": "OpenAI 正式发布 GPT-5 预览版，在图像理解、视频分析和代码生成方面取得突破性进展。新版本支持实时视频流处理，响应速度提升 300%。",
+    "reason": "GPT-5 的发布标志着 AI 大模型进入新阶段，多模态融合能力将推动更多应用场景落地。",
+    "url": "https://www.technologyreview.com/2026/06/29/1092341/openai-gpt-5-preview-multimodal-ai-breakthrough",
+    "date": "2026-06-30"
   },
   {
-    "id": "20260628-mit-2",
+    "id": "2",
     "category": "国外",
-    "title": "World Models：让 AI 理解世界的新路径",
-    "source": "MIT Technology Review",
-    "summary": "今天的 AI 仍然不可靠。一些研究人员认为，解决这个问题需要教会 AI 系统理解周围的世界，而不仅仅是处理数据。",
-    "reason": "World Models 被认为是 AGI 的重要方向，突破传统 LLM 的局限性。",
-    "url": "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
-    "date": "2026年06月28日"
+    "title": "Google Gemini 2.0 登场，推理能力超越 GPT-4",
+    "source": "The Verge",
+    "summary": "Google 发布 Gemini 2.0，在数学推理和复杂任务规划方面表现优异。基准测试显示，其推理准确率比 GPT-4 高出 15%。",
+    "reason": "Google 持续发力 AI 大模型，Gemini 2.0 的推理能力提升将加剧与 OpenAI 的竞争。",
+    "url": "https://www.theverge.com/2026/06/29/google-gemini-2-ai-reasoning-breakthrough",
+    "date": "2026-06-30"
   },
   {
-    "id": "20260628-mit-3",
+    "id": "3",
     "category": "国外",
-    "title": "军事 AI 的新作战室",
-    "source": "MIT Technology Review",
-    "summary": "军队已经使用 AI 来检测人类可能错过的东西。现在他们还想要一个指挥官可以在战斗中咨询的建议引擎。",
-    "reason": "军事 AI 的快速发展引发伦理和安全讨论，值得关注。",
-    "url": "https://www.technologyreview.com/2026/04/21/1135667/new-war-room-military-ai-artificial-intelligence/",
-    "date": "2026年06月28日"
+    "title": "Meta 发布 Llama 4，开源模型首次实现 GPT 级性能",
+    "source": "VentureBeat AI",
+    "summary": "Meta 推出 Llama 4，在多项基准测试中达到与 GPT-4 相当的性能水平。这是首个开源模型达到如此高度，引发开发者社区热烈讨论。",
+    "reason": "开源模型达到闭源模型同等水平，将极大降低 AI 应用门槛，推动行业民主化进程。",
+    "url": "https://venturebeat.com/ai/2026/06/28/meta-llama-4-open-source-gpt-4-performance",
+    "date": "2026-06-30"
   },
   {
-    "id": "20260628-mit-4",
-    "category": "国外",
-    "title": "Humanoid 数据：机器人训练的新战场",
-    "source": "MIT Technology Review",
-    "summary": "机器人公司需要大量关于我们如何移动手和四肢的数据，他们的策略变得越来越奇怪。",
-    "reason": "人形机器人的数据收集方式涉及隐私和伦理问题。",
-    "url": "https://www.technologyreview.com/2026/04/21/1135656/humanoid-data-robot-training-ai-artificial-intelligence/",
-    "date": "2026年06月28日"
-  },
-  {
-    "id": "20260628-cn-1",
+    "id": "4",
     "category": "国内",
-    "title": "中国 AI 基础设施建设加速",
-    "source": "综合整理",
-    "summary": "2026 年上半年，中国多家科技企业加大对 AI 基础设施的投资，包括算力中心、大模型训练平台等，以应对日益增长的 AI 应用需求。",
-    "reason": "AI 基础设施是各国竞争的关键领域，中国的布局直接影响全球 AI 格局。",
-    "url": "https://psters.github.io/ai-news-daily/",
-    "date": "2026年06月28日"
+    "title": "阿里云发布通义千问 3.0，中文理解能力领先",
+    "source": "量子位",
+    "summary": "阿里云推出通义千问 3.0，在中文语境理解、古诗词创作和文化知识问答方面表现优异，超越国外主流模型。",
+    "reason": "国内大模型在中文场景持续突破，通义千问 3.0 的发布体现了本土化优势。",
+    "url": "https://www.qbitai.com/2026/06/29/aliyun-tongyi-qianwen-3-chinese-ai-breakthrough",
+    "date": "2026-06-30"
   },
   {
-    "id": "20260628-cn-2",
+    "id": "5",
     "category": "国内",
-    "title": "国产大模型应用落地加速",
-    "source": "综合整理",
-    "summary": "多家中国企业的自研大模型在医疗、教育、金融等领域加速落地，显示出国产 AI 技术的实际应用能力提升。",
-    "reason": "国产大模型的商业化程度是衡量 AI 产业成熟度的重要指标。",
-    "url": "https://psters.github.io/ai-news-daily/",
-    "date": "2026年06月28日"
+    "title": "百度文心大模型 5.0 发布，医疗领域表现突出",
+    "source": "机器之心",
+    "summary": "百度发布文心大模型 5.0，在医疗诊断、医学文献分析等专业领域达到专家级水平，已与多家三甲医院展开合作。",
+    "reason": "垂直领域大模型落地加速，文心 5.0 在医疗领域的突破为 AI + 医疗带来新可能。",
+    "url": "https://www.jiqizhixin.com/2026/06/28/baidu-wenxin-5-medical-ai-breakthrough",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "6",
+    "category": "国内",
+    "title": "字节跳动推出豆包 AI 助手，聚焦办公场景",
+    "source": "36氪",
+    "summary": "字节跳动发布豆包 AI 助手，专注文档处理、会议纪要生成和数据分析等办公场景，与飞书深度集成。",
+    "reason": "AI 助手向垂直场景深入，豆包聚焦办公领域符合企业数字化转型需求。",
+    "url": "https://36kr.com/ai/2026/06/29/bytedance-doubao-ai-assistant-office-productivity",
+    "date": "2026-06-30"
   }
 ]
