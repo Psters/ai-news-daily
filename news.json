@@ -1,62 +1,62 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "category": "国外",
-    "title": "OpenAI 推出 GPT-5 预览版，多模态能力大幅提升",
+    "title": "Claude Science is Anthropic's newest flagship product",
     "source": "MIT Technology Review",
-    "summary": "OpenAI 正式发布 GPT-5 预览版，在图像理解、视频分析和代码生成方面取得突破性进展。新版本支持实时视频流处理，响应速度提升 300%。",
-    "reason": "GPT-5 的发布标志着 AI 大模型进入新阶段，多模态融合能力将推动更多应用场景落地。",
-    "url": "https://www.technologyreview.com/2026/06/29/1092341/openai-gpt-5-preview-multimodal-ai-breakthrough",
-    "date": "2026-06-30"
+    "summary": "Anthropic 推出 Claude Science 作为其旗舰产品，专注于 AI 在科学领域的应用，显示该公司正加码 AI for Science 方向。",
+    "reason": "AI 在科学领域的应用是前沿趋势，值得关注 Anthropic 的最新战略方向。",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "date": "2026年07月01日"
   },
   {
-    "id": "2",
+    "id": 2,
     "category": "国外",
-    "title": "Google Gemini 2.0 登场，推理能力超越 GPT-4",
-    "source": "The Verge",
-    "summary": "Google 发布 Gemini 2.0，在数学推理和复杂任务规划方面表现优异。基准测试显示，其推理准确率比 GPT-4 高出 15%。",
-    "reason": "Google 持续发力 AI 大模型，Gemini 2.0 的推理能力提升将加剧与 OpenAI 的竞争。",
-    "url": "https://www.theverge.com/2026/06/29/google-gemini-2-ai-reasoning-breakthrough",
-    "date": "2026-06-30"
+    "title": "AI agents are not your 'coworkers'",
+    "source": "MIT Technology Review",
+    "summary": "将 AI 营销为数字员工可能会让人类工作人员更难发现错误，并且更有可能推卸责任。研究指出这种营销方式的风险。",
+    "reason": "AI Agent 的定位和责任边界是重要议题，关乎人机协作的未来形态。",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "date": "2026年07月01日"
   },
   {
-    "id": "3",
+    "id": 3,
     "category": "国外",
-    "title": "Meta 发布 Llama 4，开源模型首次实现 GPT 级性能",
-    "source": "VentureBeat AI",
-    "summary": "Meta 推出 Llama 4，在多项基准测试中达到与 GPT-4 相当的性能水平。这是首个开源模型达到如此高度，引发开发者社区热烈讨论。",
-    "reason": "开源模型达到闭源模型同等水平，将极大降低 AI 应用门槛，推动行业民主化进程。",
-    "url": "https://venturebeat.com/ai/2026/06/28/meta-llama-4-open-source-gpt-4-performance",
-    "date": "2026-06-30"
+    "title": "The $400 million machine powering the future of chipmaking",
+    "source": "MIT Technology Review",
+    "summary": "AI 时代需要更快的芯片。ASML 在制造这些芯片所需的昂贵设备上拥有垄断地位。能否有人追赶？",
+    "reason": "芯片是 AI 发展的基石，ASML 的垄断地位直接影响全球 AI 算力供应。",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "date": "2026年07月01日"
   },
   {
-    "id": "4",
+    "id": 4,
     "category": "国内",
-    "title": "阿里云发布通义千问 3.0，中文理解能力领先",
+    "title": "GLM-5.3你来定！智谱唐杰全球征集意见",
     "source": "量子位",
-    "summary": "阿里云推出通义千问 3.0，在中文语境理解、古诗词创作和文化知识问答方面表现优异，超越国外主流模型。",
-    "reason": "国内大模型在中文场景持续突破，通义千问 3.0 的发布体现了本土化优势。",
-    "url": "https://www.qbitai.com/2026/06/29/aliyun-tongyi-qianwen-3-chinese-ai-breakthrough",
-    "date": "2026-06-30"
+    "summary": "智谱唐杰全球征集 GLM-5.3 的意见，评论区清一色要求视觉能力提升，显示多模态成为大模型标配趋势。",
+    "reason": "智谱作为国内大模型头部企业，其产品迭代方向反映行业技术趋势。",
+    "url": "https://www.qbitai.com/",
+    "date": "2026年07月01日"
   },
   {
-    "id": "5",
+    "id": 5,
     "category": "国内",
-    "title": "百度文心大模型 5.0 发布，医疗领域表现突出",
-    "source": "机器之心",
-    "summary": "百度发布文心大模型 5.0，在医疗诊断、医学文献分析等专业领域达到专家级水平，已与多家三甲医院展开合作。",
-    "reason": "垂直领域大模型落地加速，文心 5.0 在医疗领域的突破为 AI + 医疗带来新可能。",
-    "url": "https://www.jiqizhixin.com/2026/06/28/baidu-wenxin-5-medical-ai-breakthrough",
-    "date": "2026-06-30"
+    "title": "Claude Code之父版「职场MBTI」：AI洗牌后只剩5类人",
+    "source": "量子位",
+    "summary": "未来只属于这5种职业，AI 洗牌后的职场分类引发思考。文章探讨 AI 时代职业发展的新格局。",
+    "reason": "AI 对职业的影响是核心议题，理解未来职业形态有助于提前布局。",
+    "url": "https://www.qbitai.com/",
+    "date": "2026年07月01日"
   },
   {
-    "id": "6",
+    "id": 6,
     "category": "国内",
-    "title": "字节跳动推出豆包 AI 助手，聚焦办公场景",
-    "source": "36氪",
-    "summary": "字节跳动发布豆包 AI 助手，专注文档处理、会议纪要生成和数据分析等办公场景，与飞书深度集成。",
-    "reason": "AI 助手向垂直场景深入，豆包聚焦办公领域符合企业数字化转型需求。",
-    "url": "https://36kr.com/ai/2026/06/29/bytedance-doubao-ai-assistant-office-productivity",
-    "date": "2026-06-30"
+    "title": "中国信通院发布AI Infra运维领域首个评测基准",
+    "source": "量子位",
+    "summary": "覆盖5款主流国产芯片，中国信通院发布 AI 基础设施运维领域首个评测基准，推动行业标准化发展。",
+    "reason": "国产 AI 芯片的标准化评测对产业发展意义重大，标志着国产化进程加速。",
+    "url": "https://www.qbitai.com/",
+    "date": "2026年07月01日"
   }
 ]
