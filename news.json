@@ -1,62 +1,62 @@
 [
   {
-    "id": 1,
+    "id": "news-001",
     "category": "国外",
     "title": "Claude Science is Anthropic's newest flagship product",
     "source": "MIT Technology Review",
-    "summary": "Anthropic 推出 Claude Science 作为其旗舰产品，专注于 AI 在科学领域的应用，显示该公司正加码 AI for Science 方向。",
-    "reason": "AI 在科学领域的应用是前沿趋势，值得关注 Anthropic 的最新战略方向。",
-    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "date": "2026年07月01日"
+    "summary": "Anthropic 推出 Claude Science，专注于科学研究领域的新产品，公司正加倍投资科学 AI",
+    "reason": "Anthropic 持续扩展 Claude 产品线，科学领域成为新重点，值得关注 AI 在科学研究中的应用趋势",
+    "url": "https://www.technologyreview.com/2026/07/01/1095611/claude-science-is-anthropics-newest-flagship-product/",
+    "date": "2026-07-03"
   },
   {
-    "id": 2,
+    "id": "news-002",
     "category": "国外",
     "title": "AI agents are not your 'coworkers'",
     "source": "MIT Technology Review",
-    "summary": "将 AI 营销为数字员工可能会让人类工作人员更难发现错误，并且更有可能推卸责任。研究指出这种营销方式的风险。",
-    "reason": "AI Agent 的定位和责任边界是重要议题，关乎人机协作的未来形态。",
-    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "date": "2026年07月01日"
+    "summary": "将 AI 代理营销为数字员工可能会让人类工作者更难发现错误，并且更倾向于推卸责任",
+    "reason": "AI 代理在企业中的角色定位引发讨论，关于人机协作的边界和责任分配问题值得思考",
+    "url": "https://www.technologyreview.com/2026/06/28/1095587/ai-agents-are-not-your-coworkers/",
+    "date": "2026-07-03"
   },
   {
-    "id": 3,
+    "id": "news-003",
     "category": "国外",
     "title": "The $400 million machine powering the future of chipmaking",
     "source": "MIT Technology Review",
-    "summary": "AI 时代需要更快的芯片。ASML 在制造这些芯片所需的昂贵设备上拥有垄断地位。能否有人追赶？",
-    "reason": "芯片是 AI 发展的基石，ASML 的垄断地位直接影响全球 AI 算力供应。",
-    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "date": "2026年07月01日"
+    "summary": "AI 时代需要更快的芯片。ASML 在昂贵的芯片图案化设备上拥有垄断地位，其他公司能赶上吗？",
+    "reason": "AI 基础设施的关键——芯片制造技术，ASML 的垄断地位及其对 AI 发展的影响值得关注",
+    "url": "https://www.technologyreview.com/2026/06/25/1095562/the-400-million-machine-powering-the-future-of-chipmaking/",
+    "date": "2026-07-03"
   },
   {
-    "id": 4,
+    "id": "news-004",
     "category": "国内",
-    "title": "GLM-5.3你来定！智谱唐杰全球征集意见",
+    "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
     "source": "量子位",
-    "summary": "智谱唐杰全球征集 GLM-5.3 的意见，评论区清一色要求视觉能力提升，显示多模态成为大模型标配趋势。",
-    "reason": "智谱作为国内大模型头部企业，其产品迭代方向反映行业技术趋势。",
-    "url": "https://www.qbitai.com/",
-    "date": "2026年07月01日"
+    "summary": "AReaL 2.0 开源，打造面向自演进智能体的强化学习基础设施，与社区共同推进自演进智能体生态发展",
+    "reason": "自演进智能体是 AI Agent 发展的重要方向，AReaL 2.0 开源推动生态发展，值得关注",
+    "url": "https://www.qbitai.com/2026/07/02/areal-2.0-open-source-self-evolving-agent/",
+    "date": "2026-07-03"
   },
   {
-    "id": 5,
+    "id": "news-005",
     "category": "国内",
-    "title": "Claude Code之父版「职场MBTI」：AI洗牌后只剩5类人",
+    "title": "训练世界模型，开始从人类的肌肉和脑子里偷师了",
     "source": "量子位",
-    "summary": "未来只属于这5种职业，AI 洗牌后的职场分类引发思考。文章探讨 AI 时代职业发展的新格局。",
-    "reason": "AI 对职业的影响是核心议题，理解未来职业形态有助于提前布局。",
-    "url": "https://www.qbitai.com/",
-    "date": "2026年07月01日"
+    "summary": "具身智能数采迎来了新范式，通过人类肌肉和大脑数据训练世界模型",
+    "reason": "世界模型是具身智能的核心，新范式从人类行为中学习，代表技术突破",
+    "url": "https://www.qbitai.com/2026/07/02/world-model-learning-from-human-brain/",
+    "date": "2026-07-03"
   },
   {
-    "id": 6,
+    "id": "news-006",
     "category": "国内",
-    "title": "中国信通院发布AI Infra运维领域首个评测基准",
+    "title": "天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进",
     "source": "量子位",
-    "summary": "覆盖5款主流国产芯片，中国信通院发布 AI 基础设施运维领域首个评测基准，推动行业标准化发展。",
-    "reason": "国产 AI 芯片的标准化评测对产业发展意义重大，标志着国产化进程加速。",
-    "url": "https://www.qbitai.com/",
-    "date": "2026年07月01日"
+    "summary": "天工AI业务ARR突破8亿美元，其中AI短剧平台业务ARR超过7亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进",
+    "reason": "中国AI商业化里程碑，天工AI突破8亿美元ARR，展示AI应用的商业潜力",
+    "url": "https://www.qbitai.com/2026/07/02/skywork-ai-arr-800-million/",
+    "date": "2026-07-03"
   }
 ]
