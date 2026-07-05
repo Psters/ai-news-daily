@@ -1,62 +1,62 @@
 [
   {
-    "id": "news-001",
+    "id": "20260705-01",
     "category": "国外",
-    "title": "Claude Science is Anthropic's newest flagship product",
-    "source": "MIT Technology Review",
-    "summary": "Anthropic 推出 Claude Science，专注于科学研究领域的新产品，公司正加倍投资科学 AI",
-    "reason": "Anthropic 持续扩展 Claude 产品线，科学领域成为新重点，值得关注 AI 在科学研究中的应用趋势",
-    "url": "https://www.technologyreview.com/2026/07/01/1095611/claude-science-is-anthropics-newest-flagship-product/",
-    "date": "2026-07-03"
+    "title": "同人小说社区与 AI 的战争",
+    "source": "The Verge",
+    "summary": "过去一周，一场新的同人作品运动兴起，旨在根除使用生成式 AI 的作者。但所实施的检测方法值得商榷，任何同人小说作者都可能被误伤。围绕 Claude、ChatGPT 和其他 AI 工具的广泛厌恶在创意社区中早已存在。",
+    "reason": "AI 在创作领域引发的争议持续发酵，创作者社区对 AI 的抵制值得关注。",
+    "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+    "date": "2026年07月05日"
   },
   {
-    "id": "news-002",
+    "id": "20260705-02",
     "category": "国外",
-    "title": "AI agents are not your 'coworkers'",
-    "source": "MIT Technology Review",
-    "summary": "将 AI 代理营销为数字员工可能会让人类工作者更难发现错误，并且更倾向于推卸责任",
-    "reason": "AI 代理在企业中的角色定位引发讨论，关于人机协作的边界和责任分配问题值得思考",
-    "url": "https://www.technologyreview.com/2026/06/28/1095587/ai-agents-are-not-your-coworkers/",
-    "date": "2026-07-03"
+    "title": "Anthropic 想要开发自己的药物",
+    "source": "The Verge",
+    "summary": "在本周的'The Briefing: AI for Science'活动上，Anthropic 发布了 Claude Science，这是一个新的'科学家 AI 工作台'，将分散的工具和数据集整合到一个环境中，并生成图表和可视化。Anthropic 还进一步表示将开发自己的药物。",
+    "reason": "Anthropic 从 AI 工具扩展到药物研发，展示了 AI 在科学领域的深度应用潜力。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+    "date": "2026年07月05日"
   },
   {
-    "id": "news-003",
+    "id": "20260705-03",
     "category": "国外",
-    "title": "The $400 million machine powering the future of chipmaking",
+    "title": "Midjourney 医疗扫描仪幕后视频留下诸多疑问",
+    "source": "The Verge",
+    "summary": "Midjourney 展示了更多其未来主义医疗扫描仪的信息，但仍然没有展示太多它能工作的证据。这家以生成图像而闻名的 AI 初创公司发布了一段关于其浸泡式超声扫描仪的幕后视频。",
+    "reason": "图像生成巨头 Midjourney 进入医疗设备领域，跨界创新值得关注。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+    "date": "2026年07月05日"
+  },
+  {
+    "id": "20260705-04",
+    "category": "国外",
+    "title": "可以让捐赠者眼球复活的设备可能使眼球移植成为可能",
     "source": "MIT Technology Review",
-    "summary": "AI 时代需要更快的芯片。ASML 在昂贵的芯片图案化设备上拥有垄断地位，其他公司能赶上吗？",
-    "reason": "AI 基础设施的关键——芯片制造技术，ASML 的垄断地位及其对 AI 发展的影响值得关注",
-    "url": "https://www.technologyreview.com/2026/06/25/1095562/the-400-million-machine-powering-the-future-of-chipmaking/",
-    "date": "2026-07-03"
+    "summary": "研究人员构建了一种设备，通过动脉向切除的眼球泵入富氧流体，减缓使全眼移植如此困难的快速退化。保存在该设备中的猪眼在长达 10 小时内保持活力。研究团队还在六位逝者的眼睛上测试了该设备，发现灌注的眼睛比未经处理的眼睛更好地保留了视网膜。",
+    "reason": "AI 与生物技术结合，为器官移植带来突破性进展，医疗应用前景广阔。",
+    "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+    "date": "2026年07月05日"
   },
   {
-    "id": "news-004",
-    "category": "国内",
-    "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
-    "source": "量子位",
-    "summary": "AReaL 2.0 开源，打造面向自演进智能体的强化学习基础设施，与社区共同推进自演进智能体生态发展",
-    "reason": "自演进智能体是 AI Agent 发展的重要方向，AReaL 2.0 开源推动生态发展，值得关注",
-    "url": "https://www.qbitai.com/2026/07/02/areal-2.0-open-source-self-evolving-agent/",
-    "date": "2026-07-03"
+    "id": "20260705-05",
+    "category": "国外",
+    "title": "AI 在科学发现中的应用",
+    "source": "MIT Technology Review",
+    "summary": "Anthropic 推出 Claude Science，一个为科学家设计的 AI 工作台，整合了分散的工具和数据集。该公司表示 AI 有潜力'dramatically accelerate the pace of scientific discovery and the development of healthcare interventions'。",
+    "reason": "AI 工作台为科学研究提供新范式，加速科学发现和医疗干预的发展。",
+    "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "date": "2026年07月05日"
   },
   {
-    "id": "news-005",
-    "category": "国内",
-    "title": "训练世界模型，开始从人类的肌肉和脑子里偷师了",
-    "source": "量子位",
-    "summary": "具身智能数采迎来了新范式，通过人类肌肉和大脑数据训练世界模型",
-    "reason": "世界模型是具身智能的核心，新范式从人类行为中学习，代表技术突破",
-    "url": "https://www.qbitai.com/2026/07/02/world-model-learning-from-human-brain/",
-    "date": "2026-07-03"
-  },
-  {
-    "id": "news-006",
-    "category": "国内",
-    "title": "天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进",
-    "source": "量子位",
-    "summary": "天工AI业务ARR突破8亿美元，其中AI短剧平台业务ARR超过7亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进",
-    "reason": "中国AI商业化里程碑，天工AI突破8亿美元ARR，展示AI应用的商业潜力",
-    "url": "https://www.qbitai.com/2026/07/02/skywork-ai-arr-800-million/",
-    "date": "2026-07-03"
+    "id": "20260705-06",
+    "category": "国外",
+    "title": "AI 在创意社区的信任危机",
+    "source": "The Verge",
+    "summary": "同人小说社区正在积极打击使用 AI 生成内容的行为，但检测方法的可靠性存疑。这反映了创意社区对 AI 的复杂态度：既抵制 AI 生成的作品，又缺乏可靠的识别手段。",
+    "reason": "AI 在创意领域引发的信任与争议，揭示了人机协作的深层挑战。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists",
+    "date": "2026年07月05日"
   }
 ]
