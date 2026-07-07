@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260706-01",
+    "id": "2026070701",
     "category": "国外",
-    "title": "同人小说社区与 AI 的战争",
-    "source": "The Verge",
-    "summary": "过去一周，一场新的同人作品运动兴起，旨在根除使用生成式 AI 的作者。但所实施的检测方法值得商榷，任何同人小说作者都可能被误伤。围绕 Claude、ChatGPT 和其他 AI 工具的广泛厌恶在创意社区中早已存在。",
-    "reason": "AI 在创作领域引发的争议持续发酵，创作者社区对 AI 的抵制值得关注。",
-    "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-    "date": "2026年07月06日"
+    "title": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude",
+    "source": "VentureBeat",
+    "summary": "Anthropic 的研究人员使用新的数学技术深入 Claude 神经网络，发现了一个名为 \"J-space\" 的小型特权区域，这是模型可以报告、推理和自主控制概念的内部活动区域，周围是更大范围的无法访问或表达的自动处理海洋。",
+    "reason": "这项研究揭示了大型语言模型内部工作原理的重要发现，对理解 AI 意识和推理能力有重要意义。",
+    "url": "https://venturebeat.com/ai/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude/",
+    "date": "2026年07月07日"
   },
   {
-    "id": "20260706-02",
+    "id": "2026070702",
     "category": "国外",
-    "title": "Anthropic 想要开发自己的药物",
-    "source": "The Verge",
-    "summary": "在本周的'The Briefing: AI for Science'活动上，Anthropic 发布了 Claude Science，这是一个新的'科学家 AI 工作台'，将分散的工具和数据集整合到一个环境中，并生成图表和可视化。Anthropic 还进一步表示将开发自己的药物。",
-    "reason": "Anthropic 从 AI 工具扩展到药物研发，展示了 AI 在科学领域的深度应用潜力。",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-    "date": "2026年07月06日"
+    "title": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size",
+    "source": "VentureBeat",
+    "summary": "腾讯的 Hy3 摒弃了限制性许可，将幻觉率降低了一半，并且体积适合在出口合规的 GPU 上运行——这是评估开源模型的 IT 团队的一个严肃选择。",
+    "reason": "腾讯发布开源模型 Hy3，在保持高性能的同时大幅降低资源需求，对开源 AI 生态是重要贡献。",
+    "url": "https://venturebeat.com/ai/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size/",
+    "date": "2026年07月07日"
   },
   {
-    "id": "20260706-03",
+    "id": "2026070703",
     "category": "国外",
-    "title": "Midjourney 医疗扫描仪幕后视频留下诸多疑问",
-    "source": "The Verge",
-    "summary": "Midjourney 展示了更多其未来主义医疗扫描仪的信息，但仍然没有展示太多它能工作的证据。这家以生成图像而闻名的 AI 初创公司发布了一段关于其浸泡式超声扫描仪的幕后视频。",
-    "reason": "图像生成巨头 Midjourney 进入医疗设备领域，跨界创新值得关注。",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-    "date": "2026年07月06日"
+    "title": "What billions of AI predictions taught Expedia before the age of AI agents",
+    "source": "VentureBeat",
+    "summary": "今天能工作的 AI 与能大规模持久的 AI 之间存在重要区别。许多公司为了前者而优化，却从不问自己是否在构建后者。Expedia 分享了数十亿次 AI 预测的经验教训。",
+    "reason": "Expedia 分享了大规模 AI 部署的实践经验，对企业 AI 应用落地有重要参考价值。",
+    "url": "https://venturebeat.com/ai/what-billions-of-ai-predictions-taught-expedia-before-the-age-of-ai-agents/",
+    "date": "2026年07月07日"
   },
   {
-    "id": "20260706-04",
-    "category": "国外",
-    "title": "可以让捐赠者眼球复活的设备可能使眼球移植成为可能",
-    "source": "MIT Technology Review",
-    "summary": "研究人员构建了一种设备，通过动脉向切除的眼球泵入富氧流体，减缓使全眼移植如此困难的快速退化。保存在该设备中的猪眼在长达 10 小时内保持活力。研究团队还在六位逝者的眼睛上测试了该设备，发现灌注的眼睛比未经处理的眼睛更好地保留了视网膜。",
-    "reason": "AI 与生物技术结合，为器官移植带来突破性进展，医疗应用前景广阔。",
-    "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-    "date": "2026年07月06日"
+    "id": "2026070704",
+    "category": "国内",
+    "title": "在联合国，这家中国公司给AI\"减负\"：不堆算力，而是给机器人装了个\"类脑\"",
+    "source": "量子位",
+    "summary": "在联合国相关会议上，中国智平方公司展示了不依赖堆算力的 AI 路径，而是通过给机器人装上\"类脑\"系统来实现智能化，为 AI 发展提供了新思路。",
+    "reason": "中国公司在国际舞台展示创新的 AI 发展路径，强调效率而非单纯堆算力，值得关注。",
+    "url": "https://www.qbitai.com/",
+    "date": "2026年07月07日"
   },
   {
-    "id": "20260706-05",
-    "category": "国外",
-    "title": "AI 在科学发现中的应用",
-    "source": "MIT Technology Review",
-    "summary": "Anthropic 推出 Claude Science，一个为科学家设计的 AI 工作台，整合了分散的工具和数据集。该公司表示 AI 有潜力'dramatically accelerate the pace of scientific discovery and the development of healthcare interventions'。",
-    "reason": "AI 工作台为科学研究提供新范式，加速科学发现和医疗干预的发展。",
-    "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-    "date": "2026年07月06日"
+    "id": "2026070705",
+    "category": "国内",
+    "title": "极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文",
+    "source": "量子位",
+    "summary": "阿里巴巴与清华大学合作的论文提出极简方案，刷新了扩散模型推理纪录，并入选 ICML 杰出论文，展示了中国在 AI 基础研究领域的实力。",
+    "reason": "中国企业和高校在顶级 AI 会议上的突破性成果，体现了国内 AI 基础研究的实力。",
+    "url": "https://www.qbitai.com/",
+    "date": "2026年07月07日"
   },
   {
-    "id": "20260706-06",
-    "category": "国外",
-    "title": "AI 在创意社区的信任危机",
-    "source": "The Verge",
-    "summary": "同人小说社区正在积极打击使用 AI 生成内容的行为，但检测方法的可靠性存疑。这反映了创意社区对 AI 的复杂态度：既抵制 AI 生成的作品，又缺乏可靠的识别手段。",
-    "reason": "AI 在创意领域引发的信任与争议，揭示了人机协作的深层挑战。",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists",
-    "date": "2026年07月06日"
+    "id": "2026070706",
+    "category": "国内",
+    "title": "刚刚，LeCun团队让世界模型学会持续学习！",
+    "source": "量子位",
+    "summary": "LeCun 团队在世界模型领域取得新突破，让模型具备了持续学习的能力，向迈向持续学习的世界模型迈进重要一步。",
+    "reason": "世界模型是 AI 前沿方向，持续学习能力的突破对 AGI 发展具有重要意义。",
+    "url": "https://www.qbitai.com/",
+    "date": "2026年07月07日"
   }
 ]

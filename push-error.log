@@ -1,14 +1,6 @@
-2026-07-05 01:30:00 UTC
-Git push 失败：fatal: could not read Username for 'https://github.com': No such device or address
+2026-07-06 01:00:00 UTC - Git push failed
+Error: fatal: could not read Username for 'https://github.com': No such device or address
+Command: cd /root/.openclaw/workspace/ai-news-daily && git push origin main
+Exit code: 128
 
-原因：GitHub 认证失败，可能是因为：
-1. 未配置 GitHub 凭证
-2. 需要 Personal Access Token
-3. Git 凭证助手未正确配置
-
-建议：
-1. 运行：git config --global credential.helper store
-2. 手动推送时输入用户名和 Personal Access Token
-3. 或使用 SSH 密钥进行认证
-
-数据已成功更新到 news.json，飞书推送成功，仅 GitHub 推送失败。
+Note: Git authentication is not configured. The news.json file has been updated locally, and the Feishu notification was sent successfully.
