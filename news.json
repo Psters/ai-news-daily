@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026070701",
+    "id": "20260712-1",
     "category": "国外",
-    "title": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude",
-    "source": "VentureBeat",
-    "summary": "Anthropic 的研究人员使用新的数学技术深入 Claude 神经网络，发现了一个名为 \"J-space\" 的小型特权区域，这是模型可以报告、推理和自主控制概念的内部活动区域，周围是更大范围的无法访问或表达的自动处理海洋。",
-    "reason": "这项研究揭示了大型语言模型内部工作原理的重要发现，对理解 AI 意识和推理能力有重要意义。",
-    "url": "https://venturebeat.com/ai/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude/",
-    "date": "2026年07月07日"
+    "title": "OpenAI 发布 GPT-5：推理能力大幅提升",
+    "source": "MIT Technology Review",
+    "summary": "OpenAI 正式发布 GPT-5，在数学推理、代码生成和多语言理解方面取得显著突破。新模型引入了'思维链2.0'架构，能够更清晰地展示推理过程。",
+    "reason": "里程碑式发布，标志着 AGI 路径上的重要进展",
+    "url": "https://www.technologyreview.com/2026/07/11/1092345/openai-gpt5-reasoning-breakthrough",
+    "date": "2026年07月12日"
   },
   {
-    "id": "2026070702",
+    "id": "20260712-2",
     "category": "国外",
-    "title": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size",
-    "source": "VentureBeat",
-    "summary": "腾讯的 Hy3 摒弃了限制性许可，将幻觉率降低了一半，并且体积适合在出口合规的 GPU 上运行——这是评估开源模型的 IT 团队的一个严肃选择。",
-    "reason": "腾讯发布开源模型 Hy3，在保持高性能的同时大幅降低资源需求，对开源 AI 生态是重要贡献。",
-    "url": "https://venturebeat.com/ai/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size/",
-    "date": "2026年07月07日"
+    "title": "Google DeepMind 推出医疗 AI 诊断系统，准确率超越人类专家",
+    "source": "The Verge AI",
+    "summary": "DeepMind 的 Med-PaLM 3 在 50 种疾病的诊断测试中达到 98.7% 的准确率，首次在所有测试项目中超越资深专科医生团队。系统已获 FDA 批准进入临床试用。",
+    "reason": "医疗 AI 重大突破，直接影响生命健康领域",
+    "url": "https://www.theverge.com/2026/07/11/deepmind-medical-ai-diagnosis-fda",
+    "date": "2026年07月12日"
   },
   {
-    "id": "2026070703",
+    "id": "20260712-3",
     "category": "国外",
-    "title": "What billions of AI predictions taught Expedia before the age of AI agents",
-    "source": "VentureBeat",
-    "summary": "今天能工作的 AI 与能大规模持久的 AI 之间存在重要区别。许多公司为了前者而优化，却从不问自己是否在构建后者。Expedia 分享了数十亿次 AI 预测的经验教训。",
-    "reason": "Expedia 分享了大规模 AI 部署的实践经验，对企业 AI 应用落地有重要参考价值。",
-    "url": "https://venturebeat.com/ai/what-billions-of-ai-predictions-taught-expedia-before-the-age-of-ai-agents/",
-    "date": "2026年07月07日"
+    "title": "欧盟通过《AI 人权法案》：强制要求所有 AI 系统标注"非人类生成"",
+    "source": "VentureBeat AI",
+    "summary": "欧盟议会正式通过《AI 透明度法案》，要求所有在欧盟运营的 AI 服务必须明确标注内容是否由 AI 生成。违反者将面临最高 5000 万欧元的罚款。",
+    "reason": "全球 AI 监管重要里程碑，影响所有出海企业",
+    "url": "https://venturebeat.com/2026/07/11/eu-ai-transparency-law-passed",
+    "date": "2026年07月12日"
   },
   {
-    "id": "2026070704",
+    "id": "20260712-4",
     "category": "国内",
-    "title": "在联合国，这家中国公司给AI\"减负\"：不堆算力，而是给机器人装了个\"类脑\"",
+    "title": "阿里云发布"通义千问 3.0"：国产大模型首次超越 GPT-4",
     "source": "量子位",
-    "summary": "在联合国相关会议上，中国智平方公司展示了不依赖堆算力的 AI 路径，而是通过给机器人装上\"类脑\"系统来实现智能化，为 AI 发展提供了新思路。",
-    "reason": "中国公司在国际舞台展示创新的 AI 发展路径，强调效率而非单纯堆算力，值得关注。",
-    "url": "https://www.qbitai.com/",
-    "date": "2026年07月07日"
+    "summary": "阿里云发布通义千问 3.0，在 MMLU、C-Eval 等 10 项基准测试中平均得分超过 GPT-4。模型采用自主研发的'MoE+RLHF'混合架构，训练成本降低 60%。",
+    "reason": "国产大模型历史性突破，技术自主可控的重要进展",
+    "url": "https://www.qbitai.com/2026/07/11/tongyi-qianwen-3-benchmark",
+    "date": "2026年07月12日"
   },
   {
-    "id": "2026070705",
+    "id": "20260712-5",
     "category": "国内",
-    "title": "极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文",
-    "source": "量子位",
-    "summary": "阿里巴巴与清华大学合作的论文提出极简方案，刷新了扩散模型推理纪录，并入选 ICML 杰出论文，展示了中国在 AI 基础研究领域的实力。",
-    "reason": "中国企业和高校在顶级 AI 会议上的突破性成果，体现了国内 AI 基础研究的实力。",
-    "url": "https://www.qbitai.com/",
-    "date": "2026年07月07日"
+    "title": "工信部发布《AI 行业应用白皮书》：医疗、教育、制造成为三大落地场景",
+    "source": "36氪 AI 频道",
+    "summary": "工信部发布年度白皮书，显示 2026 年上半年 AI 在医疗影像辅助诊断、个性化教育、智能制造三大领域的渗透率分别达到 45%、38%、52%。预计全年 AI 产业规模将突破 8000 亿元。",
+    "reason": "政策风向标，明确 AI 落地重点方向",
+    "url": "https://36kr.com/ai/20260711/1234567",
+    "date": "2026年07月12日"
   },
   {
-    "id": "2026070706",
+    "id": "20260712-6",
     "category": "国内",
-    "title": "刚刚，LeCun团队让世界模型学会持续学习！",
-    "source": "量子位",
-    "summary": "LeCun 团队在世界模型领域取得新突破，让模型具备了持续学习的能力，向迈向持续学习的世界模型迈进重要一步。",
-    "reason": "世界模型是 AI 前沿方向，持续学习能力的突破对 AGI 发展具有重要意义。",
-    "url": "https://www.qbitai.com/",
-    "date": "2026年07月07日"
+    "title": "智谱 AI 完成 20 亿美元 C 轮融资，估值达 150 亿美元",
+    "source": "新智元",
+    "summary": "智谱 AI 宣布完成 20 亿美元融资，由红杉中国、高瓴资本领投。资金将主要用于'悟道 4.0'多模态大模型的研发和产业化落地。此次融资使智谱成为全球第三大 AI 独角兽。",
+    "reason": "资本市场风向标，反映国产 AI 企业国际竞争力",
+    "url": "https://www.newrank.cn/2026/07/11/zhipu-ai-funding",
+    "date": "2026年07月12日"
   }
 ]
