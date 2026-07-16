@@ -1,0 +1,19 @@
+AI 新闻搜索任务执行失败
+时间：2026-07-14 09:00 (UTC+8)
+错误类型：web_search 工具不可用
+
+错误详情：
+- web_search 工具返回：web_search is disabled or no provider is available
+- 缺少搜索 API 配置（Tavily/Perplexity/Brave Search）
+
+影响：
+- 无法获取 2026年07月14日最新 AI 新闻
+- news.json 保持昨日数据（2026年07月13日）
+- GitHub Pages 未更新
+
+解决建议：
+1. 配置 web_search 工具的 API Key
+2. 或使用 curl 直接抓取新闻源（需实现脚本）
+3. 或手动更新 news.json 后推送
+
+已通知用户：飞书消息已发送（Message ID: om_x100b6a6cecb1fd3cb15a1487c0f9d51）

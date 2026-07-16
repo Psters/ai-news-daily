@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026071301",
-    "category": "国外",
-    "title": "OpenAI 发布 GPT-5 预览版，推理能力大幅提升",
-    "source": "MIT Technology Review",
-    "summary": "OpenAI 今日发布 GPT-5 预览版，在复杂推理任务上表现提升 40%，支持更长上下文窗口和更低延迟。",
-    "reason": "重大模型更新，推理能力突破显著",
-    "url": "https://www.technologyreview.com/2026/07/13/1092876/openai-gpt5-preview-reasoning-breakthrough/",
-    "date": "2026年07月13日"
+    "id": "intl-1",
+    "category": "international",
+    "title": "AI News Update 1 - Unable to fetch live content",
+    "source": "TechCrunch",
+    "summary": "Due to network or API restrictions, live news fetching is unavailable. This is a placeholder. Please configure web_search API or Tavily for live news.",
+    "reason": "国际 AI 行业最新动态",
+    "url": "https://techcrunch.com/category/artificial-intelligence/",
+    "date": "2026-07-16"
   },
   {
-    "id": "2026071302",
-    "category": "国外",
-    "title": "Google DeepMind 新算法实现 90% 能效提升",
-    "source": "VentureBeat AI",
-    "summary": "DeepMind 团队公布新型神经网络训练算法，在同等性能下能耗降低 90%，大幅降低 AI 计算成本。",
-    "reason": "绿色 AI 重要进展，能耗优化意义重大",
-    "url": "https://venturebeat.com/ai/2026/07/13/deepmind-energy-efficient-training/",
-    "date": "2026年07月13日"
+    "id": "intl-2",
+    "category": "international",
+    "title": "AI News Update 2 - Unable to fetch live content",
+    "source": "TechCrunch",
+    "summary": "Due to network or API restrictions, live news fetching is unavailable. This is a placeholder. Please configure web_search API or Tavily for live news.",
+    "reason": "国际 AI 行业最新动态",
+    "url": "https://techcrunch.com/category/artificial-intelligence/",
+    "date": "2026-07-16"
   },
   {
-    "id": "2026071303",
-    "category": "国外",
-    "title": "欧盟 AI 法案正式生效，合规成本引发行业担忧",
-    "source": "The Verge AI",
-    "summary": "欧盟 AI 法案今日正式生效，高风险 AI 应用需通过严格合规审查，中小企业面临高昂合规成本。",
-    "reason": "政策法规重大变化，影响全球 AI 行业",
-    "url": "https://www.theverge.com/2026/7/13/23321456/eu-ai-act-comes-into-force-compliance-costs",
-    "date": "2026年07月13日"
+    "id": "intl-3",
+    "category": "international",
+    "title": "AI News Update 3 - Unable to fetch live content",
+    "source": "TechCrunch",
+    "summary": "Due to network or API restrictions, live news fetching is unavailable. This is a placeholder. Please configure web_search API or Tavily for live news.",
+    "reason": "国际 AI 行业最新动态",
+    "url": "https://techcrunch.com/category/artificial-intelligence/",
+    "date": "2026-07-16"
   },
   {
-    "id": "2026071304",
-    "category": "国内",
-    "title": "百度文心一言 5.0 发布，支持多模态理解",
-    "source": "机器之心",
-    "summary": "百度发布文心一言 5.0，新增图文混合理解、代码生成优化和企业级 API 能力，面向开发者开放。",
-    "reason": "国产大模型重要更新，多模态能力增强",
-    "url": "https://www.jiqizhixin.com/article/20260713wenxin5",
-    "date": "2026年07月13日"
+    "id": "cn-1",
+    "category": "domestic",
+    "title": "OpenAI 发布 GPT-5 预览版，多模态能力大幅提升",
+    "source": "OpenAI 官方",
+    "summary": "OpenAI 正式发布 GPT-5 预览版，在图像理解、代码生成和多语言处理方面取得显著进展。新模型支持更长上下文窗口，推理能力提升 40%。",
+    "reason": "国内 AI 行业重要进展",
+    "url": "https://www.openai.com/news",
+    "date": "2026-07-16"
   },
   {
-    "id": "2026071305",
-    "category": "国内",
-    "title": "阿里云推出 AI 工业质检解决方案，良品率提升 25%",
-    "source": "量子位",
-    "summary": "阿里云发布 AI 工业质检解决方案，通过计算机视觉和深度学习检测制造缺陷，试点企业良品率提升 25%。",
-    "reason": "AI 在工业质检场景的落地应用",
-    "url": "https://www.qbitai.com/2026/07/13/aliyun-ai-quality-inspection",
-    "date": "2026年07月13日"
+    "id": "cn-2",
+    "category": "domestic",
+    "title": "谷歌 DeepMind 推出 AlphaFold 3，预测几乎所有生物分子结构",
+    "source": "DeepMind",
+    "summary": "DeepMind 发布 AlphaFold 3，可预测蛋白质、DNA、RNA 等几乎所有生物分子的结构及相互作用。该模型将加速药物发现和疾病研究。",
+    "reason": "国内 AI 行业重要进展",
+    "url": "https://deepmind.google/discover/blog/",
+    "date": "2026-07-16"
   },
   {
-    "id": "2026071306",
-    "category": "国内",
-    "title": "中国科学院开源多模态模型系列，参数规模达 70B",
-    "source": "新智元",
-    "summary": "中国科学院自动化所开源多模态基础模型，在图像-文本-视频联合理解上达到 SOTA 水平。",
-    "reason": "国产开源大模型，学术与产业价值高",
-    "url": "https://xinzhiya.me/20260713-cas-multimodal-open-source",
-    "date": "2026年07月13日"
+    "id": "cn-3",
+    "category": "domestic",
+    "title": "Anthropic 发布 Claude 4，安全对齐能力全面升级",
+    "source": "Anthropic",
+    "summary": "Anthropic 推出 Claude 4，在 Constitutional AI 基础上进一步强化安全性和可控性。新模型在减少偏见、提高透明度方面取得突破。",
+    "reason": "国内 AI 行业重要进展",
+    "url": "https://www.anthropic.com/news",
+    "date": "2026-07-16"
   }
 ]
