@@ -1,0 +1,17 @@
+GitHub Push Error - 2026-07-16 01:00 UTC
+==============================================
+
+Error: fatal: could not read Username for 'https://github.com': No such device or such address
+Exit code: 128
+
+Cause: Git authentication not configured for HTTPS push
+
+Solution needed:
+1. Configure SSH keys: ssh-keygen -t ed25519 -C "your_email@example.com"
+2. Or use GitHub token: git remote set-url origin https://TOKEN@github.com/psters/ai-news-daily.git
+3. Or use git credential helper
+
+Local commit successful: 12ae0d4
+Files committed:
+- news.json (updated)
+- ERROR_LOG_2026-07-14.txt (created)
