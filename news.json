@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "2026071801",
+    "category": "国外",
+    "title": "Anthropic 发现大型语言模型内部的隐藏空间",
+    "source": "MIT Technology Review",
+    "summary": "Anthropic 宣布在 Claude 模型中发现了一个名为 'J-space' 的隐藏空间，这个空间充满了不会出现在输出中但似乎影响模型解决问题的词汇。研究发现，有时这些词汇会追踪模型在特定任务中的进度，有时看起来像是识别的闪现，有时则代表对模型决策制定的内部评论。",
+    "reason": "这项研究为理解大型语言模型的内部工作机制提供了新的窗口，对于 AI 可解释性和安全性研究具有重要意义。",
+    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "date": "2026年07月18日"
+  },
+  {
+    "id": "2026071802",
+    "category": "国外",
+    "title": "54% 的企业已发生 AI Agent 安全事件",
+    "source": "VentureBeat",
+    "summary": "针对 107 家企业的调查显示，超过一半的企业已经发生过确认的 AI Agent 安全事件或险情。只有约三分之一的企业为每个 Agent 提供独立的身份标识，大多数 Agent 仍然共享凭据。只有十分之三的企业隔离了最高风险的 Agent。",
+    "reason": "揭示了企业在快速部署 AI Agent 时面临的安全挑战，对于企业 AI 安全建设具有重要参考价值。",
+    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials/",
+    "date": "2026年07月18日"
+  },
+  {
+    "id": "2026071803",
+    "category": "国外",
+    "title": "企业 AI 计算支出超过成本追踪能力",
+    "source": "VentureBeat",
+    "summary": "调查显示，107 家企业的 AI 基础设施支出加速增长，远超其查看或引导其经济性的能力。大多数企业的 GPU 利用率只有一半或更低，不到一半的企业严格追踪其计算的实际成本。",
+    "reason": "揭示了企业在 AI 投资中存在的盲目性问题，对于企业 AI 成本管理具有重要警示意义。",
+    "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs/",
+    "date": "2026年07月18日"
+  },
+  {
+    "id": "2026071804",
+    "category": "国外",
+    "title": "Netflix 以近 6 亿美元收购 Ben Affleck 的 AI 初创公司",
+    "source": "The Verge",
+    "summary": "Netflix 收购了 Ben Affleck 联合创立的 AI 初创公司，交易价值近 6 亿美元。这是 Netflix 在 AI 领域的重大投资。",
+    "reason": "显示传统娱乐公司对 AI 技术的重视，AI 在内容创作和推荐系统中的应用越来越广泛。",
+    "url": "https://www.theverge.com/2026/7/17/24201495/netflix-acquires-ben-afflecks-ai-startup-nearly-600-million",
+    "date": "2026年07月18日"
+  },
+  {
+    "id": "2026071805",
+    "category": "国外",
+    "title": "Meta 考虑向 Anthropic 出租计算能力",
+    "source": "The Verge",
+    "summary": "据报道，Meta 正在考虑向 Anthropic 出租计算能力，这笔交易可能在两年内价值 100 亿美元，Anthropic 将按月向 Meta 支付费用。尽管 Anthropic 计划投资 500 亿美元建设自己的数据中心，但它已经与 SpaceX 和 TeraWulf 签署了数十亿美元的交易。",
+    "reason": "反映了 AI 公司对计算资源的巨大需求，以及数据中心租赁模式的兴起。",
+    "url": "https://www.theverge.com/2026/7/17/24201501/meta-considers-leasing-computing-power-anthropic-10-billion-two-years",
+    "date": "2026年07月18日"
+  },
+  {
+    "id": "2026071806",
+    "category": "国外",
+    "title": "OpenAI 训练用于红队测试的 AI 模型 GPT-Red",
+    "source": "The Verge",
+    "summary": "OpenAI 推出了新的 GPT-Red 模型，该模型可以'攻破几乎所有与之对抗的模型'。OpenAI 表示，它使用 GPT-Red 发现了 GPT-5.6 Sol 中的漏洞，这一过程使其成为迄今为止最不容易受到提示注入攻击的模型。",
+    "reason": "展示了 AI 安全测试的新方法，使用 AI 来对抗 AI 是提升模型安全性的重要方向。",
+    "url": "https://www.theverge.com/2026/7/15/24193876/openai-gpt-red-model-red-teaming-ai",
+    "date": "2026年07月18日"
+  }
+]
