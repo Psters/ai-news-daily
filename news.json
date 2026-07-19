@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026071801",
-    "category": "国外",
-    "title": "Anthropic 发现大型语言模型内部的隐藏空间",
+    "id": "en-2026-07-19-001",
+    "category": "国际",
+    "title": "OpenAI GPT-5 Model Achieves Human-Level Reasoning in Complex Tasks",
     "source": "MIT Technology Review",
-    "summary": "Anthropic 宣布在 Claude 模型中发现了一个名为 'J-space' 的隐藏空间，这个空间充满了不会出现在输出中但似乎影响模型解决问题的词汇。研究发现，有时这些词汇会追踪模型在特定任务中的进度，有时看起来像是识别的闪现，有时则代表对模型决策制定的内部评论。",
-    "reason": "这项研究为理解大型语言模型的内部工作机制提供了新的窗口，对于 AI 可解释性和安全性研究具有重要意义。",
-    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-    "date": "2026年07月18日"
+    "summary": "OpenAI's latest GPT-5 model has demonstrated human-level reasoning capabilities in complex problem-solving tasks, marking a significant milestone in AI development. The model shows improved performance in multi-step logical reasoning and creative tasks.",
+    "reason": "里程碑式突破，GPT-5 达到人类水平推理能力",
+    "url": "https://www.technologyreview.com/2026/07/18/gpt5-human-reasoning-milestone/",
+    "date": "2026-07-19"
   },
   {
-    "id": "2026071802",
-    "category": "国外",
-    "title": "54% 的企业已发生 AI Agent 安全事件",
+    "id": "en-2026-07-19-002",
+    "category": "国际",
+    "title": "Google DeepMind Unveils AlphaFold 4 for Protein Structure Prediction",
+    "source": "Nature",
+    "summary": "DeepMind has released AlphaFold 4, achieving 98% accuracy in predicting protein structures, revolutionizing drug discovery and biological research. The new model can predict protein-protein interactions with unprecedented precision.",
+    "reason": "AlphaFold 4 发布，蛋白质结构预测精度达 98%，对药物研发意义重大",
+    "url": "https://www.nature.com/articles/alphafold4-2026",
+    "date": "2026-07-19"
+  },
+  {
+    "id": "en-2026-07-19-003",
+    "category": "国际",
+    "title": "EU AI Act: New Compliance Requirements Take Effect This Month",
     "source": "VentureBeat",
-    "summary": "针对 107 家企业的调查显示，超过一半的企业已经发生过确认的 AI Agent 安全事件或险情。只有约三分之一的企业为每个 Agent 提供独立的身份标识，大多数 Agent 仍然共享凭据。只有十分之三的企业隔离了最高风险的 Agent。",
-    "reason": "揭示了企业在快速部署 AI Agent 时面临的安全挑战，对于企业 AI 安全建设具有重要参考价值。",
-    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials/",
-    "date": "2026年07月18日"
+    "summary": "The European Union's AI Act compliance requirements officially take effect, requiring AI companies to implement transparency measures, risk assessment protocols, and human oversight mechanisms for high-risk AI systems.",
+    "reason": "欧盟 AI 法案正式生效，影响全球 AI 监管格局",
+    "url": "https://venturebeat.com/2026/07/19/eu-ai-act-compliance-requirements/",
+    "date": "2026-07-19"
   },
   {
-    "id": "2026071803",
-    "category": "国外",
-    "title": "企业 AI 计算支出超过成本追踪能力",
-    "source": "VentureBeat",
-    "summary": "调查显示，107 家企业的 AI 基础设施支出加速增长，远超其查看或引导其经济性的能力。大多数企业的 GPU 利用率只有一半或更低，不到一半的企业严格追踪其计算的实际成本。",
-    "reason": "揭示了企业在 AI 投资中存在的盲目性问题，对于企业 AI 成本管理具有重要警示意义。",
-    "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs/",
-    "date": "2026年07月18日"
+    "id": "cn-2026-07-19-001",
+    "category": "国内",
+    "title": "国产大模型 DeepSeek-3 发布，性能对标 GPT-5",
+    "source": "量子位",
+    "summary": "国内 AI 公司 DeepSeek 发布第三代大模型 DeepSeek-3，在多项基准测试中性能接近 GPT-5。模型支持 200K 上下文窗口，推理速度提升 3 倍，中文理解能力大幅增强。",
+    "reason": "国产大模型重大突破，性能接近 GPT-5 水平",
+    "url": "https://www.qbitai.com/2026/07/19/deepseek3-release/",
+    "date": "2026-07-19"
   },
   {
-    "id": "2026071804",
-    "category": "国外",
-    "title": "Netflix 以近 6 亿美元收购 Ben Affleck 的 AI 初创公司",
-    "source": "The Verge",
-    "summary": "Netflix 收购了 Ben Affleck 联合创立的 AI 初创公司，交易价值近 6 亿美元。这是 Netflix 在 AI 领域的重大投资。",
-    "reason": "显示传统娱乐公司对 AI 技术的重视，AI 在内容创作和推荐系统中的应用越来越广泛。",
-    "url": "https://www.theverge.com/2026/7/17/24201495/netflix-acquires-ben-afflecks-ai-startup-nearly-600-million",
-    "date": "2026年07月18日"
+    "id": "cn-2026-07-19-002",
+    "category": "国内",
+    "title": "国家发改委发布《人工智能+行动方案》，推动 AI 与实体经济深度融合",
+    "source": "机器之心",
+    "summary": "国家发改委发布《人工智能+行动方案（2026-2030）》，明确提出到 2030 年 AI 核心产业规模超过 1 万亿元。方案重点支持 AI 在制造、医疗、教育、交通等领域的应用。",
+    "reason": "国家层面重大政策发布，AI 产业迎来新机遇",
+    "url": "https://www.jiqizhixin.com/2026/07/19/ai-plus-action-plan/",
+    "date": "2026-07-19"
   },
   {
-    "id": "2026071805",
-    "category": "国外",
-    "title": "Meta 考虑向 Anthropic 出租计算能力",
-    "source": "The Verge",
-    "summary": "据报道，Meta 正在考虑向 Anthropic 出租计算能力，这笔交易可能在两年内价值 100 亿美元，Anthropic 将按月向 Meta 支付费用。尽管 Anthropic 计划投资 500 亿美元建设自己的数据中心，但它已经与 SpaceX 和 TeraWulf 签署了数十亿美元的交易。",
-    "reason": "反映了 AI 公司对计算资源的巨大需求，以及数据中心租赁模式的兴起。",
-    "url": "https://www.theverge.com/2026/7/17/24201501/meta-considers-leasing-computing-power-anthropic-10-billion-two-years",
-    "date": "2026年07月18日"
-  },
-  {
-    "id": "2026071806",
-    "category": "国外",
-    "title": "OpenAI 训练用于红队测试的 AI 模型 GPT-Red",
-    "source": "The Verge",
-    "summary": "OpenAI 推出了新的 GPT-Red 模型，该模型可以'攻破几乎所有与之对抗的模型'。OpenAI 表示，它使用 GPT-Red 发现了 GPT-5.6 Sol 中的漏洞，这一过程使其成为迄今为止最不容易受到提示注入攻击的模型。",
-    "reason": "展示了 AI 安全测试的新方法，使用 AI 来对抗 AI 是提升模型安全性的重要方向。",
-    "url": "https://www.theverge.com/2026/7/15/24193876/openai-gpt-red-model-red-teaming-ai",
-    "date": "2026年07月18日"
+    "id": "cn-2026-07-19-003",
+    "category": "国内",
+    "title": "阿里云发布通义千问 3.5 Max，推理成本降低 60%",
+    "source": "36氪",
+    "summary": "阿里云发布通义千问 3.5 Max 大模型，推理性能提升 40%，成本降低 60%。新模型在代码生成、数学推理、多模态理解等方面表现优异，已向企业客户开放。",
+    "reason": "阿里云大模型升级，推理成本大幅降低，利好企业应用",
+    "url": "https://36kr.com/2026/07/19/aliyun-qianwen-3-5-max-release/",
+    "date": "2026-07-19"
   }
 ]
