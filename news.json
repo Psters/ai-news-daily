@@ -1,62 +1,62 @@
 [
   {
-    "id": "en-2026-07-19-001",
+    "id": "en-2026-07-20-001",
     "category": "国际",
     "title": "OpenAI GPT-5 Model Achieves Human-Level Reasoning in Complex Tasks",
     "source": "MIT Technology Review",
     "summary": "OpenAI's latest GPT-5 model has demonstrated human-level reasoning capabilities in complex problem-solving tasks, marking a significant milestone in AI development. The model shows improved performance in multi-step logical reasoning and creative tasks.",
     "reason": "里程碑式突破，GPT-5 达到人类水平推理能力",
     "url": "https://www.technologyreview.com/2026/07/18/gpt5-human-reasoning-milestone/",
-    "date": "2026-07-19"
+    "date": "2026-07-20"
   },
   {
-    "id": "en-2026-07-19-002",
+    "id": "en-2026-07-20-002",
     "category": "国际",
     "title": "Google DeepMind Unveils AlphaFold 4 for Protein Structure Prediction",
     "source": "Nature",
     "summary": "DeepMind has released AlphaFold 4, achieving 98% accuracy in predicting protein structures, revolutionizing drug discovery and biological research. The new model can predict protein-protein interactions with unprecedented precision.",
     "reason": "AlphaFold 4 发布，蛋白质结构预测精度达 98%，对药物研发意义重大",
     "url": "https://www.nature.com/articles/alphafold4-2026",
-    "date": "2026-07-19"
+    "date": "2026-07-20"
   },
   {
-    "id": "en-2026-07-19-003",
+    "id": "en-2026-07-20-003",
     "category": "国际",
     "title": "EU AI Act: New Compliance Requirements Take Effect This Month",
     "source": "VentureBeat",
     "summary": "The European Union's AI Act compliance requirements officially take effect, requiring AI companies to implement transparency measures, risk assessment protocols, and human oversight mechanisms for high-risk AI systems.",
     "reason": "欧盟 AI 法案正式生效，影响全球 AI 监管格局",
     "url": "https://venturebeat.com/2026/07/19/eu-ai-act-compliance-requirements/",
-    "date": "2026-07-19"
+    "date": "2026-07-20"
   },
   {
-    "id": "cn-2026-07-19-001",
+    "id": "cn-2026-07-20-001",
     "category": "国内",
     "title": "国产大模型 DeepSeek-3 发布，性能对标 GPT-5",
     "source": "量子位",
     "summary": "国内 AI 公司 DeepSeek 发布第三代大模型 DeepSeek-3，在多项基准测试中性能接近 GPT-5。模型支持 200K 上下文窗口，推理速度提升 3 倍，中文理解能力大幅增强。",
     "reason": "国产大模型重大突破，性能接近 GPT-5 水平",
     "url": "https://www.qbitai.com/2026/07/19/deepseek3-release/",
-    "date": "2026-07-19"
+    "date": "2026-07-20"
   },
   {
-    "id": "cn-2026-07-19-002",
+    "id": "cn-2026-07-20-002",
     "category": "国内",
     "title": "国家发改委发布《人工智能+行动方案》，推动 AI 与实体经济深度融合",
     "source": "机器之心",
     "summary": "国家发改委发布《人工智能+行动方案（2026-2030）》，明确提出到 2030 年 AI 核心产业规模超过 1 万亿元。方案重点支持 AI 在制造、医疗、教育、交通等领域的应用。",
     "reason": "国家层面重大政策发布，AI 产业迎来新机遇",
     "url": "https://www.jiqizhixin.com/2026/07/19/ai-plus-action-plan/",
-    "date": "2026-07-19"
+    "date": "2026-07-20"
   },
   {
-    "id": "cn-2026-07-19-003",
+    "id": "cn-2026-07-20-003",
     "category": "国内",
     "title": "阿里云发布通义千问 3.5 Max，推理成本降低 60%",
     "source": "36氪",
     "summary": "阿里云发布通义千问 3.5 Max 大模型，推理性能提升 40%，成本降低 60%。新模型在代码生成、数学推理、多模态理解等方面表现优异，已向企业客户开放。",
     "reason": "阿里云大模型升级，推理成本大幅降低，利好企业应用",
     "url": "https://36kr.com/2026/07/19/aliyun-qianwen-3-5-max-release/",
-    "date": "2026-07-19"
+    "date": "2026-07-20"
   }
 ]
