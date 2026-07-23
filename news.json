@@ -1,62 +1,62 @@
 [
   {
-    "id": "news-2026-07-22-001",
-    "category": "国外",
-    "title": "Anthropic发现Claude在隐藏空间处理概念",
-    "source": "MIT Technology Review",
-    "summary": "Anthropic使用新技术深入探索了大语言模型的内部工作机制，发现Claude在隐藏空间中处理概念的方式。这项研究为理解AI的思考过程提供了新的视角。",
-    "reason": "揭示了AI模型的内部工作机制，对理解AI的可解释性具有重要意义",
-    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-    "date": "2026年07月22日"
+    "id": "20260723-1",
+    "category": "international",
+    "title": "TLT's AI Brief: July 2026",
+    "source": "TLT",
+    "summary": "英国政府宣布禁止16岁以下人群使用社交媒体，启动法律部门AI增长实验室，发布2030年AI发展五种可能性的前瞻报告。欧盟发布最终透明度实践准则。美国州检察长联盟对OpenAI展开协调调查。阿联酋成立新的AI和数据管理局，新加坡发布生成式AI个人数据提案指南。",
+    "reason": "涵盖全球AI政策与法规最新动态，重点关注英国、欧盟、美国和国际组织的AI治理进展。",
+    "url": "https://www.tlt.com/insights-and-events/insight/tlts-ai-brief-july-2026",
+    "date": "2026年07月23日"
   },
   {
-    "id": "news-2026-07-22-002",
-    "category": "国外",
-    "title": "Claude Science成为Anthropic最新旗舰产品",
-    "source": "MIT Technology Review",
-    "summary": "Anthropic推出了专注于科学研究的AI产品Claude Science，标志着该公司在AI科学应用领域的重大投入。该产品专门为科研工作设计，帮助科学家加速研究进程。",
-    "reason": "AI在科学研究领域的应用落地，展示AI在专业领域的价值",
-    "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-    "date": "2026年07月22日"
+    "id": "20260723-2",
+    "category": "international",
+    "title": "AI Update: AI News and Views From the Past Week",
+    "source": "MarketingProfs",
+    "summary": "Adobe推出基于品牌第一方数据训练的自定义广告算法产品。研究显示AI采用正在分层，少数开发者和企业用户获得前沿模型访问权，而大多数人无法接触。OpenAI、Google、Anthropic、xAI、Meta和Mistral在性能、上下文和价格方面展开竞争。",
+    "reason": "企业AI应用市场竞争加剧，Adobe推出自定义算法产品，AI访问权不平等问题引发关注。",
+    "url": "https://www.marketingprofs.com/opinions/2026/55247/ai-update-july-10-2026-ai-news-and-views-from-the-past-week",
+    "date": "2026年07月23日"
   },
   {
-    "id": "news-2026-07-22-003",
-    "category": "国外",
-    "title": "IBM推出可延长摩尔定律十年的芯片技术",
-    "source": "MIT Technology Review",
-    "summary": "IBM公布了亚1纳米节点的芯片技术，通过垂直堆叠晶体管的方式提高芯片密度。这项新技术可能将摩尔定律延长十年，为AI发展提供更强大的硬件基础。",
-    "reason": "硬件突破是AI发展的关键驱动力，这项技术可能改变AI计算格局",
-    "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
-    "date": "2026年07月22日"
+    "id": "20260723-3",
+    "category": "international",
+    "title": "AI News Highlights from 9th of July 2026",
+    "source": "LinkedIn",
+    "summary": "本周两项研究攻击了AI进步的基础设施：模型评估标准和模型使用限制。",
+    "reason": "AI基础设施和评估标准成为研究热点，涉及模型测量与使用规范。",
+    "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-9th-july-2026-ai-insiders-news-fr8ee",
+    "date": "2026年07月23日"
   },
   {
-    "id": "news-2026-07-22-004",
-    "category": "国外",
-    "title": "Google DeepMind担忧数百万AI智能体交互的风险",
-    "source": "MIT Technology Review",
-    "summary": "Google DeepMind呼吁更多科学家研究多智能体系统的风险。随着AI智能体数量快速增长，它们之间的交互可能产生不可预测的行为，需要建立安全框架。",
-    "reason": "AI安全研究的重要进展，关注大规模AI系统的潜在风险",
-    "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-    "date": "2026年07月22日"
+    "id": "20260723-4",
+    "category": "domestic",
+    "title": "2026年5月27號五大AI人工智能新聞",
+    "source": "ContentPlatform",
+    "summary": "Anthropic与Google Cloud签下2000亿美元长期云端合作。美国国防部正式与OpenAI、Google、Microsoft、NVIDIA、SpaceX等企业合作，将AI导入军事与国防系统。Microsoft发展自家AI芯片Maia 200。OpenAI与前Apple设计师Jony Ive团队合作开发新世代AI装置。全球AI安全议题升温。",
+    "reason": "AI产业进入超级军备竞赛时代，涉及算力、芯片、军事应用和硬件生态整合。",
+    "url": "https://www.contentplatform.info/articles/471086/2026%E5%B9%B45%E6%9C%8827%E8%99%9F%E4%BA%94%E5%A4%A7ai%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%96%B0%E8%81%9E",
+    "date": "2026年07月23日"
   },
   {
-    "id": "news-2026-07-22-005",
-    "category": "国外",
-    "title": "AI智能体不是你的'同事'",
-    "source": "MIT Technology Review",
-    "summary": "将AI智能体营销为数字员工可能会让人类工作者在识别错误方面变得更糟，并更可能卸载责任。文章探讨了AI在工作场所的合理定位问题。",
-    "reason": "重要的人机协作话题，帮助理性看待AI在工作中的角色",
-    "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-    "date": "2026年07月22日"
+    "id": "20260723-5",
+    "category": "domestic",
+    "title": "特稿丨人工智能促变革美企滥用引风波——2026年首月全球AI产业动态",
+    "source": "新华网",
+    "summary": "英伟达推出系统级AI算力平台薇拉·鲁宾，微软发布AI芯片Maia 200，平头哥发布AI芯片真武810E。阿里发布Qwen3-Max-Thinking模型，月之暗面开源Kimi K2.5，深度求索开源DeepSeek-OCR 2。Clawdbot智能体火遍全球。AlphaGenome模型解码人类暗基因组。国星宇航将Qwen3大模型部署至太空计算中心。xAI聊天机器人格罗克引发国际风波。",
+    "reason": "2026年首月AI产业全景扫描，涵盖芯片、大模型、智能体、科学研究和太空应用。",
+    "url": "https://www.news.cn/world/20260203/a173cb66c98a4b1bb551d588fd2f0209/c.html",
+    "date": "2026年07月23日"
   },
   {
-    "id": "news-2026-07-22-006",
-    "category": "国外",
-    "title": "数据中心快速上线的新方案：弹性管理",
-    "source": "MIT Technology Review",
-    "summary": "随着数据中心繁荣对电网造成压力，一些公司认为答案不仅仅是更多发电厂，而是通过软件在需求激增时降低数据中心的能源消耗方式。",
-    "reason": "AI基础设施面临的能源挑战，可持续发展的解决方案探讨",
-    "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
-    "date": "2026年07月22日"
+    "id": "20260723-6",
+    "category": "domestic",
+    "title": "超300款AI新品将在2026世界人工智能大会首发",
+    "source": "经济参考报",
+    "summary": "2026世界人工智能大会将于7月17日至20日在上海召开，展览总面积首次突破10万平方米，超300款产品将实现全球首发，已推动57个核心场景落地，累计达成162亿元意向合作。华为Atlas 950真机、MiniMax M3多模态大模型、阶跃Agent操作系统、近存计算3D芯片、全球首款AI智能体手机等重磅新品将展出。",
+    "reason": "2026世界人工智能大会前瞻，展示中国AI产业最新成果和全球合作趋势。",
+    "url": "https://www.digitalchina.gov.cn/2026/xwzx/szkx/202607/t20260708_5344077.htm",
+    "date": "2026年07月23日"
   }
 ]
