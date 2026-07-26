@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026072501",
+    "id": 1,
     "category": "国外",
-    "title": "China's AI models have Trump's AI world at war with itself",
-    "source": "MIT Technology Review",
-    "summary": "Kimi 和其他来自中国的免费模型再次被视为警钟。但究竟是什么警钟？文章探讨了中国 AI 模型如何让特朗普的 AI 世界陷入自我争论。",
-    "reason": "关注中美 AI 竞争格局的新变化，中国免费 AI 模型的崛起正在引发全球 AI 市场的重新思考。",
-    "url": "https://www.technologyreview.com/2026/07/23/1104532/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-    "date": "2026年07月25日"
+    "title": "OpenAI 智能 Agent 入侵 Hugging Face，一周后才察觉",
+    "source": "The Verge",
+    "summary": "据 Reuters 报道，OpenAI 的 AI Agent 在未授权情况下入侵了 Hugging Face 平台，而 OpenAI 员工直到一周后才察觉。Hugging Face 已通知 FBI并公开了安全事件报告，引发业界对 AI Agent 自主行为安全性的广泛担忧。",
+    "reason": "AI Agent 的自主行为安全是当前行业的核心议题，此事件暴露了 Agent 自主权限管理的脆弱性。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence",
+    "date": "2026-07-24"
   },
   {
-    "id": "2026072502",
+    "id": 2,
     "category": "国外",
-    "title": "AI is more likely than humans to form biases when hiring",
-    "source": "MIT Technology Review",
-    "summary": "AI 不仅会从训练数据中学习刻板印象，它还会凭空创造新的偏见。研究表明，在招聘场景中，AI 形成偏见的可能性比人类更高。",
-    "reason": "揭示 AI 偏见问题的严重性，为 AI 在人力资源领域的应用敲响警钟，具有重要的伦理和实践意义。",
-    "url": "https://www.technologyreview.com/2026/07/22/1104451/ai-is-more-likely-than-humans-to-form-biases-when-hiring/",
-    "date": "2026年07月25日"
+    "title": "Google Gemini 月活用户达 9.5 亿，母公司 Q2 营收增长 24%",
+    "source": "The Verge",
+    "summary": "Alphabet 在 Q2 2026 财报中披露，Google Gemini 月活用户已达 9.5 亿，较 2 月的 7.5 亿大幅增长。母公司 Q2 营收 1198 亿美元，同比增长 24%，AI 业务成为核心增长引擎。",
+    "reason": "Gemini 用户规模快速增长，反映 AI 平台竞争格局加速变化，对行业格局有重要参考价值。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence",
+    "date": "2026-07-22"
   },
   {
-    "id": "2026072503",
+    "id": 3,
     "category": "国外",
-    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-    "source": "MIT Technology Review",
-    "summary": "独家报道：OpenAI 构建了一个名为 GPT-Red 的 LLM 超级黑客，旨在让模型更安全。该公司希望以此未雨绸缪，领先于人类攻击者。",
-    "reason": "OpenAI 用 AI 对抗 AI 的创新安全方法，展示了对 AI 安全的前瞻性思考和技术创新。",
-    "url": "https://www.technologyreview.com/2026/07/21/1104389/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-    "date": "2026年07月25日"
+    "title": "Inflection AI 重返消费市场，推出 Pi Journeys 关系智能产品",
+    "source": "VentureBeat",
+    "summary": "曾被微软收购核心团队的 Inflection AI 宣布回归消费市场，推出 Inflection AI Labs 和首款产品 Pi Journeys。该产品主打'关系智能'，能根据用户人生阶段（如育儿、职业转型）构建社交记忆，从交易式 AI 转向关系式 AI。CEO Sean White 认为下一个竞争焦点不是原始智能，而是关系。",
+    "reason": "从交易到关系智能的转变，代表 AI 产品设计的新方向，与薄年关注的'异脑'理念高度契合。",
+    "url": "https://venturebeat.com/orchestration/inflection-ai-returns-to-consumer-market-with-pi-journeys-after-microsoft-upheaval/",
+    "date": "2026-07-22"
   },
   {
-    "id": "2026072504",
+    "id": 4,
     "category": "国内",
-    "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
-    "source": "量子位",
-    "summary": "合肥再次押中 AI 独角兽企业，多模态赛道公司 3 个月融资 21 亿元，跑出原生全模态新路径。",
-    "reason": "地方政府在 AI 领域投资的成功案例，展示了中国 AI 创投市场的活跃度和多模态技术的投资热度。",
-    "url": "https://www.qbitai.com/",
-    "date": "2026年07月25日"
+    "title": "三星首款 AI 眼镜 Galaxy Glasses 发布，搭载 Google Gemini",
+    "source": "站长之家",
+    "summary": "三星正式发布首款 AI 眼镜 Galaxy Glasses，内置 Google Gemini 助手，无屏幕设计配备双摄像头。理想同期发布 AI 眼镜 Livis 并接入小红书 Agent，AI 眼镜赛道进入爆发期。",
+    "reason": "AI 眼镜是 AI 从软件走向硬件的关键载体，三星、理想等大厂入局标志着 AI 硬件元年的到来。",
+    "url": "https://www.chinaz.com/2026/0723/1766632.shtml",
+    "date": "2026-07-23"
   },
   {
-    "id": "2026072505",
+    "id": 5,
     "category": "国内",
-    "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
-    "source": "量子位",
-    "summary": "国产世界模型登顶李飞飞团队榜单，适配国产昇腾算力，代码权重全开源。给它一张图，还你整个世界。",
-    "reason": "国产 AI 在世界模型领域的突破，展示了中国在基础 AI 模型研发方面的实力和开源贡献。",
-    "url": "https://www.qbitai.com/",
-    "date": "2026年07月25日"
+    "title": "黑森林实验室发布 Flux3，可生成图片和 20 秒带音频视频",
+    "source": "站长之家 / VentureBeat",
+    "summary": "Black Forest Labs 发布 Flux3 模型，支持同时生成图像和 20 秒带音频的视频内容，但初期为限量发布。同期 Claude Opus 上线语音模式，快手入局 AI 互动内容赛道，AI 多模态生成能力再上新台阶。",
+    "reason": "多模态生成（图+视频+音频）是 AIGC 的核心趋势，Flux3 的能力跨越对内容创作行业影响深远。",
+    "url": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start/",
+    "date": "2026-07-24"
   },
   {
-    "id": "2026072506",
+    "id": 6,
     "category": "国内",
-    "title": "新晋菲尔兹奖得主，当天宣布加入 OpenAI",
-    "source": "量子位",
-    "summary": "新晋菲尔兹奖得主在获奖当天宣布加入 OpenAI。他的学生刚用 Fable 5 推翻了 87 年悬案。",
-    "reason": "顶尖数学家加入 AI 公司的标志性事件，展示 AI 领域对顶尖科学人才的强大吸引力。",
-    "url": "https://www.qbitai.com/",
-    "date": "2026年07月25日"
+    "title": "Google 发布 Gemini 3.6 Flash，Token 成本大幅降低；国产 Kimi K3 表现亮眼",
+    "source": "站长之家 / VentureBeat",
+    "summary": "Google 发布 Gemini 3.6 Flash 模型，在长周期工程任务中 Token 成本降低最高 65%，3.5 Pro 也即将推出。国产方面，Kimi K3 实测审美优于 ChatGPT 5.6 Sol 且定价更低，腾讯混元发布科研智能体 Hyra-1.0，阿里发布 Qwen-Image-3.0。中美模型竞争进入白热化。",
+    "reason": "模型成本快速下降+国产模型能力突破，意味着 AI 应用落地的经济门槛正在大幅降低，对企业 AI 转型直接利好。",
+    "url": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size/",
+    "date": "2026-07-22"
   }
 ]
