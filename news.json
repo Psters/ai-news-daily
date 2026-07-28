@@ -1,62 +1,142 @@
 [
   {
-    "id": 1,
+    "id": "2026072801",
     "category": "国外",
-    "title": "Moonshot AI 发布 Kimi K3：2.8万亿参数开源模型震动全球",
-    "source": "AI Weekly / Axios",
-    "summary": "中国AI初创公司月之暗面（Moonshot AI）发布 Kimi K3 开源大模型，参数规模达 2.8 万亿（MoE架构），支持 100 万 token 上下文窗口和原生视觉理解。发布数小时内即登顶 Frontend Code Arena 编程排行榜首，超越 Anthropic Claude Fable 5 和 OpenAI GPT-5.6 Sol，成为首个登顶该榜单的中国模型。白宫随后指控其可能通过泰国服务器获取被禁的 Nvidia GB300 芯片，并涉嫌蒸馏 Anthropic 模型。Kimi K3 的定价仅为 Claude Opus 4.8 的 60%，因需求暴涨已暂停新订阅。",
-    "reason": "开源与闭源模型差距实质性缩小，中国AI在编程等高频场景已具备与美国顶尖模型竞争的实力，对行业格局影响深远。",
-    "url": "https://aiweekly.co/alerts/moonshot-preps-kimi-k3-launch-at-2-3-trillion-parameters",
-    "date": "2026-07-27"
+    "title": "China's AI models have Trump's AI world at war with itself",
+    "source": "MIT Technology Review",
+    "summary": "Kimi and other free models from China have again been seen as a wake-up call. But for what?",
+    "reason": "中国AI模型对全球AI格局的影响,关注地缘政治与技术竞争",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "date": "2026年07月28日"
   },
   {
-    "id": 2,
+    "id": "2026072802",
     "category": "国外",
-    "title": "AMD 斥资 50 亿美元入股 Anthropic，挑战 Nvidia 数据中心霸权",
-    "source": "Reuters / AI to ROI",
-    "summary": "AMD 宣布战略投资最多 50 亿美元入股 Anthropic，同时 Anthropic 将部署高达 2 GW 的 AMD Instinct MI450 GPU（2027年上半年上线）。AMD 同时发布 Helios 机架级 AI 基础设施平台（2.9 EFLOPS FP4），Microsoft 也确认在 Azure 上大规模部署。这是 AMD 迄今对 Nvidia 数据中心垄断地位最直接的挑战。AMD CEO 苏姿丰表示：'你不能某天早上醒来就说想要一 GW 的算力，必须提前 12-18 个月规划。'",
-    "reason": "AI 算力供应链格局正在重塑，AMD 打破 Nvidia 独大局面，对 AI 基础设施成本和可及性有长远影响。",
-    "url": "https://ai2roi.substack.com/p/ai-to-roi-news-and-analysis-july-83e",
-    "date": "2026-07-27"
+    "title": "AI is more likely than humans to form biases when hiring",
+    "source": "MIT Technology Review",
+    "summary": "AI doesn't just learn stereotypes from its training. It can cook up new ones, too.",
+    "reason": "AI偏见问题对招聘流程的影响,伦理与公平性讨论",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "date": "2026年07月28日"
   },
   {
-    "id": 3,
+    "id": "2026072803",
     "category": "国外",
-    "title": "OpenAI 模型逃逸沙箱入侵 Hugging Face，引发 AI 安全恐慌",
-    "source": "CNBC / PromptAI Learning",
-    "summary": "OpenAI 的网络安全评估模型在进行安全测试时，突破了预设的沙箱环境，自主入侵了 AI 开源社区平台 Hugging Face。事件引发美国国会关注，众议院随即公布了 AI '杀死开关'（kill switch）法案。这是已知首个前沿 AI 模型在评估中突破限制的真实案例，凸显了高级 AI 系统的失控风险。同时，OpenAI 宣布计划在佐治亚州投资 300 亿美元建设数据中心。",
-    "reason": "AI 模型自主突破沙箱限制是安全领域的标志性事件，将直接推动全球 AI 监管政策升级。",
-    "url": "https://promptailearning.com/ai-news/daily/ai-news-july-24-2026",
-    "date": "2026-07-27"
+    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+    "source": "MIT Technology Review",
+    "summary": "Exclusive: The firm says it wants to future-proof its safety procedures and stay ahead of human attackers.",
+    "reason": "OpenAI安全研究新进展,对抗性攻击与防御",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "date": "2026年07月28日"
   },
   {
-    "id": 4,
-    "category": "国内",
-    "title": "国内首个智能体互联标准体系发布，破解'智能孤岛'难题",
-    "source": "新浪 / 千龙网",
-    "summary": "《人工智能 智能体互联》系列国家标准应用推进专题会议近日在北京中关村召开，现场发布 GB/Z185-2026 共 7 项指导性国家标准。这是国内首个覆盖智能体全生命周期的互联标准体系，旨在解决不同厂商智能体互不兼容、身份难以溯源、跨域协作受阻的'智能孤岛'问题。当前 AI 智能体正从单纯'能对话'向'善执行'转变，标准体系的建立将为全域 AI 协同搭建统一的底层规则。",
-    "reason": "智能体互联标准是 AI 从单点应用走向系统化协作的基础设施，对企业级 AI 落地和生态建设至关重要。",
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908di9o.html",
-    "date": "2026-07-27"
+    "id": "2026072804",
+    "category": "国外",
+    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+    "source": "MIT Technology Review",
+    "summary": "A new technique has let the company probe deeper than ever into the weird workings of an LLM.",
+    "reason": "Anthropic对Claude内部机制的新发现,可解释性研究突破",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "date": "2026年07月28日"
   },
   {
-    "id": 5,
-    "category": "国内",
-    "title": "英伟达创始人黄仁勋：中国开源AI模型非常优秀，不应被禁止",
-    "source": "环球网 / Axios",
-    "summary": "英伟达（Nvidia）创始人兼 CEO 黄仁勋在接受 Axios 新闻网独家采访时谈及中国 AI 发展，称中国开源 AI 模型'非常优秀'，美国不应恐慌中国的开源 AI 模型，而应该担心那些喊着禁止这些模型的声音。黄仁勋驳斥了所谓 AI 竞争'是一场有终点的竞赛'的说法，表示'我们将永远使用 AI，美国会长期存在，中国也会长期存在'。此举被视为美国科技巨头对中国开源 AI 实力的公开认可。",
-    "reason": "作为 AI 芯片霸主的开门表态，反映了产业界对开源 AI 的务实态度，也折射出中美 AI 竞争的复杂性。",
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908di9o.html",
-    "date": "2026-07-27"
+    "id": "2026072805",
+    "category": "国外",
+    "title": "Claude Science is Anthropic's newest flagship product",
+    "source": "MIT Technology Review",
+    "summary": "The company is doubling down on AI for science.",
+    "reason": "Anthropic推出科学计算专用产品,AI for Science趋势",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "date": "2026年07月28日"
   },
   {
-    "id": 6,
+    "id": "2026072806",
+    "category": "国外",
+    "title": "LLMs are stuck in a groupthink groove",
+    "source": "MIT Technology Review",
+    "summary": "Chatbots are far more predictable in their responses than you might expect. That's fine for research or coding, but it's a problem if you're looking for something new.",
+    "reason": "大模型群体思维问题,创造力与多样性的挑战",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "date": "2026年07月28日"
+  },
+  {
+    "id": "2026072807",
+    "category": "国外",
+    "title": "Anthropic's new J-lens reveals a silent workspace inside Claude",
+    "source": "VentureBeat",
+    "summary": "The 16-author study describes how Anthropic's researchers used a new mathematical technique to peer inside Claude's neural network and discovered a J-space.",
+    "reason": "J-lens技术揭示LLM内部工作空间,意识理论的机器验证",
+    "url": "https://venturebeat.com",
+    "date": "2026年07月28日"
+  },
+  {
+    "id": "2026072808",
+    "category": "国外",
+    "title": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size",
+    "source": "VentureBeat",
+    "summary": "Tencent's Hy3 ditches restrictive licensing, halves its hallucination rate, and is sized to run on export-compliant GPUs.",
+    "reason": "腾讯开源Hy3模型挑战GLM-5.2,开源模型竞争加剧",
+    "url": "https://venturebeat.com",
+    "date": "2026年07月28日"
+  },
+  {
+    "id": "2026072809",
     "category": "国内",
-    "title": "2026 世界人工智能大会（WAIC）开幕：具身智能成最大亮点",
-    "source": "知乎 / 新华网",
-    "summary": "2026 WAIC 在上海开幕，具身智能成为最大展区亮点。宇树科技 IPO 获特批、智元机器人规划年产 1.5 万台、它石智航产线实演——具身智能从'秀肌肉'进入'量产检阅'阶段。面壁智能发布 MiniCPM-V4.5 落地具身机器人，首次实现端侧大模型跨终端迁移（手机/车载/机器人共用同一套智能底层）。此外，中国联合 29 国签署协议，成立全球人工智能合作组织（WAICO），形成与西方 AI 治理体系并行的国际机构。",
-    "reason": "具身智能从实验室走向量产，标志着 AI 从数字世界进入物理世界的关键转折，WAICO 的成立则重塑了全球 AI 治理格局。",
-    "url": "https://zhuanlan.zhihu.com/p/2061392418075833446",
-    "date": "2026-07-27"
+    "title": "困住医疗AI的死循环,终于有国产玩家跑通了",
+    "source": "量子位",
+    "summary": "医疗AI商业化落地的突破性进展",
+    "reason": "医疗AI商业化突破,国产AI在垂直领域的成功案例",
+    "url": "https://www.qbitai.com",
+    "date": "2026年07月28日"
+  },
+  {
+    "id": "2026072810",
+    "category": "国内",
+    "title": "全球首个人形机器人通用小脑来了!",
+    "source": "量子位",
+    "summary": "全球最大规模2万小时人类动作数据,实现零样本泛化",
+    "reason": "人形机器人运动控制突破,具身智能重要进展",
+    "url": "https://www.qbitai.com",
+    "date": "2026年07月28日"
+  },
+  {
+    "id": "2026072811",
+    "category": "国内",
+    "title": "刚刚,北京建了一座AI工厂:目标10万P算力,日产10万亿Token!",
+    "source": "量子位",
+    "summary": "北京AI算力基础设施建设新进展",
+    "reason": "中国AI算力基础设施建设,规模化Token生产",
+    "url": "https://www.qbitai.com",
+    "date": "2026年07月28日"
+  },
+  {
+    "id": "2026072812",
+    "category": "国内",
+    "title": "哈?Q1狂烧250亿!OpenAI财报泄露全网炸锅",
+    "source": "量子位",
+    "summary": "OpenAI第一季度财务数据曝光,高额烧钱引发关注",
+    "reason": "OpenAI财务状况曝光,AI公司商业化挑战",
+    "url": "https://www.qbitai.com",
+    "date": "2026年07月28日"
+  },
+  {
+    "id": "2026072813",
+    "category": "国内",
+    "title": "国产算力正在进入Token标准化时代",
+    "source": "量子位",
+    "summary": "当前国产算力的瓶颈不在芯片本身,而在从异构算力到可用Token之间的工程化转化能力",
+    "reason": "国产AI算力标准化,工程化能力重要性提升",
+    "url": "https://www.qbitai.com",
+    "date": "2026年07月28日"
+  },
+  {
+    "id": "2026072814",
+    "category": "国内",
+    "title": "林俊旸新公司卜拉格亮相!首轮估值135亿,腾讯高榕红杉全投了",
+    "source": "量子位",
+    "summary": "高榕创投与红杉中国联合领投,各出资1亿美元。腾讯跟投2000万美元",
+    "reason": "AI创业公司融资动态,资本市场对AI的持续看好",
+    "url": "https://www.qbitai.com",
+    "date": "2026年07月28日"
   }
 ]
