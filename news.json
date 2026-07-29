@@ -1,142 +1,62 @@
 [
   {
-    "id": "2026072801",
+    "id": 1,
     "category": "国外",
-    "title": "China's AI models have Trump's AI world at war with itself",
-    "source": "MIT Technology Review",
-    "summary": "Kimi and other free models from China have again been seen as a wake-up call. But for what?",
-    "reason": "中国AI模型对全球AI格局的影响,关注地缘政治与技术竞争",
-    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "date": "2026年07月28日"
+    "title": "Guardoc Health 使用 Amazon Nova 模型处理临床文档",
+    "source": "AI News",
+    "summary": "Guardoc Health 通过 Bedrock 使用 Amazon Nova 模型，每日处理超过 100 万份临床文档。该系统将文档错误减少 46%，审计罚款降低 70%，为单个设施带来超过 40 万美元的年度投资回报率。",
+    "reason": "展示了 AI 在医疗文档处理中的实际应用和 ROI",
+    "url": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/",
+    "date": "2026年07月29日"
   },
   {
-    "id": "2026072802",
+    "id": 2,
     "category": "国外",
-    "title": "AI is more likely than humans to form biases when hiring",
-    "source": "MIT Technology Review",
-    "summary": "AI doesn't just learn stereotypes from its training. It can cook up new ones, too.",
-    "reason": "AI偏见问题对招聘流程的影响,伦理与公平性讨论",
-    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "date": "2026年07月28日"
+    "title": "Cyera 以 10 亿美元收购 Oasis Security 以保护 AI 代理",
+    "source": "TechCrunch",
+    "summary": "数据安全公司 Cyera 同意以 10 亿美元收购 Oasis Security，这是该公司今年的第三次收购，旨在保护日益增多的 AI 代理安全。",
+    "reason": "AI 安全领域的重大并购事件",
+    "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+    "date": "2026年07月29日"
   },
   {
-    "id": "2026072803",
+    "id": 3,
     "category": "国外",
-    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-    "source": "MIT Technology Review",
-    "summary": "Exclusive: The firm says it wants to future-proof its safety procedures and stay ahead of human attackers.",
-    "reason": "OpenAI安全研究新进展,对抗性攻击与防御",
-    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "date": "2026年07月28日"
+    "title": "机器人检测初创公司 Spur 获得 Insight 2 亿美元融资",
+    "source": "TechCrunch",
+    "summary": "Spur Intelligence 获得 Insight Partners 2 亿美元融资，其技术能够识别合法的人类流量与机器人流量。",
+    "reason": "AI 检测技术领域的大额融资",
+    "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "date": "2026年07月29日"
   },
   {
-    "id": "2026072804",
-    "category": "国外",
-    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-    "source": "MIT Technology Review",
-    "summary": "A new technique has let the company probe deeper than ever into the weird workings of an LLM.",
-    "reason": "Anthropic对Claude内部机制的新发现,可解释性研究突破",
-    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "date": "2026年07月28日"
-  },
-  {
-    "id": "2026072805",
-    "category": "国外",
-    "title": "Claude Science is Anthropic's newest flagship product",
-    "source": "MIT Technology Review",
-    "summary": "The company is doubling down on AI for science.",
-    "reason": "Anthropic推出科学计算专用产品,AI for Science趋势",
-    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "date": "2026年07月28日"
-  },
-  {
-    "id": "2026072806",
-    "category": "国外",
-    "title": "LLMs are stuck in a groupthink groove",
-    "source": "MIT Technology Review",
-    "summary": "Chatbots are far more predictable in their responses than you might expect. That's fine for research or coding, but it's a problem if you're looking for something new.",
-    "reason": "大模型群体思维问题,创造力与多样性的挑战",
-    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "date": "2026年07月28日"
-  },
-  {
-    "id": "2026072807",
-    "category": "国外",
-    "title": "Anthropic's new J-lens reveals a silent workspace inside Claude",
-    "source": "VentureBeat",
-    "summary": "The 16-author study describes how Anthropic's researchers used a new mathematical technique to peer inside Claude's neural network and discovered a J-space.",
-    "reason": "J-lens技术揭示LLM内部工作空间,意识理论的机器验证",
-    "url": "https://venturebeat.com",
-    "date": "2026年07月28日"
-  },
-  {
-    "id": "2026072808",
-    "category": "国外",
-    "title": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size",
-    "source": "VentureBeat",
-    "summary": "Tencent's Hy3 ditches restrictive licensing, halves its hallucination rate, and is sized to run on export-compliant GPUs.",
-    "reason": "腾讯开源Hy3模型挑战GLM-5.2,开源模型竞争加剧",
-    "url": "https://venturebeat.com",
-    "date": "2026年07月28日"
-  },
-  {
-    "id": "2026072809",
+    "id": 4,
     "category": "国内",
-    "title": "困住医疗AI的死循环,终于有国产玩家跑通了",
-    "source": "量子位",
-    "summary": "医疗AI商业化落地的突破性进展",
-    "reason": "医疗AI商业化突破,国产AI在垂直领域的成功案例",
-    "url": "https://www.qbitai.com",
-    "date": "2026年07月28日"
+    "title": "中国 AI 药物发现时间线缩短",
+    "source": "AI News",
+    "summary": "Insilico Medicine 通过结合人工智能与实验室研究，将一些药物开发候选药物的生产时间缩短至约一年。该公司最快的项目在 9 个月内达到候选提名，典型时间线约为 13 个月。",
+    "reason": "AI 在药物研发领域的突破性进展",
+    "url": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
+    "date": "2026年07月29日"
   },
   {
-    "id": "2026072810",
+    "id": 5,
     "category": "国内",
-    "title": "全球首个人形机器人通用小脑来了!",
-    "source": "量子位",
-    "summary": "全球最大规模2万小时人类动作数据,实现零样本泛化",
-    "reason": "人形机器人运动控制突破,具身智能重要进展",
-    "url": "https://www.qbitai.com",
-    "date": "2026年07月28日"
+    "title": "美国的 AI 投资热潮正在重塑经济",
+    "source": "AI News",
+    "summary": "人工智能已成为美国最具决定性的投资故事之一。Microsoft、Meta、Amazon 和 Alphabet 共同承诺向 AI 基础设施投入数千亿美元，而对先进芯片的需求使 NVIDIA 成为主要受益者。",
+    "reason": "AI 投资趋势分析",
+    "url": "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/",
+    "date": "2026年07月29日"
   },
   {
-    "id": "2026072811",
+    "id": 6,
     "category": "国内",
-    "title": "刚刚,北京建了一座AI工厂:目标10万P算力,日产10万亿Token!",
-    "source": "量子位",
-    "summary": "北京AI算力基础设施建设新进展",
-    "reason": "中国AI算力基础设施建设,规模化Token生产",
-    "url": "https://www.qbitai.com",
-    "date": "2026年07月28日"
-  },
-  {
-    "id": "2026072812",
-    "category": "国内",
-    "title": "哈?Q1狂烧250亿!OpenAI财报泄露全网炸锅",
-    "source": "量子位",
-    "summary": "OpenAI第一季度财务数据曝光,高额烧钱引发关注",
-    "reason": "OpenAI财务状况曝光,AI公司商业化挑战",
-    "url": "https://www.qbitai.com",
-    "date": "2026年07月28日"
-  },
-  {
-    "id": "2026072813",
-    "category": "国内",
-    "title": "国产算力正在进入Token标准化时代",
-    "source": "量子位",
-    "summary": "当前国产算力的瓶颈不在芯片本身,而在从异构算力到可用Token之间的工程化转化能力",
-    "reason": "国产AI算力标准化,工程化能力重要性提升",
-    "url": "https://www.qbitai.com",
-    "date": "2026年07月28日"
-  },
-  {
-    "id": "2026072814",
-    "category": "国内",
-    "title": "林俊旸新公司卜拉格亮相!首轮估值135亿,腾讯高榕红杉全投了",
-    "source": "量子位",
-    "summary": "高榕创投与红杉中国联合领投,各出资1亿美元。腾讯跟投2000万美元",
-    "reason": "AI创业公司融资动态,资本市场对AI的持续看好",
-    "url": "https://www.qbitai.com",
-    "date": "2026年07月28日"
+    "title": "Meta、Microsoft、Nvidia、IBM 等支持开放权重 AI",
+    "source": "AI News",
+    "summary": "两打公司和组织签署了一封公开信，敦促美国政策制定者保护开放权重 AI 模型。签署方包括 Meta、Microsoft、Nvidia、IBM、Dell Technologies、CrowdStrike、Palantir、ServiceNow、Hugging Face、Perplexity、Mistral 等。",
+    "reason": "开源 AI 模型的重要政策动向",
+    "url": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+    "date": "2026年07月29日"
   }
 ]
