@@ -1,9 +1,6 @@
-2026-06-16 01:00 UTC - GitHub Push Error
-=========================================
-Commit succeeded: [main 60d8258] Update: AI 新闻数据 - 2026-06-16
-Push failed: fatal: could not read Username for 'https://github.com': No such device or address
+2026-07-29 01:00:00 UTC
+推送到 GitHub 失败：fatal: could not read Username for 'https://github.com': No such device or address
+错误代码：128
+原因：未配置 GitHub 认证凭据或 SSH 密钥
 
-Error: Git authentication failure (no credentials configured for HTTPS push)
-Solution needed: Configure Git credentials or use SSH authentication
-
-本地数据已更新，飞书推送成功。GitHub Pages 推送失败，需要配置 Git 凭据。
+注意：数据已成功更新到 news.json 并推送到飞书，仅 GitHub Pages 推送失败。
