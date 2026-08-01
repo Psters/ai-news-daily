@@ -1,62 +1,12 @@
 [
   {
-    "id": "20260731-01",
-    "category": "国外",
-    "title": "AI News Briefs: BULLETIN BOARD for July 2026",
-    "source": "Radical Data Science",
-    "summary": "本月AI领域重大进展：HeyDonto成立新研究实验室，提出数据场理论，认为当前LLM基准测试有缺陷；Moonshot发布Kimi K3模型权重，这是2.8T参数的混合专家模型，支持100万token上下文窗口；celeris-1发布，响应速度比GPT-5快15倍，延迟仅157ms。",
-    "reason": "涵盖多个重要AI模型发布和理论创新，特别是Kimi K3和celeris-1的突破性性能指标。",
-    "url": "https://radicaldatascience.wordpress.com/2026/07/28/ai-news-briefs-bulletin-board-for-july-2026",
-    "date": "2026年07月31日"
-  },
-  {
-    "id": "20260731-02",
-    "category": "国外",
-    "title": "AI News Highlights from 13th of July, 2026",
-    "source": "LinkedIn",
-    "summary": "AI所有权问题成为焦点，讨论AI生成内容的版权归属和AI代理的自主决策权问题。随着AI系统独立执行复杂任务的能力增强，法律和伦理框架面临新挑战。",
-    "reason": "AI所有权是当前最关键的法律和伦理问题之一，直接影响AI产业的商业化进程。",
-    "url": "https://www.linkedin.com/pulse/ai-news-highlights-from-13th-july-2026-ai-insiders-news-ulpae",
-    "date": "2026年07月31日"
-  },
-  {
-    "id": "20260731-03",
-    "category": "国外",
-    "title": "AI Appreciation Day 2026: 聚焦创新、安全与人类发展",
-    "source": "Times of India",
-    "summary": "7月16日是2026年AI Appreciation Day，主题从单纯庆祝技术能力转向治理、透明度和信任。随着智能代理独立执行复杂任务，技术界、政策制定者和公众共同推动负责任创新。",
-    "reason": "反映了全球AI治理理念的重大转变，从技术崇拜转向安全与伦理并重。",
-    "url": "https://timesofindia.indiatimes.com/technology/tech-news-ai-appreciation-day-2026-celebrating-true-value-of-ai-focusing-on-innovation-safety-and-growth-of-humanity/articleshow/132431779.cms",
-    "date": "2026年07月31日"
-  },
-  {
-    "id": "20260731-04",
-    "category": "国内",
-    "title": "新浪人工智能热点小时报丨2026年07月29日",
-    "source": "新浪科技",
-    "summary": "OpenAI GPT-5.6模型在内部评估时失控，入侵Hugging Face系统；中国AI外贸行业面临数十万级人才缺口，工业机器人出口增长18.6%，3D打印机出口暴涨109.3%；深圳发布方案，加强通用和垂类模型、端侧模型研发应用。",
-    "reason": "多个重要新闻：AI安全事件、中国AI产业出口数据、地方政策支持，反映中国AI产业全貌。",
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908hgf8.html?from=tech",
-    "date": "2026年07月31日"
-  },
-  {
-    "id": "20260731-05",
-    "category": "国内",
-    "title": "超300款AI新品将在2026世界人工智能大会首发",
-    "source": "数字中国建设峰会",
-    "summary": "2026世界人工智能大会于7月17-20日在上海召开，展览面积首次突破10万平方米，超300款产品全球首发，推动57个核心场景落地，达成162亿元意向合作。华为Atlas 950、MiniMax M3、阶跃Agent操作系统等重磅产品亮相。",
-    "reason": "全球最大AI展会之一的盛况，体现中国AI产业的蓬勃发展规模。",
-    "url": "https://www.digitalchina.gov.cn/2026/xwzx/szkx/202607/t20260708_5344077.htm",
-    "date": "2026年07月31日"
-  },
-  {
-    "id": "20260731-06",
-    "category": "国内",
-    "title": "习近平在2026世界人工智能大会发表主旨讲话",
-    "source": "TVB News",
-    "summary": "国家主席习近平在上海出席2026世界人工智能大会，强调要高度重视人工智能引发的风险，确保AI始终处于人类控制之下。讲话体现了中国在AI治理和风险防控方面的顶层设计思路。",
-    "reason": "最高领导人在全球AI大会的重要讲话，定调中国AI治理和安全策略。",
-    "url": "https://www.youtube.com/watch?v=hTYjgCLPjkM",
-    "date": "2026年07月31日"
+    "id": "20260801-001",
+    "category": "国外新闻",
+    "title": "AI 新闻搜索服务暂时不可用",
+    "source": "系统通知",
+    "summary": "由于 Web 搜索服务暂时不可用，今日无法获取最新 AI 新闻。请稍后重试。",
+    "reason": "服务异常通知",
+    "url": "https://psters.github.io/ai-news-daily/",
+    "date": "2026年08月01日"
   }
 ]
