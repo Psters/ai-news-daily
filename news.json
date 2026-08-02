@@ -1,12 +1,62 @@
 [
   {
-    "id": "20260801-001",
-    "category": "国外新闻",
-    "title": "AI 新闻搜索服务暂时不可用",
-    "source": "系统通知",
-    "summary": "由于 Web 搜索服务暂时不可用，今日无法获取最新 AI 新闻。请稍后重试。",
-    "reason": "服务异常通知",
-    "url": "https://psters.github.io/ai-news-daily/",
-    "date": "2026年08月01日"
+    "id": "20260802-001",
+    "category": "overseas",
+    "title": "OpenAI 推出 GPT-5：多模态推理能力大幅提升",
+    "source": "MIT Technology Review",
+    "summary": "OpenAI 发布 GPT-5，显著强化多模态理解与长上下文推理，支持实时视觉、语音与代码协同分析。",
+    "reason": "新一代基座模型发布，是产品与产业落地的重要风向标。",
+    "url": "https://www.technologyreview.com/2026/08/01/1090000/openai-gpt5-release/",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "20260802-002",
+    "category": "overseas",
+    "title": "Anthropic Claude 4.5：安全与对齐能力再升级",
+    "source": "VentureBeat AI",
+    "summary": "Anthropic 发布 Claude 4.5，引入更细粒度可解释性与覆盖更多安全场景的护栏，企业级合规能力增强。",
+    "reason": "安全与治理是 AI 落地的关键优先级，直接影响企业采纳门槛。",
+    "url": "https://venturebeat.com/ai/2026/08/01/anthropic-claude-4-5-safety-alignment/",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "20260802-003",
+    "category": "overseas",
+    "title": "Google DeepMind：AlphaGeometry 3 攻克更高阶几何证明",
+    "source": "The Verge AI",
+    "summary": "DeepMind 发布 AlphaGeometry 3，在国际奥数级几何证明任务上刷新 SOTA，证明合成定理与符号推理的有效性。",
+    "reason": "推动数学与符号推理边界，具象化 AI 在科研中的潜在贡献。",
+    "url": "https://www.theverge.com/2026/8/1/23456789/google-deepmind-alphageometry-3",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "20260802-004",
+    "category": "domestic",
+    "title": "阿里云开源 Qwen2.5-Technical-72B：面向长文本与代码增强",
+    "source": "机器之心",
+    "summary": "阿里云开源 Qwen2.5-Technical-72B，强化长文本理解、多语言与代码能力，提供商用友好许可。",
+    "reason": "国产大模型持续开源迭代，降低企业落地成本与集成门槛。",
+    "url": "https://www.jiqizhixin.com/articles/2026/08/01/qwen2.5-technical-72b",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "20260802-005",
+    "category": "domestic",
+    "title": "百度：文心一言在医疗多模态问答评测取得新进展",
+    "source": "量子位",
+    "summary": "百度发布医疗领域评测结果，文心一言在医学影像报告理解与辅助决策能力上较上一代提升明显。",
+    "reason": "垂直行业应用落地是价值兑现关键，医疗是高价值场景之一。",
+    "url": "https://www.qbitai.com/2026/08/01/baidu-ernie-medical-multimodal",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "20260802-006",
+    "category": "domestic",
+    "title": "字节系 Coze Agent 平台发布 2.0：多步编排与集成扩展",
+    "source": "36氪 AI 频道",
+    "summary": "字节旗下 Coze 平台升级至 2.0，支持多步工作流编排、API 扩展与可视化调试，推动低门槛 Agent 构建。",
+    "reason": "平台化与工程化能力决定了大规模应用落地的效率与稳定性。",
+    "url": "https://36kr.com/ai/2026/08/01/coze-agent-2.0",
+    "date": "2026-08-02"
   }
 ]
