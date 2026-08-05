@@ -1,0 +1,13 @@
+2026-08-02 01:00 UTC
+Git push 失败：无法读取 GitHub 用户名认证信息
+错误信息：fatal: could not read Username for 'https://github.com': No such device or address
+
+可能原因：
+1. Git 凭证未配置或过期
+2. SSH 密钥未配置
+3. 网络连接问题
+
+建议解决方案：
+1. 配置 Git credential helper
+2. 添加 SSH 密钥到 GitHub 账户
+3. 检查网络连接与代理设置
