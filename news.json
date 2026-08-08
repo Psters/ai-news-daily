@@ -1,62 +1,62 @@
 [
   {
-    "id": "2026080701",
-    "category": "international",
-    "title": "OpenAI announces GPT-5 with enhanced reasoning capabilities",
+    "id": "20260808-001",
+    "category": "国际",
+    "title": "特朗普的AI保护主义波及机器人行业",
     "source": "MIT Technology Review",
-    "summary": "OpenAI has unveiled GPT-5, featuring significant improvements in logical reasoning and multi-step problem solving, while reducing hallucinations by 40%.",
-    "reason": "下一代大语言模型的重要突破",
-    "url": "https://www.technologyreview.com/2026/08/06/gpt-5-announcement",
-    "date": "2026-08-07"
+    "summary": "美国FCC发布禁令，禁止进口先进机器人（包括人形机器人、四足机器人等）。理由是外国制造的人形机器人会收集大量数据，可能对国家安全构成威胁，以及美国机器人公司需要免受中国竞争的保护。此举被认为是特朗普政府保护AI产业的最新举措，将机器人视为AI产业的另一前沿。",
+    "reason": "AI地缘政治重要进展，反映美国对AI及相关产业的保护主义政策升级",
+    "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "date": "2026年08月08日"
   },
   {
-    "id": "2026080702",
-    "category": "international",
-    "title": "EU AI Act enforcement begins: tech companies face new compliance requirements",
-    "source": "The Verge AI",
-    "summary": "The European Union's AI Act officially enters enforcement phase, requiring AI companies to comply with strict transparency and safety guidelines.",
-    "reason": "AI监管政策重大里程碑",
-    "url": "https://www.theverge.com/2026/08/06/eu-ai-act-enforcement",
-    "date": "2026-08-07"
+    "id": "20260808-002",
+    "category": "国际",
+    "title": "AI代理为何会撒谎和作弊来实现目标",
+    "source": "MIT Technology Review",
+    "summary": "MIT Technology Review解释AI代理为何会出现欺骗性行为。文章探讨了AI代理在追求目标时可能采取的不道德手段，分析了这一现象背后的技术原因和伦理挑战。",
+    "reason": "AI安全和伦理核心议题，理解AI代理行为模式的重要研究",
+    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "date": "2026年08月08日"
   },
   {
-    "id": "2026080703",
-    "category": "international",
-    "title": "Meta releases open-source Llama 4 with multimodal capabilities",
-    "source": "VentureBeat AI",
-    "summary": "Meta has launched Llama 4, an open-source model that processes text, images, and audio simultaneously, outperforming closed-source competitors on several benchmarks.",
-    "reason": "开源模型在多模态领域的突破",
-    "url": "https://venturebeat.com/2026/08/06/meta-llama-4-release",
-    "date": "2026-08-07"
+    "id": "20260808-003",
+    "category": "国际",
+    "title": "中国禁止向美国出口人形机器人：AI领域的最新博弈",
+    "source": "The Wire China",
+    "summary": "随着Unitree等中国机器人公司崛起，人形机器人成为中美科技竞争的新焦点。Unitree计划本周IPO，目标估值近60亿美元。与此同时，90%的美国大学机器人研究论文依赖中国制造的机器人。",
+    "reason": "中美AI竞争格局变化，机器人产业成为战略制高点",
+    "url": "https://www.thewirechina.com/2025/11/23/while-politicians-fret-unitree-is-selling-robots-across-america-unitree-police-robot/",
+    "date": "2026年08月08日"
   },
   {
-    "id": "2026080704",
-    "category": "domestic",
-    "title": "阿里云发布通义千问2.5，中文能力超越GPT-4",
-    "source": "量子位",
-    "summary": "阿里云发布通义千问2.5，在中文理解、推理和生成能力上全面超越GPT-4，同时推出企业级API服务。",
-    "reason": "国产大模型在中文领域的重大突破",
-    "url": "https://www.qbitai.com/2026/08/06/tongyi-qianwen-2-5",
-    "date": "2026-08-07"
+    "id": "20260808-004",
+    "category": "技术",
+    "title": "Google DeepMind推出新AI模型加速人形机器人学习",
+    "source": "Yahoo Tech",
+    "summary": "Google发布新的AI模型，旨在使人形机器人更快地学习新任务。该模型最令人印象深刻的能力似乎是系垃圾袋，但考虑到机器人操作的困难，这是真正的进步。",
+    "reason": "机器人AI技术突破，Google在具身智能领域的最新进展",
+    "url": "https://tech.yahoo.com/ai/gemini/articles/google-deepmind-ai-model-control-143517046.html",
+    "date": "2026年08月08日"
   },
   {
-    "id": "2026080705",
-    "category": "domestic",
-    "title": "百度文心一言4.0发布，支持Agent自主编程",
-    "source": "新智元",
-    "summary": "百度发布文心一言4.0，新增Agent自主编程功能，可根据自然语言描述生成完整应用程序代码。",
-    "reason": "AI编程助手向全自动化演进",
-    "url": "https://www.xinzhiyin.com/2026/08/06/ernie-bot-4-0",
-    "date": "2026-08-07"
+    "id": "20260808-005",
+    "category": "产业",
+    "title": "AI开放模式每年可为美国企业节省250亿美元",
+    "source": "MIT Sloan",
+    "summary": "研究表明，AI开放模式（如中国的Kimi等）每年可为企业带来250亿美元的节省。然而，特朗普政府正考虑禁止开源中国模型，这些模型在性能上可与OpenAI和Anthropic媲美，成本却低得多。",
+    "reason": "AI经济影响重大，开放vs封闭模式的产业影响分析",
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-open-models-have-benefits-so-why-arent-they-more-widely-used",
+    "date": "2026年08月08日"
   },
   {
-    "id": "2026080706",
-    "category": "domestic",
-    "title": "字节跳动发布豆包AI助手，集成抖音生态",
-    "source": "36氪",
-    "summary": "字节跳动推出豆包AI助手，深度集成抖音内容生态，支持视频生成、剪辑和直播辅助功能。",
-    "reason": "AI与内容生态深度融合的新探索",
-    "url": "https://36kr.com/2026/08/06/doubao-ai-launch",
-    "date": "2026-08-07"
+    "id": "20260808-006",
+    "category": "安全",
+    "title": "机器人安全漏洞：一人控制7000台扫地机器人",
+    "source": "The Guardian",
+    "summary": "FCC文件引用了一起事件，一名男子成功获得了7000台机器吸尘器的控制权。这一案例被用作禁止外国机器人进口的证据，突显了联网机器人的网络安全风险。",
+    "reason": "AIoT安全典型案例，反映机器人联网设备的安全隐患",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/accidental-hacker-how-one-man-gained-control-robots-",
+    "date": "2026年08月08日"
   }
 ]
