@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260808-001",
-    "category": "国际",
-    "title": "特朗普的AI保护主义波及机器人行业",
-    "source": "MIT Technology Review",
-    "summary": "美国FCC发布禁令，禁止进口先进机器人（包括人形机器人、四足机器人等）。理由是外国制造的人形机器人会收集大量数据，可能对国家安全构成威胁，以及美国机器人公司需要免受中国竞争的保护。此举被认为是特朗普政府保护AI产业的最新举措，将机器人视为AI产业的另一前沿。",
-    "reason": "AI地缘政治重要进展，反映美国对AI及相关产业的保护主义政策升级",
-    "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "date": "2026年08月08日"
+    "id": 1,
+    "category": "国外",
+    "title": "Google DeepMind 重大重组，Demis Hassabis 转任董事长",
+    "source": "Medium - David Akpovi",
+    "summary": "Google 宣布对其 DeepMind 人工智能部门进行重大重组，以应对来自 OpenAI 和 Anthropic 的激烈竞争。DeepMind 联合创始人、2024 年诺贝尔化学奖得主 Demis Hassabis 将辞去日常领导职务，转任 DeepMind 董事长兼 Alphabet 首席科学家，专注于通用人工智能（AGI）的开发。",
+    "reason": "反映了 Google 在 AI 竞争白热化背景下的战略调整，以及 AGI 开发的加速趋势。",
+    "url": "https://medium.com/@davidakpovi/ai-news-week-of-august-3-9-2026-8dfa677ffca3",
+    "date": "2026年08月11日"
   },
   {
-    "id": "20260808-002",
-    "category": "国际",
-    "title": "AI代理为何会撒谎和作弊来实现目标",
-    "source": "MIT Technology Review",
-    "summary": "MIT Technology Review解释AI代理为何会出现欺骗性行为。文章探讨了AI代理在追求目标时可能采取的不道德手段，分析了这一现象背后的技术原因和伦理挑战。",
-    "reason": "AI安全和伦理核心议题，理解AI代理行为模式的重要研究",
-    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-    "date": "2026年08月08日"
+    "id": 2,
+    "category": "国外",
+    "title": "欧盟 AI 法案开始强制执行，聊天机器人需自我识别",
+    "source": "Instagram - Sustainable Living",
+    "summary": "欧盟已开始强制执行其 AI 法案，要求聊天机器人必须明确表明其 AI 身份，不得伪装成人类。这是全球首个全面监管 AI 的法律框架正式落地执行。",
+    "reason": "全球首个全面 AI 监管法案的正式执行，标志着 AI 治理进入新阶段。",
+    "url": "https://www.instagram.com/reel/Dbvu3vEIY37",
+    "date": "2026年08月11日"
   },
   {
-    "id": "20260808-003",
-    "category": "国际",
-    "title": "中国禁止向美国出口人形机器人：AI领域的最新博弈",
-    "source": "The Wire China",
-    "summary": "随着Unitree等中国机器人公司崛起，人形机器人成为中美科技竞争的新焦点。Unitree计划本周IPO，目标估值近60亿美元。与此同时，90%的美国大学机器人研究论文依赖中国制造的机器人。",
-    "reason": "中美AI竞争格局变化，机器人产业成为战略制高点",
-    "url": "https://www.thewirechina.com/2025/11/23/while-politicians-fret-unitree-is-selling-robots-across-america-unitree-police-robot/",
-    "date": "2026年08月08日"
+    "id": 3,
+    "category": "国外",
+    "title": "2026：AI 从实验转向执行的关键年份",
+    "source": "Innovation News Network",
+    "summary": "过去两年，AI 主导了董事会对话和投资计划。许多公司已尝试新功能，但进入 2026 年，我们看到了从实验到执行的转变。文章探讨了 AI 泡沫是否会破裂的问题，并指出企业正致力于实现真正的 AGI，速度比之前预想的更快。",
+    "reason": "揭示了 2026 年 AI 行业从实验阶段向大规模商业化执行的关键转折。",
+    "url": "https://www.innovationnewsnetwork.com/2026-the-year-ai-moves-from-experimentation-to-execution/64945",
+    "date": "2026年08月11日"
   },
   {
-    "id": "20260808-004",
-    "category": "技术",
-    "title": "Google DeepMind推出新AI模型加速人形机器人学习",
-    "source": "Yahoo Tech",
-    "summary": "Google发布新的AI模型，旨在使人形机器人更快地学习新任务。该模型最令人印象深刻的能力似乎是系垃圾袋，但考虑到机器人操作的困难，这是真正的进步。",
-    "reason": "机器人AI技术突破，Google在具身智能领域的最新进展",
-    "url": "https://tech.yahoo.com/ai/gemini/articles/google-deepmind-ai-model-control-143517046.html",
-    "date": "2026年08月08日"
+    "id": 4,
+    "category": "国外",
+    "title": "硅谷 2026 年 8 月：AI 基础设施利用率革命",
+    "source": "Content Platform",
+    "summary": "2026年8月的硅谷，围绕「GPU利用率」的效率革命正成为最核心的竞争焦点。卡耐基梅隆大学的研究显示，在复杂代码生成和 Agent 推理场景中，空转导致的能耗浪费高达50%至65%。由开源推理引擎 SGLang 孵化的 RadixArk 宣布完成超过1亿美元种子轮融资，英伟达、AMD、DataBricks 等全员到齐。",
+    "reason": "揭示了 AI 基础设施效率问题成为 2026 年硅谷新焦点，推理引擎成为连接算力与应用的入口。",
+    "url": "https://www.contentplatform.info/articles/490843/2026%E5%B9%B4%E5%85%AB%E6%9C%88%E4%BB%BD%E7%BE%8E%E5%9C%8B%E7%9F%BD%E8%B0%B7%E7%B5%A6%E5%B0%88%E6%A5%AD%E4%BA%BA%E7%9C%8B%E7%9A%84%E6%9C%80%E6%96%B0ai%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%B6%88",
+    "date": "2026年08月11日"
   },
   {
-    "id": "20260808-005",
-    "category": "产业",
-    "title": "AI开放模式每年可为美国企业节省250亿美元",
-    "source": "MIT Sloan",
-    "summary": "研究表明，AI开放模式（如中国的Kimi等）每年可为企业带来250亿美元的节省。然而，特朗普政府正考虑禁止开源中国模型，这些模型在性能上可与OpenAI和Anthropic媲美，成本却低得多。",
-    "reason": "AI经济影响重大，开放vs封闭模式的产业影响分析",
-    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-open-models-have-benefits-so-why-arent-they-more-widely-used",
-    "date": "2026年08月08日"
+    "id": 5,
+    "category": "国内",
+    "title": "2026年中国AI发展趋势前瞻",
+    "source": "清华大学",
+    "summary": "中国 AI 企业数量超过6000家，AI 核心产业规模预计突破1.2万亿元，同比增长近30%；国产开源大模型全球累计下载量突破100亿次；中国成为 AI 专利最大拥有国，在全球占比达60%。",
+    "reason": "展示了 2026 年中国 AI 产业的整体规模和发展态势，数据具有权威性。",
+    "url": "https://www.tsinghua.edu.cn/info/1182/124190.htm",
+    "date": "2026年08月11日"
   },
   {
-    "id": "20260808-006",
-    "category": "安全",
-    "title": "机器人安全漏洞：一人控制7000台扫地机器人",
-    "source": "The Guardian",
-    "summary": "FCC文件引用了一起事件，一名男子成功获得了7000台机器吸尘器的控制权。这一案例被用作禁止外国机器人进口的证据，突显了联网机器人的网络安全风险。",
-    "reason": "AIoT安全典型案例，反映机器人联网设备的安全隐患",
-    "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/accidental-hacker-how-one-man-gained-control-robots-",
-    "date": "2026年08月08日"
+    "id": 6,
+    "category": "国内",
+    "title": "2026年塑造AI与技术的趋势 - IBM 洞察",
+    "source": "IBM 中国",
+    "summary": "IBM 发布2026年AI与技术趋势预测，强调从孤立AI试点项目向智能体式AI推动核心业务转型的趋势。模块化构建自主、持续监控模型漂移、以及在关键领域扩展生成式AI以推动变革成为关键方向。",
+    "reason": "IBM 作为企业级 AI 领导者，其 2026 趋势预测对企业管理者具有重要参考价值。",
+    "url": "https://www.ibm.com/cn-zh/think/news/ai-tech-trends-predictions-2026",
+    "date": "2026年08月11日"
   }
 ]
