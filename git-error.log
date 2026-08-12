@@ -1,4 +1,9 @@
-2026-05-08 01:00:00 UTC
-Git push 失败：fatal: could not read Username for 'https://github.com': No such device or directory
-错误原因：未配置 GitHub 认证凭据
-解决方案：需要配置 git credential helper 或使用 SSH 密钥
+2026-08-11 01:00 UTC
+Git push failed: fatal: could not read Username for 'https://github.com': No such device or address
+Error code: 128
+
+Note: GitHub 认证配置缺失或网络问题。新闻数据已成功推送到飞书，但 GitHub Pages 更新失败。
+建议检查：
+1. SSH 密钥配置
+2. GitHub Personal Access Token
+3. 网络连接状态

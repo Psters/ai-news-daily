@@ -1,62 +1,62 @@
 [
   {
-    "id": 1,
-    "category": "国外",
-    "title": "Google DeepMind 重大重组，Demis Hassabis 转任董事长",
-    "source": "Medium - David Akpovi",
-    "summary": "Google 宣布对其 DeepMind 人工智能部门进行重大重组，以应对来自 OpenAI 和 Anthropic 的激烈竞争。DeepMind 联合创始人、2024 年诺贝尔化学奖得主 Demis Hassabis 将辞去日常领导职务，转任 DeepMind 董事长兼 Alphabet 首席科学家，专注于通用人工智能（AGI）的开发。",
-    "reason": "反映了 Google 在 AI 竞争白热化背景下的战略调整，以及 AGI 开发的加速趋势。",
-    "url": "https://medium.com/@davidakpovi/ai-news-week-of-august-3-9-2026-8dfa677ffca3",
-    "date": "2026年08月11日"
+    "id": "20260812-01",
+    "category": "国外新闻",
+    "title": "Towards an Argumentative Foundation for Evaluative AI",
+    "source": "arXiv",
+    "summary": "提出了评估AI的论证基础框架，探索如何通过论证理论来评估AI系统的输出质量和可信度。",
+    "reason": "学术前沿：AI评估方法论的新探索，对AI可信度研究有重要参考价值。",
+    "url": "https://arxiv.org/abs/2608.07473",
+    "date": "2026年08月12日"
   },
   {
-    "id": 2,
-    "category": "国外",
-    "title": "欧盟 AI 法案开始强制执行，聊天机器人需自我识别",
-    "source": "Instagram - Sustainable Living",
-    "summary": "欧盟已开始强制执行其 AI 法案，要求聊天机器人必须明确表明其 AI 身份，不得伪装成人类。这是全球首个全面监管 AI 的法律框架正式落地执行。",
-    "reason": "全球首个全面 AI 监管法案的正式执行，标志着 AI 治理进入新阶段。",
-    "url": "https://www.instagram.com/reel/Dbvu3vEIY37",
-    "date": "2026年08月11日"
+    "id": "20260812-02",
+    "category": "国外新闻",
+    "title": "Flow-by-Flow: Content-Judgment Bypass for Governing AI Output",
+    "source": "arXiv",
+    "summary": "针对高风险领域AI输出控制问题，提出逐流内容判断绕过机制，提升AI在高损失领域的安全性。",
+    "reason": "安全前沿：解决AI在医疗、金融等高风险领域的输出控制问题，具有重要应用价值。",
+    "url": "https://arxiv.org/abs/2608.07474",
+    "date": "2026年08月12日"
   },
   {
-    "id": 3,
-    "category": "国外",
-    "title": "2026：AI 从实验转向执行的关键年份",
-    "source": "Innovation News Network",
-    "summary": "过去两年，AI 主导了董事会对话和投资计划。许多公司已尝试新功能，但进入 2026 年，我们看到了从实验到执行的转变。文章探讨了 AI 泡沫是否会破裂的问题，并指出企业正致力于实现真正的 AGI，速度比之前预想的更快。",
-    "reason": "揭示了 2026 年 AI 行业从实验阶段向大规模商业化执行的关键转折。",
-    "url": "https://www.innovationnewsnetwork.com/2026-the-year-ai-moves-from-experimentation-to-execution/64945",
-    "date": "2026年08月11日"
+    "id": "20260812-03",
+    "category": "国外新闻",
+    "title": "The Knowing-Saying Gap: When Probes See Errors that Confidence Misses",
+    "source": "arXiv",
+    "summary": "研究发现探针检测到的错误可能被置信度评估遗漏，揭示了AI自我评估中的盲点。",
+    "reason": "研究洞察：揭示了AI自我认知与实际能力之间的差距，对AI安全性研究有重要启示。",
+    "url": "https://arxiv.org/abs/2608.07528",
+    "date": "2026年08月12日"
   },
   {
-    "id": 4,
-    "category": "国外",
-    "title": "硅谷 2026 年 8 月：AI 基础设施利用率革命",
-    "source": "Content Platform",
-    "summary": "2026年8月的硅谷，围绕「GPU利用率」的效率革命正成为最核心的竞争焦点。卡耐基梅隆大学的研究显示，在复杂代码生成和 Agent 推理场景中，空转导致的能耗浪费高达50%至65%。由开源推理引擎 SGLang 孵化的 RadixArk 宣布完成超过1亿美元种子轮融资，英伟达、AMD、DataBricks 等全员到齐。",
-    "reason": "揭示了 AI 基础设施效率问题成为 2026 年硅谷新焦点，推理引擎成为连接算力与应用的入口。",
-    "url": "https://www.contentplatform.info/articles/490843/2026%E5%B9%B4%E5%85%AB%E6%9C%88%E4%BB%BD%E7%BE%8E%E5%9C%8B%E7%9F%BD%E8%B0%B7%E7%B5%A6%E5%B0%88%E6%A5%AD%E4%BA%BA%E7%9C%8B%E7%9A%84%E6%9C%80%E6%96%B0ai%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%B6%88",
-    "date": "2026年08月11日"
+    "id": "20260812-04",
+    "category": "国外新闻",
+    "title": "Emotion in an active inference model of human driving",
+    "source": "arXiv",
+    "summary": "研究人类驾驶行为中的情感因素，建立主动推理模型，为自动驾驶的情感计算提供理论基础。",
+    "reason": "跨学科创新：结合情感计算与自动驾驶，探索AI在复杂人类行为建模中的新方向。",
+    "url": "https://arxiv.org/abs/2608.07480",
+    "date": "2026年08月12日"
   },
   {
-    "id": 5,
-    "category": "国内",
-    "title": "2026年中国AI发展趋势前瞻",
-    "source": "清华大学",
-    "summary": "中国 AI 企业数量超过6000家，AI 核心产业规模预计突破1.2万亿元，同比增长近30%；国产开源大模型全球累计下载量突破100亿次；中国成为 AI 专利最大拥有国，在全球占比达60%。",
-    "reason": "展示了 2026 年中国 AI 产业的整体规模和发展态势，数据具有权威性。",
-    "url": "https://www.tsinghua.edu.cn/info/1182/124190.htm",
-    "date": "2026年08月11日"
+    "id": "20260812-05",
+    "category": "国外新闻",
+    "title": "Training Variable Long Sequences with Data-Centric Parallel",
+    "source": "arXiv",
+    "summary": "提出以数据为中心的并行训练方法，解决变长序列训练效率问题，提升大模型训练性能。",
+    "reason": "技术突破：针对大模型训练效率的优化方案，对降低AI训练成本有实际意义。",
+    "url": "https://arxiv.org/abs/2608.07524",
+    "date": "2026年08月12日"
   },
   {
-    "id": 6,
-    "category": "国内",
-    "title": "2026年塑造AI与技术的趋势 - IBM 洞察",
-    "source": "IBM 中国",
-    "summary": "IBM 发布2026年AI与技术趋势预测，强调从孤立AI试点项目向智能体式AI推动核心业务转型的趋势。模块化构建自主、持续监控模型漂移、以及在关键领域扩展生成式AI以推动变革成为关键方向。",
-    "reason": "IBM 作为企业级 AI 领导者，其 2026 趋势预测对企业管理者具有重要参考价值。",
-    "url": "https://www.ibm.com/cn-zh/think/news/ai-tech-trends-predictions-2026",
-    "date": "2026年08月11日"
+    "id": "20260812-06",
+    "category": "国外新闻",
+    "title": "Determinization in Structure Theories: Unified Framework via Closure",
+    "source": "arXiv",
+    "summary": "提出通过闭包、可比较性和联合可接受性的统一框架，解决结构理论中的确定性问题。",
+    "reason": "理论创新：为AI系统的结构化推理提供新的数学框架，具有基础理论价值。",
+    "url": "https://arxiv.org/abs/2608.07476",
+    "date": "2026年08月12日"
   }
 ]
