@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260812-01",
+    "id": "20260813-01",
     "category": "国外新闻",
-    "title": "Towards an Argumentative Foundation for Evaluative AI",
-    "source": "arXiv",
-    "summary": "提出了评估AI的论证基础框架，探索如何通过论证理论来评估AI系统的输出质量和可信度。",
-    "reason": "学术前沿：AI评估方法论的新探索，对AI可信度研究有重要参考价值。",
-    "url": "https://arxiv.org/abs/2608.07473",
-    "date": "2026年08月12日"
+    "title": "Mistral AI aims for 1 gigawatt of European compute by 2030",
+    "source": "VentureBeat",
+    "summary": "法国AI公司Mistral宣布基础设施业务三重扩张：区域推理端点让客户选择在欧洲或美国运行AI工作负载，新的'优先级'层为关键任务部署提供正常运行时间保证，以及欧洲企业联盟的多年度计算承诺，预计到2027年底支持200兆瓦基础设施，到2030年底达到1吉瓦。",
+    "reason": "战略布局：欧洲AI基础设施重大投资计划，反映AI算力需求的爆发式增长和区域化趋势。",
+    "url": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
+    "date": "2026年08月13日"
   },
   {
-    "id": "20260812-02",
+    "id": "20260813-02",
     "category": "国外新闻",
-    "title": "Flow-by-Flow: Content-Judgment Bypass for Governing AI Output",
-    "source": "arXiv",
-    "summary": "针对高风险领域AI输出控制问题，提出逐流内容判断绕过机制，提升AI在高损失领域的安全性。",
-    "reason": "安全前沿：解决AI在医疗、金融等高风险领域的输出控制问题，具有重要应用价值。",
-    "url": "https://arxiv.org/abs/2608.07474",
-    "date": "2026年08月12日"
+    "title": "AI agents面临权限超限风险，不仅是幻觉问题",
+    "source": "VentureBeat",
+    "summary": "企业AI代理面临的问题不仅是幻觉（生成错误信息），更重要的是权限超限——代理可能被授权执行退款、触碰生产系统或对外承诺公司行动。内容过滤器可以阻止不安全输出，但无法判断代理是否被授权执行特定操作，这是大多数企业只解决了第一个问题。",
+    "reason": "安全警示：揭示AI代理在企业管理中的新风险类型——权限管理比内容过滤更重要，对AI部署有重要启示。",
+    "url": "https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority",
+    "date": "2026年08月13日"
   },
   {
-    "id": "20260812-03",
+    "id": "20260813-03",
     "category": "国外新闻",
-    "title": "The Knowing-Saying Gap: When Probes See Errors that Confidence Misses",
-    "source": "arXiv",
-    "summary": "研究发现探针检测到的错误可能被置信度评估遗漏，揭示了AI自我评估中的盲点。",
-    "reason": "研究洞察：揭示了AI自我认知与实际能力之间的差距，对AI安全性研究有重要启示。",
-    "url": "https://arxiv.org/abs/2608.07528",
-    "date": "2026年08月12日"
+    "title": "SpaceX AI推出Grok-4.6，性能超越Kimi K3S并匹敌GPT-5.6-Sol",
+    "source": "VentureBeat",
+    "summary": "SpaceX AI发布Grok-4.6模型，在人工分析基准测试中性能超越Kimi K3S并匹敌GPT-5.6-Sol，成为全球第三大AI模型。Grok Bot将AI代理转变为持久的数字协作者，可以操作用户的应用程序，月费120美元。",
+    "reason": "行业竞争：AI模型性能持续突破，代理化服务成为新趋势，月费模式反映AI服务商业化加速。",
+    "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+    "date": "2026年08月13日"
   },
   {
-    "id": "20260812-04",
+    "id": "20260813-04",
     "category": "国外新闻",
-    "title": "Emotion in an active inference model of human driving",
-    "source": "arXiv",
-    "summary": "研究人类驾驶行为中的情感因素，建立主动推理模型，为自动驾驶的情感计算提供理论基础。",
-    "reason": "跨学科创新：结合情感计算与自动驾驶，探索AI在复杂人类行为建模中的新方向。",
-    "url": "https://arxiv.org/abs/2608.07480",
-    "date": "2026年08月12日"
+    "title": "OpenAI推出GPT-5.6 Cyber，专注网络安全任务",
+    "source": "VentureBeat",
+    "summary": "OpenAI发布GPT-5.6 Cyber模型，专门针对高级网络安全任务设计，减少拒绝回答的情况，在网络安全任务上达到95%完成率。该模型专注于安全分析、漏洞检测和威胁响应等场景。",
+    "reason": "垂直领域：AI模型向垂直领域深耕，网络安全成为重要应用场景，专业化模型提升任务完成率。",
+    "url": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
+    "date": "2026年08月13日"
   },
   {
-    "id": "20260812-05",
+    "id": "20260813-05",
     "category": "国外新闻",
-    "title": "Training Variable Long Sequences with Data-Centric Parallel",
-    "source": "arXiv",
-    "summary": "提出以数据为中心的并行训练方法，解决变长序列训练效率问题，提升大模型训练性能。",
-    "reason": "技术突破：针对大模型训练效率的优化方案，对降低AI训练成本有实际意义。",
-    "url": "https://arxiv.org/abs/2608.07524",
-    "date": "2026年08月12日"
+    "title": "Meta回归开源，发布Muse Glimmer 30B模型",
+    "source": "VentureBeat",
+    "summary": "Meta发布Muse Glimmer 30B参数AI模型，采用Apache 2.0开源许可证，专门针对AI代理优化。该模型现已可用，标志着Meta重新回到开源路线，为开发者提供强大的代理优化模型。",
+    "reason": "开源动态：Meta回归开源策略，30B参数模型专门优化代理任务，Apache 2.0许可便于商业应用。",
+    "url": "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now",
+    "date": "2026年08月13日"
   },
   {
-    "id": "20260812-06",
+    "id": "20260813-06",
     "category": "国外新闻",
-    "title": "Determinization in Structure Theories: Unified Framework via Closure",
-    "source": "arXiv",
-    "summary": "提出通过闭包、可比较性和联合可接受性的统一框架，解决结构理论中的确定性问题。",
-    "reason": "理论创新：为AI系统的结构化推理提供新的数学框架，具有基础理论价值。",
-    "url": "https://arxiv.org/abs/2608.07476",
-    "date": "2026年08月12日"
+    "title": "NVIDIA Switchyard路由器实时重排AI模型，任务成本降至三分之一",
+    "source": "VentureBeat",
+    "summary": "NVIDIA推出Switchyard路由器，可在任务执行过程中实时重排AI模型，根据任务阶段自动切换最合适的模型。在内部测试中，该技术将任务成本降低至原来的三分之一，显著提升AI推理效率。",
+    "reason": "技术突破：动态模型路由技术大幅降低AI推理成本，为多模型协同工作提供新思路。",
+    "url": "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests",
+    "date": "2026年08月13日"
   }
 ]
