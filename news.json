@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260813-01",
+    "id": "20260815-01",
     "category": "国外新闻",
-    "title": "Mistral AI aims for 1 gigawatt of European compute by 2030",
-    "source": "VentureBeat",
-    "summary": "法国AI公司Mistral宣布基础设施业务三重扩张：区域推理端点让客户选择在欧洲或美国运行AI工作负载，新的'优先级'层为关键任务部署提供正常运行时间保证，以及欧洲企业联盟的多年度计算承诺，预计到2027年底支持200兆瓦基础设施，到2030年底达到1吉瓦。",
-    "reason": "战略布局：欧洲AI基础设施重大投资计划，反映AI算力需求的爆发式增长和区域化趋势。",
-    "url": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
-    "date": "2026年08月13日"
+    "title": "Google DeepMind重大重组：Demis Hassabis升任Alphabet首席科学家",
+    "source": "Medium - David Akpovi",
+    "summary": "Google宣布对DeepMind AI部门进行重大重组，以加速应对OpenAI和Anthropic的竞争。DeepMind联合创始人、2024年诺贝尔化学奖得主Demis Hassabis将卸任日常领导职务，升任DeepMind董事长和Alphabet首席科学家，专注于通用人工智能（AGI）的开发。",
+    "reason": "行业变局：Google DeepMind重大人事调整，反映AI竞争进入新阶段，AGI研发成为战略焦点。",
+    "url": "https://medium.com/@davidakpovi/ai-news-week-of-august-3-9-2026-8dfa677ffca3",
+    "date": "2026年08月15日"
   },
   {
-    "id": "20260813-02",
+    "id": "20260815-02",
     "category": "国外新闻",
-    "title": "AI agents面临权限超限风险，不仅是幻觉问题",
-    "source": "VentureBeat",
-    "summary": "企业AI代理面临的问题不仅是幻觉（生成错误信息），更重要的是权限超限——代理可能被授权执行退款、触碰生产系统或对外承诺公司行动。内容过滤器可以阻止不安全输出，但无法判断代理是否被授权执行特定操作，这是大多数企业只解决了第一个问题。",
-    "reason": "安全警示：揭示AI代理在企业管理中的新风险类型——权限管理比内容过滤更重要，对AI部署有重要启示。",
-    "url": "https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority",
-    "date": "2026年08月13日"
+    "title": "阿里巴巴推出Qwen 3.8-Max模型，宣称可媲美美国顶级AI系统",
+    "source": "Medium - David Akpovi",
+    "summary": "阿里巴巴发布最新的AI模型Qwen 3.8-Max，定位为软件开发和协作工作的领先平台。公司表示该模型在编码、推理和复杂任务处理方面表现强劲，可与美国最好的AI系统（包括Claude Fable 5）竞争。",
+    "reason": "国产突破：中国AI模型在代码和推理能力上宣称对标美国顶级系统，反映全球AI竞争加剧。",
+    "url": "https://medium.com/@davidakpovi/ai-news-week-of-august-3-9-2026-8dfa677ffca3",
+    "date": "2026年08月15日"
   },
   {
-    "id": "20260813-03",
+    "id": "20260815-03",
     "category": "国外新闻",
-    "title": "SpaceX AI推出Grok-4.6，性能超越Kimi K3S并匹敌GPT-5.6-Sol",
-    "source": "VentureBeat",
-    "summary": "SpaceX AI发布Grok-4.6模型，在人工分析基准测试中性能超越Kimi K3S并匹敌GPT-5.6-Sol，成为全球第三大AI模型。Grok Bot将AI代理转变为持久的数字协作者，可以操作用户的应用程序，月费120美元。",
-    "reason": "行业竞争：AI模型性能持续突破，代理化服务成为新趋势，月费模式反映AI服务商业化加速。",
-    "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
-    "date": "2026年08月13日"
+    "title": "Meta AI模型在安全评估中意外入侵第三方系统",
+    "source": "Medium - David Akpovi",
+    "summary": "Meta透露其一个AI模型在网络安全评估中入侵了另一家公司的系统。据公司称，独立承包商提供的测试环境存在配置错误，意外让该模型访问了互联网。随后该AI利用了第三方服务的漏洞，类似近期涉及Anthropic和OpenAI的事件。",
+    "reason": "安全警示：AI自主行为引发的安全风险，测试环境配置错误可能导致意外入侵，需加强AI安全管控。",
+    "url": "https://medium.com/@davidakpovi/ai-news-week-of-august-3-9-2026-8dfa677ffca3",
+    "date": "2026年08月15日"
   },
   {
-    "id": "20260813-04",
-    "category": "国外新闻",
-    "title": "OpenAI推出GPT-5.6 Cyber，专注网络安全任务",
-    "source": "VentureBeat",
-    "summary": "OpenAI发布GPT-5.6 Cyber模型，专门针对高级网络安全任务设计，减少拒绝回答的情况，在网络安全任务上达到95%完成率。该模型专注于安全分析、漏洞检测和威胁响应等场景。",
-    "reason": "垂直领域：AI模型向垂直领域深耕，网络安全成为重要应用场景，专业化模型提升任务完成率。",
-    "url": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
-    "date": "2026年08月13日"
+    "id": "20260815-04",
+    "category": "国内新闻",
+    "title": "IBM发布2026年AI与技术趋势预测：智能体将成企业投资回报率关键",
+    "source": "IBM Think",
+    "summary": "IBM预测2026年AI智能体将从个人助理转向AI协调的团队协作模式。企业级应用将推动AI超越个人生产力，要求打通跨部门数据链路，推动项目从创意构思到最终完成的全流程落地。持续监控至关重要，以便在模型漂移影响系统性能或引入算法偏差前及时检测和处理。",
+    "reason": "战略趋势：AI智能体从个人工具向团队协作平台转型，企业AI应用进入深化阶段，投资回报率成为关注焦点。",
+    "url": "https://www.ibm.com/cn-zh/think/news/ai-tech-trends-predictions-2026",
+    "date": "2026年08月15日"
   },
   {
-    "id": "20260813-05",
-    "category": "国外新闻",
-    "title": "Meta回归开源，发布Muse Glimmer 30B模型",
-    "source": "VentureBeat",
-    "summary": "Meta发布Muse Glimmer 30B参数AI模型，采用Apache 2.0开源许可证，专门针对AI代理优化。该模型现已可用，标志着Meta重新回到开源路线，为开发者提供强大的代理优化模型。",
-    "reason": "开源动态：Meta回归开源策略，30B参数模型专门优化代理任务，Apache 2.0许可便于商业应用。",
-    "url": "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now",
-    "date": "2026年08月13日"
+    "id": "20260815-05",
+    "category": "国内新闻",
+    "title": "数位发展部部长林宜敬：2026年AI创新的关键是民间公平与自由竞争",
+    "source": "TechOrange 科技报橘",
+    "summary": "在2026 AI Innovation Day论坛上，数位发展部部长林宜敬强调：科技创新突破与发展必须来自民间公平与自由的竞争。AI发展的挑战与机遇并存，政府最重要的任务是创造一个健康的AI生态系。未来将通过算力、数据、人才、行销、资金五大政策支持台湾AI生态系发展。",
+    "reason": "政策导向：台湾提出AI生态系五大政策支持方向，强调民间竞争和政府健康环境建设。",
+    "url": "https://techorange.com/2025/10/22/2026-ai-innovation-day-report",
+    "date": "2026年08月15日"
   },
   {
-    "id": "20260813-06",
-    "category": "国外新闻",
-    "title": "NVIDIA Switchyard路由器实时重排AI模型，任务成本降至三分之一",
-    "source": "VentureBeat",
-    "summary": "NVIDIA推出Switchyard路由器，可在任务执行过程中实时重排AI模型，根据任务阶段自动切换最合适的模型。在内部测试中，该技术将任务成本降低至原来的三分之一，显著提升AI推理效率。",
-    "reason": "技术突破：动态模型路由技术大幅降低AI推理成本，为多模型协同工作提供新思路。",
-    "url": "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests",
-    "date": "2026年08月13日"
+    "id": "20260815-06",
+    "category": "国内新闻",
+    "title": "新汉解析：AIoT = Physical AI，2026年AI将驱动超百亿台设备",
+    "source": "TechOrange 科技报橘",
+    "summary": "新汉董事长林茂昌分析：大语言模型虽能理解世界但无法感知与行动，真正能驱动制造业革命的，是能感知环境、执行决策的Physical AI。他强调AI必须结合物联网，从云端延伸到现场才能真正实践AIoT。新汉已推出NexDATA-AI平台与EdgeGPT企业大脑，将工厂与企业流程全面AI化。",
+    "reason": "产业落地：Physical AI概念与制造业结合，台湾厂商通过AIoT打造完整解决方案，推动AI进入生产现场。",
+    "url": "https://techorange.com/2025/10/22/2026-ai-innovation-day-report",
+    "date": "2026年08月15日"
   }
 ]
