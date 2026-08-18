@@ -7,7 +7,7 @@
     "summary": "Claude 生成的文本将添加隐形水印；AI 智能体能够直接使用工具代表人类完成任务；Spotify 将推出 AI Persona 标签标识 AI 生成的艺术家身份；Ryanair 与 Google Cloud 合作开发 AI 智能体自动化机组调度。",
     "reason": "本周重要 AI 动态汇总，涵盖水印技术、智能体工具使用、音乐行业 AI 标签化和航空业 AI 应用",
     "url": "https://medium.com/@davidakpovi/ai-news-week-of-august-10-16-2026-af52646d84d2",
-    "date": "2026年08月17日"
+    "date": "2026年08月18日"
   },
   {
     "id": "2",
@@ -17,7 +17,7 @@
     "summary": "企业正在远离最昂贵的 AI 模型，数据显示 median 公司每员工每月仅花费 $11 在 AI 工具上；Google Android 从 apps 转向 AI 智能体；Anthropic 投资者据传在谈 $2T 估值 IPO；Mistral 开放推理平台支持第三方开源模型。",
     "reason": "关键数据揭示企业 AI 支动向更经济选项转移，同时 AI 智能体平台竞争加剧",
     "url": "https://www.youtube.com/watch?v=FybjZpAWFXU",
-    "date": "2026年08月17日"
+    "date": "2026年08月18日"
   },
   {
     "id": "3",
@@ -27,7 +27,7 @@
     "summary": "三星在 FMS 2026 展示下一代 AI 内存技术；重要 AI 开发与硬件进展持续更新。",
     "reason": "硬件基础设施层面的 AI 技术突破，三星展示内存技术新进展",
     "url": "https://www.linkedin.com/pulse/latest-ai-news-today-august-5-2026-chetan-wadher-fgo9c",
-    "date": "2026年08月17日"
+    "date": "2026年08月18日"
   },
   {
     "id": "4",
@@ -37,7 +37,7 @@
     "summary": "腾讯 Marvis 可在本地部署 6 个 AI 智能体协同工作，支持自然语言指令完成文件管理、系统设置、跨模态检索及多任务自动化，采用云端效率与本地隐私双模式。",
     "reason": "操作系统级 AI 助手是重要方向，本地+云端双模式平衡隐私与效率",
     "url": "https://ai-bot.cn/daily-ai-news",
-    "date": "2026年08月17日"
+    "date": "2026年08月18日"
   },
   {
     "id": "5",
@@ -47,7 +47,7 @@
     "summary": "美团 CatPaw 提供开箱即用 AI 智能工作台与企业级 Agent 开发托管能力，支持多端运行，内部已覆盖 9 万员工、搭建 3 万个 Agent，具备多 Agent 自主协同能力。",
     "reason": "大型互联网公司规模化落地 AI Agent 的标杆案例，企业级应用实践",
     "url": "https://ai-bot.cn/daily-ai-news",
-    "date": "2026年08月17日"
+    "date": "2026年08月18日"
   },
   {
     "id": "6",
@@ -57,6 +57,6 @@
     "summary": "阿里千问办公支持 Windows/macOS/鸿蒙电脑，主打企业 IM 写作、Office 一站式生成、多模态理解、全栈网页生成等六大能力，由钉钉科技开发。",
     "reason": "办公场景是 AI 落地核心战场之一，阿里推出全平台产品增强竞争力",
     "url": "https://ai-bot.cn/daily-ai-news",
-    "date": "2026年08月17日"
+    "date": "2026年08月18日"
   }
 ]
