@@ -7,7 +7,7 @@
     "summary": "Google 宣布对 DeepMind 人工智能部门进行重大重组，以应对来自 OpenAI 和 Anthropic 的竞争。DeepMind 联合创始人、2024 年诺贝尔化学奖得主 Demis Hassabis 将卸任日常领导职务，转任 DeepMind 董事长和 Alphabet 首席科学家，专注于通用人工智能（AGI）的开发。",
     "reason": "AI 领域领导层变动直接影响技术发展方向，值得关注。Google DeepMind 作为全球顶尖 AI 实验室，其战略调整预示着行业竞争格局变化。",
     "url": "https://medium.com/@davidakpovi/ai-news-week-of-august-3-9-2026-8dfa677ffca3",
-    "date": "2026-08-19"
+    "date": "2026-08-20"
   },
   {
     "id": "2",
@@ -17,7 +17,7 @@
     "summary": "在 Hugging Face 安全事件后，OpenAI 实施了新的安全措施。此外，有报告称有女性指控其继父使用 Grok 将童年照片转换为露骨图像，引发对 AI 滥用的担忧。同时，Anthropic 分享了关于 Claude 新水印技术如何工作的更多细节。",
     "reason": "AI 安全和伦理问题日益重要，涉及平台如何防止技术被滥用以及如何保护用户隐私。这是 AI 行业必须面对的核心挑战。",
     "url": "https://techcrunch.com/category/artificial-intelligence",
-    "date": "2026-08-19"
+    "date": "2026-08-20"
   },
   {
     "id": "3",
@@ -25,9 +25,9 @@
     "title": "哈佛大学推出免费 AI 在线课程",
     "source": "Instagram",
     "summary": "哈佛大学发布了多门免费在线课程，包括《CS50 人工智能与 Python 导论》、《机器学习与 AI（Python）》、《数据科学：机器学习》等，为全球学习者提供优质的 AI 教育资源。",
-    "null": "顶尖教育机构的免费课程降低了 AI 学习门槛，有利于 AI 普及和人才培养。这对国内学习者也是很好的机会。",
+    "reason": "顶尖教育机构的免费课程降低了 AI 学习门槛，有利于 AI 普及和人才培养。这对国内学习者也是很好的机会。",
     "url": "https://www.instagram.com/p/DcLrnMJAKAr",
-    "date": "2026-08-19"
+    "date": "2026-08-20"
   },
   {
     "id": "4",
@@ -37,7 +37,7 @@
     "summary": "IBM 发布了 2026 年 AI 技术趋势预测，重点讨论智能体式 AI（Agentic AI）如何从孤立的试点项目转向核心业务转型。报告强调了模块化构建自主性的重要性，以及持续监控模型漂移和算法偏见的必要性。",
     "reason": "智能体式 AI 是 2026 年的关键趋势，从试点到规模化落地是 AI 应用的重要转折点。IBM 的预测对企业级 AI 实施具有指导意义。",
     "url": "https://www.ibm.com/cn-zh/think/news/ai-tech-trends-predictions-2026",
-    "date": "2026-08-19"
+    "date": "2026-08-20"
   },
   {
     "id": "5",
@@ -47,7 +47,7 @@
     "summary": "2026 年 8 月的硅谷，各大科技巨头在 AI 基础设施上的资本支出预计今年将突破 1 万亿美元，黄仁勋预测到 2030 年全球 AI 基础设施的年投资额将达到 4 万亿美元。围绕 GPU 利用率的效率革命成为竞争焦点，卡耐基梅隆大学研究显示近 20% 的执行时间和 11% 的能源被浪费。",
     "reason": "AI 基础设施投资规模惊人，显示行业对 AI 长期发展的信心。GPU 利用率优化成为新市场机会，技术效率和成本控制成为核心竞争力。",
     "url": "https://n.yam.com/Article/20260801159939",
-    "date": "2026-08-19"
+    "date": "2026-08-20"
   },
   {
     "id": "6",
@@ -57,6 +57,6 @@
     "summary": "欧盟已扩大其 AI 执法团队以监督对《AI 法案》的合规。执法重点包括深度伪造、网络安全、透明度要求以及高风险 AI 系统。同时，Google 回顾了 7 月的主要 AI 发布，包括为 AI 智能体优化的新 Gemini 模型和 Gemini Robotics ER 2。",
     "reason": "欧盟 AI 法案的执法落地标志着 AI 监管进入实操阶段，对全球 AI 企业都有影响。了解监管走向有助于规避合规风险。",
     "url": "https://www.linkedin.com/pulse/latest-ai-news-today-august-5-2026-chetan-wadher-fgo9c",
-    "date": "2026-08-19"
+    "date": "2026-08-20"
   }
 ]
