@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260821-001",
+    "id": "20260823-int-1",
     "category": "国外",
-    "title": "Debates over AI consciousness are a trap",
-    "source": "MIT Technology Review",
-    "summary": "如果 AI 系统被视为太先进而无法控制，那么构建它们的公司就无法对其造成的伤害承担责任。",
-    "reason": "AI 意识辩论掩盖了企业问责这一核心问题，对 AI 治理讨论具有警示意义。",
-    "url": "https://www.technologyreview.com/2024/08/15/1095693/ai-consciousness-debate/",
-    "date": "2026年08月21日"
+    "title": "Google 重组 DeepMind 以追赶 OpenAI 和 Anthropic",
+    "source": "Medium",
+    "summary": "Google 宣布对其 DeepMind 人工智能部门进行重大重组，以响应来自 OpenAI 和 Anthropic 日益激烈的竞争。DeepMind 联合创始人、2024 年诺贝尔化学奖得主 Demis Hassabis 将卸任日常领导职务，转任 DeepMind 董事长和 Alphabet 首席科学家，专注于通用人工智能（AGI）的发展。Meta 发布了 Muse Code，这是基于其最新 AI 模型 Muse Spark 1.2 构建的新 AI 编程助手。",
+    "reason": "科技巨头 AI 战略调整的重要信号，AGI 竞赛进入白热化阶段。",
+    "url": "https://medium.com/@davidakpovi/ai-news-week-of-august-3-9-2026-8dfa677ffca3",
+    "date": "2026年08月23日"
   },
   {
-    "id": "20260821-002",
+    "id": "20260823-int-2",
     "category": "国外",
-    "title": "We still don't know how people are really using AI",
-    "source": "MIT Technology Review",
-    "summary": "一项新研究表明，工作用例在 AI 使用中的占比远低于 AI 公司所声称的水平。",
-    "reason": "打破 AI 公司对用户使用场景的过度宣传，揭示真实使用数据。",
-    "url": "https://www.technologyreview.com/2024/08/19/1096802/ai-usage-study-work/",
-    "date": "2026年08月21日"
+    "title": "美国特朗普政府重塑 AI 政策，投入超 50 亿美元",
+    "source": "Mondaq",
+    "summary": "特朗普政府通过重大网络安全、科学研究和监管举措重塑 AI 政策。联邦机构承诺投入超过 50 亿美元，将 AI 嵌入关键基础设施、医疗保健和国防部门。NASA、DOE、HHS、NSF、NIST 和 DOD 将资助 AI 驱动的空间和科学数据分析、自主实验室、量子计算开发，以及生物系统和新材料的预测建模。",
+    "reason": "美国国家级 AI 战略的重要动向，巨额投资将影响全球 AI 发展格局。",
+    "url": "https://www.mondaq.com/unitedstates/new-technology/1828584/ai-the-washington-report-august-2026-edition",
+    "date": "2026年08月23日"
   },
   {
-    "id": "20260821-003",
+    "id": "20260823-int-3",
     "category": "国外",
-    "title": "AI's recursive self-improvement might not come so quickly after all",
-    "source": "MIT Technology Review",
-    "summary": "AI 智能体目前似乎还不够有创意，无法执行真正创新的开创性 AI 研究。",
-    "reason": "理性看待 AI 递归自我改进的预期，避免过度炒作。",
-    "url": "https://www.technologyreview.com/2024/08/20/1097012/ai-recursive-self-improvement/",
-    "date": "2026年08月21日"
+    "title": "DeepSeek V4 Pro 发布：百万 token 上下文窗口与定价策略转变",
+    "source": "YouTube",
+    "summary": "微软正将所有力量投入单一平台以直接与 ChatGPT 和 Gemini 竞争。DeepSeek 推出 V4 Pro 模型，强调强大的自主 Agent 能力和 100 万 token 上下文窗口。这标志着 DeepSeek 完全逆转了之前的零价格战略，通过 V4 Pro 的发布提高了 API 价格。",
+    "reason": "AI 模型定价策略的重大转变，大模型商业模式进入新阶段。",
+    "url": "https://www.youtube.com/watch?v=7_uihAYfjXg",
+    "date": "2026年08月23日"
   },
   {
-    "id": "20260821-004",
-    "category": "国外",
-    "title": "What happens when a kid's robot best friend dies?",
-    "source": "MIT Technology Review",
-    "summary": "为神经多样性儿童设计的 AI 陪伴玩具承诺提供连接和治疗，但它们能否长期兑现承诺？",
-    "reason": "关注 AI 陪伴产品的长期影响，特别是对儿童群体的心理影响。",
-    "url": "https://www.technologyreview.com/2024/08/14/1095643/ai-companion-toys-children/",
-    "date": "2026年08月21日"
-  },
-  {
-    "id": "20260821-005",
+    "id": "20260823-cn-1",
     "category": "国内",
-    "title": "模型权重如何成为 AI 的下一个「训练语料」？",
-    "source": "机器之心",
-    "summary": "探讨模型权重作为下一代训练数据的潜力与挑战，分析其对 AI 发展的影响。",
-    "reason": "模型权重 reuse 是 AI 训练数据枯竭问题的重要解决方案，值得关注。",
-    "url": "https://www.jiqizhixin.com/",
-    "date": "2026年08月21日"
+    "title": "腾讯内测操作系统级 AI 助手 Marvis，支持本地部署",
+    "source": "ai-bot.cn",
+    "summary": "腾讯内测操作系统级 AI 助手腾讯 Marvis，由应用宝团队开发，可在用户电脑本地部署 6 个 AI 智能体协同工作。产品支持自然语言指令完成文件管理、系统设置调整、跨模态内容检索及多任务自动化执行，采用云端效率与本地隐私双模式运行。",
+    "reason": "本地化 AI 助手的重要进展，操作系统级集成是未来趋势。",
+    "url": "https://ai-bot.cn/daily-ai-news",
+    "date": "2026年08月23日"
   },
   {
-    "id": "20260821-006",
+    "id": "20260823-cn-2",
     "category": "国内",
-    "title": "Netflix CPTO 如何在 AI 乱流中进行人才重构？",
-    "source": "机器之心",
-    "summary": "Netflix CPTO 分享在 AI 时代如何重构人才战略，应对技术变革。",
-    "reason": "企业如何应对 AI 时代的人才重构，是组织转型的核心议题。",
-    "url": "https://www.jiqizhixin.com/",
-    "date": "2026年08月21日"
+    "title": "Anthropic 发布 AI 原生 SDLC 实战手册，重构软件开发生命周期",
+    "source": "AI 日报",
+    "summary": "Anthropic 发布 AI 原生 SDLC 实战手册，提出将传统六阶段软件开发生命周期重构为 AI 嵌入各环节的闭环流程。手册指出，当代码不再是瓶颈时，规划、审查、部署等人为环节成为新约束，需通过 Claude 将需求压缩为 intent.md、以技能编码标准、用持续评测替代阶段门禁。",
+    "reason": "AI 对软件开发流程的深度重塑，实战指南具有重要参考价值。",
+    "url": "https://aihot.virxact.com/daily",
+    "date": "2026年08月23日"
+  },
+  {
+    "id": "20260823-cn-3",
+    "category": "国内",
+    "title": "百度 AI 开放平台新闻摘要功能持续更新",
+    "source": "百度 AI 开放平台",
+    "summary": "百度 AI 开放平台持续更新新闻摘要、文本信息提取、文章标签、文章分类等功能。平台提供零门槛文本模型定制、智能创作平台、视频内容审核、千帆大模型平台等服务。",
+    "reason": "国内 AI 基础设施持续完善，新闻摘要等基础能力不断优化。",
+    "url": "https://ai.baidu.com/support/news",
+    "date": "2026年08月23日"
   }
 ]
