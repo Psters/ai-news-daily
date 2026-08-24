@@ -1,0 +1,8 @@
+{
+  "lastRun": "2026-08-23 01:00:00 UTC",
+  "status": "completed",
+  "newsCount": 6,
+  "feishuPush": "success",
+  "gitPush": "failed - authentication error",
+  "nextRun": "2026-08-24 01:00:00 UTC"
+}
