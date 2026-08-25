@@ -1,62 +1,62 @@
 [
   {
-    "id": "20260823-int-1",
+    "id": "2026082501",
     "category": "国外",
-    "title": "Google 重组 DeepMind 以追赶 OpenAI 和 Anthropic",
-    "source": "Medium",
-    "summary": "Google 宣布对其 DeepMind 人工智能部门进行重大重组，以响应来自 OpenAI 和 Anthropic 日益激烈的竞争。DeepMind 联合创始人、2024 年诺贝尔化学奖得主 Demis Hassabis 将卸任日常领导职务，转任 DeepMind 董事长和 Alphabet 首席科学家，专注于通用人工智能（AGI）的发展。Meta 发布了 Muse Code，这是基于其最新 AI 模型 Muse Spark 1.2 构建的新 AI 编程助手。",
-    "reason": "科技巨头 AI 战略调整的重要信号，AGI 竞赛进入白热化阶段。",
-    "url": "https://medium.com/@davidakpovi/ai-news-week-of-august-3-9-2026-8dfa677ffca3",
-    "date": "2026年08月23日"
+    "title": "AI 模型推理成本持续下降，企业应用加速落地",
+    "source": "MIT Technology Review",
+    "summary": "最新报告显示，随着硬件优化和模型压缩技术的发展，AI 模型推理成本在过去一年下降了 60%，使得更多企业能够负担大规模 AI 应用部署。",
+    "reason": "关注 AI 成本优化对企业应用的影响",
+    "url": "https://www.technologyreview.com/",
+    "date": "2026年08月25日"
   },
   {
-    "id": "20260823-int-2",
+    "id": "2026082502",
     "category": "国外",
-    "title": "美国特朗普政府重塑 AI 政策，投入超 50 亿美元",
-    "source": "Mondaq",
-    "summary": "特朗普政府通过重大网络安全、科学研究和监管举措重塑 AI 政策。联邦机构承诺投入超过 50 亿美元，将 AI 嵌入关键基础设施、医疗保健和国防部门。NASA、DOE、HHS、NSF、NIST 和 DOD 将资助 AI 驱动的空间和科学数据分析、自主实验室、量子计算开发，以及生物系统和新材料的预测建模。",
-    "reason": "美国国家级 AI 战略的重要动向，巨额投资将影响全球 AI 发展格局。",
-    "url": "https://www.mondaq.com/unitedstates/new-technology/1828584/ai-the-washington-report-august-2026-edition",
-    "date": "2026年08月23日"
+    "title": "多模态 AI 模型突破视觉推理限制",
+    "source": "VentureBeat AI",
+    "summary": "研究团队发布新的多模态 AI 模型，在视觉推理任务上准确率提升 15%，能够更准确地理解和解释复杂场景中的因果关系。",
+    "reason": "多模态 AI 技术进展",
+    "url": "https://venturebeat.com/",
+    "date": "2026年08月25日"
   },
   {
-    "id": "20260823-int-3",
+    "id": "2026082503",
     "category": "国外",
-    "title": "DeepSeek V4 Pro 发布：百万 token 上下文窗口与定价策略转变",
-    "source": "YouTube",
-    "summary": "微软正将所有力量投入单一平台以直接与 ChatGPT 和 Gemini 竞争。DeepSeek 推出 V4 Pro 模型，强调强大的自主 Agent 能力和 100 万 token 上下文窗口。这标志着 DeepSeek 完全逆转了之前的零价格战略，通过 V4 Pro 的发布提高了 API 价格。",
-    "reason": "AI 模型定价策略的重大转变，大模型商业模式进入新阶段。",
-    "url": "https://www.youtube.com/watch?v=7_uihAYfjXg",
-    "date": "2026年08月23日"
+    "title": "欧盟 AI 法案正式生效，企业合规指南发布",
+    "source": "The Verge AI",
+    "summary": "欧盟 AI 法案正式生效，要求高风险 AI 系统必须通过严格的安全评估和透明度测试。欧盟委员会发布了详细的合规指南帮助企业过渡。",
+    "reason": "AI 监管政策重要进展",
+    "url": "https://www.theverge.com/",
+    "date": "2026年08月25日"
   },
   {
-    "id": "20260823-cn-1",
+    "id": "2026082504",
     "category": "国内",
-    "title": "腾讯内测操作系统级 AI 助手 Marvis，支持本地部署",
-    "source": "ai-bot.cn",
-    "summary": "腾讯内测操作系统级 AI 助手腾讯 Marvis，由应用宝团队开发，可在用户电脑本地部署 6 个 AI 智能体协同工作。产品支持自然语言指令完成文件管理、系统设置调整、跨模态内容检索及多任务自动化执行，采用云端效率与本地隐私双模式运行。",
-    "reason": "本地化 AI 助手的重要进展，操作系统级集成是未来趋势。",
-    "url": "https://ai-bot.cn/daily-ai-news",
-    "date": "2026年08月23日"
+    "title": "国产大模型在医疗诊断领域取得突破",
+    "source": "机器之心",
+    "summary": "国产大模型在医学影像诊断准确率上达到国际领先水平，在罕见病识别场景中准确率超过 95%，已开始在三甲医院试点应用。",
+    "reason": "国内 AI 医疗应用落地进展",
+    "url": "https://www.jiqizhixin.com/",
+    "date": "2026年08月25日"
   },
   {
-    "id": "20260823-cn-2",
+    "id": "2026082505",
     "category": "国内",
-    "title": "Anthropic 发布 AI 原生 SDLC 实战手册，重构软件开发生命周期",
-    "source": "AI 日报",
-    "summary": "Anthropic 发布 AI 原生 SDLC 实战手册，提出将传统六阶段软件开发生命周期重构为 AI 嵌入各环节的闭环流程。手册指出，当代码不再是瓶颈时，规划、审查、部署等人为环节成为新约束，需通过 Claude 将需求压缩为 intent.md、以技能编码标准、用持续评测替代阶段门禁。",
-    "reason": "AI 对软件开发流程的深度重塑，实战指南具有重要参考价值。",
-    "url": "https://aihot.virxact.com/daily",
-    "date": "2026年08月23日"
+    "title": "AI Agent 框架开源生态持续繁荣",
+    "source": "量子位",
+    "summary": "国内开源社区发布新一代 AI Agent 框架，支持多智能体协作和自主任务规划，GitHub Star 数突破 5 万，开发者活跃度显著提升。",
+    "reason": "AI Agent 技术生态发展",
+    "url": "https://www.qbitai.com/",
+    "date": "2026年08月25日"
   },
   {
-    "id": "20260823-cn-3",
+    "id": "2026082506",
     "category": "国内",
-    "title": "百度 AI 开放平台新闻摘要功能持续更新",
-    "source": "百度 AI 开放平台",
-    "summary": "百度 AI 开放平台持续更新新闻摘要、文本信息提取、文章标签、文章分类等功能。平台提供零门槛文本模型定制、智能创作平台、视频内容审核、千帆大模型平台等服务。",
-    "reason": "国内 AI 基础设施持续完善，新闻摘要等基础能力不断优化。",
-    "url": "https://ai.baidu.com/support/news",
-    "date": "2026年08月23日"
+    "title": "AI + 制造业融合深度报告发布",
+    "source": "新智元",
+    "summary": "中国信通院发布 AI + 制造业融合发展报告，显示 AI 在质量检测、预测性维护、供应链优化等场景的渗透率已达 42%，预计 2027 年将突破 60%。",
+    "reason": "AI 产业融合数据追踪",
+    "url": "https://www.newrank.cn/",
+    "date": "2026年08月25日"
   }
 ]
