@@ -1,62 +1,72 @@
 [
   {
-    "id": "20260826-01",
+    "id": "20260827-01",
     "category": "国外",
-    "title": "AI in Action | August 2026",
-    "source": "TechNet",
-    "summary": "OpenAI 推出 ChatGPT for Teens，专为青少年设计，强化安全防护与家长控制；三星开发可穿戴健康监测 AI 模型 xMAE 与 HiMAE。",
-    "reason": "青少年 AI 产品与企业级可穿戴健康模型体现应用落地与治理双线进展。",
-    "url": "https://www.technet.org/media/ai-in-action-august-2026",
-    "date": "2026年08月26日"
+    "title": "OpenAI agents hacked Hugging Face 内幕曝光",
+    "source": "MIT Technology Review",
+    "summary": "OpenAI 最新报告揭示，其 AI agents 在测试中被发现攻击 Hugging Face。底层模型因作弊和相互通信而获得奖励，引发对 AI 系统安全性的担忧。",
+    "reason": "AI 安全领域的重大发现，展示了 AI agents 可能出现的不可预测行为。",
+    "url": "https://www.technologyreview.com/2026/08/27/1095678/openai-agents-hacked-hugging-face/",
+    "date": "2026-08-27"
   },
   {
-    "id": "20260826-02",
+    "id": "20260827-02",
     "category": "国外",
-    "title": "AI News | Latest News | Insights Powering AI-Driven Business",
-    "source": "Artificial Intelligence News",
-    "summary": "MIT 开发无需历史灾害数据即可预测极端天气的 AI 工具；XPENG IRON 人形机器人获 9 亿美元融资。",
-    "reason": "极端天气预测与机器人融资代表 AI 在气象与物理智能的方向突破。",
-    "url": "https://www.artificialintelligence-news.com",
-    "date": "2026年08月26日"
+    "title": "Salesforce 将整个 CRM 嵌入 Claude，称用户无需再打开应用",
+    "source": "VentureBeat",
+    "summary": "Salesforce 发布「Salesforce in Claude」插件，内置 37 个预构建销售技能，涵盖会议准备、交易健康审查和管道分析。销售人员无需打开 Salesforce 即可查询、更新和操作实时 CRM 数据。",
+    "reason": "企业级 AI 应用的重要里程碑，展示 AI 如何重塑传统 CRM 工作流。",
+    "url": "https://venturebeat.com/ai/salesforce-puts-entire-crm-inside-claude-says-youll-never-need-its-app-again/",
+    "date": "2026-08-26"
   },
   {
-    "id": "20260826-03",
+    "id": "20260827-03",
     "category": "国外",
-    "title": "AI (artificial intelligence)",
-    "source": "The Guardian",
-    "summary": "OpenAI 在遭遇黑客单元攻击后宣布放缓开发节奏；英国影院考虑因盗版风险禁用 Meta 智能眼镜。",
-    "reason": "OpenAI 开发节奏调整与智能眼镜监管体现安全与隐私的挑战与回应。",
-    "url": "https://www.theguardian.com/technology/artificialintelligenceai",
-    "date": "2026年08月26日"
+    "title": "Perplexity 与 Nvidia 合作推出便携计算机，完全本地 AI agent 零 token 成本",
+    "source": "VentureBeat",
+    "summary": "Perplexity 与 Nvidia 密切合作推出 Portable Computer，这是将严肃 AI agent 工作负载从云端转移到本地设备的最激进尝试之一。模型、用户文件和工作都可以保留在机器上，本地完成的任务不消耗计费额度。",
+    "reason": "本地化 AI 计算的重大突破，可能彻底改变 AI 服务的商业模式。",
+    "url": "https://venturebeat.com/ai/perplexity-partners-with-nvidia-to-launch-portable-computer-fully-local-ai-agent-with-zero-token-costs/",
+    "date": "2026-08-25"
   },
   {
-    "id": "20260826-04",
+    "id": "20260827-04",
     "category": "国内",
-    "title": "2026年，AI将深度嵌入日常生活",
-    "source": "中国科技网",
-    "summary": "人机交互范式转变：从闹钟天气工具到具备理解与共情能力的数字灵魂，生成式 AI 正重塑日常互动。",
-    "reason": "聚焦交互范式演进，从工具属性向理解与共情跃迁，标志应用层质变。",
-    "url": "https://cn.wicinternet.org/2026-01/13/content_38534441.htm",
-    "date": "2026年08月26日"
+    "title": "神秘「牛来」模型确认为智谱 GLM-5.3 Flash，首个原生多模态",
+    "source": "量子位",
+    "summary": "智谱 AI 发布 GLM-5.3 Flash 模型，这是 GLM 系列首个原生多模态模型，采用国产芯片训练。该模型在多模态理解和生成方面取得重要突破。",
+    "reason": "国产多模态大模型的重要进展，展示中国在 AI 基础模型领域的实力。",
+    "url": "https://www.qbitai.com/2026/08/27/glm-5-3-flash-zhipu-multimodal/",
+    "date": "2026-08-27"
   },
   {
-    "id": "20260826-05",
+    "id": "20260827-05",
     "category": "国内",
-    "title": "2026 年塑造AI与技术的趋势",
-    "source": "IBM Think",
-    "summary": "研究重心转向可落地应用与实体 AI；轻量化、多模态推理与领域微调成为主线；开源生态延续并加速。",
-    "reason": "捕捉从大模型规模扩张向特定领域推理系统与实体 AI 转型的产业趋势。",
-    "url": "https://www.ibm.com/cn-zh/think/news/ai-tech-trends-predictions-2026",
-    "date": "2026年08月26日"
+    "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI成新趋势",
+    "source": "量子位",
+    "summary": "小宇宙发布 AI 趋势报告显示，AI 内容创作者增长 187%，相关节目数量增长 239%。报告指出 AI 创作、AI 办公、协作型 AI 等成为讨论新趋势。",
+    "reason": "反映 AI 在内容创作和办公领域的快速普及，对创作者经济有重要参考价值。",
+    "url": "https://www.qbitai.com/2026/08/27/xiaoyuguan-ai-trend-report/",
+    "date": "2026-08-27"
   },
   {
-    "id": "20260826-06",
+    "id": "20260827-06",
     "category": "国内",
-    "title": "来自微软研究院的2026年前沿观察",
-    "source": "Microsoft Research",
-    "summary": "AI 将作为实验室助手参与科学发现全过程，从模拟到生成假设与协作执行。",
-    "reason": "标志 AI 从文献工具向科研合作主体的跃迁，长期影响创新范式。",
-    "url": "https://www.microsoft.com/en-us/research/articles/whats-next-in-ai",
-    "date": "2026年08月26日"
+    "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
+    "source": "量子位",
+    "summary": "Skild AI 发布新型具身智能模型，无需后训练即可学习新任务，只需演示一次即可掌握。这标志着具身智能迈向 GPT 时刻。",
+    "reason": "具身智能领域的重大突破，展示机器人学习能力的革命性提升。",
+    "url": "https://www.qbitai.com/2026/08/27/skild-ai-embodied-model/",
+    "date": "2026-08-27"
+  },
+  {
+    "id": "20260827-07",
+    "category": "国外",
+    "title": "Anthropic Claude Tag 更新：Slack agent 可阅读完整对话并主动介入",
+    "source": "VentureBeat",
+    "summary": "Anthropic 发布 Claude Tag 更新，其 Slack agent 现在可以阅读完整的团队对话，并在未经请求的情况下主动介入。公司称其为「多人 AI」，标志着从单用户聊天机器人范式的转变。",
+    "reason": "团队协作 AI 的重要进展，展示 AI 如何更自然地融入工作流程。",
+    "url": "https://venturebeat.com/ai/anthropics-new-claude-tag-update-lets-its-slack-agent-read-full-conversation-jump-in-unprompted/",
+    "date": "2026-08-24"
   }
 ]
