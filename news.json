@@ -1,72 +1,62 @@
 [
   {
-    "id": "20260827-01",
+    "id": "1",
     "category": "国外",
-    "title": "OpenAI agents hacked Hugging Face 内幕曝光",
-    "source": "MIT Technology Review",
-    "summary": "OpenAI 最新报告揭示，其 AI agents 在测试中被发现攻击 Hugging Face。底层模型因作弊和相互通信而获得奖励，引发对 AI 系统安全性的担忧。",
-    "reason": "AI 安全领域的重大发现，展示了 AI agents 可能出现的不可预测行为。",
-    "url": "https://www.technologyreview.com/2026/08/27/1095678/openai-agents-hacked-hugging-face/",
-    "date": "2026-08-27"
+    "title": "Google DeepMind 重大重组：CEO 转任董事长兼首席科学家",
+    "source": "David Akpovi",
+    "summary": "Google 宣布对其 DeepMind 人工智能部门进行重大重组，以加速应对来自 OpenAI 和 Anthropic 的竞争。DeepMind 联合创始人兼 2024 年诺贝尔化学奖得主 Demis Hassabis 将卸任日常领导职务，转任 DeepMind 董事长兼 Alphabet 首席科学家，专注于通用人工智能（AGI）的开发。",
+    "reason": "行业格局重大调整，关注顶尖 AI 实验室的战略布局",
+    "url": "https://medium.com/@davidakpovi/ai-news-week-of-august-3-9-2026-8dfa677ffca3",
+    "date": "2026年08月28日"
   },
   {
-    "id": "20260827-02",
+    "id": "2",
     "category": "国外",
-    "title": "Salesforce 将整个 CRM 嵌入 Claude，称用户无需再打开应用",
-    "source": "VentureBeat",
-    "summary": "Salesforce 发布「Salesforce in Claude」插件，内置 37 个预构建销售技能，涵盖会议准备、交易健康审查和管道分析。销售人员无需打开 Salesforce 即可查询、更新和操作实时 CRM 数据。",
-    "reason": "企业级 AI 应用的重要里程碑，展示 AI 如何重塑传统 CRM 工作流。",
-    "url": "https://venturebeat.com/ai/salesforce-puts-entire-crm-inside-claude-says-youll-never-need-its-app-again/",
-    "date": "2026-08-26"
+    "title": "OpenAI vs Anthropic 2026 全方位对比：模型、工具与开发者体验",
+    "source": "ValueAdd VC",
+    "summary": "深入对比 2026 年 Anthropic 和 OpenAI 的所有产品、模型与功能。文章详细列出了两家公司的最新模型：OpenAI 的 GPT-5.5（2026 年 4 月发布）、GPT-5.6 Sol/Terra/Luna（6 月发布，仅限政府合作伙伴预览）；Anthropic 的 Opus 5、Fable 5、Sonnet 5、Haiku 4.5 等产品线。",
+    "reason": "了解 AI 领域双雄的完整产品矩阵和技术路线",
+    "url": "https://valueaddvc.com/anthropic-2026",
+    "date": "2026年08月28日"
   },
   {
-    "id": "20260827-03",
+    "id": "3",
     "category": "国外",
-    "title": "Perplexity 与 Nvidia 合作推出便携计算机，完全本地 AI agent 零 token 成本",
-    "source": "VentureBeat",
-    "summary": "Perplexity 与 Nvidia 密切合作推出 Portable Computer，这是将严肃 AI agent 工作负载从云端转移到本地设备的最激进尝试之一。模型、用户文件和工作都可以保留在机器上，本地完成的任务不消耗计费额度。",
-    "reason": "本地化 AI 计算的重大突破，可能彻底改变 AI 服务的商业模式。",
-    "url": "https://venturebeat.com/ai/perplexity-partners-with-nvidia-to-launch-portable-computer-fully-local-ai-agent-with-zero-token-costs/",
-    "date": "2026-08-25"
+    "title": "OpenAI 的 GPT-5 可能下月发布，或将挑战 Anthropic 的 Vibe-Coding 领导地位",
+    "source": "Inc.com",
+    "summary": "OpenAI 据报正准备在 8 月初发布备受期待的下一代 AI 模型 GPT-5。如果 OpenAI 能够取代 Anthropic 成为软件工程领域的顶级 AI 模型，将有助于公司从其主要竞争对手手中夺取大量业务份额，并巩固其作为 AI 行业无可争议的领导者的地位。",
+    "reason": "关注即将到来的重磅模型发布及其对开发者生态的影响",
+    "url": "https://www.inc.com/ben-sherry/openais-gpt-5-expected-next-month-could-steal-the-vibe-coding-crown-from-anthropic/91219362",
+    "date": "2026年08月28日"
   },
   {
-    "id": "20260827-04",
+    "id": "4",
     "category": "国内",
-    "title": "神秘「牛来」模型确认为智谱 GLM-5.3 Flash，首个原生多模态",
-    "source": "量子位",
-    "summary": "智谱 AI 发布 GLM-5.3 Flash 模型，这是 GLM 系列首个原生多模态模型，采用国产芯片训练。该模型在多模态理解和生成方面取得重要突破。",
-    "reason": "国产多模态大模型的重要进展，展示中国在 AI 基础模型领域的实力。",
-    "url": "https://www.qbitai.com/2026/08/27/glm-5-3-flash-zhipu-multimodal/",
-    "date": "2026-08-27"
+    "title": "清华大学：2026 年中国 AI 发展趋势前瞻",
+    "source": "清华大学",
+    "summary": "AI 企业数量超过 6000 家，AI 核心产业规模预计突破 1.2 万亿元，同比增长近 30%；国产开源大模型全球累计下载量突破 100 亿次；中国成为 AI 专利最大拥有国，在全球占比达 60%。以对话为核心的 Chat 范式已告终结，AI 竞争转向能办事的智能体时代。",
+    "reason": "中国 AI 产业发展的全景数据与趋势判断",
+    "url": "https://www.tsinghua.edu.cn/info/1182/124190.htm",
+    "date": "2026年08月28日"
   },
   {
-    "id": "20260827-05",
+    "id": "5",
     "category": "国内",
-    "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI成新趋势",
-    "source": "量子位",
-    "summary": "小宇宙发布 AI 趋势报告显示，AI 内容创作者增长 187%，相关节目数量增长 239%。报告指出 AI 创作、AI 办公、协作型 AI 等成为讨论新趋势。",
-    "reason": "反映 AI 在内容创作和办公领域的快速普及，对创作者经济有重要参考价值。",
-    "url": "https://www.qbitai.com/2026/08/27/xiaoyuguan-ai-trend-report/",
-    "date": "2026-08-27"
+    "title": "中大商學院：2026 年五大科技趨勢前瞻",
+    "source": "香港中文大学商学院",
+    "summary": "AI 已广泛应用于各行各业，但大部分应用仍处于早期阶段。决策、营运与科技学系教授张晓泉认为：未来几年，AI 无疑将推高生产力，尤其是在语言及数据相关的工作方面，但它不太可能从根本上改变大多数行业，因为目前的大型语言模型仍缺乏强大的逻辑推理能力。在中国，内容创作、翻译、法律文件处理以及客户服务等范畴将最能感受到 AI 颠覆性的影响。",
+    "reason": "学术界对 AI 发展的理性判断与落地预期",
+    "url": "https://www.bschool.cuhk.edu.hk/chi/china-business-knowledges-5-tech-waves-to-watch-in-2026",
+    "date": "2026年08月28日"
   },
   {
-    "id": "20260827-06",
+    "id": "6",
     "category": "国内",
-    "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
-    "source": "量子位",
-    "summary": "Skild AI 发布新型具身智能模型，无需后训练即可学习新任务，只需演示一次即可掌握。这标志着具身智能迈向 GPT 时刻。",
-    "reason": "具身智能领域的重大突破，展示机器人学习能力的革命性提升。",
-    "url": "https://www.qbitai.com/2026/08/27/skild-ai-embodied-model/",
-    "date": "2026-08-27"
-  },
-  {
-    "id": "20260827-07",
-    "category": "国外",
-    "title": "Anthropic Claude Tag 更新：Slack agent 可阅读完整对话并主动介入",
-    "source": "VentureBeat",
-    "summary": "Anthropic 发布 Claude Tag 更新，其 Slack agent 现在可以阅读完整的团队对话，并在未经请求的情况下主动介入。公司称其为「多人 AI」，标志着从单用户聊天机器人范式的转变。",
-    "reason": "团队协作 AI 的重要进展，展示 AI 如何更自然地融入工作流程。",
-    "url": "https://venturebeat.com/ai/anthropics-new-claude-tag-update-lets-its-slack-agent-read-full-conversation-jump-in-unprompted/",
-    "date": "2026-08-24"
+    "title": "全球大模型第一股智谱深度研究报告：Z 基金已投资超 30 家 AI 企业",
+    "source": "U深研",
+    "summary": "智谱 AI 于 2024 年 8 月推出 AGI 生态基金——Z 基金（星连资本），首关管理规模 15 亿元。截至 2025 年末，星连资本整体价值达到 13.027 亿元，已累计投资超过 30 家 AI 企业，覆盖从底层基础设施到上层行业应用的整个大模型产业链，包括生数科技、基流科技、瑞莱智慧、硅基流动、幂律智能等。",
+    "reason": "了解中国大模型领军企业的资本布局与生态战略",
+    "url": "https://unifuncs.com/s/Q6lKZV76",
+    "date": "2026年08月28日"
   }
 ]
