@@ -3,4 +3,4 @@ Git push failed: fatal: could not read Username for 'https://github.com': No suc
 Command exited with code 128
 
 Error: Git credentials not configured for HTTPS push
-Solution needed: Configure SSH keys or git credentials for GitHub repository
+Solution needed: Configure SSH keys or git credentials for GitHub repository[2026-09-12 09:05:00] Git push to GitHub failed: HTTPS remote requires credentials. Error: 'could not read Username for https://github.com'. Credential helper=store but ~/.git-credentials missing. news.json updated locally & Feishu sent OK. Commit: 848724c
