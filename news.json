@@ -2,61 +2,61 @@
   {
     "id": "1",
     "category": "国外",
-    "title": "OpenAI 发布 GPT-6 Astra：迄今最强模型，分阶段 rollout 开启",
-    "source": "CNBC",
-    "summary": "9月3日，OpenAI 开始分阶段推出 GPT-6 Astra，定位复杂推理、编程、计算机操作、研究与文档处理，是其迄今能力最强的模型。参与其应用制网络安全项目的企业首批获得访问权限，随后逐步开放给 ChatGPT Plus、Pro、Business 和 Enterprise 用户。此后一周 OpenAI 连续造势：9月5日向开发者发起「24 小时用 Astra 交付产品」挑战，9月10日又推出基于 Astra 的金融行业版 ChatGPT。",
-    "reason": "新旗舰落地节奏明显加快，「发布→开发者挑战赛→行业版」组合拳显示 OpenAI 在抢企业级落地窗口",
-    "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-    "date": "2026年09月14日"
+    "title": "四大 AI 实验室掌门罕见合流：Altman、Hassabis、Musk 集体回应支持 Amodei 放缓倡议",
+    "source": "The Decoder",
+    "summary": "9月12日 Anthropic CEO Amodei 发表 3800 字长文《We Must Pace the Frontier》呼吁放缓前沿 AI 开发后，短短一天内 OpenAI CEO Altman、谷歌 DeepMind 创始人 Hassabis、马斯克先后表态支持。Altman 称「安排拥有类员工权限的独立评估者是个好主意，我们也会这么做」；Hassabis 认为方向正确，并将其与 DeepMind 此前提议的前沿 AI 行业标准机构挂钩。四家头部实验室在「放缓开发」问题上首次形成公开共识。",
+    "reason": "从军备竞赛到集体踩刹车只用了 48 小时——独立监督与行业标准机构若落地，AI 治理格局将被重写",
+    "url": "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight",
+    "date": "2026年09月15日"
   },
   {
     "id": "2",
     "category": "国外",
-    "title": "Anthropic CEO Amodei 公开呼吁放缓 AI 开发，前安全研究员辞职响应",
-    "source": "The New York Times",
-    "summary": "9月12日《纽约时报》报道，Anthropic CEO Dario Amodei 公开呼吁放缓 AI 开发速度。曾任职 OpenAI 与 Anthropic 的安全研究员 Jacob Coxon 上周刚因对 AI 发展速度的担忧从 Anthropic 辞职，他称 Amodei 的呼吁「很棒、令人兴奋」。同一周，多名 Anthropic 现任与前任员工就 AI 快速推进的风险连续发出警告，也给该公司在马萨诸塞州剑桥的扩张计划蒙上阴影。",
-    "reason": "头部 AI 公司 CEO 亲自踩刹车，「加速与安全」的分歧正从外部批评变成公司内部行动",
-    "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
-    "date": "2026年09月14日"
+    "title": "英王查尔斯本周召集英伟达、OpenAI、Anthropic 等巨头会晤，讨论 AI 共同原则",
+    "source": "Reuters",
+    "summary": "路透社 9月14日报道，英国国王查尔斯将于本周召集英伟达、谷歌 DeepMind、OpenAI、Anthropic 等 AI 巨头负责人及英国 AI 大臣会晤，讨论是否需要一套共同原则来引导 AI 技术。在多位 AI 领军人物接连发出「威胁人类」警告、头部公司集体呼吁放缓开发的背景下，此次会晤被视为欧洲争取 AI 治理话语权的关键动作。",
+    "reason": "君主出面召集 + 巨头集体赴会，「谁来给 AI 立规矩」的博弈从公司层面上升到国家与王室层面",
+    "url": "https://www.reuters.com/legal/litigation/king-charles-host-ai-executives-threat-fears-mount-2026-09-14",
+    "date": "2026年09月15日"
   },
   {
     "id": "3",
     "category": "国外",
-    "title": "黄仁勋宣称「AGI 已经到来」，奥尔特曼反驳：不过是个营销术语",
-    "source": "Business Insider",
-    "summary": "英伟达 CEO 黄仁勋在近期访谈中被问到 AGI 是否到来时表示：「就我个人而言，我认为我们已经到了。」几乎同一时间，OpenAI CEO 奥尔特曼在播客节目中给出截然相反的判断：AGI「充其量是一个非常糟糕的定义术语，几乎是个无关紧要的营销术语」。两位掌握 AI 产业算力与模型命脉的人物，对同一问题公开唱反调。",
-    "reason": "「AGI 是否已至」成了掌门人的罗生门——定义权之争背后是算力销售与叙事竞争",
-    "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-    "date": "2026年09月14日"
+    "title": "Google DeepMind 联手 Stowers 研究所发布人类基因组「调控语言」图谱",
+    "source": "PR Newswire",
+    "summary": "9月8日，Stowers 研究所与 Google DeepMind 及多家顶级研究机构联合发布新 AI 资源：科学家首次可通过网页浏览器探索超 90 亿个可能的单字母 DNA 变异综合图谱，快速筛选和解读可能影响生物学与疾病的变异，为未来治疗方案奠定基础。这是 AI for Science 在基因组学落地的又一标志性成果。",
+    "reason": "从 AlphaFold 到基因组调控图谱，DeepMind 的打法清晰：用 AI 把「读不懂的生命语言」变成可检索的地图，医检行业值得研究这条路径",
+    "url": "https://www.prnewswire.com/news-releases/stowers-institute-partners-with-google-deepmind-and-leading-research-institutions-to-help-reveal-the-regulatory-language-of-the-human-genome-302872938.html",
+    "date": "2026年09月15日"
   },
   {
     "id": "4",
     "category": "国内",
-    "title": "智谱完成约 50 亿美元融资：20 亿配售 + 30 亿可转债，全部押向下一代 GLM",
-    "source": "澎湃新闻",
-    "summary": "9月13日，智谱（02513.HK）公告完成约 50 亿美元融资：约 20 亿美元股份配售（每股 714 港元，较收盘价折让约 9.96%）+ 约 30 亿美元零息可转债（初始转股价 892.5 港元）。资金将投向下一代 GLM 模型、「完全自训练」体系（在上一代 GLM 构建的环境中递归式自我改进）及算力基础设施。2026 上半年智谱收入 9.54 亿元，同比增长 399.7%；今年 2 月至 8 月已连续发布 GLM-5、5.1、5.2、5.3 四代模型。",
-    "reason": "国产大模型史上最大规模单笔融资之一，「自训练体系」意味着模型迭代正从人力驱动转向自我改进循环",
-    "url": "https://m.thepaper.cn/detail/34061877",
-    "date": "2026年09月14日"
+    "title": "DeepSeek 拟登陆科创板：聘请中信证券筹备 IPO，尽调已启动",
+    "source": "21世纪经济报道",
+    "summary": "9月10日消息，DeepSeek 拟登陆科创板，已聘请中信证券筹备 IPO，目前双方进入尽职调查阶段，但尚未签订正式上市辅导协议。此前 6 月 DeepSeek 完成首轮融资约 510 亿元，投后估值接近 4000 亿元。若成行，这将是国产大模型第一梯队中率先冲刺上市的公司之一。",
+    "reason": "大模型公司从「烧钱竞赛」进入「资本兑现」阶段，DeepSeek 若挂牌将重新锚定整个国产 AI 板块的估值体系",
+    "url": "https://www.sfccn.com/2026/9-10/wNMDE0MDdfMjIzNzAwNA.html",
+    "date": "2026年09月15日"
   },
   {
     "id": "5",
     "category": "国内",
-    "title": "月之暗面辟谣创始人风波并报案，股改完成被解读为上市前兆",
-    "source": "每日经济新闻",
-    "summary": "9月12日，月之暗面官微发文称，网传创始人杨植麟及员工信息「纯属虚构、系恶意造谣」，已第一时间向公安机关报案，将依法追究造谣者责任。同期公开信息显示，月之暗面已完成「有限责任公司→股份有限公司」的工商变更，这一股改动作通常被视为企业筹备上市的前置信号，其资本动作近期频频引发外界关注。",
-    "reason": "大模型独角兽进入「辟谣、报案、股改」三连发阶段，国产大模型 IPO 竞赛的起跑线已经画好",
-    "url": "https://www.mrjjxw.com/articles/2026-09-13/4580130.html",
-    "date": "2026年09月14日"
+    "title": "上海连发多份 AI「十五五」规划，全球首个外科世界模型人形手术机器人项目启动",
+    "source": "人民网上海频道",
+    "summary": "9月14日，人民网上海频道与上海人工智能产业研究院联合发布产业简报：上海接连出台多份 AI 相关「十五五」规划。其中 8 月底张江药谷创新大会上，「全球首个基于外科世界模型的人形手术机器人项目」启动；张江计划三年内打造 10 个标杆应用场景、推广 20 个高性能模型与工具、助力 40 个创新药械产品进入临床。",
+    "reason": "AI 与医疗器械深度融合有了具体路线图和时间表——世界模型进手术室，意味着 AI 正从辅助诊断走向物理操作",
+    "url": "http://sh.people.com.cn/n2/2026/0914/c134768-41695924.html",
+    "date": "2026年09月15日"
   },
   {
     "id": "6",
     "category": "国内",
-    "title": "字节跳动押注世界模型：张一鸣督战，实时空间视频生成模型最快 10 月亮相",
-    "source": "财联社",
-    "summary": "9月7日彭博社消息，字节跳动正基于电影级视频生成模型 Seedance 开发实时空间视频生成模型，创始人张一鸣亲自出面协调跨部门团队与算力资源，最快 10 月亮相。该模型以 20 帧/秒、50 毫秒低延迟切入，允许用户在直播、短剧、游戏中创建可交互的三维虚拟世界，战略是将高算力渲染置于云端、降低 VR 硬件门槛，对标谷歌 Genie，并计划与 Pico 头显联动。",
-    "reason": "AI 竞争从「生成一段视频」升级为「生成一个可交互的世界」，字节凭视频积累与 Meta、谷歌在空间计算正面角逐",
-    "url": "https://finance.eastmoney.com/a/202609083867837570.html",
-    "date": "2026年09月14日"
+    "title": "8 月国内 AI 投融资 351.59 亿元同比翻四倍，具身智能 77 起居首",
+    "source": "36氪·烯牛数据",
+    "summary": "烯牛数据显示，2026 年 8 月国内 AI 领域发生投融资 313 起，披露金额 351.59 亿元，位居全行业第二，同比金额翻四倍。最大单笔为人形机器人研发商「小鹏机器人」9 亿美元股权融资，IDG 资本领投，高榕、腾讯、阿里跟投。细分领域中具身智能&机器人以 77 起居首（占比 25%），AI 医疗紧随其后。",
+    "reason": "资本用真金白银投票：具身智能接棒大模型成为最热赛道，AI 医疗跻身前二——资金流向就是产业下一阶段的答案",
+    "url": "https://m.36kr.com/p/3977429406832520",
+    "date": "2026年09月15日"
   }
 ]
