@@ -1,8 +1,9 @@
 {
-  "lastRun": "2026-08-23 01:00:00 UTC",
+  "lastRun": "2026-09-15 01:00:00 UTC",
   "status": "completed",
   "newsCount": 6,
   "feishuPush": "success",
-  "gitPush": "failed - authentication error",
-  "nextRun": "2026-08-24 01:00:00 UTC"
+  "gitPush": "success",
+  "note": "web_search tool disabled; used Tavily API directly via curl (TAVILY_API_KEY in env)",
+  "nextRun": "2026-09-16 01:00:00 UTC"
 }
