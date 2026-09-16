@@ -1,9 +1,9 @@
 {
-  "lastRun": "2026-09-15 01:00:00 UTC",
+  "lastRun": "2026-09-16 01:00:00 UTC",
   "status": "completed",
   "newsCount": 6,
   "feishuPush": "success",
   "gitPush": "success",
-  "note": "web_search tool disabled; used Tavily API directly via curl (TAVILY_API_KEY in env)",
-  "nextRun": "2026-09-16 01:00:00 UTC"
+  "note": "web_search disabled; used Tavily API directly via curl (TAVILY_API_KEY in env)",
+  "nextRun": "2026-09-17 01:00:00 UTC"
 }
