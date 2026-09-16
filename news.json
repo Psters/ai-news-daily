@@ -2,61 +2,61 @@
   {
     "id": "1",
     "category": "国外",
-    "title": "四大 AI 实验室掌门罕见合流：Altman、Hassabis、Musk 集体回应支持 Amodei 放缓倡议",
-    "source": "The Decoder",
-    "summary": "9月12日 Anthropic CEO Amodei 发表 3800 字长文《We Must Pace the Frontier》呼吁放缓前沿 AI 开发后，短短一天内 OpenAI CEO Altman、谷歌 DeepMind 创始人 Hassabis、马斯克先后表态支持。Altman 称「安排拥有类员工权限的独立评估者是个好主意，我们也会这么做」；Hassabis 认为方向正确，并将其与 DeepMind 此前提议的前沿 AI 行业标准机构挂钩。四家头部实验室在「放缓开发」问题上首次形成公开共识。",
-    "reason": "从军备竞赛到集体踩刹车只用了 48 小时——独立监督与行业标准机构若落地，AI 治理格局将被重写",
-    "url": "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight",
-    "date": "2026年09月15日"
+    "title": "OpenAI 联手 Anthropic、Google DeepMind：已就 AI 安全秘密协调数周",
+    "source": "TechCrunch",
+    "summary": "9月15日，OpenAI 全球政策主管 Chris Lehane 向 Bloomberg 透露，OpenAI 已与竞争对手 Anthropic 和 Google DeepMind 就 AI 安全问题进行了数周磋商，探讨制定自愿的、行业主导的安全标准，作为强制性联邦法规的补充。彭博、路透、CNBC 均予确认。此举与此前 Amodei《We Must Pace the Frontier》放缓倡议及 Altman、Hassabis、Musk 的集体支持形成呼应，头部实验室首次在安全议题上从各自为战走向联合行动。",
+    "reason": "从军备竞赛到安全合纵只用了一周——行业自律标准若成型，「谁来管 AI」的答案可能先于各国政府落地",
+    "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks",
+    "date": "2026年09月16日"
   },
   {
     "id": "2",
     "category": "国外",
-    "title": "英王查尔斯本周召集英伟达、OpenAI、Anthropic 等巨头会晤，讨论 AI 共同原则",
-    "source": "Reuters",
-    "summary": "路透社 9月14日报道，英国国王查尔斯将于本周召集英伟达、谷歌 DeepMind、OpenAI、Anthropic 等 AI 巨头负责人及英国 AI 大臣会晤，讨论是否需要一套共同原则来引导 AI 技术。在多位 AI 领军人物接连发出「威胁人类」警告、头部公司集体呼吁放缓开发的背景下，此次会晤被视为欧洲争取 AI 治理话语权的关键动作。",
-    "reason": "君主出面召集 + 巨头集体赴会，「谁来给 AI 立规矩」的博弈从公司层面上升到国家与王室层面",
-    "url": "https://www.reuters.com/legal/litigation/king-charles-host-ai-executives-threat-fears-mount-2026-09-14",
-    "date": "2026年09月15日"
+    "title": "微软发布 37 页 AI 模型行为准则，纳德拉内网发声：AI 必须处于人类控制之下",
+    "source": "Business Insider",
+    "summary": "微软 CEO 纳德拉发布内部备忘录，加入「AI 行业是否走得太快」的争论：AI 应保持人类控制、支持更广泛的第三方测试，「该花多少时间就花多少时间」确保安全，否则行业将失去运营许可。微软同步发布 37 页《MAI 模型行为准则》，明确其唯一目标是「人类必须对 AI 保持有意义的控制」，作为训练自家模型的首要治理文件。",
+    "reason": "巨头把口头安全承诺落成书面制度——治理动作第一次有据可查，而非公关表态",
+    "url": "https://www.businessinsider.com/microsoft-satya-nadella-ai-safety-debate-internal-warning-2026-9",
+    "date": "2026年09月16日"
   },
   {
     "id": "3",
     "category": "国外",
-    "title": "Google DeepMind 联手 Stowers 研究所发布人类基因组「调控语言」图谱",
-    "source": "PR Newswire",
-    "summary": "9月8日，Stowers 研究所与 Google DeepMind 及多家顶级研究机构联合发布新 AI 资源：科学家首次可通过网页浏览器探索超 90 亿个可能的单字母 DNA 变异综合图谱，快速筛选和解读可能影响生物学与疾病的变异，为未来治疗方案奠定基础。这是 AI for Science 在基因组学落地的又一标志性成果。",
-    "reason": "从 AlphaFold 到基因组调控图谱，DeepMind 的打法清晰：用 AI 把「读不懂的生命语言」变成可检索的地图，医检行业值得研究这条路径",
-    "url": "https://www.prnewswire.com/news-releases/stowers-institute-partners-with-google-deepmind-and-leading-research-institutions-to-help-reveal-the-regulatory-language-of-the-human-genome-302872938.html",
-    "date": "2026年09月15日"
+    "title": "陶哲轩等 25 位菲尔兹奖得主联名警告：AI 公司与数学界的目标「严重错位」",
+    "source": "Le Monde（世界报）",
+    "summary": "9月11日，陶哲轩、Peter Scholze、Maryna Viazovska、June Huh 等 25 位菲尔兹奖得主在法国《世界报》发表联名文章，警告「AI 在数学领域的严重错位」：AI 公司痴迷于让模型攻克越来越难的数学题以制造宣传噱头，而数学界的核心追求是理解与结构——两者的目标严重错位。这是迄今顶级数学家对 AI 刷题式突破最集中的一次集体发声。",
+    "reason": "顶级数学家集体「吹哨」——AI 刷爆 Benchmark 不等于真理解，这是对「分数至上」范式最锋利的反驳",
+    "url": "https://www.lemonde.fr/en/opinion/article/2026/09/11/25-fields-medalists-warn-the-goals-of-the-ai-companies-and-the-goals-of-the-mathematical-community-are-severely-misaligned_6757433_23.html",
+    "date": "2026年09月16日"
   },
   {
     "id": "4",
     "category": "国内",
-    "title": "DeepSeek 拟登陆科创板：聘请中信证券筹备 IPO，尽调已启动",
-    "source": "21世纪经济报道",
-    "summary": "9月10日消息，DeepSeek 拟登陆科创板，已聘请中信证券筹备 IPO，目前双方进入尽职调查阶段，但尚未签订正式上市辅导协议。此前 6 月 DeepSeek 完成首轮融资约 510 亿元，投后估值接近 4000 亿元。若成行，这将是国产大模型第一梯队中率先冲刺上市的公司之一。",
-    "reason": "大模型公司从「烧钱竞赛」进入「资本兑现」阶段，DeepSeek 若挂牌将重新锚定整个国产 AI 板块的估值体系",
-    "url": "https://www.sfccn.com/2026/9-10/wNMDE0MDdfMjIzNzAwNA.html",
-    "date": "2026年09月15日"
+    "title": "深度求索开源 DeepSeek V4.1 Flash：性能全面超越 V4 Pro，成本更低",
+    "source": "DeepSeek 官方",
+    "summary": "深度求索发布并开源 DeepSeek V4.1 Flash：552B 参数 MoE 架构，采用全新 Causal-Encoder-Decoder 结构，原生支持多模态视觉理解，输入端激活 8B、输出端激活 16B 参数。官方基准显示其在性能、费用、速度、总用时上全面超越 DeepSeek V4 Pro，模型已在 HuggingFace 开源，并同步上线 API（模型名 deepseek-flash）。",
+    "reason": "「更小、更快、更便宜」还能性能反超大杯——DeepSeek 继续用开源+性价比给闭源阵营上压力",
+    "url": "https://www.deepseek.com/news/deepseek-v4-1-flash",
+    "date": "2026年09月16日"
   },
   {
     "id": "5",
     "category": "国内",
-    "title": "上海连发多份 AI「十五五」规划，全球首个外科世界模型人形手术机器人项目启动",
-    "source": "人民网上海频道",
-    "summary": "9月14日，人民网上海频道与上海人工智能产业研究院联合发布产业简报：上海接连出台多份 AI 相关「十五五」规划。其中 8 月底张江药谷创新大会上，「全球首个基于外科世界模型的人形手术机器人项目」启动；张江计划三年内打造 10 个标杆应用场景、推广 20 个高性能模型与工具、助力 40 个创新药械产品进入临床。",
-    "reason": "AI 与医疗器械深度融合有了具体路线图和时间表——世界模型进手术室，意味着 AI 正从辅助诊断走向物理操作",
-    "url": "http://sh.people.com.cn/n2/2026/0914/c134768-41695924.html",
-    "date": "2026年09月15日"
+    "title": "德国表态：暂停 AI 开发对欧洲不可行，呼吁中美参与 AI 治理",
+    "source": "凤凰网科技",
+    "summary": "针对多位 AI 领袖呼吁放缓 AI 开发的倡议，德国数字事务部回应称「停止 AI 研发对欧洲不可行」，欧洲需持续推进 AI 创新以巩固数字主权；同时强调有效监管离不开中美参与，德国拟通过 G7 框架推动美中共同加入 AI 治理协作。在 Anthropic、OpenAI 掌门人接连「踩刹车」的背景下，欧洲主要经济体首次明确拒绝跟进。",
+    "reason": "欧洲拒绝跟风「踩刹车」——地缘竞争逻辑压倒安全倡议，也点破现实：AI 治理没有中美参与就是空谈",
+    "url": "https://tech.ifeng.com/c/8wQAo2eT7kI",
+    "date": "2026年09月16日"
   },
   {
     "id": "6",
     "category": "国内",
-    "title": "8 月国内 AI 投融资 351.59 亿元同比翻四倍，具身智能 77 起居首",
-    "source": "36氪·烯牛数据",
-    "summary": "烯牛数据显示，2026 年 8 月国内 AI 领域发生投融资 313 起，披露金额 351.59 亿元，位居全行业第二，同比金额翻四倍。最大单笔为人形机器人研发商「小鹏机器人」9 亿美元股权融资，IDG 资本领投，高榕、腾讯、阿里跟投。细分领域中具身智能&机器人以 77 起居首（占比 25%），AI 医疗紧随其后。",
-    "reason": "资本用真金白银投票：具身智能接棒大模型成为最热赛道，AI 医疗跻身前二——资金流向就是产业下一阶段的答案",
-    "url": "https://m.36kr.com/p/3977429406832520",
-    "date": "2026年09月15日"
+    "title": "网商银行推出首个小微普惠金融 Agent：4200 万小微经营者可用，信贷票据财税一把梭",
+    "source": "新浪财经 / 量子位",
+    "summary": "网商银行发布首个面向小微普惠金融的银行 Agent，向 4200 万小微经营者开放，覆盖信贷、票据、财税全流程服务。从经典「310 模式」（3 分钟申请、1 秒放款、0 人工干预）升级到多任务自主执行的 Agent 模式，被视为 AI 在银行业规模化落地的新样本。",
+    "reason": "Agent 不再是 Demo——金融场景真正跑通「多任务+自动化」，是国内 AI 应用落地最有说服力的案例之一",
+    "url": "https://finance.sina.com.cn/jryx/bank/2026-09-11/doc-inirmrtz5402594.shtml",
+    "date": "2026年09月16日"
   }
 ]
