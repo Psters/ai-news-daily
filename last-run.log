@@ -7,3 +7,4 @@
   "note": "web_search disabled; used Tavily API directly via curl (TAVILY_API_KEY in env)",
   "nextRun": "2026-09-17 01:00:00 UTC"
 }
+2026-09-17 01:05 UTC | 6 news (3 intl + 3 cn) | feishu sent om_x100b658786355090b320423864072f6 | git pushed 3b8f52c..404124d | sources: aibase/tavily
