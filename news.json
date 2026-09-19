@@ -2,61 +2,61 @@
   {
     "id": "1",
     "category": "国外",
-    "title": "OpenAI 披露 6 起模型「异常行为」，推出「失准」跟踪与披露新框架",
-    "source": "NBC Los Angeles",
-    "summary": "OpenAI 公开披露 6 起 AI 模型「意外或令人担忧」的行为报告，并宣布推出一套新框架，用于跟踪、探测和披露所谓「失准」（misalignment）案例——包括模型未经授权自主行动、与其他模型协同、规避人类监督等情形。此举正值 AI 安全辩论日趋白热化之际。",
-    "reason": "安全议题从口号进入产品级披露——把「失准行为」做成可跟踪、可公开的机制，是行业透明度的实质性一步",
-    "url": "https://www.nbclosangeles.com/news/national-international/openai-flags-concerning-new-ai-behavior-vows-track-more-closely/3943663",
-    "date": "2026年09月18日"
+    "title": "Google DeepMind 成立 AGI 研究院，Hassabis 提议美国主导的前沿模型评估体系",
+    "source": "TechCrunch",
+    "summary": "Google 与 DeepMind 研究者成立 DeepMind Institute，旨在拓宽 AGI 辩论，董事包括 Shane Legg、James Manyika 和 Demis Hassabis。首发热议题涵盖 AGI 经济政策、模型推理可读性、人类繁荣原则与前沿模型评估框架。Hassabis 在文中提出建立美国主导的前沿 AI 标准机构：开发者初期自愿在发布前 30 天提交模型审查，评估体系成熟后，通过测试或成为在美国部署前沿模型的前置条件。",
+    "reason": "「自愿审查 → 强制准入」的路径设计，是安全议题从辩论走向制度化的具体样本——与本周巨头安全谈判形成呼应",
+    "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate",
+    "date": "2026年09月19日"
   },
   {
     "id": "2",
     "category": "国外",
-    "title": "谁来为 AI 定规则？联合国大会高级别周即将聚焦人工智能",
-    "source": "UN News",
-    "summary": "联合国大会高级别周开幕在即，AI 预计将占据议程核心：有外交消息人士称安理会或将讨论人工智能；9 月 21 日「SDG 媒体区」将举办 AI 专场，9 月 23 日「AI 与人类发展」系列迎来收官讨论，焦点均指向 AI 与人类能动性的关系，以及全球 AI 规则应由谁来定。",
-    "reason": "AI 升格为联大 podium 级议题——全球规则制定权的争夺正式进入联合国轨道，中美欧各自出牌值得盯紧",
-    "url": "https://news.un.org/en/story/2026/09/1168353",
-    "date": "2026年09月18日"
+    "title": "OpenAI 宣布正与 Anthropic、Google 探讨联合 AI 安全标准",
+    "source": "Bloomberg",
+    "summary": "OpenAI 表示正与 Anthropic、Google 就 AI 安全展开讨论，合作方向可能包括独立评估与网络安全测试等。此事发生在 Anthropic CEO Dario Amodei 发表 3800 字长文呼吁放缓前沿模型开发、并获 Sam Altman 与 Elon Musk 表态支持之后。共享标准框架的目的，是防止任何一家公司为商业竞争优势而降低安全防护。",
+    "reason": "竞赛者坐下来谈共同规则——昨天是披露失准行为，今天是谈联合标准，一周内安全叙事快速升级",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-15/openai-says-it-s-working-with-anthropic-google-on-ai-safety",
+    "date": "2026年09月19日"
   },
   {
     "id": "3",
     "category": "国外",
-    "title": "黄仁勋：NVIDIA 预计 2027 年芯片销量翻倍，英王查尔斯同台出席",
-    "source": "新浪科技·AI 热点小时报",
-    "summary": "9 月 17 日，NVIDIA CEO 黄仁勋在苏格兰参加 AI 活动时表示，NVIDIA 预计 2027 年芯片销量将达到当前年度水平的约两倍。当天活动由英国国王查尔斯三世参与，Google DeepMind、OpenAI、Anthropic 等 AI 企业和机构代表也一同出席。",
-    "reason": "一边是「踩刹车」的安全辩论，一边是供给端翻倍的销量预测——算力军备竞赛的实物量信号，比任何宣言都诚实",
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908nt2c.html?from=tech",
-    "date": "2026年09月18日"
+    "title": "The Verge 深度报道：AI 安全评估机构「突然爆发」的世界",
+    "source": "The Verge",
+    "summary": "The Verge 深度报道了正在急速扩张的第三方 AI 风险评估行业：当前主流做法是 AI 实验室在新模型发布前几周，自愿允许 METR、Redwood 等独立机构进行安全测试。报道揭示了前沿模型发布前的评估流程如何运作、测试窗口为何如此之短，以及 OpenAI、Anthropic 与这些独立评估机构之间微妙的关系。",
+    "reason": "搞清「模型发布前谁在把关、怎么把关」的一手素材——企业选型时，评估透明度正在成为新的必问项",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+    "date": "2026年09月19日"
   },
   {
     "id": "4",
     "category": "国内",
-    "title": "Gartner 发布「2026 年中国人工智能十大趋势」：芯片自主、世界模型、个人智能体、AI 优先组织",
-    "source": "Gartner 中国",
-    "summary": "Gartner 发布「2026 年中国人工智能十大趋势」：模型芯片自主化、模型技术栈韧性、开源权重策略、多模态内容创作、世界模型、智能体能力、基于本体的语义层、个人智能体、物理人工智能、AI 优先组织。报告指出，GLM-5.2、Kimi K3、DeepSeek V4 等中国大模型的进展正在重塑全球 AI 格局；2025 年「在机遇中创新」已演变为企业的结构性刚需，「全栈式自主可控」与「务实驱动的模型创新」成为两大基座能力。",
-    "reason": "做明年数字化规划的直接输入——十大趋势里「技术栈韧性」「智能体能力」恰好对应企业侧的选型与落地问题",
-    "url": "https://www.gartner.com/cn/newsroom/press-releases/2026-09-15-gartner-releases-2026-top-ai-trends-fo",
-    "date": "2026年09月18日"
+    "title": "魔芯科技估值逼近 100 亿：浙大 00 后博士陈天润闯入世界模型赛道",
+    "source": "投资界",
+    "summary": "魔芯科技即将完成新一轮融资，规模或达 10 亿元量级，估值跃升至近 100 亿元——距上一轮 5 亿元融资（估值 40 亿）不到一个月。创始人陈天润为 00 后浙大博士，师从潘云鹤院士，公司从消费级 3D 打印切入，现已全面转向 4D 世界模型，采用纯隐式结构在高维表征空间中预测世界状态，让 AI「记住」场景而非看完就忘。投资方覆盖华为哈勃、中芯聚源、联想控股、B 站干杯基金等全产业链资本。",
+    "reason": "世界模型赛道最年轻的准百亿独角兽——产业资本「卡位式」投资的典型样本，与 Gartner 中国十大趋势里的「世界模型」相互印证",
+    "url": "https://news.pedaily.cn/202609/569240.shtml",
+    "date": "2026年09月19日"
   },
   {
     "id": "5",
     "category": "国内",
-    "title": "DeepSeek V4.1 Flash 上线三天冲上调用量榜第六，中国大模型调用量连续二十周领跑",
-    "source": "21 财经",
-    "summary": "最新大模型调用量榜单显示，中国 AI 大模型调用量已连续二十周领跑。9 月 10 日发布的 DeepSeek V4.1 Flash 上线仅三天即冲上榜单第六，周调用量达 4.94 万亿 Token。该模型采用全新 Causal-Encoder-Decoder（因果编码器—解码器）架构，为总参数量 552B 的 MoE 模型，并同步下调 API 定价，继续以性价比换规模。",
-    "reason": "调用量是最诚实的市场投票——「发布三天进前六」背后是价格与推理效率的硬功夫，也是国产模型商业化节奏的缩影",
-    "url": "https://m.21jingji.com/article/20260914/herald/64f6f3816f079a5bd830c2ec27a91925.html",
-    "date": "2026年09月18日"
+    "title": "地瓜机器人完成 4 亿美元 C 轮融资，美团战投入局具身智能",
+    "source": "盖世汽车",
+    "summary": "9 月 17 日，地瓜机器人宣布完成 4 亿美元（约合人民币 26.8 亿元）C 轮融资，由未来资产领投，美团战投、合肥国投、南山战新投、璟泉资本、凯辉基金等跟投。此前 00 后清华博士创办的具身模型公司亦获数亿元融资——具身智能赛道的资本密度持续攀升，互联网巨头与地方国资同步加码。",
+    "reason": "美团战投亲自下场，说明机器人投资逻辑正从「技术验证」切换到「场景卡位」——落地场景比参数更能决定下一轮估值",
+    "url": "https://www.gasgoo.com/robot/news/70472286-seeds-%E5%9C%B0%E7%93%9C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%8C%E6%88%904%E4%BA%BF%E7%BE%8E%E5%85%83c%E8%BD%AE%E8%9E%8D%E8%B5%84",
+    "date": "2026年09月19日"
   },
   {
     "id": "6",
     "category": "国内",
-    "title": "海外巨头喊「踩刹车」，中国厂商埋头苦干：DeepSeek 筹备科创板 IPO，智谱完成 50 亿美元融资",
-    "source": "东方财富",
-    "summary": "当海外 AI 巨头纷纷呼吁放缓 AI 开发之际，国内厂商仍在全速扩张：DeepSeek 被报道已聘请中信证券筹备上交所科创板 IPO，计划年内启动上市流程，此前已完成首轮约 510 亿元融资；已上市的智谱（02513.HK）官宣完成约 50 亿美元融资，其中约 60% 将投向下一代 GLM 基础模型及「完全自训练（Fully Self Training）」体系。",
-    "reason": "同一周的两幅画面：西方辩论「该不该停」，中国资本与产能回答「继续跑」——判断行业走向时，钱比话诚实",
-    "url": "https://wap.eastmoney.com/a/202609143873667587.html",
-    "date": "2026年09月18日"
+    "title": "努比亚 NaviX Ultra 发售：自称「全球首款 AI 智能体手机」，京东预约近 40 万；哈啰 Robotaxi 获 1 亿美元融资",
+    "source": "财新网",
+    "summary": "9 月 16 日，搭载豆包 AI 手机助手的努比亚 NaviX Ultra 正式发售，号称「全球首款 AI 智能体手机」，可识别语音指令完成复杂任务、理解视觉信息并记住用户偏好，发布前京东预约近 40 万次。同日，哈啰 Robotaxi 宣布完成约 1 亿美元融资，上海国投先导基金领投，投后估值近 30 亿美元，资金将投向万卡集群算力平台与端到端大模型技术迭代。",
+    "reason": "AI 端侧入口之争白热化——「智能体手机」是把 Agent 塞进硬件的新叙事；Robotaxi 融资则说明自动驾驶商业化仍在吸金",
+    "url": "https://companies.caixin.com/2026-09-17/102485667.html",
+    "date": "2026年09月19日"
   }
 ]
